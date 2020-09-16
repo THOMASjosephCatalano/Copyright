@@ -3,6 +3,10 @@ License
 
 Copyright (c) ;"";THOMAS CATALANO()
 Copyright (c) ;"";CATALANO THOMAS()
+Copyright (c) ;"";Copyright (c)
+Copyright (c) ;"";All rights reserved.
+Copyright (c) ;"";License
+Copyright (c) ;"";MIT License
 
 All rights reserved.             
 

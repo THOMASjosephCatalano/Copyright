@@ -497,7 +497,7 @@ Copyright (c) */* North American Aerospace Defense */* */* (NORAD) */* */* _hold
 
 Copyright (c) */* Antarctic Treaty System (ATS) */* */* _holdings_ */* */* _entity */* */*  _futures */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 
-Copyright (c) */* U.S. NAVY SEALS */* US NAVY SEALS */* NAVY SEAL */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* U.S. NAVY SEALS */* US NAVY SEALS */* NAVY SEAL */* Naval Special Warfare Command */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* UNITED STATES SENATE */* */* _holdings_ */* */* _service */* */ */\.
 

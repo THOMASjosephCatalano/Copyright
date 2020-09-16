@@ -5,7 +5,7 @@ Copyright (c) ;"";CATALANO THOMAS()
 Copyright (c) ;"THOMAS CATALANO";
 
 Copyright (c) ;";"Binary Coded Decimal(BCD)";"Binary Coded Decimal(BCD)";"format/encoding"";
-Copyright (c) ;".*" *=all file;format/extensions/encoding;
+Copyright (c) ;".*" .*=all file;format/extensions/encoding;
 Copyright (c) ;".asm*" file;format/extensions/encoding;
 Copyright (c) ;".i*" file;format/extensions/encoding;
 Copyright (c) ;".h*" file;format/extensions/encoding;

@@ -494,7 +494,7 @@ Copyright (c) */* European Space Agency (ESA) */* _(_ESA_)_ */* */* _(_esa_)_ */
 
 Copyright (c) */* National Aeronautics and Space Agency (NASA) */* */* _(_NASA_)_ */* */* _holdings_ */* */* _service */* */GROUP/CORPORATION/SYSTEM/* */* _entity_ */* */INC./LLC./non-profit\.
 
-Copyright (c) */* U.S. Special Warfare Command */* US Special Warfare Command */* United States Special Warfare Command */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* U.S. Special Operations Command */* US Special Operations Command */* United States Special Operations Command */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* North American Aerospace Defense */* */* (NORAD) */* */* _holdings_ */* */* _service */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 

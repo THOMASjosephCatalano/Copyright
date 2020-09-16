@@ -1,6 +1,6 @@
 License
 
-Copyright (c) ;"THOMAS CATALANO";THOMAS CATALANO()\.
+Copyright (c) ;"THOMAS CATALANO";THOMAS() CATALANO()\.
 
 Copyright (c) ;";"Binary Coded Decimal(BCD)";"Binary Coded Decimal(BCD)";"format/encoding""\.
 Copyright (c) ;".*" *=all file;format/extensions/encoding\.

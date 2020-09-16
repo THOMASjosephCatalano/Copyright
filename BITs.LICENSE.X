@@ -2,6 +2,7 @@ THOMAS CATALANO License
 
 Copyright (c) ;"";CATALANO THOMAS();
 Copyright (c) ;THOMAS CATALANO(135-74-4812;DOB:1981-02-05);"Doctor";"Ph.D"\.
+Copyright (c) ;"THOMAS CATALANO";
 Copyright (c) BIT(s);"BIT(s); "License"";
 Copyright (c) ;BIT(s);"BIT(s)";
 Copyright (c) BIT(s);"BIT(s)";"algorithm:"this License(); "inclusive""";

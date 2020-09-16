@@ -1,5 +1,4 @@
-THOMAS CATALANO
-License
+THOMAS CATALANO License
 
 Copyright (c) ;"";CATALANO THOMAS();
 Copyright (c) ;THOMAS JOSEPH CATALANO(135-74-4812;DOB:1981-02-05);"Doctor";"Ph.D"\.

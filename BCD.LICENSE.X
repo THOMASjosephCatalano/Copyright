@@ -1,7 +1,7 @@
 THOMAS CATALANO License
 
-Copyright (c) ;"";THOMAS CATALANO()
-Copyright (c) ;"";CATALANO THOMAS()
+Copyright (c) ;"";THOMAS CATALANO();
+Copyright (c) ;"";CATALANO THOMAS();
 Copyright (c) ;"THOMAS CATALANO";
 
 Copyright (c) ;"";BinaryCoded Decimal(BCD);"BinaryCoded Decimal(BCD)";"format/encoding/*"";

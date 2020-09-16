@@ -1,5 +1,4 @@
-THOMAS CATALANO
-License
+THOMAS CATALANO License
 
 Copyright (c) THOMAS CATALANO
 

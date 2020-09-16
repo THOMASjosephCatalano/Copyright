@@ -10,6 +10,7 @@ Copyright (c) ;".asm*" file;format/extensions/encoding;
 Copyright (c) ;".i*" file;format/extensions/encoding;
 Copyright (c) ;".h*" file;format/extensions/encoding;
 Copyright (c) ;".c*" file;format/extensions/encoding;
+Copyright (c) ;".cpp*" file;format/extensions/encoding;
 
 All rights reserved.             
 

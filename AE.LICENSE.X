@@ -492,7 +492,7 @@ Copyright (c) */* NORTH ATLANTIC TREATY ORGANIZATION(NATO) */* */* _holdings_ */
 
 Copyright (c) */* European Space Agency (ESA) */* _(_ESA_)_ */* */* _(_esa_)_ */* */* _holdings_ */* */* _service */* */GROUP/CORPORATION/* */* _entity_ */* */INC./LLC./non-profit\.
 
-Copyright (c) */* National Aeronautics and Space Agency (NASA) */* */* _(_NASA_)_ */* */* _holdings_ */* */* _service */* */GROUP/CORPORATION/SYSTEM/* */* _entity_ */* */INC./LLC./non-profit\.
+Copyright (c) */* National Aeronautics and Space Agency (NASA) */* NASA* */* NASA JPL */* _(_NASA_)_ */* */* _holdings_ */* */* _service */* */GROUP/CORPORATION/SYSTEM/* */* _entity_ */* */INC./LLC./non-profit\.
 
 Copyright (c) */* U.S. Special Operations Command */* US Special Operations Command */* United States Special Operations Command */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 

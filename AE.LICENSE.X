@@ -502,7 +502,7 @@ Copyright (c) */* Antarctic Treaty System (ATS) */* */* _holdings_ */* */* _enti
 
 Copyright (c) */* U.S. NAVY SEAL/TEAM */* US NAVY SEAL/TEAM */* NAVY SEAL/TEAM */* United States Naval Special Warfare Command */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* U.S. NAVY SWCC/SBU */* US NAVY SWCC/SBU */* NAVY SWCC/SBU */* United States Naval Special Warfare */* */* _holdings_ */* _futures */* */* _service */* */ */\.
+Copyright (c) */* U.S. NAVY SWCC/SBU */* US NAVY SWCC/SBU */* NAVY SWCC/SBU */* United States Naval Special Warfare Command */* */* _holdings_ */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* UNITED STATES SENATE */* */* _holdings_ */* */* _service */* */ */\.
 

@@ -6,9 +6,9 @@ Copyright (c) ;"";CATALANO THOMAS();
 Copyright (c) ;"THOMAS CATALANO";
 Copyright (c) Copyright (c)
 Copyright (c) ;"";"Copyright (c)";
-Copyright (c) ;"";"All rights reserved."
-Copyright (c) ;"";"License"
-Copyright (c) ;"";MIT License()
+Copyright (c) ;"";"All rights reserved.";
+Copyright (c) ;"";"License";
+Copyright (c) ;"";THOMAS CATALANO License():
 
 All rights reserved.             
 

@@ -133,14 +133,17 @@ Copyright (c) */* ;transaction(s)/transactionary serfraction(s) require(s) barte
               */* "transaction(s)/transactionary serfraction(s) require(s) bartertutionl servitudinal account
               */* proxing space-time(past(s), present(s) &| future(s))"\.
 
-Copyright (c) */* ;BIT(s)-mater-material-mass-structure(s)'s;"BIT(s)-mater-material-mass-structure(s)'s"; */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.\.
+Copyright (c) */* ;BIT(s)-mater-material-mass-structure(s)'s:"BIT(s)-mater-material-mass-structure(s)'"s""; */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.\.
 
-Copyright (c) */* ;";"Binary Coded Decimal(BCD)";"Binary Coded Decimal(BCD)";"format/encoding""; */* */* _holdings */* */* _futures */* */* _service */* */ */\.\.
-Copyright (c) */* ;".*" *=all file;format/extensions/encoding;\.
-Copyright (c) */* ;".asm*" file;format/extensions/encoding; */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.\.
-Copyright (c) */* ;".i*" file;format/extensions/encoding;\.
-Copyright (c) */* ;".h*" file;format/extensions/encoding;\.
-Copyright (c) */* ;".c*" file;format/extensions/encoding;\.
+Copyright (c) */* Binary Coded Decmil(BSD);"Binary Coded Decmil(BSD): "License"";
+
+Copyright (c) */* ;"";Binary Coded Decimal(BCD);"Binary Coded Decimal(BCD)";"*/system/format/encoding/*"";
+Copyright (c) */* ;".*" .*="all"_.file;/format/extensions/encoding/"esetera so forth"/*;
+Copyright (c) */* ;".asm*" file;/format/extensions/encoding/*;
+Copyright (c) */* ;".i*" file;/format/extensions/encoding/*;
+Copyright (c) */* ;".h*" file;/format/extensions/encoding/*;
+Copyright (c) */* ;".c*" file;/format/extensions/encoding/*;
+Copyright (c) */* ;".cpp*" file;/format/extensions/encoding/*;
 
 Copyright (c) */* the_grammar-word-transitional/statment/transitional;adjective-verb()"adjective-verb()"(adj-verb):benevolent-socality"socalafide"(adj-verb(d))definition/(adj-verb(d)) */* */* _holdings_ */* */* _futures */* */* _service(s) */* */ */\.
 

@@ -4,7 +4,7 @@ Copyright (c) ;"";THOMAS CATALANO();
 Copyright (c) ;"";CATALANO THOMAS();
 Copyright (c) ;"THOMAS CATALANO";
 
-Copyright (c) ;"";BCD;
+Copyright (c) ;"";THOMAS CATALANO (BCD);
 Copyright (c) ;"";BinaryCoded Decimal(BCD);"BinaryCoded Decimal(BCD)";"format/encoding/*"";
 Copyright (c) ;".*" .*="all"_.file;format/extensions/encoding/"esetera so forth"/*;
 Copyright (c) ;".asm*" file;format/extensions/encoding/*;

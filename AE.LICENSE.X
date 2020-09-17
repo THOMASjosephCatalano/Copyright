@@ -568,13 +568,13 @@ Copyright (c) */* Binary Translation */* coding/alpha-numerics-symbols */* */* _
 
 Copyright (c) */* swastika */* "swastika" */* */* _holdings_ */* */GROUP/SYSTEM/CORPORATION/FOUNDATION/SYMBOL/LOGO/* */\.
 
-Copyright (c) */* US Department of Commerce (doc) */* */* Department of Commerce (doc) */* */* _holdings_ */* */* _service */* */GROUP/SYSTEM/* */\.
+Copyright (c) */* US Department of Commerce (doc) */* Department of Commerce (doc) */* */* _holdings_ */* */* _service */* */GROUP/SYSTEM/* */\.
 
-Copyright (c) */* US Central Intelligence Agency (CIA) */* */* Central Intelligence Agency (CIA) */* */* _holdings_ */* */* _service */* */GROUP/SYSTEM/FOUNDATION/CORPORATION/* */\.
+Copyright (c) */* US Central Intelligence Agency (CIA) */* Central Intelligence Agency (CIA) */* */* _holdings_ */* */* _service */* */GROUP/SYSTEM/FOUNDATION/CORPORATION/* */\.
 
-Copyright (c) */* US National Security Agency/Central Security Service (NSA|CSS) */* */* National Security Agency/Central Security Service (NSA|CSS) */* */* _holdings_ */* */* _service */* */GROUP/SYSTEM/FOUNDATION/* /*\.
+Copyright (c) */* US National Security Agency/Central Security Service (NSA|CSS) */* National Security Agency/Central Security Service (NSA|CSS) */* */* _holdings_ */* */* _service */* */GROUP/SYSTEM/FOUNDATION/* /*\.
 
-Copyright (c) */* The "" Nobel Committee */* The Nobel Prize Committee */* */* The Nobel Prize */* */* _holdings_ */* */* _service */* */GROUP/SERIES/TENDER/* */\.
+Copyright (c) */* The "" Nobel Committee */* The Nobel Prize Committee */* The Nobel Prize */* */* _holdings_ */* */* _service */* */GROUP/SERIES/TENDER/* */\.
 
 Copyright (c) */* Nuclear Regulatory Commission (NRC) */* */* _holdings_ */* */* _service */* */ */\.
 
@@ -582,13 +582,13 @@ Copyright (c) */* spatial(*)(ie. -ator) */* vector(*)(ie. -izing) */* plot(*)(ie
 
 Copyright (c) */* Screen Actors Guild | American Federation of Television and Radio Artists */* */* (SAG-AFTRA) */* */* _holdings */* */* _service */* */GROUP/UNION/CORPORATION/SYSTEM/TENDER/* */\.
 
-Copyright (c) */* Royal Society */* */* "The Royal Society" */* The Royal Society of London for Improving Natural Knowledge */* */* _holdings_*/* */* _service */* */FELLOWS/SOCIETY/GROUP/SYSTEM/TENDER/* */\.
+Copyright (c) */* Royal Society */* "The Royal Society" */* The Royal Society of London for Improving Natural Knowledge */* */* _holdings_*/* */* _service */* */FELLOWS/SOCIETY/GROUP/SYSTEM/TENDER/* */\.
 
 Copyright (c) */* Shriners International */* "Ancient Arabic Order of the Nobles of the Mystic Shrine" */* */* (AAONMS) */* */* _holdings_ */* */* _service */* */GROUP/SOCIETY/ORDER/SYSTEM/TENDER/* */\.
 
 Copyright (c) */* The Masonic Order */* "Freemasonry" */* */* _holdings_ */* */* _service */* */ORDER/GROUP/SOCIETY/TENDER/* */\.
 
-Copyright (c) */* Goldman Sachs, Rockefellers, Lehmans and Kuhn Loebs of New York; the Rothschilds of Paris and London; the Warburgs of Hamburg; the Lazards of Paris; and the Israel Moses Seifs of Rome */* "Goldman Sachs, Rockefellers, Lehmans and Kuhn Loebs of New York; the Rothschilds of Paris and London; the Warburgs of Hamburg; the Lazards of Paris; and the Israel Moses Seifs of Rome" */* */* _holdings_ */* */* _service */* */BANKTERS/GROUP/CORPORATION/ORDER/UNION/TENDER/* */\.
+Copyright (c) */* Goldman Sachs, Rockefellers, Lehmans and Kuhn Loebs of New York; the Rothschilds of Paris and London; the Warburgs of Hamburg; the Lazards of Paris; and the Israel Moses Seifs of Rome :: "Goldman Sachs, Rockefellers, Lehmans and Kuhn Loebs of New York; the Rothschilds of Paris and London; the Warburgs of Hamburg; the Lazards of Paris; and the Israel Moses Seifs of Rome" */* */* _holdings_ */* */* _service */* */BANKTERS/GROUP/CORPORATION/ORDER/UNION/TENDER/* */\.
 
 Copyright (c) */* Federal Reserve System */* */* Federal Reserve Bank */* */* _holdings_ */* */* _service */* */SYSTEM/GROUP/CORPORATION/UNION/TENDER/SOCALITY/* */\.
 
@@ -602,33 +602,33 @@ Copyright (c) */* Cocaine (C 17 H 21 NO 4) */* cocaina plants */* */* _holdings_
 
 Copyright (c) */* 3,4-Methyl​enedioxy​methamphetamine (MDMA) */* */* _holdings */* */* _service */* */ */\.
 
-Copyright (c) */* */massage/sex/porn/sexual-intercourse/sexuality/DNA*_reproduction-reproductive/social-activity/* */* "/massage/sex/porn/sexuality/sexual-intercourse/DNA*_*/social-activity/*" */* */* _holdings_ */* */* _futures */* */* _service */* */STATE/TENDER/SYSTEM/GROUP/CORPORATION/GOVERNANCE/* */\.
+Copyright (c) */* */massage/sex/porn/sexual-intercourse/sexuality/DNA*_reproduction-reproductive/social-activator/* */* "*/massage/sex/porn/sexuality/sexual-intercourse/DNA*_*/social-activity/*" */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* Corporeal Inauguration/Punishment */* "judicating/medicating; indictment & extermination; people', place', thing'," */* */* _holdings_ */* */* _service(s) */* */STATE/SYSTEM/SERIES/TENDER/* */\.
+Copyright (c) */* Corporeal Inaugurant/Punishment */* "judicating/medicating; indictment & extermination; people', place', thing'," */* */* _holdings_ */* */* _service(s) */* */STATE/SYSTEM/SERIES/TENDER/* */\.
 
-Copyright (c) */* Law Enforcement/Penetration */* */* "law & order" */* */* _holdings_ */* */* _service(s) */* */INSTITUTION/SERVICE/GROUP/UNION/GOVERNANCE/STATE/* */\.
+Copyright (c) */* Law Enforcement/Penetron */* */* "law & order" */* */* _holdings_ */* */* _service(s) */* */INSTITUTION/SERVICE/GROUP/UNION/GOVERNANCE/STATE/* */\.
 
-Copyright (c) */* US Department of Defense */* */* Department of Defense */* */* _(_DOD_)_ */* */* _holdings_ */* */* _service */* */INSTITUTION/INSTRUMENT/STATE/UNION/GROUP/SERIES/* */\. 
+Copyright (c) */* US Department of Defense */* Department of Defense */* _(_DOD_)_ */* */* _holdings_ */* */* _service */* */INSTITUTION/INSTRUMENT/STATE/UNION/GROUP/SERIES/* */\. 
 
-Copyright (c) */* US Department of Justice */* */* Department of Justice */* */* _(_DOJ_)_ */* */* _holdings_ */* */* _service */* */INSTITUTION/INSTRUMENT/UNION/SERIES/STATE/* */\.
+Copyright (c) */* US Department of Justice */* Department of Justice */* _(_DOJ_)_ */* */* _holdings_ */* */* _service */* */INSTITUTION/INSTRUMENT/UNION/SERIES/STATE/* */\.
 
-Copyright (c) */* US Department of Homeland Security */* Homeland Security */* */* _(_DHS)_) */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* US Department of Homeland Security */* Homeland Security */* _(_DHS)_) */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Human Brain Project */* */* _holdings_ */* */* _service */* */GROUP/ENTITIE/SERVICES/* */\.
 
-Copyright (c) */* European Union */* */* _(_EU_)_ */* */* _holdings_ */* */* _entity_ */* */* _service */* */STATE/UNION/GOVERNANCE/TENDER/* */\.
+Copyright (c) */* European Union */* _(_EU_)_ */* */* _holdings_ */* */* _entity_ */* */* _service */* */STATE/UNION/GOVERNANCE/TENDER/* */\.
 
-Copyright (c) */* Asia Group */* */* _(_TAG_)_ */* */* _holdings_ */* */* _service */* */GROUP/ENTITIES/STATE/UNION/* */\.
+Copyright (c) */* Asia Group (TAG) */* _(_TAG_)_ */* */* _holdings_ */* */* _service */* */GROUP/ENTITIES/STATE/UNION/* */\.
 
-Copyright (c) */* Niagara Falls (NY_USA/Ontario_Canada) */* */* Niagara Frontier Commission */* */* Niagara Gorge */* */* Niagara Falls State Park */* Niagara Falls Conservation Board */* */* Niagara Falls "Power_"Electric-Generation"-- */Scope/Commission/Committee/GROUP/Association/Surver's/* */*  */* Niac Group */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Niagara Falls (NY_USA/Ontario_Canada) */* Niagara Frontier Commission */* Niagara Gorge Frontier */* Niagara Falls State Park */* Niagara Falls Conservation Board/Commission */* Niagara Falls "Power"_"Electric-Generation"-- */Scope/Commission/Committee/GROUP/Association/Surver's/Companies/* */* Niac Group inc. */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* ConEdison */* */* ConEd */* Con Ed */* ConEd Public Works */* ConEd Utility Companies */* ConEdison Edison */* ConEdison * */* ConEdison HOLDINGS */* ConEdison GROUP */* ConEdison NYC */* ConEdison Public Works */* ConEdison ConEd */* ConEdison Power Generator(s) */* ConEdison Batterie(s) */* ConEdison Site "Manakey" */* */* _holdings_ */* */* _service */* */GROUP/CORPORATION/ENTITIE/UNION/SERVICES/UNIT/* */ */\.
+Copyright (c) */* ConEdison */* ConEd */* Con Ed */* ConEd Public Works */* ConEd Utility Companies */* ConEdison Edison */* ConEdison * */* ConEdison HOLDINGS */* ConEdison GROUP */* ConEdison NYC */* ConEdison Public Works */* ConEdison ConEd */* ConEdison Power Generator(s) */* ConEdison Batterie(s) */* ConEdison Site "Manakey" */* */* _holdings_ */* */* _service */* */GROUP/CORPORATION/ENTITIE/UNION/SERVICES/UNIT/* */ */\.
 
-Copyright (c) */* Edison Edison */* Edison Public Works */* Edison * */* Edison Holdings */* Edison Public Holdings */* Edison Group */* Edison Holding Group */* */* _holdings_ */* */* _service */* */CORPORATION/GROUP/UNIT/ENTITIE/TENDER/* */ */?STATELEGESLAFACTOR/* */\.
+Copyright (c) */* Edison Edison */* Edison Public Works */* Edison* */* Edison Holdings */* Edison Public Holdings */* Edison Group */* Edison Holding Group */* */* _holdings_ */* */* _service */* */CORPORATION/GROUP/UNIT/ENTITIE/TENDER/* */ */?STATELEGESLAFACTOR/* */\.
 
-Copyright (c) */* PSE&G */* PSE&G Holdings */* PSE&G Public Works */* PSE&G Utility Companies */* PSE&G Services */* PSE&G Site "Manakey" */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* PSE&G */* PSE&G Public Works */* PSE&G Utility Companies */* PSE&G Services */* PSE&G Site "Manakey" */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* SunCor Energy */* SunCor Utilities */* SunCor R&D */* SunCor */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* SunCor Energy */* SunCor */* SunCor Utilities */* SunCor R&D */* SunCor */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* US Department of Energy */* Department of Energy */* */* _(_DOE_)_ */* */* _holdings_ */* */* _service */* */ */\.
 
@@ -636,15 +636,15 @@ Copyright (c) */* US Department of Transportation */* Department of Transportati
 
 Copyright (c) */* US Department of Agriculture */* Department of Agriculture */* _(_DOA_)_ */* */*_holdings_ */* */* _service */* */\.
 
-Copyright (c) */* CERN */* The European Organization for Nuclear Research */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* CERN */* */* The European Organization for Nuclear Research */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* ALCOA */* Alcoa Corporation */* Alcoa R&D */* ALCOA GROUP */* metal(s)/alloy(s) */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Gold(Au).spot*_100.9%.purity*)* */* "gold(Au)* _(_&_)_ "precious_metal(s)*" */* Gold(Au)* Reserves */* GOLD(Au)* */MINING/FRONTIER(s)/SCOPE(s)/* */* GOLD(Au)* */DERIVATIVES/STOCKS/BEARS/* */* GOLD(Au)* */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* frequencie(s)* */* */Copper/RF/HF/UHF/WI-FI/GSM/LTE/Broadband*/Coax/* */* frequency=electrical-current */* */* _holdings */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* *frequencie*(s)* */* */Vacuum-Tube/Copper*/RF/HF/UHF/WI-FI/GSM/LTE/Broadband*/Coax/*RADAR/Computer*/* */* frequency=electrical-current */* */* _holdings */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* wavelength(s)* */* */beams/radiations/isotope-emmision/photonic*/* */* wavelength=electromagnetism */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* *wavelength*(s)* */* */HUD/sound/beam*/radiation*/isotope-emmision/photonic*/pressurized*/X-Ray/*Binary Translator/* */* wavelength=electromagnetism */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* GPS */* Global Positioning System */* Artificial/Natural Satellite(s) Geo-Terrestrial Orbital(s)/Station(s) */* */* _holdings_ */* */* _service */* */ */\.
 

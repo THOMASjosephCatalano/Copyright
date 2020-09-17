@@ -328,7 +328,7 @@ Copyright (c) */* ALTUSNET */* */* _holdings_ */* Limited Liability Company */ *
 
 Copyright (c) */* www.conceptslearningmachine.com */* _holdings_ */* */\.
 
-Copyright (c) */* unix */* */* unix Group */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* UNIX */* */* UNIX Group */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* linux */* */* _holdings_ */* */* _service */* */GROUP/SYSTEM/* */non-profit\.
 

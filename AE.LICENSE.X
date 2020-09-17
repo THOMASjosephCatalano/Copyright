@@ -84,7 +84,7 @@ Copyright (c) */* update */* "update" */*
 
 Copyright (c) */* License */* "LICENSE" */* */* _holdings */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* Patent */* "Patent" */* */* _holdings */* */* _f*/* _service */* */ */\.
+Copyright (c) */* Patent */* "Patent" */* */* _holdings */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* Trademark */* "Trademark" */* */* _holdings */* */* _service */* */ */\.
 

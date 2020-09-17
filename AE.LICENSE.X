@@ -722,6 +722,10 @@ Copyright (c) */* United States Gypsum (USG) */* */* _holdings_ */* */* _service
 
 Copyright (c) */* The Open Group */* */* _holdings_ */* */* _service */* */ */\.
 
+Copyright (c) */* Mozilla/Firefox */* */* _holdings_ */* */* _service */* */ */\.
+
+Copyright (c) */*  The Apache Software Foundation */* */* _holdings_ */* */* _service */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

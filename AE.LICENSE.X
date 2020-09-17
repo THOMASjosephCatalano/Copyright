@@ -12,7 +12,7 @@ Copyright (c) */* All rights reserved. */* "All rights reserved." */* */* _holdi
 
 Copyright (c) */* Binary Coded Decimal */* */* _(_BCD_)_ */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* American Standard Code for Information Interchange */* ASCII */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* American Standard Code for Information Interchange */* ASCII */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* Unicode */* */* _holdings_ */* */* _service */* */ */\.
 

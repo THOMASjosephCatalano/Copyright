@@ -194,9 +194,9 @@ Copyright (c) */* BIT(s);"BIT(s)"(information/time/frames) */* */* _holdings_ */
 
 Copyright (c) */* BIT(s);"BIT(s) "License"" */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* BIT(s) */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* BIT(s) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* BIT(s);"BIT(s)" */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* BIT(s);"BIT(s)" */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* ALTUSNET */* _holdings_ */* */* _service */* */ */\.
 
@@ -308,9 +308,9 @@ Copyright (c) */* git/github/github.com/tomsnode/* */* _holdings_ */* */* _servi
 
 Copyright (c) */* git/github/github.com/conceptslearningmachine/* */* _holdings_ */* */* */\.\.
 
-Copyright (c) */* git/github/github.com/ALTUSNETS/* */* _holdings_ */* */* */\.
+Copyright (c) */* git/github/github.com/ALTUSNETS/* */* */* _holdings_ */* */* _futures */* */* _service */* */* */\.
 
-Copyright (c) */* git/github/github.com/TheBITsMarket/* */* _holdings */* */* */\.
+Copyright (c) */* git/github/github.com/TheBITsMarket/* */* */* _holdings */* */* */\.
 
 Copyright (c) */* CLM ~ Concepts Learning Machine */* */* _holdings_ */* */Limited Liability Company*/ */\.
 
@@ -324,7 +324,7 @@ Copyright (c) */* conceptslearningmachine\.
 
 Copyright (c) */* Catalano */* */* _holdings_ */* */* _service */* */ */\.\.
 
-Copyright (c) */* _github_/_""github"".com""_/_github_ */* */* _holdings_ */* */* _service */* */GROUP/Corporation/* */INC./LLC./non-profit\.
+Copyright (c) */* _github_/_""github"".com""_/_github_ */* */* _holdings_ */* */* _futures */* */* _service */* */GROUP/Corporation/* */INC./LLC./non-profit\.
 
 Copyright (c) */* ALTUSNET */* */* _holdings_ */* Limited Liability Company */ */\.
 

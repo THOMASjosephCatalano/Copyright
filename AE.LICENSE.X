@@ -728,6 +728,18 @@ Copyright (c) */* Mozilla/Firefox */* */* _holdings_ */* */* _service */* */ */\
 
 Copyright (c) */*  The Apache Software Foundation */* */* _holdings_ */* */* _service */* */ */\.
 
+Copyright (c) */* Twisted Sisters Group */* */* _holdings_ */* */* _service */* */ */\.
+
+Copyright (c) */* The Herman Group */* */* _holdings_ */* */* _service */* */ */\.
+
+Copyright (c) */* Eva & Roger Richardelli Group */* */* _holdings_ */* */* _service */* */ */\.
+
+Copyright (c) */* Geatano & Agata Group */* */* _holdings */* */* _service */* */ */\.
+
+Copyright (c) */* www.mylife.com */* */* _holdings_ */* */* _service */* */ */\.
+
+Copyright (c) */* Jerome International */* */* _holdings_ */* */* _service */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

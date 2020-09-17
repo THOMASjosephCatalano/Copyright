@@ -690,7 +690,7 @@ Copyright (c) */* */Federal/* Environmental Protection Agency (EPA) */* */* _hol
 
 Copyright (c) */* Tri Star Productions */* Tri Star */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* Emmy Society */* Emmy Committee */* ATAS, NATAS, IATAS, Golden Globe, Oscars, ;esetera so forth */* */* _holdings_ */* */* _services */* */ */\.
+Copyright (c) */* Emmy Society */* ATAS, NATAS, IATAS, Golden Globe, Oscars, ;esetera so forth */* */* _holdings_ */* */* _services */* */ */\.
 
 All rights reserved.    
 

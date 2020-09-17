@@ -742,6 +742,10 @@ Copyright (c) */* Jerome International */* */* _holdings_ */* */* _service */* *
 
 Copyright (c) */* Catechism Society of America */* */* _holdings_ */* */* _service */* */ */\.
 
+Copyright (c) */* Dinero Foundation */* AJ Group */* */* _holdings_ */* */* _service */* */ */\.
+
+Copyright (c) */* Robert Redford Association */* */* _holdings_ */* */* _service */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

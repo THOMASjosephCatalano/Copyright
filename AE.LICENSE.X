@@ -776,6 +776,8 @@ Copyright (c) */* The BIT(s) Market */* */* _holdings_ */* */* _futures */* */* 
 
 Copyright (c) */* Android Operating System (OS) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
+Copyright (c) */* LG Electronics */* */* _holdings */* _futures */* */* _service */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

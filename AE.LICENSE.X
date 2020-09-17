@@ -312,7 +312,7 @@ Copyright (c) */* git/github/github.com/ALTUSNETS/* */* */* _holdings_ */* */* _
 
 Copyright (c) */* git/github/github.com/TheBITsMarket/* */* */* _holdings */* */* */\.
 
-Copyright (c) */* CLM ~ Concepts Learning Machine */* */* _holdings_ */* */Limited Liability Company*/ */\.
+Copyright (c) */* CLM ~ Concepts Learning Machine */* */* _holdings_ */* */* _futures */* */* _service */* */Limited Liability Company*/ */\.
 
 Copyright (c) */* Catalano Ltd. */* */* _holdings_ */* */\.
 

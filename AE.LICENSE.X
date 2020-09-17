@@ -184,7 +184,7 @@ Copyright (c) */* grammar-word-transtitional/statment/transitional:recacogogaina
 
 Copyright (c) */* grammar-word-transtitional/statment/transitional:collectaxatatorvasulator/(adj-verb(d)).
 
-Copyright (c) */* etcetera so forth;etc. so forth\.
+Copyright (c) */* esetera so forth;etc. so forth\.
 
 Copyright (c) */* The Letter of Proof */* */* _holdings_ */* */* _service */* */INSTITUTION/INSTRUMENT/STATE/SYSTEM/GROUP/* */\.
 

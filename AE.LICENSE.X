@@ -32,9 +32,9 @@ Copyright (c) */* Internet protocol Suite (TCP/UDP) */* _(_TCP_UDP_)_ */* */* _h
 
 Copyright (c) */* Mobile IP Protocol (MIP) */* _(_MIP_)_ */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* Internet protocol addresses (IP) */* _(_IP_)_ */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Internet protocol addresses (IP) */* _(_IP_)_ */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* Classless Inter-Domain Routing (CIDR) */* _(_CIDR_)_ */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Classless Inter-Domain Routing (CIDR) */* _(_CIDR_)_ */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* Best Current Practices (BCP) */* _(_BCP_)_ */* */* _holdings_ */* */* _service */* */ */\.
 

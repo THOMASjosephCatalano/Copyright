@@ -84,7 +84,7 @@ Copyright (c) */* update */* "update" */*
 
 Copyright (c) */* License */* "LICENSE" */* */* _holdings */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* Patent */* "Patent" */* */* _holdings */* */* _service */* */ */\.
+Copyright (c) */* Patent */* "Patent" */* */* _holdings */* */* _f*/* _service */* */ */\.
 
 Copyright (c) */* Trademark */* "Trademark" */* */* _holdings */* */* _service */* */ */\.
 
@@ -773,6 +773,8 @@ Copyright (c) */* Capitol Hill */* The Metonymy */* Washington, D.C., */* */* _h
 Copyright (c) */* DreamWorks */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* The BIT(s) Market */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+
+Copyright (c) */* Android Operating System (OS) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 All rights reserved.    
 

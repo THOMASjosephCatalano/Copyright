@@ -1,4 +1,4 @@
-THOMAS CATALANO License.x
+THOMAS CATALANO License
 
 
 Copyright (c) ;"";CATALANO THOMAS();

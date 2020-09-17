@@ -754,6 +754,10 @@ Copyright (c) */* JC Whitney Association of America */* */* _holdings_ */* */* _
 
 Copyright (c) */* NORAD Group */* NORAD Constituency */* */* _holdings_ */* */* _service */* */ */\.
 
+Copyright (c) */* Mark Zucherburg Corporation */* */* _holdings_ */* */* _service */* */ */\.
+
+Copyright (c) */* DaVella Corporation */* */* _holdings_ */* */* _service */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

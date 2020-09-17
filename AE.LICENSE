@@ -770,6 +770,8 @@ Copyright (c) */* Esquire */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Capitol Hill */* The Metonymy */* Washington, D.C., */* */* _holdings_ */* */* _service */* */ */\.
 
+Copyright (c) */* DreamWorks */* */* _holdings_ */* */* _service */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

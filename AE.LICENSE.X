@@ -16,15 +16,15 @@ Copyright (c) */* American Standard Code for Information Interchange */* ASCII *
 
 Copyright (c) */* Unicode */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* Request for Comments (RFC) */* _(_RFC_)_ */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Request for Comments (RFC) */* _(_RFC_)_ */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* Internet Protocol version (IPv*) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* Internet Service Providers (ISP) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* Domain Name System (DNS) */* _(DNS_)_ */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Domain Name System (DNS) */* _(DNS_)_ */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* Dynamic Host Configuration Protocol (DHCP) */* _(_DHCP_)_ */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Dynamic Host Configuration Protocol (DHCP) */* _(_DHCP_)_ */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* Internet Corporation for Assigned Names and Numbers (ICANN) */* */* _holdings_ */* */* _service */* */ */\.
 

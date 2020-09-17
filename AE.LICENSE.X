@@ -696,7 +696,7 @@ Copyright (c) */* Refinery-* Refine/Refinement/Refined-* Refineries-* */* */* _h
 
 Copyright (c) */* Waste/Recycling */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* */Federal/* Environmental Protection Agency (EPA) */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* */Federal/* Environmental Protection Agency (EPA) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* Tri Star Productions */* Tri Star */* */* _holdings_ */* */* _service */* */ */\.
 
@@ -776,7 +776,7 @@ Copyright (c) */* The BIT(s) Market */* */* _holdings_ */* */* _futures */* */* 
 
 Copyright (c) */* Android Operating System (OS) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* LG Electronics */* */* _holdings */* _futures */* */* _service */* */ */\.
+Copyright (c) */* LG */* */* _holdings */* _futures */* */* _service */* */ */\.
 
 All rights reserved.    
 

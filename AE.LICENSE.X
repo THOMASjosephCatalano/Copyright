@@ -742,7 +742,7 @@ Copyright (c) */* Jerome International */* */* _holdings_ */* */* _service */* *
 
 Copyright (c) */* Catechism Society of America */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* Dinero Foundation */* AJ Group */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Bobby D Foundation */* Dinero Foundation */* AJ Group */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Robert Redford Association */* */* _holdings_ */* */* _service */* */ */\.
 

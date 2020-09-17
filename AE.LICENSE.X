@@ -702,6 +702,18 @@ Copyright (c) */* AT&T */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Disney */* */* _holdings_ */* */* _services */* */ */\.
 
+Copyright (c) */* Python Programming Language */* */* _holdings_ */* */* _service */* */ */\.
+
+Copyright (c) */* Assembly Programming Language */* */* _holdings */* */* _service */* */ */\.
+
+Copyright (c) */* The Institute of Electrical and Electronics Engineers (IEEE) */* */* _holdings_ */* */* _service */* */ */\.
+
+Copyright (c) */* The International Union of Pure and Applied Chemistry (IUPAC) */* */* _holdings_ */* */* _service */* */ */\.
+
+Copyright (c) */* America Chemical Society (ACS) */* */* _holdings_ */* */* _service */* */ */\.
+
+Copyright (c) */* Association for Computing Machinery (ACM) */* */* _holdings_ */* */* _service */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

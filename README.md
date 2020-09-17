@@ -1,6 +1,18 @@
 # Copyright (c) THOMAS CATALANO
-# THOMAS CATALANO License
-Copyright (c) THOMAS CATALANO
+#
+THOMAS CATALANO License
+
+Copyright (c) ;"";CATALANO THOMAS();
+Copyright (c) ;THOMAS CATALANO(135-74-4812;DOB:1981-02-05);"Doctor";"Ph.D."();
+Copyright (c) ;"THOMAS CATALANO";
+Copyright (c) ;Copyright (c)
+Copyright (c) ;"";"Copyright (c)";
+Copyright (c) ;"";"All rights reserved.";
+Copyright (c) ;"";"License";
+Copyright (c) ;"";THOMAS CATALANO License():
+
+All rights reserved.             
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights

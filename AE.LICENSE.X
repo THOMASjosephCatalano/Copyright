@@ -50,7 +50,7 @@ Copyright (c) */* MIT License */* "MIT License" */* */* _holdings */* */* _futur
 
 Copyright (c) */* Vote */* "Vote" */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* Veto */* "Veto" */* */* _h
+Copyright (c) */* Veto */* "Veto" */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* Grant */* "Grant" */*
 
@@ -318,7 +318,7 @@ Copyright (c) */* Catalano Ltd. */* */* _holdings_ */* */\.
 
 Copyright (c) */* ALTUSNET */* */* _holdings_ */* */Limited Liability Company/* */\.
 
-Copyright (c) */* Catalano Concepts */* */* _holdings_ */* */Limited Liability Company/* */\.
+Copyright (c) */* Catalano Concepts */* */* _holdings_ */* */* _futures */* */* _service */* */Limited Liability Company/* */\.
 
 Copyright (c) */* conceptslearningmachine\.
 

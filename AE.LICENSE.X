@@ -14,7 +14,7 @@ Copyright (c) */* Binary Coded Decimal */* */* _(_BCD_)_ */* */* _holdings_ */* 
 
 Copyright (c) */* American Standard Code for Information Interchange */* ASCII */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* Unicode */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Unicode */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* Request for Comments (RFC) */* _(_RFC_)_ */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
@@ -26,7 +26,7 @@ Copyright (c) */* Domain Name System (DNS) */* _(DNS_)_ */* */* _holdings_ */* *
 
 Copyright (c) */* Dynamic Host Configuration Protocol (DHCP) */* _(_DHCP_)_ */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* Internet Corporation for Assigned Names and Numbers (ICANN) */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Internet Corporation for Assigned Names and Numbers (ICANN) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* Internet protocol Suite (TCP/UDP) */* _(_TCP_UDP_)_ */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 

@@ -612,6 +612,8 @@ Copyright (c) */* pornhub.com */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* dress hub */* */* _holdings_ */* */* _service */* */ */\.
 
+Copyright (c) */* inc Up Corporation */* */* _holdings_ */* */* _service */* */ */\.
+
 Copyright (c) */* Corporeal Inaugurant/Punishment */* "judicating/medicating; indictment & extermination; people', place', thing'," */* */* _holdings_ */* */* _service(s) */* */STATE/SYSTEM/SERIES/TENDER/* */\.
 
 Copyright (c) */* Law Enforcement/Penetron */* */* "law & order" */* */* _holdings_ */* */* _service(s) */* */INSTITUTION/SERVICE/GROUP/UNION/GOVERNANCE/STATE/* */\.

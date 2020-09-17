@@ -696,6 +696,10 @@ Copyright (c) */* Facebook */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Twitter */* */* _holdings_ */* */* _service */* */ */\.
 
+Copyright (c) */* Verizon */* */* _holdings_ */* */* _service */* */ */\.
+
+Copyright (c) */* AT&T */* */* _holdings_ */* */* _service */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

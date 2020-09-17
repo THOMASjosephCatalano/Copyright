@@ -720,6 +720,8 @@ Copyright (c) */* AMAZON */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* United States Gypsum (USG) */* */* _holdings_ */* */* _service */* */ */\.
 
+Copyright (c) */* The Open Group */* */* _holdings_ */* */* _service */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

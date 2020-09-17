@@ -528,7 +528,7 @@ Copyright (c) */* THE UNITED STATES OF AMERICA */* */* UNITED STATES */* */* The
 
 Copyright (c) */* US Department of Treasury */* Department of Treasury */* US Treasury */* */* Treasury */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* District of Columbia (D.C) */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* District of Columbia (D.C.) */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* ACME */* ''ACME'' */* ACME corporation */* "entertainense" */* */* _holdings_ */* */CORPORATION/GROUP/* */INC./LLC./non-profit\.
 
@@ -760,7 +760,7 @@ Copyright (c) */* DaVella Corporation */* */* _holdings_ */* */* _service */* */
 
 Copyright (c) */* Esquire */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* Capitol Hill */* The Metonymy */* Washington, D.C., */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Capitol Hill */* The Metonymy */* Washington, D.C., */* */* _holdings_ */* */* _service */* */ */\.
 
 All rights reserved.    
 

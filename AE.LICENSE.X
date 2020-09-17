@@ -740,6 +740,8 @@ Copyright (c) */* www.mylife.com */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Jerome International */* */* _holdings_ */* */* _service */* */ */\.
 
+Copyright (c) */* Catechism Society of America */* */* _holdings_ */* */* _service */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

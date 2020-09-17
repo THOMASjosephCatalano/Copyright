@@ -1,3 +1,4 @@
+
 THOMAS CATALANO License
 
 Copyright (c) THOMAS CATALANO
@@ -12,31 +13,31 @@ Copyright (c) */* All rights reserved. */* "All rights reserved." */* */* _holdi
 
 Copyright (c) */* Binary Coded Decimal */* */* _(_BCD_)_ */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* American Standard Code for Information Interchange */* ASCII */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* American Standard Code for Information Interchange */* ASCII */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* Unicode */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Unicode */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* Request for Comments (RFC) */* _(_RFC_)_ */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Request for Comments (RFC) */* _(_RFC_)_ */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* Internet Protocol version (IPv*) */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Internet Protocol version (IPv*) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* Mobile IP Protocol (MIP) */* _(_MIP_)_ */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Internet Service Providers (ISP) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* Internet Service Providers (ISP) */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Domain Name System (DNS) */* _(DNS_)_ */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* Domain Name System (DNS) */* _(DNS_)_ */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Dynamic Host Configuration Protocol (DHCP) */* _(_DHCP_)_ */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* Dynamic Host Configuration Protocol (DHCP) */* _(_DHCP_)_ */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Internet Corporation for Assigned Names and Numbers (ICANN) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* Internet Corporation for Assigned Names and Numbers (ICANN) */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Internet protocol Suite (TCP/UDP) */* _(_TCP_UDP_)_ */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* Internet protocol Suite (TCP/UDP) */* _(_TCP_UDP_)_ */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Mobile IP Protocol (MIP) */* _(_MIP_)_ */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* Internet protocol addresses (IP) */* _(_IP_)_ */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Internet protocol addresses (IP) */* _(_IP_)_ */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* Classless Inter-Domain Routing (CIDR) */* _(_CIDR_)_ */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Classless Inter-Domain Routing (CIDR) */* _(_CIDR_)_ */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* Best Current Practices (BCP) */* _(_BCP_)_ */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Best Current Practices (BCP) */* _(_BCP_)_ */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* Copyright */* "Copyright" */* */* _holdings */* */* _futures */* */* _service */* */ */\.
 
@@ -48,9 +49,9 @@ Copyright (c) */* Copyright © */* "Copyright ©" */* */* _holdings */* */* _fut
 
 Copyright (c) */* MIT License */* "MIT License" */* */* _holdings */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* Vote */* "Vote" */* 
+Copyright (c) */* Vote */* "Vote" */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* Veto */* "Veto" */*
+Copyright (c) */* Veto */* "Veto" */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* Grant */* "Grant" */*
 
@@ -84,7 +85,7 @@ Copyright (c) */* update */* "update" */*
 
 Copyright (c) */* License */* "LICENSE" */* */* _holdings */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* Patent */* "Patent" */* */* _holdings */* */* _service */* */ */\.
+Copyright (c) */* Patent */* "Patent" */* */* _holdings */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* Trademark */* "Trademark" */* */* _holdings */* */* _service */* */ */\.
 
@@ -122,7 +123,7 @@ Copyright (c) */* "^" */*
 
 Copyright (c) */* MIT License */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* THOMAS CATALANO(135-74-4812;DOB:1981-02-05) */* */* _holdings_ */* */* _futures */* */* _service */*  */INSTITUTION/INSTRUMENT/STATE/FOUNDATION/GROUP/SYSTEM/* */\.
+Copyright (c) */* THOMAS CATALANO(135-74-4812;DOB:1981-02-05) */* */* _holdings_ */* */* _futures */* */* _service */*  */INSTITUTION/INSTRUMENT/STATE/FOUNDATION/GROUP/SYSTEM/* */\.
 
 Copyright (c) */* THOMAS CATALANO */* */* _holdings_ */* */* _service */* */INSTITUTION/INSTRUMENT/STATE/SYSTEM/GROUP/* */\.
 
@@ -130,13 +131,13 @@ Copyright (c) */* BIT(s);"BIT(s): "License"";
 Copyright (c) */* ;BIT(s);"BIT(s)";
 Copyright (c) */* BIT(s);"BIT(s)";:"algorithm:"this License(); "inclusive""";
 Coptright (c) */* ;motion by &| of panticulation serfractions perpetuation;algorithm:
-             */* "motion by &| of panticulation serfractions perpetuation";
-Copyright (c) */* ;BIT(s)(information/time/frames) extrapolation by &| of percentile factorization;algorithm:               
-             */* "BIT(s)(information/time/frames) extrapolation by &| of percentile factorization";   
+             */* "motion by &| of panticulation serfractions perpetuation";
+Copyright (c) */* ;BIT(s)(information/time/frames) extrapolation by &| of percentile factorization;algorithm:               
+             */* "BIT(s)(information/time/frames) extrapolation by &| of percentile factorization";   
 Copyright (c) */* ;transaction(s)/transactionary serfraction(s) require(s) bartertutional servitudinal account
-              */* proxing space-time/frame(past(s) present(s) &| future(s));algorithm:
-              */* "transaction(s)/transactionary serfraction(s) require(s) bartertutionl servitudinal account
-              */* proxing space-time(past(s), present(s) &| future(s))";
+              */* proxing space-time/frame(past(s) present(s) &| future(s));algorithm:
+              */* "transaction(s)/transactionary serfraction(s) require(s) bartertutionl servitudinal account
+              */* proxing space-time(past(s), present(s) &| future(s))";
 
 Copyright (c) */* ;BIT(s)-mater-material-mass-structure(s)'s:""BIT(s)-mater-material-mass-structure(s)'"s"";
 
@@ -188,15 +189,15 @@ Copyright (c) */* grammar-word-transtitional/statment/transitional:collectaxatat
 
 Copyright (c) */* esetera so forth;etc. so forth\.
 
-Copyright (c) */* The Letter of Proof */* */* _holdings_ */* */* _service */* */INSTITUTION/INSTRUMENT/STATE/SYSTEM/GROUP/* */\.
+Copyright (c) */* The Letter of Proof */* */* _holdings_ */* */* _futures */* */* _service */* */INSTITUTION/INSTRUMENT/STATE/SYSTEM/GROUP/* */\.
 
-Copyright (c) */* BIT(s);"BIT(s)"(information/time/frames) */* */* _holdings_ */* */* _service */* */INSTITUTION/INSTRUMENT/SYSTEM/FOUNDATION/GROUP(s)/* */\.
+Copyright (c) */* BIT(s);"BIT(s)"(information/time/frames) */* */* _holdings_ */* */* _futures */* */* _service */* */INSTITUTION/INSTRUMENT/SYSTEM/FOUNDATION/GROUP(s)/* */\.
 
 Copyright (c) */* BIT(s);"BIT(s) "License"" */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* BIT(s) */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* BIT(s) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* BIT(s);"BIT(s)" */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* BIT(s);"BIT(s)" */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* ALTUSNET */* _holdings_ */* */* _service */* */ */\.
 
@@ -204,7 +205,7 @@ Copyright (c) */* ALTUSNET */* "ALTUSNET"
 
 Copyright (c) */* "cryptocurrency" */* */cryptocurrency/*;:((blockchain;algorithm)&|"like") */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* https:// */* */*"https://" */* */* _holdings */* */* _service */* */* */\.
+Copyright (c) */* https:// */* */*"https://" */* */* _holdings */* */* _h*/* _service */* */* */\.
 
 Copyright (c) */* http:// */* */* "http://" */* */* _holdings_ */* */* _service */* */ */\.
 
@@ -304,27 +305,27 @@ Copyright (c) */* src-git */* */* _holdings_ */* */* _service */* */SYSTEM//GROU
 
 Copyright (c) */* github */* */* _holdings_ */* */* _service */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
-Copyright (c) */* git/github/github.com/tomsnode/* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* git/github/github.com/tomsnode/* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* git/github/github.com/conceptslearningmachine/* */* _holdings_ */* */* */\.\.
+Copyright (c) */* git/github/github.com/conceptslearningmachine/* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* git/github/github.com/ALTUSNETS/* */* _holdings_ */* */* */\.
+Copyright (c) */* git/github/github.com/ALTUSNETS/* */* */* _holdings_ */* */* _futures */* */* _service */* */* */\.
 
-Copyright (c) */* git/github/github.com/TheBITsMarket/* */* _holdings */* */* */\.
+Copyright (c) */* git/github/github.com/TheBITsMarket/* */* */* _holdings */* */* */\.
 
-Copyright (c) */* CLM ~ Concepts Learning Machine */* */* _holdings_ */* */Limited Liability Company*/ */\.
+Copyright (c) */* CLM ~ Concepts Learning Machine */* */* _holdings_ */* */* _futures */* */* _service */* */Limited Liability Company*/ */\.
 
 Copyright (c) */* Catalano Ltd. */* */* _holdings_ */* */\.
 
 Copyright (c) */* ALTUSNET */* */* _holdings_ */* */Limited Liability Company/* */\.
 
-Copyright (c) */* Catalano Concepts */* */* _holdings_ */* */Limited Liability Company/* */\.
+Copyright (c) */* Catalano Concepts */* */* _holdings_ */* */* _futures */* */* _service */* */Limited Liability Company/* */\.
 
 Copyright (c) */* conceptslearningmachine\.
 
 Copyright (c) */* Catalano */* */* _holdings_ */* */* _service */* */ */\.\.
 
-Copyright (c) */* _github_/_""github"".com""_/_github_ */* */* _holdings_ */* */* _service */* */GROUP/Corporation/* */INC./LLC./non-profit\.
+Copyright (c) */* _github_/_""github"".com""_/_github_ */* */* _holdings_ */* */* _futures */* */* _service */* */GROUP/Corporation/* */INC./LLC./non-profit\.
 
 Copyright (c) */* ALTUSNET */* */* _holdings_ */* Limited Liability Company */ */\.
 
@@ -346,7 +347,7 @@ Copyright (c) */* LLVM */* */* _holdings_ */* */* _service */* */ */non-profit\.
 
 Copyright (c) */* POSIX */* */* _holdings_ */* */* _service */* */SYSTEM/GROUP/* */non-profit\.
 
-Copyright (c) */* ARM */* ARM Holdings */* */* _holdings_ */* */*  _service */* */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* ARM */* ARM Holdings */* */* _holdings_ */* */*  _service */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
 Copyright (c) */* INTEL */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
@@ -356,7 +357,7 @@ Copyright (c) */* Dell */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./
 
 Copyright (c) */* HP */* */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-profit\.
 
-Copyright (c) */* AMD */* */*  _holdings_ */*  */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* AMD */* */*  _holdings_ */*  */Corporation/GROUP/* */INC./LLC./non-profit\.
 
 Copyright (c) */* IBM */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
@@ -370,7 +371,7 @@ Copyright (c) */* Rolls Royce */* Rolls Royce Power Units */* */* _holdings_ */*
 
 Copyright (c) */* CHASE BANK */* */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
 
-Copyright (c) */* Wells Fargo Bank */* */* _holdings_ */* */GROUP/*  */INC./LLC.\.
+Copyright (c) */* Wells Fargo Bank */* */* _holdings_ */* */GROUP/*  */INC./LLC.\.
 
 Copyright (c) */* Boeing */* Boeing Group */* Boeing Aerospace */* Boeing Power Units */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
@@ -450,7 +451,7 @@ Copyright (c) */* BANK OF CHINA */* */* _holdings_ */* */* _service */* */Corpor
 
 Copyright (c) */* The Vatican Bank/Vatican/The Holy See */* _(AIF)_ */* */* _(IOR)_ */* */* _holdings_ */* */* _service */* */GROUP/SYSTEM/* */non-profit\.
 
-Copyright (c) */* Roman Catholic Church/Diocese */* */* _(_RCC_) */* */* _holdings_ */* */*  _servi_service  */* */GROUP/SERIES/SERVICE/UNION/ENTITIE/CORPORATION/* */non-profit\.
+Copyright (c) */* Roman Catholic Church/Diocese */* */* _(_RCC_) */* */* _holdings_ */* */*  _servi_service  */* */GROUP/SERIES/SERVICE/UNION/ENTITIE/CORPORATION/* */non-profit\.
 
 Copyright (c) */* Financial Intelligence Authority (AIF) */* */* _holdings_ */* */* _service*/* */GROUP/Corporation/* */INC./LLC./non-profit\.
 
@@ -500,7 +501,7 @@ Copyright (c) */* U.S. Special Operations Command */* US Special Operations Comm
 
 Copyright (c) */* North American Aerospace Defense */* */* (NORAD) */* */* _holdings_ */* */* _service */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 
-Copyright (c) */* Antarctic Treaty System (ATS) */* */* _holdings_ */* */* _entity */* */*  _futures */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
+Copyright (c) */* Antarctic Treaty System (ATS) */* */* _holdings_ */* */* _entity */* */*  _futures */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 
 Copyright (c) */* U.S. NAVY SEAL/TEAM */* US NAVY SEAL/TEAM */* NAVY SEAL/TEAM */* United States Naval Special Warfare Command */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
@@ -516,7 +517,7 @@ Copyright (c) */* time.gov */* */* US Navel Observatory (USNO) */* */* _holdings
 
 Copyright (c) */* INTERNATIONAL BAR ASSOCIATION (IBA) */* */* "Esq" */* */* _holdings_ */* */GROUP/SYSTEM/* */*\.
 
-Copyright (c) */* network time protocol (NTP) (ntp/.ntp) */* */* _holdings_  */* */GROUP/SYSTEM/CORPORATION/* */INC./LLC./non-profit\.
+Copyright (c) */* network time protocol (NTP) (ntp/.ntp) */* */* _holdings_  */* */* _futures */* */* _service */* */GROUP/SYSTEM/CORPORATION/* */INC./LLC./non-profit\.
 
 Copyright (c) */* EARTH */* "EARTH" */* _planet_ Earth */* "Earth" */* */* _holdings_ */* */* _futures */* */* _service */* */SYSTEM/GROUP/TERAGEOASTROSPACE/* */*\.
 
@@ -558,7 +559,7 @@ Copyright (c) */* National Association for Stock Car Racing (NASCAR) */* */* _ho
 
 Copyright (c) */* The International Olympic Committee (IOC) (CIO) (NOC) */ */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
 
-Copyright (c) */* TeamUSA (USOC) */* */*  _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
+Copyright (c) */* TeamUSA (USOC) */* */*  _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
 
 Copyright (c) */* America Broadcasting Company (ABC) */* */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
 
@@ -662,7 +663,7 @@ Copyright (c) */* Merrie Melodies */* */* _holdings_ */* */* _service */* */ */\
 
 Copyright (c) */* A Nightmare on Elm Street */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */*  Optical Fiber Cable */* Fiber Optic Cable */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */*  Optical Fiber Cable */* Fiber Optic Cable */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Computer Generated Images (CGI) */* */* _holdings_ */* */* _service */* */ */\.
 
@@ -734,7 +735,7 @@ Copyright (c) */* The Open Group */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Mozilla/Firefox */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */*  The Apache Software Foundation */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */*  The Apache Software Foundation */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Twisted Sisters Group */* */* _holdings_ */* */* _service */* */ */\.
 
@@ -774,7 +775,9 @@ Copyright (c) */* DreamWorks */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* The BIT(s) Market */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-All rights reserved.    
+Copyright (c) */* Android Operating System (OS) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+
+All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -793,4 +796,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-

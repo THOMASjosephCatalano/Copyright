@@ -304,9 +304,9 @@ Copyright (c) */* src-git */* */* _holdings_ */* */* _service */* */SYSTEM//GROU
 
 Copyright (c) */* github */* */* _holdings_ */* */* _service */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
-Copyright (c) */* git/github/github.com/tomsnode/* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* git/github/github.com/tomsnode/* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* git/github/github.com/conceptslearningmachine/* */* _holdings_ */* */* */\.\.
+Copyright (c) */* git/github/github.com/conceptslearningmachine/* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* git/github/github.com/ALTUSNETS/* */* */* _holdings_ */* */* _futures */* */* _service */* */* */\.
 

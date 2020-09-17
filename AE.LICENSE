@@ -714,6 +714,8 @@ Copyright (c) */* America Chemical Society (ACS) */* */* _holdings_ */* */* _ser
 
 Copyright (c) */* Association for Computing Machinery (ACM) */* */* _holdings_ */* */* _service */* */ */\.
 
+Copyright (c) */* DUPONT */* */* _holdings_ */* */* _service */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

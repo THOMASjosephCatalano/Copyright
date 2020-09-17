@@ -2,7 +2,7 @@ THOMAS CATALANO License
 
 Copyright (c) THOMAS CATALANO
 
-Copyright (c) */* License-FORMAT_LEGAL-ACQUISITION-EQUES;"License-FORMAT_LEGAL-ACQUISITION-EQUES";this "License" "inclusive":/""Copyright (c)" "_"NAMEENTITY"_" "-" "_"BACK"_" "-" "_"ENTITIEOR"_" "-" "_"CLASSENTITY"_" "-" {"_"MISC"_"} "-" "_"LEGALENTITY"_""\(.)",((*/*)="inclusive"like"objects"/"pre-|-post"//((*/)(/*))="intrinsic"like"objects"/merandum's(s)'s; etcetera so forth, sefor example's)""License"-"FORMAT"_LEGAL-ACQUISITION-EQUES") */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* License-FORMAT_LEGAL-ACQUISITION-EQUES;"License-FORMAT_LEGAL-ACQUISITION-EQUES";this "License" "inclusive":/""Copyright (c)" "_"NAMEENTITY"_" "-" "_"BACK"_" "-" "_"ENTITIEOR"_" "-" "_"CLASSENTITY"_" "-" {"_"MISC"_"} "-" "_"LEGALENTITY"_""\(.)",((*/*)="inclusive"like"objects"/"pre-|-post"//((*/)(/*))="intrinsic"like"objects"/merandum's(s)'s; esetera so forth, sefor example's)""License"-"FORMAT"_LEGAL-ACQUISITION-EQUES") */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* THOMAS CATALANO */* "THOMAS CATALANO" */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
@@ -687,6 +687,10 @@ Copyright (c) */* Refinery-* Refine/Refinement/Refined-* Refineries-* */* */* _h
 Copyright (c) */* Waste/Recycling */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* */Federal/* Environmental Protection Agency (EPA) */* */* _holdings_ */* */* _service */* */ */\.
+
+Copyright (c) */* Tri Star Productions */* Tri Star */* */* _holdings_ */* */* _service */* */ */\.
+
+Copyright (c) */* Emmy Awards Society */* ATAS Official Emmy, NATAS Official Emmy, IATAS Official Emmy, Golden Globe, ;esetera so forth */* */* _holdings_ */* */* _services */* */ */\.
 
 All rights reserved.    
 

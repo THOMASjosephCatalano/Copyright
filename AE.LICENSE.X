@@ -752,6 +752,8 @@ Copyright (c) */* Dukakis Libertarian Group */* */* _holdings_ */* */* _service 
 
 Copyright (c) */* JC Whitney Association of America */* */* _holdings_ */* */* _service */* */ */\.
 
+Copyright (c) */* NORAD Group */* NORAD Constituency */* */* _holdings_ */* */* _service */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

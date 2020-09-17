@@ -528,7 +528,7 @@ Copyright (c) */* US Department of Treasury */* Department of Treasury */* US Tr
 
 Copyright (c) */* District of Columbia (D.C) */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* ACME */* '''ACME''' */* */* "entertainense" */* */* _holdings_ */* */CORPORATION/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* ACME */* ''ACME'' */* ACME corporation */* "entertainense" */* */* _holdings_ */* */CORPORATION/GROUP/* */INC./LLC./non-profit\.
 
 Copyright (c) */* WORLD BANK GROUP */* */* _holdings_ */* */* _service */* */GROUP/SYSTEM/* */non-profit\.
 
@@ -578,7 +578,7 @@ Copyright (c) */* The "" Nobel Committee */* The Nobel Prize Committee */* */* T
 
 Copyright (c) */* Nuclear Regulatory Commission (NRC) */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* spatial(*)(ie. -ator) */* */* vector(*)(ie. -izing) */* plot(*)(ie. -ting) */* graph(*)(ie. -ing) */* __spatial__vector__plot__graphing__ */* */* _holdings_ */* */* _service */* */SCOPE/CHARTS/SYSTEMS/NAVIGATION/HONING/MOTION/ENUMERATION/INSTRUMENTATION/* */ */\.
+Copyright (c) */* spatial(*)(ie. -ator) */* vector(*)(ie. -izing) */* plot(*)(ie. -ting) */* graph(*)(ie. -ing) */* __spatial__vector__plot__graphing__ */* */* _holdings_ */* _futures */* _service */* */SCOPE/CHARTS/SYSTEMS/NAVIGATION/HONING/MOTION/ENUMERATION/INSTRUMENTATION/* */ */\.
 
 Copyright (c) */* Screen Actors Guild | American Federation of Television and Radio Artists */* */* (SAG-AFTRA) */* */* _holdings */* */* _service */* */GROUP/UNION/CORPORATION/SYSTEM/TENDER/* */\.
 
@@ -602,7 +602,7 @@ Copyright (c) */* Cocaine (C 17 H 21 NO 4) */* cocaina plants */* */* _holdings_
 
 Copyright (c) */* 3,4-Methyl​enedioxy​methamphetamine (MDMA) */* */* _holdings */* */* _service */* */ */\.
 
-Copyright (c) */* */massage/sex/sexual-intercourse/sexuality/DNA*_reproduction-reproductive/social-activity/* */* */* "/massage/sex/sexuality/sexual-intercourse/DNA*_*/social-activity/*" */* */* _holdings_ */* */* _futures */* */* _service */* */STATE/TENDER/SYSTEM/GROUP/CORPORATION/GOVERNANCE/* */\.
+Copyright (c) */* */massage/sex/porn/sexual-intercourse/sexuality/DNA*_reproduction-reproductive/social-activity/* */* "/massage/sex/porn/sexuality/sexual-intercourse/DNA*_*/social-activity/*" */* */* _holdings_ */* */* _futures */* */* _service */* */STATE/TENDER/SYSTEM/GROUP/CORPORATION/GOVERNANCE/* */\.
 
 Copyright (c) */* Corporeal Inauguration/Punishment */* "judicating/medicating; indictment & extermination; people', place', thing'," */* */* _holdings_ */* */* _service(s) */* */STATE/SYSTEM/SERIES/TENDER/* */\.
 
@@ -626,7 +626,7 @@ Copyright (c) */* ConEdison */* */* ConEd */* Con Ed */* ConEd Public Works */* 
 
 Copyright (c) */* Edison Edison */* Edison Public Works */* Edison * */* Edison Holdings */* Edison Public Holdings */* Edison Group */* Edison Holding Group */* */* _holdings_ */* */* _service */* */CORPORATION/GROUP/UNIT/ENTITIE/TENDER/* */ */?STATELEGESLAFACTOR/* */\.
 
-Copyright (c) */* PSE&G */* */* PSE&G Holdings */* PSE&G Public Works */* PSE&G Utility Companies */* PSE&G Services */* PSE&G Site "Manakey" */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* PSE&G */* PSE&G Holdings */* PSE&G Public Works */* PSE&G Utility Companies */* PSE&G Services */* PSE&G Site "Manakey" */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* SunCor Energy */* SunCor Utilities */* SunCor R&D */* SunCor */* */* _holdings_ */* */* _service */* */ */\.
 
@@ -648,7 +648,7 @@ Copyright (c) */* wavelength(s)* */* */beams/radiations/isotope-emmision/photoni
 
 Copyright (c) */* GPS */* Global Positioning System */* Artificial/Natural Satellite(s) Geo-Terrestrial Orbital(s)/Station(s) */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* Merry Melodies */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Merrie Melodies */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* A Nightmare on Elm Street */* */* _holdings_ */* */* _service */* */ */\.
 

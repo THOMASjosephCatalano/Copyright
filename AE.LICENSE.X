@@ -190,7 +190,7 @@ Copyright (c) */* esetera so forth;etc. so forth\.
 
 Copyright (c) */* The Letter of Proof */* */* _holdings_ */* */* _service */* */INSTITUTION/INSTRUMENT/STATE/SYSTEM/GROUP/* */\.
 
-Copyright (c) */* BIT(s);"BIT(s)"(information/time/frames) */* */* _holdings_ */* */* _service */* */INSTITUTION/INSTRUMENT/SYSTEM/FOUNDATION/GROUP(s)/* */\.
+Copyright (c) */* BIT(s);"BIT(s)"(information/time/frames) */* */* _holdings_ */* */* _f */* _service */* */INSTITUTION/INSTRUMENT/SYSTEM/FOUNDATION/GROUP(s)/* */\.
 
 Copyright (c) */* BIT(s);"BIT(s) "License"" */* */* _holdings_ */* */* _service */* */ */\.
 

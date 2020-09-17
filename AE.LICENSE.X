@@ -122,9 +122,9 @@ Copyright (c) */* "^" */*
 
 Copyright (c) */* MIT License */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* THOMAS CATALANO(135-74-4812;DOB:1981-02-05) */* */* _holdings_ */* */* _futures */* */* _service */*  */INSTITUTION/INSTRUMENT/STATE/FOUNDATION/GROUP/SYSTEM/* */\.
+Copyright (c) */* THOMAS CATALANO(135-74-4812;DOB:1981-02-05) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* THOMAS CATALANO */* */* _holdings_ */* */* _service */* */INSTITUTION/INSTRUMENT/STATE/SYSTEM/GROUP/* */\.
+Copyright (c) */* THOMAS CATALANO License */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* BIT(s);"BIT(s): "License"";
 Copyright (c) */* ;BIT(s);"BIT(s)";

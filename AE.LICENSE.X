@@ -310,7 +310,7 @@ Copyright (c) */* git/github/github.com/conceptslearningmachine/* */* _holdings_
 
 Copyright (c) */* git/github/github.com/ALTUSNETS/* */* _holdings_ */* */* */\.
 
-Copyright (c) */* git/github/github.com/TheBitMarket/* */* _holdings */* */* */\.
+Copyright (c) */* git/github/github.com/TheBITsMarket/* */* _holdings */* */* */\.
 
 Copyright (c) */* CLM ~ Concepts Learning Machine */* */* _holdings_ */* */Limited Liability Company*/ */\.
 
@@ -771,6 +771,8 @@ Copyright (c) */* Esquire */* */* _holdings_ */* */* _service */* */ */\.
 Copyright (c) */* Capitol Hill */* The Metonymy */* Washington, D.C., */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* DreamWorks */* */* _holdings_ */* */* _service */* */ */\.
+
+Copyright (c) */* The BIT(s) Market */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 All rights reserved.    
 

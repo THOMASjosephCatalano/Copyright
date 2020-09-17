@@ -746,6 +746,10 @@ Copyright (c) */* Dinero Foundation */* AJ Group */* */* _holdings_ */* */* _ser
 
 Copyright (c) */* Robert Redford Association */* */* _holdings_ */* */* _service */* */ */\.
 
+Copyright (c) */* Mangano Affirmative Action Group */* */* _holdings_ */* */* _service */* */ */\.
+
+Copyright (c) */* Dukakis Libertarian Group */* */* _holdings_ */* */* _service */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

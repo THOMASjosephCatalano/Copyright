@@ -205,13 +205,13 @@ Copyright (c) */* ALTUSNET */* "ALTUSNET"
 
 Copyright (c) */* "cryptocurrency" */* */cryptocurrency/*;:((blockchain;algorithm)&|"like") */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* https:// */* */*"https://" */* */* _holdings */* */* _h*/* _service */* */* */\.
+Copyright (c) */* https:// */* */*"https://" */* */* _holdings */* */* _futures */* */* _service */* */* */\.
 
-Copyright (c) */* http:// */* */* "http://" */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* http:// */* */* "http://" */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* www */* */* "www." */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* www */* */* "www." */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* Copyright (c) */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Copyright (c) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* Ph.D/Ph.D. */* */* _holdings_ */* */* _service */* */INSTITUTION/INSTRUMENT/licensing/SYSTEM/GROUP(s)/FOUNDATION/STATE/* */non-profit\.
 
@@ -607,11 +607,11 @@ Copyright (c) */* 3,4-Methyl​enedioxy​methamphetamine (MDMA) */* */* _holdin
 
 Copyright (c) */* */massage/sex/porn/sexual-intercourse/sexuality/DNA*_reproduction-reproductive/social-activator/* */* "*/massage/sex/porn/sexuality/sexual-intercourse/DNA*_*/social-activity/*" */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* porn hub */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Pornographic Group */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* pornhub.com */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* dress hub */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Fran Dresser Group */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* inc Up Corporation */* */* _holdings_ */* */* _service */* */ */\.
 

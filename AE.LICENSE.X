@@ -211,9 +211,9 @@ Copyright (c) */* http:// */* */* "http://" */* */* _holdings_ */* */* _futures 
 
 Copyright (c) */* www */* */* "www." */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* Copyright (c) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* Copyright (c) */* */* _holdings_ */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* Ph.D/Ph.D. */* */* _holdings_ */* */* _service */* */INSTITUTION/INSTRUMENT/licensing/SYSTEM/GROUP(s)/FOUNDATION/STATE/* */non-profit\.
+Copyright (c) */* Ph.D/Ph.D. */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* "Ph.D"
 
@@ -521,7 +521,7 @@ Copyright (c) */* network time protocol (NTP) (ntp/.ntp) */* */* _holdings_  */
 
 Copyright (c) */* EARTH */* "EARTH" */* _planet_ Earth */* "Earth" */* */* _holdings_ */* */* _futures */* */* _service */* */SYSTEM/GROUP/TERAGEOASTROSPACE/* */*\.
 
-Copyright (c) */* space */* */ continuum */* */* _SPACE_ _CONTINUUM_ */* "Space Continuum" */* Space-Continuum */ SpaceContinuum */* _space__continuum_ */* */* _holdings_ */* */SYSTEM/FOUNDATION/GROUP/* */\.
+Copyright (c) */* space */* */ continuum */* */* _SPACE_ _CONTINUUM_ */* "Space Continuum" */* Space-Continuum */ SpaceContinuum */* _space__continuum_ */* */* _holdings_ */* */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* Humans */* _human_ _anatomy_ _anatomics_ */* _human__anatomy_ */* human-anatomy */* ""human" "anatomy"" */* */* _holdings_ */* */* _futures */* */* _service */**/SYSTEM/FOUNDATION/GROUP(S)/* */\.
 
@@ -779,7 +779,7 @@ Copyright (c) */* Android Operating System (OS) */* */* _holdings_ */* */* _futu
 
 Copyright (c) */* LG */* */* _holdings_ */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* Michelle Schreiner */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Michelle Schreiner Group */* */* _holdings_ */* */* _service */* */ */\.
 
 All rights reserved.    
 
@@ -800,3 +800,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+

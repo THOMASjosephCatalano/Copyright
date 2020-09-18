@@ -1,4 +1,5 @@
 THOMAS CATALANO License.x
+*/* AE.LICENSE.X */*
 
 Copyright (c) THOMAS CATALANO
 
@@ -364,7 +365,7 @@ Copyright (c) */* POSIX */* */* _holdings_ */* */* _futures */* */* _service */*
 
 Copyright (c) */* ARM */* */* ARM Holdings */* */* _holdings_ */* */* _futures */* */*  _service */* */Corporation/GROUP/* */ */\.
 
-Copyright (c) */* INTEL */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* INTEL */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* NIVIDIA */* */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC.\.
 
@@ -372,11 +373,11 @@ Copyright (c) */* Dell */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./
 
 Copyright (c) */* HP */* */* _holdings_ */* */Corporation/GROUP */INC./LLC./non-profit\.
 
-Copyright (c) */* AMD */* */*  _holdings_ */*  */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* AMD */* */*  _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* IBM */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* IBM */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* MICROSOFT */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* MICROSOFT */* */* _holdings_ */* */* _service */* */* */\.
 
 Copyright (c) */* Lockheed Martin */* Lockheed Martin Skunk Works */* */* _holdings_ */* */* _service */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
@@ -616,7 +617,7 @@ Copyright (c) */* US Federal Election Board/Commission */* */* FEDERAL ELECTION 
 
 Copyright (c) */* */Federal/* */* */* Food and Drug Administration */* */* _(_FDA_)_ */* */* _holdings_ */* */* _service */* */GROUP/SYSTEM/GOVERNANCE/STATE/TENDER/* */\.
 
-Copyright (c) */* Cocaine (C 17 H 21 NO 4) */* cocaina plants */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* cocaine (C 17 H 21 NO 4) */* cocaina plant's */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* cichorium-intybus_amphetamine-opiod */* */* _holdings_ */* */* _futures */* */* _service */ */\.
 

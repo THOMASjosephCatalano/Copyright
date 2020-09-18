@@ -2,8 +2,7 @@
 READ.md
 # Copyright (c) THOMAS CATALANO
 #
-*/* Copyright (c) THOMAS CATALANO
-\
+*/* Copyright (c) THOMAS CATALANO */*
 THOMAS CATALANO License 
 \
 THOMAS CATALANO License.x 

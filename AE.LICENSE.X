@@ -749,6 +749,8 @@ Copyright (c) */* Association for Computing Machinery (ACM) */* */* _holdings_ *
 
 Copyright (c) */* DUPONT */* */* _holdings_ */* */* _service */* */ */\.
 
+Copyright (c) */* SIEMENS */* */* _holdings_ */* _futures */* _service */* */ */\.
+
 Copyright (c) */* AMAZON */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* United States Gypsum (USG) */* */* _holdings_ */* */* _service */* */ */\.

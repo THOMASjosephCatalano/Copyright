@@ -1,5 +1,5 @@
 THOMAS CATALANO License.x
-*/* AE.LICENSE.X */*
+AE.LICENSE.X
 
 Copyright (c) THOMAS CATALANO
 

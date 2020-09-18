@@ -823,6 +823,10 @@ Copyright (c) */* Massachusetts Institute of Technology (MIT) */* Cambridge, MA 
 
 Copyright (c) */* US Department of Education */* Department of Education */* Board of Education */* */* _holdings_ */* _futures */* _service */* */ */\.
 
+Copyright (c) */* U.S. Department of State */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+
+Copyright (c) */* US Department of Labor */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

@@ -528,7 +528,7 @@ Copyright (c) */* INTERNATIONAL STANDARDS ORGANIZATION (ISO) */* */* _holdings_ 
 
 Copyright (c) */* NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY (NIST) */* */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 
-Copyright (c) */* time.gov */* */* US Navel Observatory (USNO) */* */* _holdings */* */* _service */* */ */\.
+Copyright (c) */* time.gov */* */* US Navel Observatory (USNO) */* */* _holdings */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* INTERNATIONAL BAR ASSOCIATION (IBA) */* */* "Esq" */* */* _holdings_ */* */GROUP/SYSTEM/* */*\.
 
@@ -616,9 +616,9 @@ Copyright (c) */* US Federal Election Board/Commission */* */* FEDERAL ELECTION 
 
 Copyright (c) */* */Federal/* */* */* Food and Drug Administration */* */* _(_FDA_)_ */* */* _holdings_ */* */* _service */* */GROUP/SYSTEM/GOVERNANCE/STATE/TENDER/* */\.
 
-Copyright (c) */* Cocaine (C 17 H 21 NO 4) */* cocaina plants */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Cocaine (C 17 H 21 NO 4) */* cocaina plants */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* 3,4-Methyl​enedioxy​methamphetamine (MDMA) */* */* _holdings */* */* _service */* */ */\.
+Copyright (c) */* 3,4-Methyl​enedioxy​methamphetamine (MDMA) */* */* _holdings */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* */massage/sex/porn/sexual-intercourse/sexuality/DNA*_reproduction-reproductive/social-activator/* */* "*/massage/sex/porn/sexuality/sexual-intercourse/DNA*_*/social-activity/*" */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 

@@ -41,4 +41,3 @@ SOFTWARE.
 
 # github.com/tomsnode/Copyright\
 # github.com/tomsnode\
-# READ.md

@@ -1,4 +1,5 @@
 THOMAS CATALANO License.x
+License.x.Copyright.LICENSE.X
 
 Copyright (c)
 

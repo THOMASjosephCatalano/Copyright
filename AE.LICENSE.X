@@ -777,7 +777,9 @@ Copyright (c) */* The BIT(s) Market */* */* _holdings_ */* */* _futures */* */* 
 
 Copyright (c) */* Android Operating System (OS) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* LG */* */* _holdings */* _futures */* */* _service */* */ */\.
+Copyright (c) */* LG */* */* _holdings_ */* _futures */* */* _service */* */ */\.
+
+Copyright (c) */* Michelle Schreiner */* */* _holdings_ */* */* _service */* */ */\.
 
 All rights reserved.    
 

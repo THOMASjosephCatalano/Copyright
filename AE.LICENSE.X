@@ -1,5 +1,8 @@
+
+Copyright (c) THOMAS CATALANO
+\
 THOMAS CATALANO License.x
-AE.LICENSE.X
+AE.LICENSE.x
 
 Copyright (c) THOMAS CATALANO
 
@@ -215,7 +218,7 @@ Copyright (c) */* BIT(s) */* */* _holdings_ */* */* _futures */* */* _service */
 
 Copyright (c) */* BIT(s);"BIT(s)" */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* ALTUSNET */* */* ALTUSNETS */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* ALTUSNET */* */* ALTUSNETS */* */* altusnets */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* "cryptocurrency" */* */cryptocurrency/*;:((blockchain;algorithm)&|"like") */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
@@ -331,13 +334,13 @@ Copyright (c) */* CLM ~ Concepts Learning Machine */* */* _holdings_ */* */* _fu
 
 Copyright (c) */* Catalano Ltd. */* */* _holdings_ */* */\.
 
-Copyright (c) */* ALTUSNET */* */* _holdings_ */* */Limited Liability Company/* */\.
+Copyright (c) */* ALTUSNET */* */* _holdings_ */* */* _futures */* */* _service */* */Limited Liability Company/* */\.
 
 Copyright (c) */* Catalano Concepts */* */* _holdings_ */* */* _futures */* */* _service */* */Limited Liability Company/* */ */\.
 
-Copyright (c) */* conceptslearningmachine\.
+Copyright (c) */* conceptslearningmachine */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.\.
 
-Copyright (c) */* Catalano */* */* _holdings_ */* */* _service */* */ */\.\.
+Copyright (c) */* Catalano */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* _github_/_""github"".com""_/_github_ */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
@@ -815,7 +818,7 @@ Copyright (c) */* Trump */* The Real Donald Trump */* */* _holdings_ */* */* _se
 
 Copyright (c) */* Bill & Melinda GATES Foundation */* GATES Foundation */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* Princeton University */* Princeton, NJ */* */* _holdings_ */**/* _service */* */ */\.
+Copyright (c) */* Princeton University */* Princeton, NJ */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Massachusetts Institute of Technology (MIT) */* Cambridge, MA */* */* _holdings_ */* */* _service */* */ *\.
 

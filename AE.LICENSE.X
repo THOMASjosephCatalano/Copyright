@@ -743,7 +743,7 @@ Copyright (c) */* The Herman Group */* */* _holdings_ */* */* _service */* */ */
 
 Copyright (c) */* Eva & Roger Richardelli Group */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* Geatano & Agata Group */* */* _holdings */* */* _service */* */ */\.
+Copyright (c) */* Agata Group */* */* _holdings */* */* _service */* */ */\.
 
 Copyright (c) */* www.mylife.com */* */* _holdings_ */* */* _service */* */ */\.
 

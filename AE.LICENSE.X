@@ -1,4 +1,4 @@
-THOMAS CATALANO License.x
+THOMAS CATALANO License
 
 Copyright (c) THOMAS CATALANO
 
@@ -13,7 +13,7 @@ Copyright (c) */* ;"";THOMAS CATALANO License(): */* */* _holdings_ */* */* _fut
 
 Copyright (c) */* Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
               */* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-              */* THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\.
+              */* THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. */* */* _holdings_ */* */* _futures */* */* _service */* */ /*\.
 
 Copyright (c) */* License-FORMAT_LEGAL-ACQUISITION-EQUES;"License-FORMAT_LEGAL-ACQUISITION-EQUES";this "License" "inclusive":/""Copyright (c)" "_"NAMEENTITY"_" "-" "_"BACK"_" "-" "_"ENTITIEOR"_" "-" "_"CLASSENTITY"_" "-" {"_"MISC"_"} "-" "_"LEGALENTITY"_""\(.)",((*/*)="inclusive"like"objects"/"pre-|-post"//((*/)(/*))="intrinsic"like"objects"/merandum's(s)'s; esetera so forth, sefor example's)""License"-"FORMAT"_LEGAL-ACQUISITION-EQUES") */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
@@ -328,13 +328,13 @@ Copyright (c) */* git/github/github.com/ALTUSNETS/* */* */* _holdings_ */* */* _
 
 Copyright (c) */* git/github/github.com/TheBITsMarket/* */* */* _holdings */* */* */\.
 
-Copyright (c) */* CLM ~ Concepts Learning Machine */* */* _holdings_ */* */* _futures */* */* _service */* */Limited Liability Company*/ */\.
+Copyright (c) */* CLM ~ Concepts Learning Machine */* */* _holdings_ */* */* _futures */* */* _service */* */Limited Liability Company*/ */ */\.
 
 Copyright (c) */* Catalano Ltd. */* */* _holdings_ */* */\.
 
 Copyright (c) */* ALTUSNET */* */* _holdings_ */* */Limited Liability Company/* */\.
 
-Copyright (c) */* Catalano Concepts */* */* _holdings_ */* */* _futures */* */* _service */* */Limited Liability Company/* */\.
+Copyright (c) */* Catalano Concepts */* */* _holdings_ */* */* _futures */* */* _service */* */Limited Liability Company/* */ */\.
 
 Copyright (c) */* conceptslearningmachine\.
 
@@ -346,23 +346,23 @@ Copyright (c) */* ALTUSNET */* */* _holdings_ */* Limited Liability Company */ *
 
 Copyright (c) */* www.conceptslearningmachine.com */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* UNIX */* */* UNIX Group */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* UNIX */* */* UNIX Group */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* linux */* */* _holdings_ */* */* _service */* */GROUP/SYSTEM/* */non-profit\.
+Copyright (c) */* linux */* */* _holdings_ */* */* _futures */* */* _service */* */GROUP/SYSTEM/* */non-profit\.
 
-Copyright (c) */* SElinux */* */* _holdings_ */* */* _service */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
+Copyright (c) */* SElinux */* */* _holdings_ */* */* _futures */* */* _service */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 
-Copyright (c) */* gnu */* */* _holdings_ */* */* _service */* */ */non-profit\.
+Copyright (c) */* gnu */* */* _holdings_ */* */* _futures */* */* _service */* */ */non-profit\.
 
-Copyright (c) */* gcc */* */* _holdings_ */* */* _service */* */ */non-profit\.
+Copyright (c) */* gcc */* */* _holdings_ */* */* _futures */* */* _service */* */ */non-profit\.
 
 Copyright (c) */* MOTOROLA */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
-Copyright (c) */* LLVM */* */* _holdings_ */* */* _service */* */ */non-profit\.
+Copyright (c) */* LLVM */* */* _holdings_ */* */* _futures */* */* _service */* */ */non-profit\.
 
-Copyright (c) */* POSIX */* */* _holdings_ */* */* _service */* */SYSTEM/GROUP/* */non-profit\.
+Copyright (c) */* POSIX */* */* _holdings_ */* */* _futures */* */* _service */* */SYSTEM/GROUP/* */non-profit\.
 
-Copyright (c) */* ARM */* ARM Holdings */* */* _holdings_ */* */*  _service */* */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* ARM */* */* ARM Holdings */* */* _holdings_ */* */* _futures */* */*  _service */* */Corporation/GROUP/* */ */\.
 
 Copyright (c) */* INTEL */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
@@ -392,7 +392,7 @@ Copyright (c) */* Boeing */* Boeing Group */* Boeing Aerospace */* Boeing Power 
 
 Copyright (c) */* BASF */* */* _holdings_ */* */Corporation/GROUP */Ltd./INC./LLC.\.
 
-Copyright (c) */* NYSE */* */* _holdings_ */* */* _service */* */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* NYSE */* */* _holdings_ */* */* _futures */* */* _service */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
 Copyright (c) */* NASDAQ */* */* _holdings_ */* */* _service */* */GROUP/Corporation/* */INC./LLC./non-profit\.
 
@@ -412,7 +412,7 @@ Copyright (c) */* Bank of America */* */* _holdings_ */* */* */GROUP*/Corporatio
 
 Copyright (c) */* Morgan Stanley */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
-Copyright (c) */* U.S. Securities Exchange */* */* _holdings_ */* */* _service */* */Corporation/GROUP */INC./LLC./non-profit\.
+Copyright (c) */* U.S. Securities Exchange */* */* _holdings_ */* */* _futures */* */* _service */* */Corporation/GROUP */INC./LLC./non-profit\.
 
 Copyright (c) */* U.S. Bond Market */* */* _holdings */* */* _futures */* */* _service */* */ */\.
 
@@ -500,7 +500,7 @@ Copyright (c) */* Civil Engineer */* */* _holdings_ */* */GROUP/Corporation/* */
 
 Copyright (c) */* US Air Force Research Laboratory (AFRL) */* */* _holdings_ */* */* _service */* */GROUP/Corporation/SYSTEM/* */INC./LLC./non-profit\.
 
-Copyright (c) */* US Space Force Research Laboratory (SFRL) */* */* _holdings_ */* */* _service */* */GROUP/Corporation/SYSTEM/* */INC./LLC./non-profit\.
+Copyright (c) */* US Space Force Research Laboratory (SFRL) */* */* _holdings_ */* */* _futures */* */* _service */* */GROUP/Corporation/SYSTEM/* */INC./LLC./non-profit\.
 
 Copyright (c) */* UNITED NATIONS */* */* (UN) */* */* _(_UN_)_ */* */* _holdings_ */* */* _service */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 
@@ -508,29 +508,29 @@ Copyright (c) */* INTERNATIONAL COURT OF JUSTICE/COURT OF INTERNATIONAL JUSTICE 
 
 Copyright (c) */* NORTH ATLANTIC TREATY ORGANIZATION(NATO) */* */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 
-Copyright (c) */* European Space Agency (ESA) */* _(_ESA_)_ */* */* _(_esa_)_ */* */* _holdings_ */* */* _service */* */GROUP/CORPORATION/* */* _entity_ */* */INC./LLC./non-profit\.
+Copyright (c) */* European Space Agency (ESA) */* _(_ESA_)_ */* */* _(_esa_)_ */* */* _holdings_ */* */* _futures */* */* _service */* */GROUP/CORPORATION/* */* _entity_ */* */ */\.
 
-Copyright (c) */* National Aeronautics and Space Agency (NASA) */* NASA */* NASA* */* NASA JPL */* _(_NASA_)_ */* */* _holdings_ */* */* _futures */* */* _service */* */GROUP/CORPORATION/SYSTEM/* */* _entity_ */* */INC./LLC./non-profit\.
+Copyright (c) */* National Aeronautics and Space Agency (NASA) */* NASA */* NASA* */* NASA JPL */* _(_NASA_)_ */* */* _holdings_ */* */* _futures */* */* _service */* */GROUP/CORPORATION/SYSTEM/* */* _entity_ */* */ */\.
 
 Copyright (c) */* U.S. Special Operations Command */* US Special Operations Command */* United States Special Operations Command */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* North American Aerospace Defense */* */* (NORAD) */* */* _holdings_ */* */* _service */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
+Copyright (c) */* North American Aerospace Defense */* */* (NORAD) */* */* _holdings_ */* */* _futures */* */* _service */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 
-Copyright (c) */* Antarctic Treaty System (ATS) */* */* _holdings_ */* */* _entity */* */*  _futures */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
+Copyright (c) */* Antarctic Treaty System (ATS) */* */* _holdings_ */* */* _entity */* */*  _futures */* */* _service */* */ */ */\.
 
 Copyright (c) */* U.S. NAVY SEAL/TEAM */* US NAVY SEAL/TEAM */* NAVY SEAL/TEAM */* United States Naval Special Warfare Command */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* U.S. NAVY SWCC/SBU */* US NAVY SWCC/SBU */* NAVY SWCC/SBU */* United States Naval Special Warfare Command */* */* _holdings_ */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* UNITED STATES SENATE */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* UNITED STATES SENATE */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* INTERNATIONAL STANDARDS ORGANIZATION (ISO) */* */* _holdings_ */* */* _service */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
+Copyright (c) */* INTERNATIONAL STANDARDS ORGANIZATION (ISO) */* */* _holdings_ */* */* _futures */* */* _service */* */GROUP/CORPORATION/SYSTEM/* */ */\.
 
-Copyright (c) */* NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY (NIST) */* */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
+Copyright (c) */* NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY (NIST) */* */* _holdings_ */* */* _futures */* */* _service */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 
 Copyright (c) */* time.gov */* */* US Navel Observatory (USNO) */* */* _holdings */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* INTERNATIONAL BAR ASSOCIATION (IBA) */* */* "Esq" */* */* _holdings_ */* */GROUP/SYSTEM/* */*\.
+Copyright (c) */* INTERNATIONAL BAR ASSOCIATION (IBA) */* */* "Esq" */* */* _holdings_ */* */* _futures */* */* _service */* */GROUP/SYSTEM/* */ */*\.
 
 Copyright (c) */* network time protocol (NTP) (ntp/.ntp) */* */* _holdings_  */* */* _futures */* */* _service */* */GROUP/SYSTEM/CORPORATION/* */INC./LLC./non-profit\.
 
@@ -540,11 +540,11 @@ Copyright (c) */* space */* */ continuum */* */* _SPACE_ _CONTINUUM_ */* "Space 
 
 Copyright (c) */* Humans */* _human_ _anatomy_ _anatomics_ */* _human__anatomy_ */* human-anatomy */* ""human" "anatomy"" */* */* _holdings_ */* */* _futures */* */* _service */**/SYSTEM/FOUNDATION/GROUP(S)/* */\.
 
-Copyright (c) */* THE UNITED STATES OF AMERICA */* */* UNITED STATES */* */* The United States of America */* */* _(_USA_)_ */* */* _(_US_)_ */* */* _(_U.S.A_)_ */* */ _(_U.S._)_ */* /* "telecom_country-code;US:(+1)\." */* */* "The United States of America" */* */* United States */* */* _holdings_ */* */* _futures */* */* _entity */* */* _futures */* */* _service */* */STATE/COUNTRY/INSTITUTION/SYSTEM/GROUP/FORTHRIGHT/* */\.
+Copyright (c) */* THE UNITED STATES OF AMERICA */* */* UNITED STATES */* */* The United States of America */* */* _(_USA_)_ */* */* _(_US_)_ */* */* _(_U.S.A_)_ */* */ _(_U.S._)_ */* /* "telecom_country-code;US:(+1)\." */* */* "The United States of America" */* */* United States */* */* _holdings_ */* */* _futures */* */* _entity */* */* _futures */* */* _service */* */STATE/COUNTRY/INSTITUTION/SYSTEM/GROUP/FORTHRIGHT/* */ */\.
 
-Copyright (c) */* US Department of Treasury */* Department of Treasury */* US Treasury */* */* Treasury */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* US Department of Treasury */* Department of Treasury */* US Treasury */* */* Treasury */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* District of Columbia (D.C.) */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* District of Columbia (D.C.) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* ACME */* ''ACME'' */* ACME corporation */* "entertainense" */* */* _holdings_ */* */CORPORATION/GROUP/* */INC./LLC./non-profit\.
 
@@ -582,23 +582,23 @@ Copyright (c) */* Scudaria Ferrari */* Ferrari */* engines/cars/vehicles/automob
 
 Copyright (c) */* Automobiles Ettore Bugatti */* Bugatti */* engines/cars/vehicles/automobiles */* */* _holdings_ */* */GROUP/CORPORATION/* */\.
 
-Copyright (c) */* Binary Translation */* coding/alpha-numerics-symbols */* */* _holdings_ */* */* _service */* *INSTITUTION/INSTRUMENT/SYSTEM/GROUP/* */\.
+Copyright (c) */* Binary Translation */* coding/alpha-numerics-symbols */* */* _holdings_ */* */* _futures */* */* _service */* *INSTITUTION/INSTRUMENT/SYSTEM/GROUP/* */\.
 
-Copyright (c) */* swastika */* "swastika" */* */* _holdings_ */* */GROUP/SYSTEM/CORPORATION/FOUNDATION/SYMBOL/LOGO/* */\.
+Copyright (c) */* swastika */* "swastika" */* */* _holdings_ */* */* _futures */* */* _service */* */GROUP/SYSTEM/CORPORATION/FOUNDATION/SYMBOL/LOGO/* */ */\.
 
 Copyright (c) */* US Department of Commerce (doc) */* Department of Commerce (doc) */* */* _holdings_ */* */* _service */* */GROUP/SYSTEM/* */\.
 
-Copyright (c) */* US Central Intelligence Agency (CIA) */* Central Intelligence Agency (CIA) */* */* _holdings_ */* */* _service */* */GROUP/SYSTEM/FOUNDATION/CORPORATION/* */\.
+Copyright (c) */* US Central Intelligence Agency (CIA) */* Central Intelligence Agency (CIA) */* */* _holdings_ */* */* _futures */* */* _service */* */GROUP/SYSTEM/FOUNDATION/CORPORATION/* */ */\.
 
-Copyright (c) */* US National Security Agency/Central Security Service (NSA|CSS) */* National Security Agency/Central Security Service (NSA|CSS) */* */* _holdings_ */* */* _service */* */GROUP/SYSTEM/FOUNDATION/* /*\.
+Copyright (c) */* US National Security Agency/Central Security Service (NSA|CSS) */* National Security Agency/Central Security Service (NSA|CSS) */* */* _holdings_ */* */* _futures */* */* _service */* */GROUP/SYSTEM/FOUNDATION/* */ /*\.
 
-Copyright (c) */* The "" Nobel Committee */* The Nobel Prize Committee */* The Nobel Prize */* */* _holdings_ */* */* _service */* */GROUP/SERIES/TENDER/* */\.
+Copyright (c) */* The "" Nobel Committee */* The Nobel Prize Committee */* The Nobel Prize */* */* _holdings_ */* */* _futures */* */* _service */* */GROUP/SERIES/TENDER/* */ */\.
 
-Copyright (c) */* Nuclear Regulatory Commission (NRC) */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Nuclear Regulatory Commission (NRC) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* spatial(*)(ie. -ator) */* vector(*)(ie. -izing) */* plot(*)(ie. -ting) */* graph(*)(ie. -ing) */* __spatial__vector__plot__graphing__ */* */* _holdings_ */* _futures */* _service */* */SCOPE/CHARTS/SYSTEMS/NAVIGATION/HONING/MOTION/ENUMERATION/INSTRUMENTATION/* */ */\.
 
-Copyright (c) */* Screen Actors Guild | American Federation of Television and Radio Artists */* */* (SAG-AFTRA) */* */* _holdings */* */* _service */* */GROUP/UNION/CORPORATION/SYSTEM/TENDER/* */\.
+Copyright (c) */* Screen Actors Guild | American Federation of Television and Radio Artists */* */* (SAG-AFTRA) */* */* _holdings */* */* _futures */* */* _service */* */GROUP/UNION/CORPORATION/SYSTEM/TENDER/* */ */\.
 
 Copyright (c) */* Royal Society */* "The Royal Society" */* The Royal Society of London for Improving Natural Knowledge */* */* _holdings_*/* */* _service */* */FELLOWS/SOCIETY/GROUP/SYSTEM/TENDER/* */\.
 
@@ -608,11 +608,11 @@ Copyright (c) */* The Masonic Order */* "Freemasonry" */* */* _holdings_ */* */*
 
 Copyright (c) */* Goldman Sachs, Rockefellers, Lehmans and Kuhn Loebs of New York; the Rothschilds of Paris and London; the Warburgs of Hamburg; the Lazards of Paris; and the Israel Moses Seifs of Rome :: "Goldman Sachs, Rockefellers, Lehmans and Kuhn Loebs of New York; the Rothschilds of Paris and London; the Warburgs of Hamburg; the Lazards of Paris; and the Israel Moses Seifs of Rome" */* */* _holdings_ */* */* _service */* */BANKTERS/GROUP/CORPORATION/ORDER/UNION/TENDER/* */\.
 
-Copyright (c) */* Federal Reserve System */* */* Federal Reserve Bank */* */* _holdings_ */* */* _service */* */SYSTEM/GROUP/CORPORATION/UNION/TENDER/SOCALITY/* */\.
+Copyright (c) */* Federal Reserve System */* */* Federal Reserve Bank */* */* _holdings_ */* */* _futures */* */* _service */* */SYSTEM/GROUP/CORPORATION/UNION/TENDER/SOCALITY/* */\.
 
 Copyright (c) */* The Presidency of the United States of America */* */* _(_US_)_ */* */* _holdings_ */* */* _service */* */GOVERNANCE/STATE/SYSTEM/GROUP/TENDER/* */\.
 
-Copyright (c) */* US Federal Election Board/Commission */* */* FEDERAL ELECTION COMMISSION (FEC) */* */* _holdings_ */* */* _service */* */Committee/Commission/GROUP/SYSTEM/STATE/TENDER/* */\.
+Copyright (c) */* US Federal Election Board/Commission */* */* FEDERAL ELECTION COMMISSION (FEC) */* */* _holdings_ */* */* _futures */* */* _service */* */Committee/Commission/GROUP/SYSTEM/STATE/TENDER/* */\.
 
 Copyright (c) */* */Federal/* */* */* Food and Drug Administration */* */* _(_FDA_)_ */* */* _holdings_ */* */* _service */* */GROUP/SYSTEM/GOVERNANCE/STATE/TENDER/* */\.
 
@@ -630,23 +630,23 @@ Copyright (c) */* Fran Dresser Group */* */* _holdings_ */* */* _service */* */ 
 
 Copyright (c) */* inc Up Corporation */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* Corporeal Inaugurant/Punishment */* "judicating/medicating; indictment & extermination; people', place', thing'," */* */* _holdings_ */* */* _service(s) */* */STATE/SYSTEM/SERIES/TENDER/* */\.
+Copyright (c) */* Corporeal Inaugurant/Punishment */* "judicating/medicating; indictment & extermination; people', place', thing'," */* */* _holdings_ */* */* _futures */* */* _service(s) */* */STATE/SYSTEM/SERIES/TENDER/* */\.
 
 Copyright (c) */* Law Enforcement/Penetron */* */* "law & order" */* */* _holdings_ */* */* _service(s) */* */INSTITUTION/SERVICE/GROUP/UNION/GOVERNANCE/STATE/* */\.
 
-Copyright (c) */* US Department of Defense */* Department of Defense */* _(_DOD_)_ */* */* _holdings_ */* */* _service */* */INSTITUTION/INSTRUMENT/STATE/UNION/GROUP/SERIES/* */\. 
+Copyright (c) */* US Department of Defense */* Department of Defense */* _(_DOD_)_ */* */* _holdings_ */* */* _futures */* */* _service */* */INSTITUTION/INSTRUMENT/STATE/UNION/GROUP/SERIES/* */\. 
 
 Copyright (c) */* US Department of Justice */* Department of Justice */* _(_DOJ_)_ */* */* _holdings_ */* */* _service */* */INSTITUTION/INSTRUMENT/UNION/SERIES/STATE/* */\.
 
 Copyright (c) */* US Department of Homeland Security */* Homeland Security */* _(_DHS)_) */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* Human Brain Project */* */* _holdings_ */* */* _service */* */GROUP/ENTITIE/SERVICES/* */\.
+Copyright (c) */* Human Brain Project */* */* _holdings_ */* */* _futures */* */* _service */* */GROUP/ENTITIE/SERVICES/* */\.
 
 Copyright (c) */* European Union */* _(_EU_)_ */* */* _holdings_ */* */* _entity_ */* */* _service */* */STATE/UNION/GOVERNANCE/TENDER/* */\.
 
 Copyright (c) */* Asia Group (TAG) */* _(_TAG_)_ */* */* _holdings_ */* */* _service */* */GROUP/ENTITIES/STATE/UNION/* */\.
 
-Copyright (c) */* Niagara Falls (NY_USA/Ontario_Canada) */* Niagara Frontier Commission */* Niagara Gorge Frontier */* Niagara Falls State Park */* Niagara Falls Conservation Board/Commission */* Niagara Falls "Power"_"Electric-Generation"-- */Scope/Commission/Committee/GROUP/Association/Surver's/Companies/* */* Niac Group inc. */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Niagara Falls (NY_USA/Ontario_Canada) */* Niagara Frontier Commission */* Niagara Gorge Frontier */* Niagara Falls State Park */* Niagara Falls Conservation Board/Commission */* Niagara Falls "Power"_"Electric-Generation"-- */Scope/Commission/Committee/GROUP/Association/Surver's/Companies/* */* Niac Group inc. */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* ConEdison */* ConEd */* Con Ed */* ConEd Public Works */* ConEd Utility Companies */* ConEdison Edison */* ConEdison * */* ConEdison HOLDINGS */* ConEdison GROUP */* ConEdison NYC */* ConEdison Public Works */* ConEdison ConEd */* ConEdison Power Generator(s) */* ConEdison Batterie(s) */* ConEdison Site "Manakey" */* */* _holdings_ */* */* _service */* */GROUP/CORPORATION/ENTITIE/UNION/SERVICES/UNIT/* */ */\.
 
@@ -656,15 +656,15 @@ Copyright (c) */* PSE&G */* PSE&G Public Works */* PSE&G Utility Companies */* P
 
 Copyright (c) */* SunCor Energy */* SunCor */* SunCor Utilities */* SunCor R&D */* SunCor */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* US Department of Energy */* Department of Energy */* */* _(_DOE_)_ */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* US Department of Energy */* Department of Energy */* */* National Laboratories */* */* _(_DOE_)_ */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* US Department of Transportation */* Department of Transportation */* Department of Energy */* National Laboratories */* _(_DOT_)_ */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* US Department of Transportation */* Department of Transportation */* Department of Energy */* _(_DOT_)_ */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* US Department of Agriculture */* Department of Agriculture */* _(_DOA_)_ */* */*_holdings_ */* */* _service */* */\.
 
-Copyright (c) */* CERN */* */* The European Organization for Nuclear Research */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* CERN */* */* The European Organization for Nuclear Research */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* ALCOA */* Alcoa Corporation */* Alcoa R&D */* ALCOA GROUP */* metal(s)/alloy(s) */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* ALCOA */* Alcoa Corporation */* Alcoa R&D */* ALCOA GROUP */* metal(s)/alloy(s) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* Gold(Au).spot*_100.9%.purity*)* */* "gold(Au)* _(_&_)_ "precious_metal(s)*" */* Gold(Au)* Reserves */* GOLD(Au)* */MINING/FRONTIER(s)/SCOPE(s)/* */* GOLD(Au)* */DERIVATIVES/STOCKS/BEARS/* */* GOLD(Au)* */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
@@ -672,17 +672,17 @@ Copyright (c) */* *frequencie*(s)* */* */Vacuum-Tube/Copper*/RF/HF/UHF/WI-FI/GSM
 
 Copyright (c) */* *wavelength*(s)* */* */HUD/sound/beam*/radiation*/isotope-emmision/photonic*/pressurized*/X-Ray/*Binary Translator/* */* wavelength=electromagnetism */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* GPS */* Global Positioning System */* Artificial/Natural Satellite(s) Geo-Terrestrial Orbital(s)/Station(s) */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* GPS */* Global Positioning System */* Artificial/Natural Satellite(s) Geo-Terrestrial Orbital(s)/Station(s) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* Merrie Melodies */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* A Nightmare on Elm Street */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */*  Optical Fiber Cable */* Fiber Optic Cable */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */*  Optical Fiber Cable */* Fiber Optic Cable */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* Computer Generated Images (CGI) */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* A/V */* Audio/Video */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* A/V */* Audio/Video */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* TV/Radio */* */* _holdings */* */* _service */* */ */\.
 
@@ -690,7 +690,7 @@ Copyright (c) */* Speed of Light | (c=0) */* "light=congruent space" */* */* _ho
 
 Copyright (c) */* photon(s)::photonic_* */* "photon=ilumane wavelength" */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* portal(s)::port_* | ["classical" :: "quantum"] */* */transport/teleport/passages/* */* */* _holdings_ */* */* _futures */* */* _service */* */ */\
+Copyright (c) */* portal(s)::port_* */* "classical" :: "quantum" */* */transport/teleport/passages/* */* */* _holdings_ */* */* _futures */* */* _service */* */ */\
 
 Copyright (c) */* National Science Foundation */* NSF */* */* _holdings_ */* */* _service */* */ */\.
 
@@ -706,7 +706,7 @@ Copyright (c) */* */crude-oil/petroleum/benzene/* */* */* _holdings_ */* */* _fu
 
 Copyright (c) */* The Group */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* Import-Export Trade Agreement */* "Import-Export" */* IMPORT-EXPORT* */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Import-Export Trade Agreement */* "Import-Export" */* IMPORT-EXPORT* */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* Refinery-* Refine/Refinement/Refined-* Refineries-* */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
@@ -730,15 +730,15 @@ Copyright (c) */* Disney */* */* _holdings_ */* */* _services */* */ */\.
 
 Copyright (c) */* Python Programming Language */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* Assembly Programming Language */* */* _holdings */* */* _service */* */ */\.
+Copyright (c) */* Assembly Programming Language */* */* _holdings */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* The Institute of Electrical and Electronics Engineers (IEEE) */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* The Institute of Electrical and Electronics Engineers (IEEE) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* The International Union of Pure and Applied Chemistry (IUPAC) */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* The International Union of Pure and Applied Chemistry (IUPAC) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* America Chemical Society (ACS) */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* America Chemical Society (ACS) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* Association for Computing Machinery (ACM) */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Association for Computing Machinery (ACM) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* DUPONT */* */* _holdings_ */* */* _service */* */ */\.
 
@@ -776,7 +776,7 @@ Copyright (c) */* Dukakis Libertarian Group */* */* _holdings_ */* */* _service 
 
 Copyright (c) */* JC Whitney Association of America */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* NORAD Group */* NORAD Constituency */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* NORAD Group */* NORAD Constituency */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* Mark Zucherburg Corporation */* */* _holdings_ */* */* _service */* */ */\.
 
@@ -789,6 +789,12 @@ Copyright (c) */* Capitol Hill */* The Metonymy */* Washington, D.C., */* */* _h
 Copyright (c) */* DreamWorks */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* The BIT(s) Market */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+
+Copyright (c) */* Gmail */* Google Gmail */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+
+Copyright (c) */* Outlook */* Microsoft Outlook */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+
+Copyright (c) */* Windows */* Microsoft Windows */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* Android Operating System (OS) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 

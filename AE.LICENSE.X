@@ -595,7 +595,7 @@ Copyright (c) */* US Central Intelligence Agency (CIA) */* Central Intelligence 
 
 Copyright (c) */* US National Security Agency/Central Security Service (NSA|CSS) */* National Security Agency/Central Security Service (NSA|CSS) */* */* _holdings_ */* */* _futures */* */* _service */* */GROUP/SYSTEM/FOUNDATION/* */ /*\.
 
-Copyright (c) */* The "" Nobel Committee */* The Nobel Prize Committee */* The Nobel Prize */* */* _holdings_ */* */* _futures */* */* _service */* */GROUP/SERIES/TENDER/* */ */\.
+Copyright (c) */* The Nobel Committee */* The Nobel Prize Committee */* The Nobel Prize */* The "_" Nobel Committee */* */* _holdings_ */* */* _futures */* */* _service */* */GROUP/SERIES/TENDER/* */ */\.
 
 Copyright (c) */* Nuclear Regulatory Commission (NRC) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
@@ -723,7 +723,7 @@ Copyright (c) */* Waste/Recycling */* */* _holdings_ */* */* _futures */* */* _s
 
 Copyright (c) */* */Federal/* Environmental Protection Agency (EPA) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* Tri Star Productions */* Tri Star */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* A Tri Star Production */* Tri Star */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Emmy Society */* ATAS, NATAS, IATAS, Golden Globe, Oscars, ;esetera so forth */* */* _holdings_ */* */* _services */* */ */\.
 
@@ -761,7 +761,7 @@ Copyright (c) */* The Open Group */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Mozilla/Firefox */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */*  The Apache Software Foundation */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* The Apache Software Foundation */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Twisted Sisters Group */* */* _holdings_ */* */* _service */* */ */\.
 
@@ -782,6 +782,8 @@ Copyright (c) */* Bobby D Foundation */* Dinero Foundation */* AJ Group */* */* 
 Copyright (c) */* Robert Redford Association */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Mangano Association */* */* _holdings_ */* */* _service */* */ */\.
+
+Copyright (c) */* Ashton Kutcher Group */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Dukakis Libertarian Group */* */* _holdings_ */* */* _service */* */ */\.
 

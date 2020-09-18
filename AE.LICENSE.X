@@ -817,9 +817,11 @@ Copyright (c) */* Trump */* The Real Donald Trump */* */* _holdings_ */* */* _se
 
 Copyright (c) */* Bill & Melinda GATES Foundation */* GATES Foundation */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* Princeton University */* Princeton, NJ */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* Princeton University */* Princeton, NJ */* */* _holdings_ */**/* _service */* */ */\.
 
-Copyright (c) */* Massachusetts Institute of Technology (MIT) */* Cambridge, MA */* */* _holdings_ */* */* _futures */* */* _service */* */ *\.
+Copyright (c) */* Massachusetts Institute of Technology (MIT) */* Cambridge, MA */* */* _holdings_ */* */* _service */* */ *\.
+
+Copyright (c) */* US Department of Education */* Department of Education */* Board of Education */* */* _holdings_ */* _futures */* _service */* */ */\.
 
 All rights reserved.    
 

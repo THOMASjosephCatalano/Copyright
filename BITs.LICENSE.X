@@ -1,3 +1,5 @@
+*/* Copyright (c) THOMAS CATALANO
+\
 THOMAS CATALANO License.x
 BITs.LICENSE.X
 

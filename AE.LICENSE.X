@@ -215,7 +215,7 @@ Copyright (c) */* BIT(s) */* */* _holdings_ */* */* _futures */* */* _service */
 
 Copyright (c) */* BIT(s);"BIT(s)" */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* ALTUSNET */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* ALTUSNET */* */* ALTUSNETS */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* ALTUSNET */* "ALTUSNET" */*
 
@@ -325,7 +325,7 @@ Copyright (c) */* git/github/github.com/tomsnode/* */* _holdings_ */* */* _futur
 
 Copyright (c) */* git/github/github.com/conceptslearningmachine/* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* git/github/github.com/ALTUSNETS/* */* */* _holdings_ */* */* _futures */* */* _service */* */* */\.
+Copyright (c) */* git/github/github.com/altusnets/* */* */* _holdings_ */* */* _futures */* */* _service */* */* */\.
 
 Copyright (c) */* git/github/github.com/TheBITsMarket/* */* */* _holdings */* */* */\.
 

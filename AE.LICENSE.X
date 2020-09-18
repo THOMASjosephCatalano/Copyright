@@ -747,7 +747,7 @@ Copyright (c) */* Geatano & Agata Group */* */* _holdings */* */* _service */* *
 
 Copyright (c) */* www.mylife.com */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* Jerome Institute of Serenity */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Jerome Institute of Serinity */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Catechism Society of America */* */* _holdings_ */* */* _service */* */ */\.
 

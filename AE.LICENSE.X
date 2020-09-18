@@ -781,6 +781,8 @@ Copyright (c) */* LG */* */* _holdings_ */* _futures */* */* _service */* */ */\
 
 Copyright (c) */* Michelle Schreiner Group */* */* _holdings_ */* */* _service */* */ */\.
 
+Copyright (c) */* Trump */* */* _holdings_ */* */* _service */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

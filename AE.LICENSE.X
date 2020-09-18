@@ -755,7 +755,7 @@ Copyright (c) */* Bobby D Foundation */* Dinero Foundation */* AJ Group */* */* 
 
 Copyright (c) */* Robert Redford Association */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* Mangano Affirmative Action Group */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Mangano Association */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Dukakis Libertarian Group */* */* _holdings_ */* */* _service */* */ */\.
 

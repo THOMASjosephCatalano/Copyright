@@ -618,7 +618,13 @@ Copyright (c) */* */Federal/* */* */* Food and Drug Administration */* */* _(_FD
 
 Copyright (c) */* Cocaine (C 17 H 21 NO 4) */* cocaina plants */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
+Copyright (c) */* cichorium-intybus_amphetamine-opiod */* */* _holdings_ */* */* _futures */* */* _service */ */\.
+
 Copyright (c) */* 3,4-Methyl​enedioxy​methamphetamine (MDMA) */* */* _holdings */* */* _futures */* */* _service */* */ */\.
+
+Copyright (c) */* pseudoephedrine (SUDAFED) */* */* _holdings_ */* _futures */* */* _service */* */ */\.
+
+Copyright (c) */* dramamine (Diphenhydramine) */* */* _holdings_ */* */* _futures */* _service */* */ */\.
 
 Copyright (c) */* */massage/sex/prostatude/sexual-intercourse/sexuality/DNA*_reproduction-reproductive/social-activator/* */* "*/massage/sex/prostatude/sexuality/sexual-intercourse/DNA*_*/social-activity/*" */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 

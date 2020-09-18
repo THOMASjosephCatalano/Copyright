@@ -2,11 +2,24 @@ THOMAS CATALANO License.x
 
 Copyright (c) THOMAS CATALANO
 
+Copyright (c) */* ;THOMAS CATALANO(135-74-4812;DOB:1981-02-05);"Doctor";"Ph.D."(); */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* ;"";CATALANO THOMAS(); */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* ;"THOMAS CATALANO"; */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* ;Copyright (c) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* ;"";"Copyright (c)"; */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* ;"";"All rights reserved."; */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* ;"";"License";"License.x"; */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* ;"";THOMAS CATALANO License(): */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+
+Copyright (c) */* Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+              */* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+              */* THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\.
+
 Copyright (c) */* License-FORMAT_LEGAL-ACQUISITION-EQUES;"License-FORMAT_LEGAL-ACQUISITION-EQUES";this "License" "inclusive":/""Copyright (c)" "_"NAMEENTITY"_" "-" "_"BACK"_" "-" "_"ENTITIEOR"_" "-" "_"CLASSENTITY"_" "-" {"_"MISC"_"} "-" "_"LEGALENTITY"_""\(.)",((*/*)="inclusive"like"objects"/"pre-|-post"//((*/)(/*))="intrinsic"like"objects"/merandum's(s)'s; esetera so forth, sefor example's)""License"-"FORMAT"_LEGAL-ACQUISITION-EQUES") */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* THOMAS CATALANO */* "THOMAS CATALANO" */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* BIT(s);"BIT(s)";"algorithm:"this "License" "inclusive"""; */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* BIT(s);"BIT(s)";:"algorithm:"this License(); "inclusive"""; */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* All rights reserved. */* "All rights reserved." */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
@@ -127,7 +140,7 @@ Copyright (c) */* THOMAS CATALANO(135-74-4812;DOB:1981-02-05) */* */* _holdings_
 Copyright (c) */* THOMAS CATALANO License */* */* _holdings_ */* */* _futures */* */* _service */* */* */\.
 Copyright (c) */* THOMAS CATALANO License.x */* */* _holdings_ */* */* _futures */* _service */* */ */\.
 
-Copyright (c) */* BIT(s);"BIT(s): "License"";
+Copyright (c) */* BIT(s);"BIT(s): "License"License.";
 Copyright (c) */* ;BIT(s);"BIT(s)";
 Copyright (c) */* BIT(s);"BIT(s)";:"algorithm:"this License(); "inclusive""";
 Coptright (c) */* ;motion by &| of panticulation serfractions perpetuation;algorithm:
@@ -141,7 +154,7 @@ Copyright (c) */* ;transaction(s)/transactionary serfraction(s) require(s) barte
 
 Copyright (c) */* ;BIT(s)-mater-material-mass-structure(s)'s:""BIT(s)-mater-material-mass-structure(s)'"s"";
 
-Copyright (c) */* Binary Coded Decmil(BSD);"Binary Coded Decmil(BSD): "License"";
+Copyright (c) */* Binary Coded Decmil(BSD);"Binary Coded Decmil(BSD): "License"License.x"; */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* ;"";Binary Coded Decimal(BCD);"Binary Coded Decimal(BCD)";"*/system/format/encoding/*"";
 Copyright (c) */* ;".*" .*="all"_.file;/format/extensions/encoding/"esetera so forth"/*;
@@ -195,13 +208,15 @@ Copyright (c) */* BIT(s);"BIT(s)"(information/time/frames) */* */* _holdings_ */
 
 Copyright (c) */* BIT(s);"BIT(s) "License"" */* */* _holdings_ */* */* _service */* */ */\.
 
+Copyright (c) */* BIT(s);"BIT(s): "License"License.x"; */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+
 Copyright (c) */* BIT(s) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* BIT(s);"BIT(s)" */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* ALTUSNET */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* ALTUSNET */* "ALTUSNET"
+Copyright (c) */* ALTUSNET */* "ALTUSNET" */*
 
 Copyright (c) */* "cryptocurrency" */* */cryptocurrency/*;:((blockchain;algorithm)&|"like") */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
@@ -221,9 +236,9 @@ Copyright (c) */* "Ph.D."
 
 Copyright (c) */* "PhD"
 
-Copyright (c) */* PhD */* */* _holdings_ */* */* _service */* */INSTITUTION/INSTRUMENT/EDUCATION/SYSTEM/GROUP/FOUNDATION/STATE/* */non-profit\.
+Copyright (c) */* PhD */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* */Physics/Chemistry/Numerical-Comp/Law/* */* */* _holdings_ */* */* _futures */* */* _service */* */INSTITUTION/STUDY/FIELD/DEGREE/SYSTEM/FOUNDATION/GROUP/TENDER/* */\.
+Copyright (c) */* */Physics/Chemistry/Numerical-Comp/Law/* */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* "?" */* */* _holdings_ */* */ */\.
 
@@ -495,7 +510,7 @@ Copyright (c) */* NORTH ATLANTIC TREATY ORGANIZATION(NATO) */* */* _holdings_ */
 
 Copyright (c) */* European Space Agency (ESA) */* _(_ESA_)_ */* */* _(_esa_)_ */* */* _holdings_ */* */* _service */* */GROUP/CORPORATION/* */* _entity_ */* */INC./LLC./non-profit\.
 
-Copyright (c) */* National Aeronautics and Space Agency (NASA) */* NASA */* NASA* */* NASA JPL */* _(_NASA_)_ */* */* _holdings_ */* */* _service */* */GROUP/CORPORATION/SYSTEM/* */* _entity_ */* */INC./LLC./non-profit\.
+Copyright (c) */* National Aeronautics and Space Agency (NASA) */* NASA */* NASA* */* NASA JPL */* _(_NASA_)_ */* */* _holdings_ */* */* _futures */* */* _service */* */GROUP/CORPORATION/SYSTEM/* */* _entity_ */* */INC./LLC./non-profit\.
 
 Copyright (c) */* U.S. Special Operations Command */* US Special Operations Command */* United States Special Operations Command */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
@@ -780,6 +795,8 @@ Copyright (c) */* Android Operating System (OS) */* */* _holdings_ */* */* _futu
 Copyright (c) */* LG */* */* _holdings_ */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* Michelle Schreiner Group */* */* _holdings_ */* */* _service */* */ */\.
+
+Copyright (c) */* Obama */* The Obama Nation */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Trump */* The Real Donald Trump */* */* _holdings_ */* */* _service */* */ */\.
 

@@ -24,7 +24,7 @@ Copyright (c) */* THOMAS CATALANO */* "THOMAS CATALANO" */* */* _holdings_ */* *
 
 Copyright (c) */* BIT(s);"BIT(s)";:"algorithm:"this License(); "inclusive"""; */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* bit */* bit(s) */* BIT */* BIT(s) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* bit */* bit(s) */* BIT */* BIT(s) */* byte */* byte(s) */* BYTE */* BYTE(s) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* All rights reserved. */* "All rights reserved." */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 

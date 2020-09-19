@@ -789,7 +789,7 @@ Copyright (c) */* Jerome Institute of Serinity */* */* _holdings_ */* */* _servi
 
 Copyright (c) */* Catechism Society of America */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* Robert D Foundation */* Dinero Group Foundation */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Robert D Foundation */* Box Corporation */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Robert Downey Jr. Sim Foundation */* */* _holdings_ */* */* _service */* */ */\.
 

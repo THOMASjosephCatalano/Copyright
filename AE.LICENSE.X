@@ -865,9 +865,9 @@ Copyright (c) */* Federal Communications Commission (FCC) */* */* _holdings_ */*
 
 Copyright (c) */* United States Navy Band */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* US Attorney General */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* Attorney General of the United States */* OFFICE OF THE ATTORNEY GENERAL */* US Attorney General */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* US Surgeon General */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* Surgeon General of the United States */* Office of the Surgeon General (OSG) */* US Surgeon General */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* American Psychological Association (APA) */* */*  Publication Manual of the American Psychological Association */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 

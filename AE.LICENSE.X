@@ -795,11 +795,11 @@ Copyright (c) */* Robert Downey Jr. Sim Foundation */* */* _holdings_ */* */* _s
 
 Copyright (c) */* Robert Redford Association */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* Mangano Grooper */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Joseph Mangano Groopers */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Michael Andretti Group */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* AJ Groop */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* AJ Schumaus Groop */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* John Bamber Equity Group */* */* _holdings_ */* */* _service */* */ */\.
 

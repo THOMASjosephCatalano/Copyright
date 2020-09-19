@@ -1,7 +1,7 @@
 */* Copyright (c) THOMAS CATALANO */*
 
 THOMAS CATALANO License.x
-License.x.LICENSE.X
+License.x.LICENSE.x
 
            
 Permission is hereby granted, free of charge, to any person obtaining a copy

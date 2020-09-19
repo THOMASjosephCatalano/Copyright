@@ -447,7 +447,7 @@ Copyright (c) */* PIMCO HOLDINGS */* */* PIMCO GROUP */* */* _holdings_ */* */* 
 
 Copyright (c) */* Motion Picture Association of America */* */* _holdings_ */* */* _service */* */ */INC./LLC./non-profit\.
 
-Copyright (c) */* */US/* */* */* ""_PATENT_" _(&)_ "_TRADEMARK_"" */* */* _holdings_ */* */* _futures */* */* _service */* */INSTITUTION/INSTRUMENT/Account/Papers/Writings/Format/SYSTEM/GROUP/TENDER/* */ */non-profit\.
+Copyright (c) */* */US/* */* */* ""_PATENTS_" _(&)_ "_TRADEMARK_"" */* */* _holdings_ */* */* _futures */* */* _service */* */INSTITUTION/INSTRUMENT/Account/Papers/Writings/Format/SYSTEM/GROUP/TENDER/* */ */non-profit\.
 
 Copyright (c) */* USAA */* */* _holdings_ */* */ */INC./LLC./non-profit\.
 
@@ -545,7 +545,7 @@ Copyright (c) */* EARTH */* "EARTH" */* _planet_ Earth */* "Earth" */* */* _hold
 
 Copyright (c) */* space */* */ continuum */* */* _SPACE_ _CONTINUUM_ */* "Space Continuum" */* Space-Continuum */ SpaceContinuum */* _space__continuum_ */* */* _holdings_ */* */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* Humans */* _human_ _anatomy_ _anatomics_ */* _human__anatomy_ */* human-anatomy */* ""human" "anatomy"" */* */* _holdings_ */* */* _futures */* */* _service */**/SYSTEM/FOUNDATION/GROUP(S)/* */\.
+Copyright (c) */* Humans */* _human_ _anatomy_ _anatomics_ */* _human__anatomy_ */* human-anatomy */* ""human-anatomy"" */* */* _holdings_ */* */* _futures */* */* _service */**/SYSTEM/FOUNDATION/GROUP(S)/* */\.
 
 Copyright (c) */* THE UNITED STATES OF AMERICA */* */* UNITED STATES */* */* The United States of America */* */* _(_USA_)_ */* */* _(_US_)_ */* */* _(_U.S.A_)_ */* */ _(_U.S._)_ */* /* "telecom_country-code;US:(+1)\." */* */* "The United States of America" */* */* United States */* */* _holdings_ */* */* _futures */* */* _entity */* */* _futures */* */* _service */* */STATE/COUNTRY/INSTITUTION/SYSTEM/GROUP/FORTHRIGHT/* */ */\.
 
@@ -553,11 +553,11 @@ Copyright (c) */* US Department of Treasury */* Department of Treasury */* US Tr
 
 Copyright (c) */* District of Columbia (D.C.) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* ACME */* ''ACME'' */* ACME corporation */* "entertainense" */* */* _holdings_ */* */CORPORATION/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* Looney Tunes (Franchise) */* 'ACME corcorporation' */* */* _holdings_ */* */ */\.
 
-Copyright (c) */* WORLD BANK GROUP */* */* _holdings_ */* */* _service */* */GROUP/SYSTEM/* */non-profit\.
+Copyright (c) */* WORLD BANK GROUP */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* International Monetary Fund (IMF) */* */* _holdings_ */* */* _service(s) */* */GROUP/SYSTEM/CORPORATION/* */non-profit\.
+Copyright (c) */* International Monetary Fund (IMF) */* */* _holdings_ */* */* _futures */* */* _service(s) */* */ */\.
 
 Copyright (c) */* Group of Seven (G7) */* */* _holdings_ */* */GROUP/SYSTEM/FORTHSET/* */non-profit\.
 

@@ -795,6 +795,8 @@ Copyright (c) */* Mangano Association */* */* _holdings_ */* */* _service */* */
 
 Copyright (c) */* Ashton Demi More Foundation */* */* _holdings_ */* */* _service */* */ */\.
 
+Copyright (c) */* Daryl Christina Hanna Foundation */* */* _holdings_ */* */* _service */* */ */\.
+
 Copyright (c) */* Dukakis Libertarian Group */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* JC Whitney Association of America */* */* _holdings_ */* */* _service */* */ */\.

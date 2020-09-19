@@ -687,9 +687,9 @@ Copyright (c) */* *wavelength*(s)* */* */HUD/sound/beam*/radiation*/isotope-emmi
 
 Copyright (c) */* GPS */* Global Positioning System */* Artificial/Natural Satellite(s) Geo-Terrestrial Orbital(s)/Station(s) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* Merrie Melodies */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Merrie Melodies (Franchise) Group */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* A Nightmare on Elm Street */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* A Nightmare on Elm Street (Franchise) */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */*  Optical Fiber Cable */* Fiber Optic Cable */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 

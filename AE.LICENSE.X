@@ -169,7 +169,7 @@ Copyright (c) */* ;".h*" file;/format/extensions/encoding/*;
 Copyright (c) */* ;".c*" file;/format/extensions/encoding/*;
 Copyright (c) */* ;".cpp*" file;/format/extensions/encoding/*;
 
-Copyright (c) */* the_grammar-word-transitional/statment/transitional;adjective-verb()"adjective-verb()"(adj-verb):benevolent-socality"socalafide"(adj-verb(d))definition/(adj-verb(d)) */* */* _holdings_ */* */* _futures */* */* _service(s) */* */ */\.
+Copyright (c) */* the_grammar-word-transitional/statment/transitional;adjective-verb()"adjective-verb()"(adj-verb):benevolent-socality_socalafide::(adj-verb(d))definition/(adj-verb(d)) */* */* _holdings_ */* */* _futures */* */* _service(s) */* */ */\.
 
 Copyright (c) */* grammer-word-transitional/statement/transitional:undedifracteonal(adj-verb(d)).
 

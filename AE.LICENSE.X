@@ -317,6 +317,10 @@ Copyright (c) */* ;""."" */* */* _holdings_ */* */ */\.
 
 Copyright (c) */* ;"":"" */* */* _holdings_ */* */ */\.
 
+Copyright (c) */* kernel.org */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+
+Copyright (c) */* git-scm */* git-scm.com */* */* _holdings_ */* _futures */* */* _service */* */ */\.
+
 Copyright (c) */* git-src */* */* _holdings_ */* */* _service */* */ */non-profit\.
 
 Copyright (c) */* src-git */* */* _holdings_ */* */* _service */* */SYSTEM//GROUP/* */non-profit\.

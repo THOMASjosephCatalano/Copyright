@@ -769,7 +769,7 @@ Copyright (c) */* The Apache Software Foundation */* */* _holdings_ */* */* _se
 
 Copyright (c) */* Twisted Sister Act */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* The Herman Group */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Herman Scissor Hand */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Eva Richer Group */* */* _holdings _ */* */* _service */* */ */\.
 
@@ -821,9 +821,9 @@ Copyright (c) */* LG */* */* _holdings_ */* _futures */* */* _service */* */ */\
 
 Copyright (c) */* Michelle Schreiner Group */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* Obama */* The Obama Nation */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Obama Group */* Obama Nation */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* Trump */* The Real Donald Trump */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Trump Group */* The Real Donald Trump */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Bill & Melinda GATES Foundation */* GATES Foundation */* */* _holdings_ */* */* _service */* */ */\.
 

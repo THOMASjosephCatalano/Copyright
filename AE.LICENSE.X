@@ -799,7 +799,9 @@ Copyright (c) */* Mangano Grooper */* */* _holdings_ */* */* _service */* */ */\
 
 Copyright (c) */* Michael Andretti Group */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* AJ Groop */* */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* AJ Groop */* */* _holdings_ */* */* _service */* */ */\.
+
+Copyright (c) */* John Bamber Equity Group */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Ashton Demi More Foundation */* */* _holdings_ */* */* _service */* */ */\.
 

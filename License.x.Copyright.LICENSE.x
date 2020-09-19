@@ -1,7 +1,7 @@
 */* Copyright (c) THOMAS CATALANO */*
 
 THOMAS CATALANO License.x
-License.x.Copyright.LICENSE.X
+License.x.Copyright.LICENSE.x
 
 Copyright (c)
 

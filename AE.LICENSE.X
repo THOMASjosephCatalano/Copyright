@@ -779,6 +779,8 @@ Copyright (c) */* Roger and Eva Scoop */* */* _holdings_ */* */* _service */* */
 
 Copyright (c) */* La Agata Serventine */* */* _holdings */* */* _service */* */ */\.
 
+Copyright (c) */* Sylvester Stallone Foundation */* */* _holdings_ */* */* _service */* */ */\.
+
 Copyright (c) */* www.mylife.com */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Jerome Institute of Serinity */* */* _holdings_ */* */* _service */* */ */\.

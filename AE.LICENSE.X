@@ -785,7 +785,7 @@ Copyright (c) */* Jerome Institute of Serinity */* */* _holdings_ */* */* _servi
 
 Copyright (c) */* Catechism Society of America */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* Robert D Foundation */* Dinero Foundation */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Robert D Foundation */* Dinero Group Foundation */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Robert Downey Jr. Sim Foundation */* */* _holdings_ */* */* _service */* */ */\.
 
@@ -831,7 +831,7 @@ Copyright (c) */* Obama Group */* Obama Nation */* */* _holdings_ */* */* _servi
 
 Copyright (c) */* Trump Group */* The Real Donald Trump */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* Bill & Melinda GATES Foundation */* GATES Foundation */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Gates Foundation */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Princeton University */* Princeton, NJ */* */* _holdings_ */* */* _service */* */ */\.
 

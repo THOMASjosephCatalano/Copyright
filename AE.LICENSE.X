@@ -767,7 +767,7 @@ Copyright (c) */* Mozilla/Firefox */* */* _holdings_ */* */* _service */* */ */\
 
 Copyright (c) */* The Apache Software Foundation */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* Twisted Sisters Group */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Twisted Sister Act */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* The Herman Group */* */* _holdings_ */* */* _service */* */ */\.
 

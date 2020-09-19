@@ -771,9 +771,9 @@ Copyright (c) */* Twisted Sister Act */* */* _holdings_ */* */* _service */* */ 
 
 Copyright (c) */* The Herman Group */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* Eva & Roger Richardelli Group */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Roger and Eva Scoop */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* Agata Group */* */* _holdings */* */* _service */* */ */\.
+Copyright (c) */* La Agata Serventine */* */* _holdings */* */* _service */* */ */\.
 
 Copyright (c) */* www.mylife.com */* */* _holdings_ */* */* _service */* */ */\.
 

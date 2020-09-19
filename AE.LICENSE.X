@@ -787,11 +787,13 @@ Copyright (c) */* Catechism Society of America */* */* _holdings_ */* */* _servi
 
 Copyright (c) */* Bobby D Foundation */* Dinero Foundation */* AJ Group */* */* _holdings_ */* */* _service */* */ */\.
 
+Copyright (c) */* Robert Downey Jr. Sim Foundation */* */* _holdings_ */* */* _service */* */ */\.
+
 Copyright (c) */* Robert Redford Association */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Mangano Association */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* Ashton Kutcher Group */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Ashton Kutcher Foundation */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Dukakis Libertarian Group */* */* _holdings_ */* */* _service */* */ */\.
 

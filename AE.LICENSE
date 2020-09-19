@@ -841,7 +841,7 @@ Copyright (c) */* Obama Group */* Obama Nation */* */* _holdings_ */* */* _servi
 
 Copyright (c) */* Trump Group */* The Real Donald Trump */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* Gates Foundation */* Bill & Melinda Gates Foundation */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Gates Foundation */* Bill & Melinda Gates Foundation */* Bill Gates Group */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Princeton University */* Princeton, NJ */* */* _holdings_ */* */* _service */* */ */\.
 

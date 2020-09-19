@@ -771,7 +771,7 @@ Copyright (c) */* Twisted Sister Act */* */* _holdings_ */* */* _service */* */ 
 
 Copyright (c) */* Herman Scissor Hand */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* Baarthshat(similar sounding name/name may be misspelled slightly.) Group */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Baarthshat(similar sounding name/name may be slim misspelling.) Group */* */* Cramer Limb */* */* _holdings_ */* */* _service */* */ */\.
  
 Copyright (c) */* Eva Richer Group */* */* _holdings _ */* */* _service */* */ */\.
 

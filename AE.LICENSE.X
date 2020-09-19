@@ -859,6 +859,8 @@ Copyright (c) */* United States Copyright Office */* */* _holdings_ */* */* _fut
 
 Copyright (c) */* Federal Communications Commission (FCC) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
+Copyright (c) */* United States Navy Band */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+
 Copyright (c) */* US Attorney General */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* US Surgeon General */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.

@@ -1,7 +1,7 @@
 */* Copyright (c) THOMAS CATALANO */*
 
 THOMAS CATALANO License.x
-BCD.LICENSE.X
+BCD.LICENSE.x
 
 Copyright (c) ;THOMAS CATALANO(135-74-4812;DOB:1981-02-05);"Doctor";"Ph.D."();
 Copyright (c) ;"";CATALANO THOMAS();

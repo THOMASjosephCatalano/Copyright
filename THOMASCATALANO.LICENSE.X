@@ -12,7 +12,6 @@ Copyright (c) ;"";"All rights reserved.";
 Copyright (c) ;"";License;"License""License.txt""License.x";
 Copyright (c) ;"";LICENSE;"LICENSE""LICENSE.txt""LICENSE.x";
 Copyright (c) ;"";THOMAS CATALANO License();
-Copyright (c) ;"";THOMAS CATALANO LICENSE();
 
 All rights reserved.             
 

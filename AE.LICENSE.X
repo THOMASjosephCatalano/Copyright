@@ -785,7 +785,7 @@ Copyright (c) */* Jerome Institute of Serinity */* */* _holdings_ */* */* _servi
 
 Copyright (c) */* Catechism Society of America */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* Bobby D Foundation */* Dinero Foundation */* AJ Group */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Robert D Foundation */* Dinero Foundation */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Robert Downey Jr. Sim Foundation */* */* _holdings_ */* */* _service */* */ */\.
 

@@ -851,6 +851,8 @@ Copyright (c) */* US Department of Labor */* */* _holdings_ */* */* _futures */*
 
 Copyright (c) */* United States Supreme Justice System */* United States Supreme Court */* Supreme Court */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
+Copyright (c) */* United States Patent and Trademark Office */* */* _holdings_ */* */* _futures */* */* _service */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

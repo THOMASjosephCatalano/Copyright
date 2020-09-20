@@ -755,6 +755,8 @@ Copyright (c) */* China Ocean Shipping (Group) Company (COSCO) */* */* _holdings
 
 Copyright (c) */* Allied International Freight Company */* */* _holdings_ */* */* _service */* */ */\.
 
+Copyright (c) */* CMA CGM Group */* */* _holdings_ */* */* _service */* */ */\.
+
 Copyright (c) */* Disney */* */* _holdings_ */* */* _services */* */ */\.
 
 Copyright (c) */* Mitsui O.S.K. Lines, Ltd. (MOL) */* */* _holdings_ */* */* _service */* */ */\.

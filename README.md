@@ -4,8 +4,8 @@
 */* Copyright (c) THOMAS CATALANO */*
 THOMAS CATALANO License.md
 LICENSE
+LICENSE.x
 LICENSE.md
-LICENSE.X
 LICENSE.txt
 
 Copyright (c) ;THOMAS CATALANO(135-74-4812;DOB:1981-02-05);"Doctor";"Ph.D."();

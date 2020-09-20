@@ -937,6 +937,8 @@ Copyright (c) */* United States Postal Office (USPO) */* */* _holdings_ */* */* 
 
 Copyright (c) */* Union Pacific Railroad */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
+Copyright (c) */* Pulitzer Prize */* Pulitzer Prize Board/Committee */* */* _holdings_ */* */* _service */* */ */i.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

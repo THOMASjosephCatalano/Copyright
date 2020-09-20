@@ -837,7 +837,7 @@ Copyright (c) */* Baarthshat(similar sounding name/name may be slim misspelling.
  
 Copyright (c) */* Eva Richer Group */* */* _holdings _ */* */* _service */* */ */\.
 
-Copyright (c) */* Roger and Eva Scoop */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Roger and Eva Group */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* La Agata Serventine */* */* _holdings */* */* _service */* */ */\.
 

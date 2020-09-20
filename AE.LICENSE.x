@@ -775,6 +775,8 @@ Copyright (c) */* Wan Hai Lines */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Kawasaki Kisen Kaisha (K Line) */* */* _holdings_ */* */* _service */* */ */\.
 
+Copyright (c) */* Pacific International Lines (PIL) */* */* _holdings_ */* */* _service */* */ */\.
+
 Copyright (c) */* Mitsui O.S.K. Lines, Ltd. (MOL) */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Nippon Yusen Kabushiki Kaisha (NYK Line) */* */* _holdings_ */* */* _service */* */ */\.

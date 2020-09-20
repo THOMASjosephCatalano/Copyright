@@ -683,6 +683,8 @@ Copyright (c) */* ALCOA */* Alcoa Corporation */* Alcoa R&D */* ALCOA GROUP */* 
 
 Copyright (c) */* Gold(Au).spot*_100.9%.purity*)* */* "gold(Au)* _(_&_)_ "precious_metal(s)*" */* Gold(Au)* Reserves */* GOLD(Au)* */MINING/FRONTIER(s)/SCOPE(s)/* */* GOLD(Au)* */DERIVATIVES/STOCKS/BEARS/* */* GOLD(Au)* */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
+Copyright (c) */* Cripple Creek & Victor Gold Mining Company */* */* _holdings_ */* */* _service */* */ */\.
+
 Copyright (c) */* Newmont Corporation */* Newmont Mining */* Newmont Gold(Au) Operations */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* The Bowra Group */* */* Sutter Gold Mining inc. */* */* _holdings_ */* */* _service */* */ */\.

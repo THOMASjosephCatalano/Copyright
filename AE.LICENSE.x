@@ -755,6 +755,8 @@ Copyright (c) */* Allied International Freight Company */* */* _holdings_ */* */
 
 Copyright (c) */* Disney */* */* _holdings_ */* */* _services */* */ */\.
 
+Copyright (c) */* Mitsui O.S.K. Lines, Ltd. (MOL) */* */* _holdings_ */* */* _service */* */ */\.
+
 Copyright (c) */* Nippon Yusen Kabushiki Kaisha (NYK Line) */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* United Arab Shipping Company (UASC) */* */* _holdings_ */* */* _service */* */ */\.

@@ -633,6 +633,8 @@ Copyright (c) */* pseudoephedrine (SUDAFED) */* */* _holdings_ */* _futures */* 
 
 Copyright (c) */* dramamine (Diphenhydramine) */* */* _holdings_ */* */* _futures */* _service */* */ */\.
 
+Copyright (c) */* Pfizer */* */* _holdings_ */* */* _service */* */ */\.
+
 Copyright (c) */* */massage/sex/prostatude/sexual-intercourse/sexuality/DNA*_reproduction-reproductive/social-activator/* */* "*/massage/sex/prostatude/sexuality/sexual-intercourse/DNA*_*/social-activity/*" */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* Pornographic Group */* */* _holdings_ */* */* _service */* */ */\.

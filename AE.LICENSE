@@ -899,6 +899,8 @@ Copyright (c) */* Android Operating System (OS) */* */* _holdings_ */* */* _futu
 
 Copyright (c) */* LG */* */* _holdings_ */* _futures */* */* _service */* */ */\.
 
+Copyright (c) */* Savoia Group */* */* _holdings_ */* */* _service */* */ */\.
+
 Copyright (c) */* Michelle Schreiner Group */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Obama Group */* Obama Nation */* */* _holdings_ */* */* _service */* */ */\.

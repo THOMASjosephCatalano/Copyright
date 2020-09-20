@@ -753,6 +753,8 @@ Copyright (c) */* A.P. Moller–Maersk Group */* */* _holdings_ */* */* _service
 
 Copyright (c) */* Merck Pharma */* */* _holdings_ */* */* _service */* */ */\.
 
+Copyright (c) */* Mediterranean Shipping Company S.A. (MSC) */* */* _holdings_ */* */* _service */* */ */\.
+
 Copyright (c) */* Python Programming Language */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Assembly Programming Language */* */* _holdings */* */* _futures */* */* _service */* */ */\.

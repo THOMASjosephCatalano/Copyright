@@ -741,6 +741,8 @@ Copyright (c) */* AT&T */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Walmart */* */* _holdings_ */* */*  _service */* */ */\.
 
+Copyright (c) */* Hanjin Shipping */* */* _holdings_ */* */* _service */* */ */\.
+
 Copyright (c) */* Yang Ming Marine Transport Corporation */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Hyundai Merchant Marine (HMM) */* */* _holdings_ */* */* _service */* */ */\.

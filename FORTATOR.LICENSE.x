@@ -3,7 +3,9 @@
 THOMAS CATALANO License.x
 FORTATOR.LICENSE.x
 
-Copyright (c) ;THOMAS CATALANO
+Copyright (c) ;THOMAS CATALANO(135-74-4812;DOB:1981-02-05);"Doctor";"Ph.D."();
+Copyright (c) ;"";CATALANO THOMAS();
+Copyright (c) ;"THOMAS CATALANO";
 Copyright (c) ;"_*BOARD*__Doctor__Ph.D_-General-Admiral-CFO-CEO-President THOMAS JOSEPH CATALANO/(135-74-4812;DOB:1981-02-05)"\.
 Copyright (c) BIT(s);"BIT(s) "License""\.
 Copyright (c) BIT(s);"BIT(s)"

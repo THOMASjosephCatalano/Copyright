@@ -7,7 +7,7 @@ Copyright (c) ;THOMAS CATALANO(135-74-4812;DOB:1981-02-05);"Doctor";"Ph.D."();
 Copyright (c) ;"";CATALANO THOMAS();
 Copyright (c) ;"THOMAS CATALANO";
 Copyright (c) ;"_*BOARD*__Doctor__Ph.D_-General-Admiral-CFO-CEO-President THOMAS JOSEPH CATALANO/(135-74-4812;DOB:1981-02-05)"\.
-Copyright (c) BIT(s);"BIT(s) "License""\.
+Copyright (c) ;"";BIT(s);"BIT(s) "License"License.x"\.
 Copyright (c) BIT(s);"BIT(s)"
 Copyright (c) BIT(s);"BIT(s)";"algorithm:"this "LICENSE()" "inclusive""";
 Copyright (c) ;*["(the)"]*(); "&&" "politicasivisonarydafabuloustaticlicous" "&&" ""["_*BOARD*__Doctor__Ph.d_-General-Admiral-CFO-CEO-President__the.emancipator.the.propriatator.the__ThomasJosephCatalano"(*)""] ""Catalano Ltd." "Catalano Concepts LimitedLiabilityCompany" "CLM LimitedLiabilityCompany" "proprietary entities"" | mechanical() && "["classical" | "quantum"]" && ""_computer-processor_" "_*utility'_ _*invention'_ _*formula_ _*enginee'_"" && "The Letter of Proof" -implementator/my testator";;

@@ -765,6 +765,8 @@ Copyright (c) */* Hamburg Süd Group */* */* _holdings_ */* */* _service */* */ 
 
 Copyright (c) */* Disney */* */* _holdings_ */* */* _services */* */ */\.
 
+Copyright (c) */* Wan Hai Lines */* */* _holdings_ */* */* _service */* */ */\.
+
 Copyright (c) */* Kawasaki Kisen Kaisha (K Line) */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Mitsui O.S.K. Lines, Ltd. (MOL) */* */* _holdings_ */* */* _service */* */ */\.

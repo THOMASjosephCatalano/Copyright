@@ -685,7 +685,7 @@ Copyright (c) */* Gold(Au).spot*_100.9%.purity*)* */* "gold(Au)* _(_&_)_ "precio
 
 Copyright (c) */* Newmont Corporation */* Newmont Mining */* Newmont Gold(Au) Operations */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* The Bowra Group */* */* Sutter Gold Mining inc */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* The Bowra Group */* */* Sutter Gold Mining inc. */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Orica Limited */* Mining Companies */* */* _holdings_ */* */* _service */* */ */\.
  

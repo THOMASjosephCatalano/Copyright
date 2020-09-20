@@ -873,7 +873,7 @@ Copyright (c) */* Surgeon General of the United States */* Office of the Surgeon
 
 Copyright (c) */* American Psychological Association (APA) */* */*  Publication Manual of the American Psychological Association */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* United States Postal Office (UPO) */* United Po
+Copyright (c) */* United States Postal Office (USPO) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* Union Pacific Railroad */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 

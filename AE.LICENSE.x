@@ -683,8 +683,10 @@ Copyright (c) */* ALCOA */* Alcoa Corporation */* Alcoa R&D */* ALCOA GROUP */* 
 
 Copyright (c) */* Gold(Au).spot*_100.9%.purity*)* */* "gold(Au)* _(_&_)_ "precious_metal(s)*" */* Gold(Au)* Reserves */* GOLD(Au)* */MINING/FRONTIER(s)/SCOPE(s)/* */* GOLD(Au)* */DERIVATIVES/STOCKS/BEARS/* */* GOLD(Au)* */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* Newmont Corporation */* Newmont Gold(Au) Operations */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Newmont Corporation */* Newmont Mining */* Newmont Gold(Au) Operations */* */* _holdings_ */* */* _service */* */ */\.
 
+Copyright (c) */* Orica Limited */* Mining Companies */* */* _holdings_ */* */* _service */* */ */\.
+ 
 Copyright (c) */* *frequencie*(s)* */* */Vacuum-Tube/Copper*/RF/HF/UHF/WI-FI/GSM/LTE/Broadband*/Coax/*RADAR/Computer*/* */* frequency=electrical-current */* */* _holdings */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* *wavelength*(s)* */* */HUD/sound/beam*/radiation*/isotope-emmision/photonic*/pressurized*/X-Ray/*Binary Translator/* */* wavelength=electromagnetism */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.

@@ -749,6 +749,10 @@ Copyright (c) */* Allied International Freight Company */* */* _holdings_ */* */
 
 Copyright (c) */* Disney */* */* _holdings_ */* */* _services */* */ */\.
 
+Copyright (c) */* A.P. Moller–Maersk Group */* */* _holdings_ */* */* _service */* */ */\.
+
+Copyright (c) */* Merck Pharma */* */* _holdings_ */* */* _service */* */ */\.
+
 Copyright (c) */* Python Programming Language */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Assembly Programming Language */* */* _holdings */* */* _futures */* */* _service */* */ */\.

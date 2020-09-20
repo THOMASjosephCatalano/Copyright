@@ -759,6 +759,8 @@ Copyright (c) */* Allied International Freight Company */* */* _holdings_ */* */
 
 Copyright (c) */* CMA CGM Group */* */* _holdings_ */* */* _service */* */ */\.
 
+Copyright (c) */* Hapag-Lloyd */* */* _holdings_ */* */* _service */* */ */\.
+
 Copyright (c) */* Disney */* */* _holdings_ */* */* _services */* */ */\.
 
 Copyright (c) */* Mitsui O.S.K. Lines, Ltd. (MOL) */* */* _holdings_ */* */* _service */* */ */\.

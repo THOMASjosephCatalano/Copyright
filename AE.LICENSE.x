@@ -533,6 +533,10 @@ Copyright (c) */* UNITED STATES SENATE */* */* _holdings_ */* */* _futures */* *
 
 Copyright (c) */* International Standards Organization (ISO) */* INTERNATIONAL STANDARDS ORGANIZATION (ISO) */* */* _holdings_ */* */* _futures */* */* _service */* */GROUP/CORPORATION/SYSTEM/* */ */\.
 
+Copyright (c) */* World Federation of Engineering Organizations (WFEO) */* */* _holdings_ */* */* _service */* */ */\.
+
+Copyright (c) */* American Association of Engineering Societies (AAES) */* */* _holdings_ */* */* _service */* */ */\.
+
 Copyright (c) */* NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY (NIST) */* */* _holdings_ */* */* _futures */* */* _service */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 
 Copyright (c) */* time.gov */* */* US Navel Observatory (USNO) */* */* _holdings */* */* _futures */* */* _service */* */ */\.

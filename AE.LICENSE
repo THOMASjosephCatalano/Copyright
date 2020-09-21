@@ -943,6 +943,10 @@ Copyright (c) */* Pulitzer Prize */* Pulitzer Prize Board/Committee */* */* _hol
 
 Copyright (c) */* United States Air Force */* United States Air Force Reserve */* United States Air Force RESERVES */* United States Air Force CONTINGENCIES */* */* _holdings_ */* */* _service */* */ */\.
 
+Copyright (c) */* Hollywood Studios */* _holdings_ */* */* _service */* */ */\.
+
+Copyright (c) */* Hollywood Trinsic Group */* _holdings_ */* */* _service */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

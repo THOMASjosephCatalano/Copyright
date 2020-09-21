@@ -103,13 +103,13 @@ Copyright (c) */* repair */* "repair" */*
 
 Copyright (c) */* update */* "update" */*
 
-Copyright (c) */* License */* "LICENSE" */* */* _holdings */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* License */* "LICENSE" */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* Patent */* "Patent" */* */* _holdings */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* Patent */* "Patent" */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* Trademark */* "Trademark" */* */* _holdings */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* Trademark */* "Trademark" */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* Binary */* "Binary" */* */* _holdings */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* Binary */* "Binary" */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* © */* "©" */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 

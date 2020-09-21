@@ -6,7 +6,7 @@ AE.LICENSE.x
 
 Copyright (c) THOMAS CATALANO
 
-Copyright (c) */* ;THOMAS CATALANO(135-74-4812;DOB:1981-02-05);"Doctor";"Ph.D."(); */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* ;THOMAS CATALANO(135-74-4812;DOB:1981-02-05);"Doctor";"Ph.D._Gravaphysicist"(); */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 Copyright (c) */* ;"";CATALANO THOMAS(); */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 Copyright (c) */* ;"THOMAS CATALANO"; */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 Copyright (c) */* ;Copyright (c); */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
@@ -950,6 +950,8 @@ Copyright (c) */* Hollywood Trinsic Group */* _holdings_ */* */* _service */* */
 
 Copyright (c) */* Water */* Liquid Water */* Ice Water */* Vapor Water */* Plasma Water */* Hydrogen 2 Oxygen (H2O) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
+Copyright (c) */* Gravity */* "mass-matter_bounds==gravity" */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+ 
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

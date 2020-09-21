@@ -544,7 +544,7 @@ Copyright (c) */* American Association of Engineering Societies (AAES) */* */* _
 
 Copyright (c) */* NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY (NIST) */* */* _holdings_ */* */* _futures */* */* _service */* */GROUP/CORPORATION/SYSTEM/* */INC./LLC./non-profit\.
 
-Copyright (c) */* time.gov */* */* US Navel Observatory (USNO) */* */* _holdings */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* time.gov */* */* US Navel Observatory (USNO) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* INTERNATIONAL BAR ASSOCIATION (IBA) */* */* "Esq" */* */* _holdings_ */* */* _futures */* */* _service */* */GROUP/SYSTEM/* */ */*\.
 
@@ -786,7 +786,7 @@ Copyright (c) */* Disney */* */* _holdings_ */* */* _services */* */ */\.
 
 Copyright (c) */* American President Lines (APL) */* */* _holdings_ */* */* _service */* */ */*.
 
-Copyright (c) */*  X-Press Feeders Group */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* X-Press Feeders Group */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Wan Hai Lines */* */* _holdings_ */* */* _service */* */ */\.
 

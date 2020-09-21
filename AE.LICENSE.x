@@ -1,17 +1,19 @@
 */* Copyright (c) THOMAS CATALANO */*
 
-THOMAS CATALANO License.x
-AE.LICENSE.x
+THOMAS CATALANO License
+AE.LICENSE
 
 Copyright (c) THOMAS CATALANO
 
 Copyright (c) */* ;THOMAS CATALANO(135-74-4812;DOB:1981-02-05);"Doctor";"Ph.D."(); */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 Copyright (c) */* ;"";CATALANO THOMAS(); */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 Copyright (c) */* ;"THOMAS CATALANO"; */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
-Copyright (c) */* ;Copyright (c) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* ;Copyright (c); */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 Copyright (c) */* ;"";"Copyright (c)"; */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 Copyright (c) */* ;"";"All rights reserved."; */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
-Copyright (c) */* ;"";"License";"License.x"; */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* ;"";License;"License""License.md""License.txt""License.x"; */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* ;"";LICENSE;"LICENSE""LICENSE.md""LICENSE.txt""LICENSE.x"; */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* ;THOMAS CATALANO LICENSE(); */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 Copyright (c) */* ;"";THOMAS CATALANO License(): */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
@@ -533,7 +535,7 @@ Copyright (c) */* UNITED STATES SENATE */* */* _holdings_ */* */* _futures */* *
 
 Copyright (c) */* American National Standards Institute (ANSI) */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* International Standards Organization (ISO) */* INTERNATIONAL STANDARDS ORGANIZATION (ISO) */* */* _holdings_ */* */* _futures */* */* _service */* */GROUP/CORPORATION/SYSTEM/* */ */\.
+Copyright (c) */* International Standards Organization (ISO) */* INTERNATIONAL STANDARDS ORGANIZATION (ISO) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* World Federation of Engineering Organizations (WFEO) */* */* _holdings_ */* */* _service */* */ */\.
 
@@ -735,7 +737,7 @@ Copyright (c) */* */crude-oil/petroleum/benzene/* */* */* _holdings_ */* */* _fu
 
 Copyright (c) */* The Group */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* International Trade System (ITS ) */* International Trade Agreement */* */* North American Free Trade Agreement (NAFTA) */* */* International Fuel Tax Agreement (IFTA) */*"Import-Export" */* IMPORT-EXPORT* */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* International Trade System (ITS) */* International Trade Agreement */* */* North American Free Trade Agreement (NAFTA) */* */* International Fuel Tax Agreement (IFTA) */*"Import-Export" */* IMPORT-EXPORT* */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* Refinery-* Refine/Refinement/Refined-* Refineries-* */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
@@ -755,7 +757,7 @@ Copyright (c) */* Verizon */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* AT&T */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* Walmart */* */* _holdings_ */* */*  _service */* */ */\.
+Copyright (c) */* Walmart */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Hanjin Shipping */* */* _holdings_ */* */* _service */* */ */\.
 
@@ -783,7 +785,7 @@ Copyright (c) */* Disney */* */* _holdings_ */* */* _services */* */ */\.
 
 Copyright (c) */* American President Lines (APL) */* */* _holdings_ */* */* _service */* */ */*.
 
-Copyright (c) */*  X-Press Feeders Group */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */*  X-Press Feeders Group */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Wan Hai Lines */* */* _holdings_ */* */* _service */* */ */\.
 
@@ -827,7 +829,7 @@ Copyright (c) */* The Open Group */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Mozilla/Firefox */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* The Apache Software Foundation */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* The Apache Software Foundation */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Twisted Sister Act */* */* _holdings_ */* */* _service */* */ */\.
 
@@ -933,7 +935,7 @@ Copyright (c) */* Attorney General of the United States */* OFFICE OF THE ATTORN
 
 Copyright (c) */* Surgeon General of the United States */* Office of the Surgeon General (OSG) */* US Surgeon General */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* American Psychological Association (APA) */* */*  Publication Manual of the American Psychological Association */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* American Psychological Association (APA) */* */*  Publication Manual of the American Psychological Association */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* United States Postal Office (USPO) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
@@ -967,4 +969,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-    © THOMAS CATALANO
+    © THOMAS CATALANO
+
+

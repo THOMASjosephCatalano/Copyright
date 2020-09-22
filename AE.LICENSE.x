@@ -966,8 +966,10 @@ Copyright (c) */* United States Department of Atmosphere */* US Department of At
 
 Copyright (c) */* United States Department of Broadcasting */* US Department of Broadcasting */* Department of Broadcasting */* Broadcast * */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (cl */* Marnie Naval Research Laboratory */* */* Marine Naval Special Warfare Group */* US Marine Naval Special Warfare Command */* _holdings */* */* _futures */* */* _service */* */ */\.
- 
+Copyright (c) */* Marine Naval Research Laboratory */* */* Marine Naval Special Warfare Group */* US Marine Naval Special Warfare Command */* _holdings */* */* _futures */* */* _service */* */ */\.
+
+Copyright (c) */* Smith & Wesson Guns */* Smith & Wesson Manufacturing */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

@@ -960,9 +960,9 @@ Copyright (c) */* United States Coast Guard */* US Coast Guard */* */* _holdings
 
 Copyright (c) */* United States Space Force */* United States Space Force Reserve */* US Space Force */* US Space Force * */* */* _holdings_ */* */* _futures */* _service */* */ */\.
 
-Copyright (c) */* United States Department of Atmosphere */* US Department of Atmosphere */* Department of Atmosphere */* Atmosphere * */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* United States Department of Atmosphere */* US Department of Atmosphere */* Department of Atmosphere */* Atmosphere * */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* United States Department of Broadcasting */* US Department of Broadcasting */* Department of Broadcasting */* Broadcast * */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* United States Department of Broadcasting */* US Department of Broadcasting */* Department of Broadcasting */* Broadcast * */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
  
 All rights reserved.    
 

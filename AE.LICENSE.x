@@ -954,11 +954,15 @@ Copyright (c) */* Water */* Liquid Water */* Ice Water */* Vapor Water */* Plasm
 
 Copyright (c) */* Gravity */* "mass-matter_bounds==gravity" */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* United States Navy */* United States Navy Reserve */* US Navy */* US Navy * */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* United States Navy */* United States Navy Reserve */* US Navy */* NAVY */* US Navy * */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* United States Coast Guard */* US Coast Guard */* */* _holdings_ */* */*  _futures */* */* _service */* */ */\.
 
 Copyright (c) */* United States Space Force */* United States Space Force Reserve */* US Space Force */* US Space Force * */* */* _holdings_ */* */* _futures */* _service */* */ */\.
+
+Copyright (c) */* United States Department of Atmosphere */* US Department of Atmosphere */* Department of Atmosphere */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+
+Copyright (c) */* United States Department of Broadcasting */* US Department of Broadcasting */* Department of Broadcasting */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
  
 All rights reserved.    
 

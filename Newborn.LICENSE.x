@@ -1,7 +1,7 @@
 */* Copyright (c) THOMAS CATALANO */*
 
 THOMAS CATALANO License.x
-Newborn.LICENSE()
+Newborn.LICENSE()[template]
 
 Copyright (c) ;_Here_ _Name_(000-00-0000;DOB:0000-00-00);"_design_"();
 Copyright (c) ;"";Name Here();

@@ -956,6 +956,8 @@ Copyright (c) */* Gravity */* "mass-matter_bounds==gravity" */* */* _holdings_ *
 
 Copyright (c) */* United States Navy */* United States Navy Reserve */* US Navy */* NAVY */* US Navy * */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
+Copyright (c) */* United States Marine Corps */* Department of the Marine Corps */* US Marines Corps Reserve */* */* _(_USMC_)_ */* Marine */* */* */* _holdings_ */* */* _futures */* _service */* */ */\.
+
 Copyright (c) */* United States Coast Guard */* US Coast Guard */* */* _holdings_ */* */*  _futures */* */* _service */* */ */\.
 
 Copyright (c) */* United States Space Force */* United States Space Force Reserve */* US Space Force */* US Space Force * */* */* _holdings_ */* */* _futures */* _service */* */ */\.

@@ -965,6 +965,8 @@ Copyright (c) */* United States Space Force */* United States Space Force Reserv
 Copyright (c) */* United States Department of Atmosphere */* US Department of Atmosphere */* Department of Atmosphere */* Atmosphere * */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* United States Department of Broadcasting */* US Department of Broadcasting */* Department of Broadcasting */* Broadcast * */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+
+Copyright (cl */* Marnie Naval Research Laboratory */* */* Marine Naval Special Warfare Group */* US Marine Naval Special Warfare Command */* _holdings */* */* _futures */* */* _service */* */ */\.
  
 All rights reserved.    
 

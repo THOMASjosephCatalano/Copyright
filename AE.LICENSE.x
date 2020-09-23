@@ -1,4 +1,3 @@
-
 */* Copyright (c) THOMAS CATALANO */*
 
 THOMAS CATALANO License.x
@@ -17,11 +16,23 @@ Copyright (c) */* ;"";LICENSE;"LICENSE""LICENSE.md""LICENSE.txt""LICENSE.x"; */*
 Copyright (c) */* ;THOMAS CATALANO LICENSE(); */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 Copyright (c) */* ;"";THOMAS CATALANO License(): */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
+Copyright (c) */* License()[template] */* */* _holdings_ */* */* _futures */* */* _service */* */* */ */\.
+
+Copyright (c) */* THOMAS CATALANO License()
+              */* Newborn.LICENSE()[template]
+              */* ;_Here_ _Name_(000-00-0000;DOB:0000-00-00);"_design_"();
+              */* ;"";Name Here();
+              */* ;"Here Name";  
+              */*  */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+
 Copyright (c) */* Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
               */* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-              */* THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. */* */* _holdings_ */* */* _futures */* */* _service */* */ /*\.
+              */* THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. 
+              */* */* _holdings_ */* */* _futures */* */* _service */* */ /*\.
 
-Copyright (c) */* License-FORMAT_LEGAL-ACQUISITION-EQUES;"License-FORMAT_LEGAL-ACQUISITION-EQUES";this "License" "inclusive":/""Copyright (c)" "_"NAMEENTITY"_" "-" "_"BACK"_" "-" "_"ENTITIEOR"_" "-" "_"CLASSENTITY"_" "-" {"_"MISC"_"} "-" "_"LEGALENTITY"_""\(.)",((*/*)="inclusive"like"objects"/"pre-|-post"//((*/)(/*))="intrinsic"like"objects"/merandum's(s)'s; esetera so forth, sefor example's)""License"-"FORMAT"_LEGAL-ACQUISITION-EQUES") */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+
+Copyright (c) */* License-FORMAT_LEGAL-ACQUISITION-EQUES;"License-FORMAT_LEGAL-ACQUISITION-EQUES";this "License" "inclusive":/""Copyright (c)" "_"NAMEENTITY"_" "-" "_"BACK"_" "-" "_"ENTITIEOR"_" "-" "_"CLASSENTITY"_" "-" {"_"MISC"_"} "-" "_"LEGALENTITY"_""\(.)",((*/*)="inclusive"like"objects"/"pre-|-post"//((*/)(/*))="intrinsic"like"objects"/merandum's(s)'s; esetera so forth, sefor example's)""License"-"FORMAT"_LEGAL-ACQUISITION-EQUES").
+              */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* THOMAS CATALANO */* "THOMAS CATALANO" */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
@@ -586,7 +597,7 @@ Copyright (c) */* National Hockey League (NHL) */* */* _holdings_ */* */GROUP/CO
 
 Copyright (c) */* Formula One (F1) */* F1 auto racing */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* The 24hrs of Le Mans */* 24hrs Le Mans automobile classic */* */* _holdings_ */* */* _futures */* */* _service */* */ */\. 
+Copyright (c) */* The 24hrs of Le Mans */*  24hrs of Le Mans automobile classic */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* Indianapolis 500 Motor Race */* Indy 500 */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
@@ -714,7 +725,7 @@ Copyright (c) */* Merrie Melodies (Franchise) Group */* */* _holdings_ */* */* _
 
 Copyright (c) */* A Nightmare on Elm Street (Franchise) */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */*  Optical Fiber Cable */* Fiber Optic Cable */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* Optical Fiber Cable */* Fiber Optic Cable */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* Computer Generated Images (CGI) */* */* _holdings_ */* */* _service */* */ */\.
 
@@ -792,7 +803,7 @@ Copyright (c) */* Zim Integrated Shipping Services */* */* _holdings_ */* */* _s
 
 Copyright (c) */* American President Lines (APL) */* */* _holdings_ */* */* _service */* */ */*.
 
-Copyright (c) */* X-Press Feeders Group */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* X-Press Feeders Group */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Wan Hai Lines */* */* _holdings_ */* */* _service */* */ */\.
 
@@ -953,18 +964,18 @@ Copyright (c) */* United States Air Force */* United States Air Force Reserve */
 Copyright (c) */* Hollywood Studios */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Hollywood Trinsic Group */* _holdings_ */* */* _service */* */ */\.
-
+ 
 Copyright (c) */* Water */* Liquid Water */* Ice Water */* Vapor Water */* Plasma Water */* Hydrogen 2 Oxygen (H2O) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* Gravity */* "mass-matter_bounds==gravity" */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* United States Navy */* United States Navy Reserve */* US Navy */* NAVY */* US Navy * */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* United States Navy */* United States Navy Reserve */* US Navy */* NAVY */* US Navy * */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* United States Marine Corps */* Department of the Marine Corps */* US Marines Corps Reserve */* */* _(_USMC_)_ */* Marine */* */* */* _holdings_ */* */* _futures */* _service */* */ */\.
 
-Copyright (c) */* United States Coast Guard */* US Coast Guard */* */* _holdings_ */* */*  _futures */* */* _service */* */ */\.
+Copyright (c) */* United States Coast Guard */* US Coast Guard */* */* _holdings_ */* */*  _futures */* */* _service */* */ */\.
 
-Copyright (c) */* United States Space Force */* United States Space Force Reserve */* US Space Force */* US Space Force * */* */* _holdings_ */* */* _futures */* _service */* */ */\.
+Copyright (c) */* United States Space Force */* United States Space Force Reserve */* US Space Force */* US Space Force * */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* United States Department of Atmosphere */* US Department of Atmosphere */* Department of Atmosphere */* Atmosphere * */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
@@ -996,4 +1007,4 @@ SOFTWARE.
 
     © THOMAS CATALANO
 
-
+ */*\.

@@ -570,7 +570,7 @@ Copyright (c) */* International Monetary Fund (IMF) */* */* _holdings_ */* */* _
 
 Copyright (c) */* Group of Seven (G7) */* */* _holdings_ */* */GROUP/SYSTEM/FORTHSET/* */non-profit\.
 
-Copyright (c) */* Federation International of Automobile (FIA) */* */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
+Copyright (c) */* Federation International of Automobile (FIA) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* National Football League (NFL) */* */* _holdings_ */* */GROUP/CORPORATION/SYSTEM*/ */\.
 
@@ -582,9 +582,11 @@ Copyright (c) */* Major League Baseball (MLB) */* */* _holdings_ */* */GROUP/COR
 
 Copyright (c) */* National Hockey League (NHL) */* */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
 
-Copyright (c) */* Formula One (F1) */* "automobile" */* */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
+Copyright (c) */* Formula One (F1) */* "automobile" */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* The 24hrs of Le Mans () */* automobile" */* */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
+Copyright (c) */* The 24hrs of Le Mans () */* automobile" */* */* _holdings_ */* */* _futures */* */* _service */* */ */\. 
+
+Copyright (c) */* Indianapolis 500 Motor Race */* Indy 500 */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* National Association for Stock Car Racing (NASCAR) */* */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
 

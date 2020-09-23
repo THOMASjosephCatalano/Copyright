@@ -582,9 +582,9 @@ Copyright (c) */* Major League Baseball (MLB) */* */* _holdings_ */* */GROUP/COR
 
 Copyright (c) */* National Hockey League (NHL) */* */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
 
-Copyright (c) */* Formula One (F1) */* "automobile" */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* Formula One (F1) */* F1 auto racing */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* The 24hrs of Le Mans () */* automobile" */* */* _holdings_ */* */* _futures */* */* _service */* */ */\. 
+Copyright (c) */* The 24hrs of Le Mans */* 24hrs Le Mans automobile classic */* */* _holdings_ */* */* _futures */* */* _service */* */ */\. 
 
 Copyright (c) */* Indianapolis 500 Motor Race */* Indy 500 */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 

@@ -456,6 +456,8 @@ Copyright (c) */* USAA */* */* _holdings_ */* */ */INC./LLC./non-profit\.
 
 Copyright (c) */* General Motors (GM) */* engines/cars/trucks/automobiles/vehicles */* */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
 
+Copyright (c) */* Corvette by General Motors (GM) */* Corvette Group at Chevrolet */* Corvette brand/manufacturing */* Corvette * */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+ 
 Copyright (c) */* FORD MOTOR COMPANY */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
 Copyright (c) */* American Express (AMX) */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.

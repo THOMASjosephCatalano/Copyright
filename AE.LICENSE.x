@@ -999,6 +999,8 @@ Copyright (c) */* Smith & Wesson Guns */* Smith & Wesson Manufacturing */* */* _
 
 Copyright (c) */* Fair, Isaac and Company (FICO) */* FICO */* */* _holdings_ */* */* _futures _*/* */* _service */* */ */\.
 
+Copyright (c) */* United States Social Security */* Department of Social Security */* Social Security _numbers _&_ _id */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

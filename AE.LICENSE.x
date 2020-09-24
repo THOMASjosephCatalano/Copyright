@@ -1013,6 +1013,16 @@ Copyright (c) */* Fair, Isaac and Company (FICO) */* FICO */* */* _holdings_ */*
 
 Copyright (c) */* United States Social Security */* Department of Social Security */* Social Security _numbers _&_ _id */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
+Copyright (c) */* SPENCER & CO,. LTD. */* */* New York-Style NOVA LOX */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+
+Copyright (c) */* THOMAS' English Muffins */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+
+Copyright (c) */* CROSSE & BLACKWELL */* Capers */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+
+Copyright (c) */* BNSF Railway */* */* _holdings_ */* */* _futures */* */* _service */ */\.
+
+Copyright (c) */* Oceanographic Water */* "salt water" */* "the ocean" */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

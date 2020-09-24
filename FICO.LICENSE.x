@@ -4,8 +4,9 @@ THOMAS CATALANO License.x
 FICO.LICENSE()[template]
 
 Copyright (c) ;_Here_ _Name_(000-00-0000;DOB:0000-00-00);"_design_"();
-Copyright (c) ;"";X FICO();
+Copyright (c) ;"";Name Here();
 Copyright (c) ;"Here Name";
+Copyright (c) ;"";X FICO();
 Copyright (c) ;"FICO":
 
 All rights reserved.             

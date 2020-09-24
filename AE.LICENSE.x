@@ -176,7 +176,7 @@ Copyright (c) */* "^" */*
 
 Copyright (c) */* MIT License */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* THOMAS CATALANO(135-74-4812;DOB:1981-02-05) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* THOMAS CATALANO(SocialSecurity:135-74-4812;DOB:1981-02-05) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* THOMAS CATALANO License */* */* _holdings_ */* */* _futures */* */* _service */* */* */\.
 Copyright (c) */* THOMAS CATALANO License.x */* */* _holdings_ */* */* _futures */* _service */* */ */\.

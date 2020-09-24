@@ -7,7 +7,7 @@ Copyright (c) ;_Here_ _Name_(000-00-0000;DOB:0000-00-00);"_design_"();
 Copyright (c) ;"";Name Here();
 Copyright (c) ;"Here Name";
 Copyright (c) ;"";FICO();
-Copyright (c) ;"FICO";
+Copyright (c) ;"FICO":
 
 All rights reserved.             
 

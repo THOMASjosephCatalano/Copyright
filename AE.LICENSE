@@ -17,7 +17,10 @@ Copyright (c) */* ;"";LICENSE;"LICENSE""LICENSE.md""LICENSE.txt""LICENSE.x"; */*
 Copyright (c) */* ;THOMAS CATALANO LICENSE(); */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 Copyright (c) */* ;"";THOMAS CATALANO License(): */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* License()[template] */* */* _holdings_ */* */* _futures */* */* _service */* */* */ */\.
+Copyright (c) */* THOMAS CATALANO License()
+              */* License()[template] 
+              */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+
 
 Copyright (c) */* THOMAS CATALANO License()
               */* Newborn.LICENSE()[template]
@@ -26,7 +29,6 @@ Copyright (c) */* THOMAS CATALANO License()
               */* ;"Here Name";  
               */*  */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-
 Copyright (c) */* THOMAS CATALANO License()
               */* FICO.LICENSE()[template]
               */* ;_Here_ _Name_(000-00-0000;DOB:0000-00-00);"_design_"();
@@ -34,6 +36,15 @@ Copyright (c) */* THOMAS CATALANO License()
               */* ;"Here Name";
               */* ;"";X _FICO_();
               */* ;"_FICO_":
+              */*  */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+
+Copyright (c) */* THOMAS CATALANO License()
+              */* SocialSecurity.LICENSE()[template]
+              */* ;_Here_ _Name_(SocialSecurity:000-00-0000;DOB:0000-00-00);"_design_"();
+              */* ;"";Name _Here_();
+              */* ;"Here Name";
+              */* ;"";X _SocialSecurity_();
+              */* ;"_SocialSecurity_":
               */*  */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 

@@ -437,6 +437,8 @@ Copyright (c) */* BASF */* */* _holdings_ */* */Corporation/GROUP */Ltd./INC./LL
 
 Copyright (c) */* NYSE */* */* _holdings_ */* */* _futures */* */* _service */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
+Copyright (c) */* Intercontinental Exchange */* */* _holdings_ */* */* _service */* */ */\.
+
 Copyright (c) */* NASDAQ */* */* _holdings_ */* */* _service */* */GROUP/Corporation/* */INC./LLC./non-profit\.
 
 Copyright (c) */* Space X */* */* _holdings_ */* */* _service */* */Corporation/GROUP/* */INC./LLC./non-profit\.

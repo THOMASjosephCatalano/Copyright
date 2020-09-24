@@ -985,6 +985,8 @@ Copyright (c) */* Marine Naval Research Laboratory */* */* Marine Naval Special 
 
 Copyright (c) */* Smith & Wesson Guns */* Smith & Wesson Manufacturing */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
+Copyright (c) */* Fair, Isaac and Company (FICO) */* FICO */* */* _holdings_ */* */* _futures _*/* */* _service */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

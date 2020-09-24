@@ -852,9 +852,9 @@ Copyright (c) */* The Apache Software Foundation */* */* _holdings_ */* */* _ser
 
 Copyright (c) */* Twisted Sister Act */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* Herman Group */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Renee Herman Group */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* Baarthshat(similar sounding name/name may be slim misspelling.) Group */* */* Cramer Limb */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Barthshat(similar sounding name/name may be slim misspelling.) Group */* */* Cramer Limb */* */* _holdings_ */* */* _service */* */ */\.
  
 Copyright (c) */* Eva Richerdelli Group */* */* _holdings_ */* */* _service */* */ */\.
 

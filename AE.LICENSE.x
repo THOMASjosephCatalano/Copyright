@@ -6,7 +6,7 @@ AE.LICENSE.x
 
 Copyright (c) THOMAS CATALANO
 
-Copyright (c) */* ;THOMAS CATALANO(135-74-4812;DOB:1981-02-05);"Doctor";"Ph.D._Gravaphysicist"(); */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* ;THOMAS CATALANO(SocialSecurity:135-74-4812;DOB:1981-02-05);"Doctor";"Ph.D._Gravaphysicist"(); */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 Copyright (c) */* ;"";CATALANO THOMAS(); */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 Copyright (c) */* ;"THOMAS CATALANO"; */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 Copyright (c) */* ;Copyright (c); */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
@@ -17,11 +17,13 @@ Copyright (c) */* ;"";LICENSE;"LICENSE""LICENSE.md""LICENSE.txt""LICENSE.x"; */*
 Copyright (c) */* ;THOMAS CATALANO LICENSE(); */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 Copyright (c) */* ;"";THOMAS CATALANO License(): */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* License()[template] */* */* _holdings_ */* */* _futures */* */* _service */* */* */ */\.
+Copyright (c) */* THOMAS CATALANO License()
+              */* License()[template]
+              */* */* _holdings_ */* */* _futures */* */* _service */* */* */\.
 
 Copyright (c) */* THOMAS CATALANO License()
               */* Newborn.LICENSE()[template]
-              */* ;_Here_ _Name_(000-00-0000;DOB:0000-00-00);"_design_"();
+              */* ;_Here_ _Name_(SocialSecurity:000-00-0000;DOB:0000-00-00);"_design_"();
               */* ;"";Name Here();
               */* ;"Here Name";  
               */*  */* _holdings_ */* */* _futures */* */* _service */* */ */\.
@@ -29,13 +31,21 @@ Copyright (c) */* THOMAS CATALANO License()
 
 Copyright (c) */* THOMAS CATALANO License()
               */* FICO.LICENSE()[template]
-              */* ;_Here_ _Name_(000-00-0000;DOB:0000-00-00);"_design_"();
+              */* ;_Here_ _Name_(SocialSecurity:000-00-0000;DOB:0000-00-00);"_design_"();
               */* ;"";Name _Here_();
               */* ;"Here Name";
               */* ;"";X _FICO_();
               */* ;"_FICO_":
               */*  */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
+Copyright (c) */* THOMAS CATALANO License()
+              */* SocialSecurity.LICENSE()[template]
+              */* ;_Here_ _Name_(SocialSecurity:000-00-0000;DOB:0000-00-00);"_design_"();
+              */* ;"";Name _Here_();
+              */* ;"Here Name";
+              */* ;"";X _SocialSecurity_();
+              */* ;"_SocialSecurity_":
+              */*  */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
               */* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.

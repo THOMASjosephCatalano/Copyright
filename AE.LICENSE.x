@@ -1038,6 +1038,10 @@ Copyright (c) */* Fiat Motors */* _holdings_ */* _service */* */ */\.
 Copyright (c) */* VW Motors */* _holdings_ */* _service */* */ */\.
 
 Copyright (c) */* Triumph Motorcycles */* _holdings_ */* _service */* */ */\.
+
+Copyright (c) */* Yamaha Motorcycles */* _holdings_ */* _service */* */ */\.
+
+Copyright (c) */* Suzuki Motors */* _holdings_ */* _service */* */ */\.
  
 All rights reserved.    
 

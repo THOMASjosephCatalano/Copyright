@@ -192,18 +192,22 @@ Copyright (c) */* THOMAS CATALANO License */* _holdings_ */* _futures */* _servi
 Copyright (c) */* THOMAS CATALANO License.x */* _holdings_ */* _futures */* _service */* */ */\.
 
 Copyright (c) */* BIT(s);"BIT(s): "License"License."; */* _holdings_ */* _futures */* _service */* */ */\.
-Copyright (c) */* ;BIT(s);"BIT(s)"; */* _holdings_ */* _futures */* _service */* */ */\.
-Copyright (c) */* BIT(s);"BIT(s)";:"algorithm:"this License(); "inclusive"""; */* _holdings_ */* _futures */* _service */* */ */\.
-Coptright (c) */* ;motion by &| of panticulation serfractions perpetuation";algorithm:
-              */* "motion by &| of panticulation serfractions perpetuation"; */* _holdings_ */* _futures */* _service */* */ */\.
-Copyright (c) */* ;BIT(s)(information/time/frames) extrapolation by &| of percentile factorization;algorithm:               
-              */* "BIT(s)(information/time/frames) extrapolation by &| of percentile factorization"; */* _holdings_ */* _futures */*_service */* */ */\.
-Copyright (c) */* ;"transaction(s)/transactionary serfraction(s) require(s) bartertutional servitudinal account
-              */* proxing space-time/frame(past(s) present(s) &| future(s));algorithm:
-              */* "transaction(s)/transactionary serfraction(s) require(s) bartertutionl servitudinal account
-              */* proxing space-time(past(s), present(s) &| future(s))"; */* _holdings_ */* _futures */* _service */* */ */\.
+Copyright (c) */* BIT(s);"BIT(s)"; */* _holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* ;BIT(s)-Matter-Material-Mass-Light-structure(s)'s:""BIT(s)-Matter-Material-Mass-Light-structure(s)'"s""; */* _holdings_ */* _futures */* */* _service */* */ */\.
+Copyright (c) */* BIT(s);"BIT(s)";:"algorithm:"this License(); "inclusive"""; */* _holdings_ */* _futures */* _service */* */ */\.
+
+Coptright (c) */* "motion by &| of panticulation serfractions perpetuation";algorithm:
+              */* motion by &| of panticulation serfractions perpetuation"; */* _holdings_ */* _futures */* _service */* */ */\.
+Copyright (c) */* "BIT(s)(information/time/frames) extrapolation by &| of percentile factorization";algorithm:               
+              */* BIT(s)(information/time/frames) extrapolation by &| of percentile factorization"; */* _holdings_ */* _futures */*_service */* */ */\.
+Copyright (c) */* "transaction(s)/transactionary serfraction(s) require(s) bartertutional servitudinal account
+              */* proxing space-time/frame(past(s) present(s) &| future(s))";algorithm:
+              */* "transaction(s)/transactionary serfraction(s) require(s) bartertutionl servitudinal account
+              */* proxing space-time(past(s), present(s) &| future(s))";algorithm:
+              */* transaction(s)/transactionary serfraction(s) require(s) bartertutionl servitudinal account
+              */* proxing space-time(past(s), present(s) &| future(s)); */* _holdings_ */* _futures */* _service */* */ */\.
+
+Copyright (c) */* "BIT(s)-Matter-Material-Mass-Light-structure(s)'s";algorithm:BIT(s)-Matter-Material-Mass-Light-structure(s)'s; */* _holdings_ */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* Binary Coded Decmil(BSD);"Binary Coded Decmil(BSD): "License"License.x"; */* _holdings_ */* _futures */* _service */* */ */\.
 

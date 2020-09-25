@@ -1121,6 +1121,8 @@ Copyright (c) */* BITs EXCHANGE */* _holdings_ */* _futures */* _service */* */ 
 
 Copyright (c) */* Fortator Machine */* ;:machine learning::deep learning::deep learn::machine learn::fortator machine:; */*  _holdings_ */* _futures */* _service */* */ */\.
 
+Copyright (c) */* Star Wars (Trilogy Story) */* _holdings_ */* _service */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

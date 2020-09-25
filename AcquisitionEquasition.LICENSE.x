@@ -8,7 +8,7 @@ Copyright (c) THOMAS CATALANO
 
 Copyright (c) */* THOMAS CATALANO License '.()' */* _holdings_ */* _futures */* _service */* */ */\.
 Copyright (c) */* ;THOMASCATALANO.LICENSE() */* _holdings_ */* _futures */* _service */* */ */\.
-Copyright (c) */* ;THOMAS CATALANO(SocialSecurity:135-74-4812;DOB:1981-02-05);"Doctor";"Ph.D._Gravaphysicist"(); */* _holdings_ */* _futures */* _service */* */ */\.
+Copyright (c) */* ;THOMAS CATALANO(SocialSecurity:135-74-4812;DOB:1981-02-05);"Doctor";"_Ph.D._"(); */* _holdings_ */* _futures */* _service */* */ */\.
 Copyright (c) */* ;"";CATALANO THOMAS(); */* _holdings_ */* _futures */* _service */* */ */\.
 Copyright (c) */* ;"THOMAS CATALANO License"; */* _holdings_ */* _futures */* _service */* */ */\.
 Copyright (c) */* ;Copyright (c); */* _holdings_ */* _futures */* _service */* */ */\.

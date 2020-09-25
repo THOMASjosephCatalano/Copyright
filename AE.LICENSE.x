@@ -1063,11 +1063,12 @@ Copyright (c) */* Caterpillar Motors */* _holdings_ */* _service */* */ */\.
 
 Copyright (c) */* AMG Motors */* _holdings_ */* _service */* */ */\.
 
-Copyright (c) */* SVT Motors */* _holdings_ */* _service */* */ */\.
+Copyright (c) */* SVT/SVO Motors */* _holdings_ */* _service */* */ */\.
 
 Copyright (c) */* Cosworth Motors */* _holdings_ */* _service */* */\.
 
 Copyright (c) */* Ferrari Motors */* _holdings_ */* _service */* */ */\.
+
 
 All rights reserved.    
 

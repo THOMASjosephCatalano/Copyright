@@ -13,14 +13,16 @@ Copyright (c) BIT(s);"BIT(s)";"algorithm:"this "LICENSE()" "inclusive""";
 Copyright (c) ;*["(the)"]*(); "&&" "politicasivisonarydafabuloustaticlicous" "&&" ""["_*BOARD*__Doctor__Ph.d_-General-Admiral-
               CFO-CEO-President__the.emancipator.proatator.the__ThomasJosephCatalano"(*)""] ""Catalano Ltd." "Catalano Concepts
               LimitedLiabilityCompany" "CLM LimitedLiabilityCompany" "proprietary entities"" | mechanical() && "["classical" 
-              | "quantum"]" && ""_computer-processor_" "_*utility'_ _*invention'_ _*formula_ _*enginee'_"" && "The Letter of Proof" 
+              | "quantum"]" && ""_computer-processor_" "_*utility'_ _*invention'_ _*formula_ _*enginee'_"" &&
+              "The Letter of Proof" 
               -implementator/my testator";;
               life fulfunfentamation hearty primaly;[""null on my persons"; "alienated()&|staturnacled()&|ordained()&|
               CerebralSpinalCord-serpentined()&|illness()&|abuse()&|detention()&|pain()&|ach()&|ick)&|discomfort()&|raped()&|
               berbituated()&|disabled()&|"" "&&""\""sergent onto me"; "manufacturing;:_A-cocaine_, coaperativ ecstasy, 
               my-economor-fortae, sexapaif, consumption;:_A-cocaine_, exhilarating/exuberant_life-ray force, masterfater, 
               forate ecstasy, distribution;:_A-cocaine_" "&&"""](); "human/mechanical/classical/quantum primalactoration && 
-              _always_ && every/any way shape &| form; physicality currencies concurrently, bad ass "jet" fighter pilot, pipe fitter";; 
+              _always_ && every/any way shape &| form; physicality currencies concurrently, bad ass "jet" fighter pilot, pipe 
+              fitter";; 
               "onemotoeyatolatatufatermaterbatorbaskatracerfantastaticulisoustrodanersaitonator" ;;
               "onemotovasculatorvaderprolishisfatorsaitonator";;
               politicasvisonarydafabuloustaticulis && ""["_*BOARD*__Doctor__Ph.D_-General-Admiral-CFO-CEO-President__

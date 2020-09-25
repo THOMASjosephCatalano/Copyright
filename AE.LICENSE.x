@@ -1029,9 +1029,9 @@ Copyright (c) */* US Department of Veterans Affairs */* Department of Veterans A
 
 Copyright (c) */* Harley Davidson Motorcycles */* _holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* Honda Motors */* Honda Motorcycles */* _holdings_ */* _service */* */ */\.
+Copyright (c) */* Honda Motors */* _holdings_ */* _service */* */ */\.
 
-Copyright (c) */* BMW Motors */* BMW Motorcycles */* _holdings_ */* _service */* */ */\.
+Copyright (c) */* BMW Motors */* _holdings_ */* _service */* */ */\.
 
 Copyright (c) */* Fiat Motors */* _holdings_ */* _service */* */ */\.
 
@@ -1039,10 +1039,12 @@ Copyright (c) */* VW Motors */* _holdings_ */* _service */* */ */\.
 
 Copyright (c) */* Triumph Motorcycles */* _holdings_ */* _service */* */ */\.
 
-Copyright (c) */* Yamaha Motorcycles */* _holdings_ */* _service */* */ */\.
+Copyright (c) */* Yamaha Motors */* _holdings_ */* _service */* */ */\.
 
 Copyright (c) */* Suzuki Motors */* _holdings_ */* _service */* */ */\.
- 
+
+Copyright (c) */* Kawasaki Motors */* _holdings_ */* _service */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

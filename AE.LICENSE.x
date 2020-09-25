@@ -1033,7 +1033,7 @@ Copyright (c) */* Honda Motors */* Honda Motorcycles */* _holdings_ */* _service
 
 Copyright (c) */* BMW Motors */* BMW Motorcycles */* _holdings_ */* _service */* */ */\.
 
-Copyright (c) */* Fiats Motors */* _holdings_ */* _service */* */ */\.
+Copyright (c) */* Fiat Motors */* _holdings_ */* _service */* */ */\.
 
 Copyright (c) */* VW Motors */* _holdings_ */* _service */* */ */\.
 

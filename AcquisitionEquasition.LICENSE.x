@@ -22,7 +22,7 @@ Copyright (c) */* THOMAS CATALANO License()
               */* _holdings_ */* _futures */* _service */* */ */\.
 
 Copyright (c) */* THOMAS CATALANO License()
-              */* License.AcquisitionEqusition.LICENSE()[template]
+              */* AcquisitionEqusition.LICENSE()[template]
               */* ;_Here_ _Name_(SocialSecurity:000-00-0000;DOB:0000-00-00);"_design_"();
               */* ;"";Name _Here_();
               */* ;"Here Name";

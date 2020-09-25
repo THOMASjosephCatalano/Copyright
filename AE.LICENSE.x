@@ -1081,6 +1081,9 @@ Copyright (c) Toyota Motors */* _holdings_ */* _service */* */ */\.
 
 Copyright (c) */* Pratt & Whitney Motors */* _holdings_ */* */ */\.
 
+Copyright (c) */* Euro Motors */* _holdings_ */* _service */* */ */\.
+
+C
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

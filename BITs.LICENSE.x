@@ -4,7 +4,7 @@
 THOMAS CATALANO License.x
 BITs.LICENSE.x
 
-Copyright (c) ;THOMAS CATALANO(135-74-4812;DOB:1981-02-05);"Doctor";"Ph.D._Gravaphysicist"();
+Copyright (c) ;THOMAS CATALANO(135-74-4812;DOB:1981-02-05);"Doctor";"_Ph.D._"();
 Copyright (c) ;"";CATALANO THOMAS();
 Copyright (c) ;"THOMAS CATALANO";
 Copyright (c) BIT(s);"BIT(s): "License"License.x";

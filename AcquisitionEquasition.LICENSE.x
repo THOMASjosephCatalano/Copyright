@@ -2,7 +2,7 @@
 */* Copyright (c) THOMAS CATALANO */*
 
 THOMAS CATALANO License.x
-AE.LICENSE.x
+AcquisitionEquasition.LICENSE.x
 
 Copyright (c) THOMAS CATALANO
 

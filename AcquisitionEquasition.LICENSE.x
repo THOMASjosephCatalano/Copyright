@@ -66,55 +66,55 @@ Copyright (c) */* Permission is hereby granted, free of charge, to any person ob
 Copyright (c) */* License-FORMAT_LEGAL-ACQUISITION-EQUES;"License-FORMAT_LEGAL-ACQUISITION-EQUES";this "License" "inclusive":/""Copyright (c)" "_"NAMEENTITY"_" "-" "_"BACK"_" "-" "_"ENTITIEOR"_" "-" "_"CLASSENTITY"_" "-" {"_"MISC(ie.Countries of 'legal' entity;New Zealand,China,Finland;,etc so forth())"_"} "-" "_"LEGALENTITY"_""\(.)",((*/*)="inclusive"like"objects"/"pre-|-post"//((*/)(/*))="intrinsic"like"objects"/merandum's(s)'s; esetera so forth, sefor example's)""License"-"FORMAT"_LEGAL-ACQUISITION-EQUES").
               */* _holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* THOMAS CATALANO */* "THOMAS CATALANO" */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* THOMAS CATALANO */* "THOMAS CATALANO" */* _holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* BIT(s);"BIT(s)";:"algorithm:"this License(); "inclusive"""; */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* BIT(s);"BIT(s)";:"algorithm:"this License(); "inclusive"""; */* _holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* bit */* bit(s) */* BIT */* BIT(s) */* byte */* byte(s) */* BYTE */* BYTE(s) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* bit */* bit(s) */* BIT */* BIT(s) */* byte */* byte(s) */* BYTE */* BYTE(s) */* _holdings_ */*  _futures */* _service */* */ */\.
 
-Copyright (c) */* All rights reserved. */* "All rights reserved." */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* All rights reserved. */* "All rights reserved." */* _holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* Binary Coded Decimal */* */* _(_BCD_)_ */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* Binary Coded Decimal */* */* _(_BCD_)_ */* _holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* American Standard Code for Information Interchange */* ASCII */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* American Standard Code for Information Interchange */* ASCII */* _holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* Unicode */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* Unicode */* */* _holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* Request for Comments (RFC) */* _(_RFC_)_ */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* Request for Comments (RFC) */* _(_RFC_)_ */* _holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* Internet Protocol version (IPv*) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* Internet Protocol version (IPv*) */* _holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* Internet Service Providers (ISP) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* Internet Service Providers (ISP) */* _holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* Domain Name System (DNS) */* _(DNS_)_ */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* Domain Name System (DNS) */* _(DNS_)_ */* _holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* Dynamic Host Configuration Protocol (DHCP) */* _(_DHCP_)_ */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* Dynamic Host Configuration Protocol (DHCP) */* _(_DHCP_)_ */* _holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* Internet Corporation for Assigned Names and Numbers (ICANN) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* Internet Corporation for Assigned Names and Numbers (ICANN) */* _holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* Internet protocol Suite (TCP/UDP) */* _(_TCP_UDP_)_ */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* Internet protocol Suite (TCP/UDP) */* _(_TCP_UDP_)_ */* _holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* Mobile IP Protocol (MIP) */* _(_MIP_)_ */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* Mobile IP Protocol (MIP) */* _(_MIP_)_ */* _holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* Internet protocol addresses (IP) */* _(_IP_)_ */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* Internet protocol addresses (IP) */* _(_IP_)_ */* _holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* Classless Inter-Domain Routing (CIDR) */* _(_CIDR_)_ */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* Classless Inter-Domain Routing (CIDR) */* _(_CIDR_)_ */* _holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* Best Current Practices (BCP) */* _(_BCP_)_ */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* Best Current Practices (BCP) */* _(_BCP_)_ */* _holdings_ */* _futures */* service */* */ */\.
 
-Copyright (c) */* Copyright */* "Copyright" */* */* _holdings */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* Copyright */* "Copyright" */* _holdings */* _futures */* _service */* */ */\.
 
-Copyright (c) */* (c) */* "(c)" */* */* _holdings */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* (c) */* "(c)" */* _holdings */* _futures */* _service */* */ */\.
 
-Copyright (c) */* Copyright (c) */* "Copyright (c)" */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* Copyright (c) */* "Copyright (c)" */* _holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* Copyright © */* "Copyright ©" */* */* _holdings */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* Copyright © */* "Copyright ©" */* _holdings */* _futures */* _service */* */ */\.
 
-Copyright (c) */* MIT License */* "MIT License" */* */* _holdings */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* MIT License */* "MIT License" */* _holdings */* _futures */* _service */* */ */\.
 
-Copyright (c) */* Vote */* "Vote" */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* Vote */* "Vote" */* _holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* Veto */* "Veto" */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* Veto */* "Veto" */* _holdings_ */* _futures */* _service */* */ */\.
 
 Copyright (c) */* Grant */* "Grant" */*
 
@@ -146,15 +146,15 @@ Copyright (c) */* repair */* "repair" */*
 
 Copyright (c) */* update */* "update" */*
 
-Copyright (c) */* License */* "LICENSE" */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* License */* "LICENSE" */* _holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* Patent */* "Patent" */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* Patent */* "Patent" */* _holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* Trademark */* "Trademark" */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* Trademark */* "Trademark" */* _holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* Binary */* "Binary" */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* Binary */* "Binary" */* _holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* © */* "©" */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* © */* "©" */* */* _holdings_ */* _futures */* _service */* */ */\.
 
 Copyright (c) */* "~0~9~" */*
 
@@ -184,9 +184,9 @@ Copyright (c) */* "°" */*
 
 Copyright (c) */* "^" */*
 
-Copyright (c) */* MIT License */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* MIT License */* _holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* THOMAS CATALANO(SocialSecurity:135-74-4812;DOB:1981-02-05) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* THOMAS CATALANO(SocialSecurity:135-74-4812;DOB:1981-02-05) */* _holdings_ */* _futures */* _service */* */ */\.
 
 Copyright (c) */* THOMAS CATALANO License */* */* _holdings_ */* */* _futures */* */* _service */* */* */\.
 Copyright (c) */* THOMAS CATALANO License.x */* */* _holdings_ */* */* _futures */* _service */* */ */\.

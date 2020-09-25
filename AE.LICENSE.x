@@ -1049,6 +1049,10 @@ Copyright (c) */* Aprilia Motors */* _holdings_ */* _service */* */ */\.
 
 Copyright (c) */* Chevrolet Motors */* _holdings */* _service */* */ */\.
 
+Copyright (c) */* Volvo Motors */* _holdings_ */* _service */* */ */\.
+
+Copyright (c) */* Detroit Diesel Motors */* _holdings_ */* _service */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

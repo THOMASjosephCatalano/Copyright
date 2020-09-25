@@ -19,7 +19,7 @@ Copyright (c) */* ;"";THOMAS CATALANO License(): */* */* _holdings_ */* */* _fut
 
 Copyright (c) */* THOMAS CATALANO License()
               */* License()[template]
-              */* */* _holdings_ */* */* _futures */* */* _service */* */* */\.
+              */* */ _holdings_ */* _futures */*  _service */* */ */\.
 
 Copyright (c) */* THOMAS CATALANO License()
               */* Newborn.LICENSE()[template]

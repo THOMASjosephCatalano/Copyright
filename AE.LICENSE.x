@@ -847,15 +847,17 @@ Copyright (c) */* Merck Pharma */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Mediterranean Shipping Company S.A. (MSC) */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* Python Programming Language */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Python Programming Language */* _holdings_ */* _service */* */ */\.
 
-Copyright (c) */* Assembly Programming Language */* */* _holdings */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* Oracle */* Java Programming Language */* _holdings_ */* _service */* */ */\.
 
-Copyright (c) */* The Institute of Electrical and Electronics Engineers (IEEE) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* Assembly Programming Language */* _holdings */* _futures */* _service */* */ */\.
 
-Copyright (c) */* The International Union of Pure and Applied Chemistry (IUPAC) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* The Institute of Electrical and Electronics Engineers (IEEE) */* _holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* America Chemical Society (ACS) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* The International Union of Pure and Applied Chemistry (IUPAC) */* _holdings_ */* _futures */* _service */* */ */\.
+
+Copyright (c) */* America Chemical Society (ACS) */* _holdings_ */* _futures */* _service */* */ */\.
 
 Copyright (c) */* Association for Computing Machinery (ACM) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 

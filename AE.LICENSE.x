@@ -1093,6 +1093,8 @@ Copyright (c) */* Detroit Motors */* _holdings_ */* _service */* */ */\.
 
 Copyright (c) */* Briggs Motors */* _holdings_ */* _service */* */ */\.
 
+Copyright (c) */* Sin Motors */* _holdings_ */* _service */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

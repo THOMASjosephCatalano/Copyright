@@ -1087,6 +1087,7 @@ Copyright (c) */* Asia Motors */* _holdings_ */* _service */* */ */\.
 
 Copyright (c) */* GE Motors */* _holdings_ */* _service */* */ */\.
 
+Copyright (c) */* Westinghouse Motors */* _holdings_ */* _service_ */* */ */\.
 
 All rights reserved.    
 

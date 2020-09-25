@@ -1027,7 +1027,7 @@ Copyright (c) */* Kroger */* Kroger Foods */* */* _holdings_ */* */* _futures */
 
 Copyright (c) */* US Department of Veterans Affairs */* Department of Veterans Affairs */* _VA_ */* _holdings */* _futures */* _service */* */ */\.
 
-Copyright (c) */* Harley Davidson Motorcycles */* _holdings_ */* _futures */* _service */* */ */\.
+Copyright (c) */* Harley Davidson Motors */* _holdings_ */* _futures */* _service */* */ */\.
 
 Copyright (c) */* Honda Motors */* _holdings_ */* _service */* */ */\.
 
@@ -1037,7 +1037,7 @@ Copyright (c) */* Fiat Motors */* _holdings_ */* _service */* */ */\.
 
 Copyright (c) */* VW Motors */* _holdings_ */* _service */* */ */\.
 
-Copyright (c) */* Triumph Motorcycles */* _holdings_ */* _service */* */ */\.
+Copyright (c) */* Triumph Motors */* _holdings_ */* _service */* */ */\.
 
 Copyright (c) */* Yamaha Motors */* _holdings_ */* _service */* */ */\.
 

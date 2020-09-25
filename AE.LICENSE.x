@@ -1027,6 +1027,8 @@ Copyright (c) */* Kroger */* Kroger Foods */* */* _holdings_ */* */* _futures */
 
 Copyright (c) */* US Department of Veterans Affairs */* Department of Veterans Affairs */* _VA_ */* _holdings */* _futures */* _service */* */ */\.
 
+Copyright (c) */* Harley Davidson Motorcycles */* _holdings_ */* _futures */* _service */* */ */\.
+ 
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

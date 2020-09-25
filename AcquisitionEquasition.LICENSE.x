@@ -14,8 +14,8 @@ Copyright (c) */* ;"THOMAS CATALANO License"; */* _holdings_ */* _futures */* _s
 Copyright (c) */* ;Copyright (c); */* _holdings_ */* _futures */* _service */* */ */\.
 Copyright (c) */* ;"";"Copyright (c)"; */* _holdings_ */* _futures */* _service */* */ */\.
 Copyright (c) */* ;"";"All rights reserved."; */* _holdings_ */* _futures */* _service */* */ */\.
-Copyright (c) */* ;"";License;"License""License.md""License.txt""License.x"; */* _holdings_ */* _futures */* _service */* */ */\.
-Copyright (c) */* ;"";LICENSE;"LICENSE""LICENSE.md""LICENSE.txt""LICENSE.x"; */* _holdings_ */* _futures */* _service */* */ */\.
+Copyright (c) */* ;"";License;"License'.()'"; */* _holdings_ */* _futures */* _service */* */ */\.
+Copyright (c) */* ;"";LICENSE;"LICENSE'.()'"; */* _holdings_ */* _futures */* _service */* */ */\.
 Copyright (c) */* ;THOMAS CATALANO LICENSE(); */* _holdings_ */* _futures */* _service */* */ */\.
 Copyright (c) */* ;"";THOMAS CATALANO License(): */* _holdings_ */* _futures */* _service */* */ */\.
 

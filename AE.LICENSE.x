@@ -1077,6 +1077,8 @@ Copyright (c) Dodge Motors */* _holdings_ */* _service */* */ */\.
 
 Copyright (c) Rolls Royce Motors */* _holdings_ */* _service */* */ */\.
 
+Copyright (c) Toyota Motors */* _holdings_ */* _service */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

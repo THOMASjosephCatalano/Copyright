@@ -1029,9 +1029,11 @@ Copyright (c) */* US Department of Veterans Affairs */* Department of Veterans A
 
 Copyright (c) */* Harley Davidson Motorcycles */* _holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* Honda Motors */* _holdings_ */* _service */* */ */\.
+Copyright (c) */* Honda Motors */* Honda Motorcycles */* _holdings_ */* _service */* */ */\.
 
-Copyright( 
+Copyright (c) */* BMW Motors */* BMW Motorcycles */* _holdings_ */* _service */* */ */\.
+
+
  
 All rights reserved.    
 

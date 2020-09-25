@@ -1103,6 +1103,8 @@ Copyright (c) */* Bevis & Buthead Show */* _holdings_ */* _futures */* _service 
 
 Copyright (c) */* Family Guy Show */* _holdings_ */* _futures */* _service */* */ */\.
 
+Copyright (c) */* BITs EXCHANGE */* _holdings_ */* _futures */* _service */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

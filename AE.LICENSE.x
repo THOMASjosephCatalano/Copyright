@@ -1057,6 +1057,8 @@ Copyright (c) */* Mack Motors */* _holdings_ */* _service */* */ */\.
 
 Copyright (c) */* International/Navistar Motors */* _holdings_ */* _service */* */ */\.
 
+Copyright (c) */* Mercury Motors */* _holdings_ */* _service */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

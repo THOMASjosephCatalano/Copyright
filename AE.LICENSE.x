@@ -879,7 +879,7 @@ Copyright (c) */* Renee Herman Group */* */* _holdings_ */* */* _service */* */ 
 
 Copyright (c) */* Barthshat(similar sounding name/name may be slim misspelling.) Group */* */* Cramer Limb */* */* _holdings_ */* */* _service */* */ */\.
  
-Copyright (c) */* Eva Richerdelli Group */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Eva Sinorina Group */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* La Agata Serventine */* */* _holdings */* */* _service */* */ */\.
 
@@ -889,7 +889,7 @@ Copyright (c) */* D' Foundation */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* www.mylife.com */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* Jerome Institute of Serinity */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Jerome Group */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* Catechism Society of America */* */* _holdings_ */* */* _service */* */ */\.
 

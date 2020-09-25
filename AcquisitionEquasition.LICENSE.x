@@ -194,11 +194,11 @@ Copyright (c) */* THOMAS CATALANO License.x */* _holdings_ */* _futures */* _ser
 Copyright (c) */* BIT(s);"BIT(s): "License"License."; */* _holdings_ */* _futures */* _service */* */ */\.
 Copyright (c) */* ;BIT(s);"BIT(s)"; */* _holdings_ */* _futures */* _service */* */ */\.
 Copyright (c) */* BIT(s);"BIT(s)";:"algorithm:"this License(); "inclusive"""; */* _holdings_ */* _futures */* _service */* */ */\.
-Coptright (c) */* ;motion by &| of panticulation serfractions perpetuation;algorithm:
+Coptright (c) */* ;motion by &| of panticulation serfractions perpetuation";algorithm:
               */* "motion by &| of panticulation serfractions perpetuation"; */* _holdings_ */* _futures */* _service */* */ */\.
 Copyright (c) */* ;BIT(s)(information/time/frames) extrapolation by &| of percentile factorization;algorithm:               
               */* "BIT(s)(information/time/frames) extrapolation by &| of percentile factorization"; */* _holdings_ */* _futures */*_service */* */ */\.
-Copyright (c) */* ;transaction(s)/transactionary serfraction(s) require(s) bartertutional servitudinal account
+Copyright (c) */* ;"transaction(s)/transactionary serfraction(s) require(s) bartertutional servitudinal account
               */* proxing space-time/frame(past(s) present(s) &| future(s));algorithm:
               */* "transaction(s)/transactionary serfraction(s) require(s) bartertutionl servitudinal account
               */* proxing space-time(past(s), present(s) &| future(s))"; */* _holdings_ */* _futures */* _service */* */ */\.

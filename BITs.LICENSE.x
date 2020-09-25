@@ -19,7 +19,7 @@ Copyright (c) ;transaction(s)/transactionary serfraction(s) require(s) bartertut
               "transaction(s)/transactionary serfraction(s) require(s) bartertutionl servitudinal account
               proxing space-time(past(s), present(s) &| future(s))";
 
-Copyright (c) ;BIT(s)-Matter-Material-Mass-Light-structure(s)'s:""BIT(s)-Matter-Material-Mass-Light-structure(s)'"s"";
+Copyright (c) ;BIT(s)-Matter-Material-Mass-Light-structure(s)'s;algorithm:""BIT(s)-Matter-Material-Mass-Light-structure(s)'"s"";
 
 All rights reserved.
             

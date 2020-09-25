@@ -188,34 +188,34 @@ Copyright (c) */* MIT License */* _holdings_ */* _futures */* _service */* */ */
 
 Copyright (c) */* THOMAS CATALANO(SocialSecurity:135-74-4812;DOB:1981-02-05) */* _holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* THOMAS CATALANO License */* */* _holdings_ */* */* _futures */* */* _service */* */* */\.
-Copyright (c) */* THOMAS CATALANO License.x */* */* _holdings_ */* */* _futures */* _service */* */ */\.
+Copyright (c) */* THOMAS CATALANO License */* _holdings_ */* _futures */* _service */* */* */\.
+Copyright (c) */* THOMAS CATALANO License.x */* _holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* BIT(s);"BIT(s): "License"License."; */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
-Copyright (c) */* ;BIT(s);"BIT(s)"; */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
-Copyright (c) */* BIT(s);"BIT(s)";:"algorithm:"this License(); "inclusive"""; */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* BIT(s);"BIT(s): "License"License."; */* _holdings_ */* _futures */* _service */* */ */\.
+Copyright (c) */* ;BIT(s);"BIT(s)"; */* _holdings_ */* _futures */* _service */* */ */\.
+Copyright (c) */* BIT(s);"BIT(s)";:"algorithm:"this License(); "inclusive"""; */* _holdings_ */* _futures */* _service */* */ */\.
 Coptright (c) */* ;motion by &| of panticulation serfractions perpetuation;algorithm:
-              */* "motion by &| of panticulation serfractions perpetuation"; */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+              */* "motion by &| of panticulation serfractions perpetuation"; */* _holdings_ */* _futures */* _service */* */ */\.
 Copyright (c) */* ;BIT(s)(information/time/frames) extrapolation by &| of percentile factorization;algorithm:               
-              */* "BIT(s)(information/time/frames) extrapolation by &| of percentile factorization"; */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+              */* "BIT(s)(information/time/frames) extrapolation by &| of percentile factorization"; */* _holdings_ */* _futures */*_service */* */ */\.
 Copyright (c) */* ;transaction(s)/transactionary serfraction(s) require(s) bartertutional servitudinal account
               */* proxing space-time/frame(past(s) present(s) &| future(s));algorithm:
               */* "transaction(s)/transactionary serfraction(s) require(s) bartertutionl servitudinal account
-              */* proxing space-time(past(s), present(s) &| future(s))"; */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+              */* proxing space-time(past(s), present(s) &| future(s))"; */* _holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* ;BIT(s)-Matter-Material-Mass-Light-structure(s)'s:""BIT(s)-Matter-Material-Mass-Light-structure(s)'"s""; */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* ;BIT(s)-Matter-Material-Mass-Light-structure(s)'s:""BIT(s)-Matter-Material-Mass-Light-structure(s)'"s""; */* _holdings_ */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* Binary Coded Decmil(BSD);"Binary Coded Decmil(BSD): "License"License.x"; */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* Binary Coded Decmil(BSD);"Binary Coded Decmil(BSD): "License"License.x"; */* _holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* ;"";Binary Coded Decimal(BCD);"Binary Coded Decimal(BCD)";"*/system/format/encoding/*""; */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
-Copyright (c) */* ;".*" .*="all"_.file;/format/extensions/encoding/"esetera so forth"/*; */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
-Copyright (c) */* ;".asm*" file;/format/extensions/encoding/*; */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
-Copyright (c) */* ;".i*" file;/format/extensions/encoding/*; */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
-Copyright (c) */* ;".h*" file;/format/extensions/encoding/*; */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
-Copyright (c) */* ;".c*" file;/format/extensions/encoding/*; */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
-Copyright (c) */* ;".cpp*" file;/format/extensions/encoding/*; */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* ;"";Binary Coded Decimal(BCD);"Binary Coded Decimal(BCD)";"*/system/format/encoding/*""; */* _holdings_ */* _futures */* _service */* */ */\.
+Copyright (c) */* ;".*" .*="all"_.file;/format/extensions/encoding/"esetera so forth"/*; */* */* _holdings_ */* */* _futures */* _service */* */ */\.
+Copyright (c) */* ;".asm*" file;/format/extensions/encoding/*; */* _holdings_ */* _futures */* _service */* */ */\.
+Copyright (c) */* ;".i*" file;/format/extensions/encoding/*; */* _holdings_ */* _futures */* _service */* */ */\.
+Copyright (c) */* ;".h*" file;/format/extensions/encoding/*; */* _holdings_ */* _futures */*  _service */* */ */\.
+Copyright (c) */* ;".c*" file;/format/extensions/encoding/*; */* _holdings_ */* _futures */* _service */* */ */\.
+Copyright (c) */* ;".cpp*" file;/format/extensions/encoding/*; */* _holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* the_grammar-word-transitional/statment/transitional;adjective-verb()"adjective-verb()"(adj-verb):benevolent-socality_socalafide::(adj-verb(d))definition/(adj-verb(d)) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* the_grammar-word-transitional/statment/transitional;adjective-verb()"adjective-verb()"(adj-verb):benevolent-socality_socalafide::(adj-verb(d))definition/(adj-verb(d)) */* _holdings_ */* _futures */* _service */* */ */\.
 
 Copyright (c) */* grammer-word-transitional/statement/transitional:undedifracteonal(adj-verb(d)).
 
@@ -253,9 +253,9 @@ Copyright (c) */* grammar-word-transtitional/statment/transitional:collectaxatat
 
 Copyright (c) */* esetera so forth;etc. so forth\.
 
-Copyright (c) */* The Letter of Proof */* */* _holdings_ */* */* _futures */* */* _service */* */INSTITUTION/INSTRUMENT/STATE/SYSTEM/GROUP/* */\.
+Copyright (c) */* The Letter of Proof */* _holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* BIT(s);"BIT(s)"(information/time/frames) */* */* _holdings_ */* */* _futures */* */* _service */* */INSTITUTION/INSTRUMENT/SYSTEM/FOUNDATION/GROUP(s)/* */\.
+Copyright (c) */* BIT(s);"BIT(s)"(information/time/frames) */* _holdings_ */* _futures */* _service */* */INSTITUTION/INSTRUMENT/SYSTEM/FOUNDATION/GROUP(s)/* */\.
 
 Copyright (c) */* BIT(s);"BIT(s) "License"" */* */* _holdings_ */* */* _service */* */ */\.
 

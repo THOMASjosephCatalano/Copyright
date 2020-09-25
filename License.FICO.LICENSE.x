@@ -2,7 +2,7 @@
 */* Copyright (c) THOMAS CATALANO */*
 
 THOMAS CATALANO License.x
-FICO.LICENSE()[template]
+License.FICO.LICENSE()[template]
 
 Copyright (c) ;_Here_ _Name_(SocialSecurity:000-00-0000;DOB:0000-00-00);"_design_"();
 Copyright (c) ;"";Name _Here_();

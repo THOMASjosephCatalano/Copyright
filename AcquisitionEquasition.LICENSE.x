@@ -1157,3 +1157,4 @@ SOFTWARE.
 
 */* Copyright (c) THOMAS CATALANO */*
 © THOMAS CATALANO ©
+©tc©

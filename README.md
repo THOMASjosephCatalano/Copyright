@@ -2,6 +2,12 @@
 # 
 © THOMAS CATALANO ©
 
+#
+
+©tc©
+
+#
+
 */* Copyright (c) THOMAS CATALANO */*
 THE LICENSE License
 
@@ -53,3 +59,5 @@ Dr.ThomasCatalano Ph.D.
 Denver Colorado(CO) 80216-2099 _USA
 
     © THOMAS CATALANO ©
+#
+©tc©

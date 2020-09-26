@@ -1133,6 +1133,8 @@ Copyright (c) */* Northrop Grumman */* */* Northrop/Grumman Ship/Boat/Ship build
 
 Copyright (c) */* The Simpsons */* Show/Franchise */* _holdings_ */* _futures */* _service */* */ */\.
 
+Copyright (c) */* Star Wars Imperial Destroyer */* Star Wars Imperial Fleet */* _holdings_ */* _futures */* _service */* Antarctic Fleet */* _service */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

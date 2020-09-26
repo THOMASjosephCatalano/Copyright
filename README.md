@@ -1,5 +1,6 @@
 
-# © THOMAS CATALANO
+# 
+© THOMAS CATALANO
 
 */* Copyright (c) THOMAS CATALANO */*
 THOMAS CATALANO License
@@ -39,7 +40,8 @@ SOFTWARE.
 
     © THOMAS CATALANO
 
-# github.com/tomsnode/Copyright/blob/master/README.md\
+# 
+github.com/tomsnode/Copyright/blob/master/README.md\
 
 
 #

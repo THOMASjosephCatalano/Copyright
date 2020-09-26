@@ -65,7 +65,7 @@ Copyright (c) */* Permission is hereby granted, free of charge, to any person ob
               */* _holdings_ */* _futures */* _service */* */ /*\.
 
 
-Copyright (c) */* License-FORMAT_LEGAL-ACQUISITION-EQUES;"License-FORMAT_LEGAL-ACQUISITION-EQUES";this "License" "inclusive":/""Copyright (c)" "_"NAMEENTITY"_" "-" "_"BACK"_" "-" "_"ENTITIEOR"_" "-" "_"CLASSENTITY"_" "-" {"_"MISC(ie.Countries of 'legal' entity;China,Finland;,etc so forth())"_"} "-" "_"LEGALENTITY"_""\(.)",((*/*)="inclusive"like"objects"/"pre-|-post"//((*/)(/*))="intrinsic"like"objects"/merandum's(s)'s; esetera so forth, sefor example's)""License"-"FORMAT"_LEGAL-ACQUISITION-EQUES").
+Copyright (c) */* License-FORMAT_LEGAL-ACQUISITION-EQUES;"License-FORMAT_LEGAL-ACQUISITION-EQUES";this "License" "inclusive":/""Copyright (c)" "_"NAMEENTITY"_" "-" "_"BACK"_" "-" "_"ENTITIEOR"_" "-" "_"CLASSENTITY"_" "-" {"_"MISC(ie.Countries of 'legal' entity;Antarctica,China,Finland,Thailand.())"_"} "-" "_"LEGALENTITY"_""\(.)",((*/*)="inclusive"like"objects"/"pre-|-post"//((*/)(/*))="intrinsic"like"objects"/merandum's(s)'s; esetera so forth, sefor example's)""License"-"FORMAT"_LEGAL-ACQUISITION-EQUES").
               */* _holdings_ */* _futures */* _service */* */ */\.
 
 Copyright (c) */* THOMAS CATALANO */* "THOMAS CATALANO" */* _holdings_ */* _futures */* _service */* */ */\.

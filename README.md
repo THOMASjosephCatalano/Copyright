@@ -1,11 +1,6 @@
 
 # 
 © THOMAS CATALANO ©
-
-#
-
-©tc©
-
 #
 
 */* Copyright (c) THOMAS CATALANO */*

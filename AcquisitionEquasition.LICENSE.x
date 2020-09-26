@@ -1131,6 +1131,8 @@ Copyright (c) */* Star Wars (Trilogy Story) */* _holdings_ */* _service */* */ *
 
 Copyright (c) */* Northrop Grumman */* */* Northrop/Grumman Ship/Boat/Ship building/docks/dockside/docking */* _holdings_ */* _futures */* _service */* */ */\.
 
+Copyright (c) */* The Simpsons */* Show/Franchise */* _holdings_ */* _futures */* _service */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

@@ -40,6 +40,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
     © THOMAS CATALANO ©
+©tc©
 
 # 
 github.com/tomsnode/Copyright/blob/master/README.md\

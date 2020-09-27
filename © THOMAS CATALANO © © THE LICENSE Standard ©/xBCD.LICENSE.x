@@ -11,7 +11,7 @@ Copyright (c) Binary Coded Decmil(BSD);"Binary Coded Decmil(BSD): "License"Licen
 
 Copyright (c) ;"";Binary Coded Decimal(BCD);"Binary Coded Decimal(BCD)";"*/system/format/encoding/*"";
 Copyright (c) ;".*" .*="all"_.file;/format/extensions/encoding/esetera so forth/*";
-Copyright (c) ;".asm*" file;/format/extensions/encoding/*;
+Copyright (c) ;".asm* _&|_ _()_ code" file;/format/extensions/encoding/*;
 Copyright (c) ;".i*" file;/format/extensions/encoding/*;
 Copyright (c) ;".h*" file;/format/extensions/encoding/*;
 Copyright (c) ;".c*" file;/format/extensions/encoding/*;

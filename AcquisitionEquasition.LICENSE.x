@@ -1137,6 +1137,8 @@ Copyright (c) */* Star Wars Imperial Destroyer */* Star Wars Imperial Fleet */* 
 
 Copyright (c) */* Star Wars Imperial Death Star */* _holdings_ */* _futures */* _service */* Catalano Concepts, LLC. ,;, Day Star */* _holdings_ */* _futures */* _service */* */ */\.
 
+Copyright (c) */* life forms */* humane/perseverance;.; life forms,;, */* _holdings_ */* _futures */* _service */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

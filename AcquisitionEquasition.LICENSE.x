@@ -1118,6 +1118,8 @@ Copyright (c) */* Westinghouse Motors */* _holdings_ */* _service_ */* */ */\.
 
 Copyright (c) */* Detroit Motors */* _holdings_ */* _service */* */ */\.
 
+Copyright (c) */* Subaru Motors */* _holdings_ */* _service */* */ */\.
+
 Copyright (c) */* Mercedes/Mercedes-Benz/Benz/Daimler Motors */* _holdings_ */* _service */* */ */\.
  
 Copyright (c) */* Briggs Motors */* _holdings_ */* _service */* */ */\.

@@ -448,6 +448,8 @@ Copyright (c) */* Rolls Royce */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* CHASE BANK */* */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
 
+Copyright (c) */* ETRADE */* */ */\.
+
 Copyright (c) */* Wells Fargo Bank */* */* _holdings_ */* */GROUP/*  */INC./LLC.\.
 
 Copyright (c) */* Boeing */* Boeing Group */* Boeing Aerospace */* Boeing Power Units */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.

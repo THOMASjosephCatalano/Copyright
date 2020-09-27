@@ -1144,6 +1144,8 @@ Copyright (c) */* life forms */* humane/perseverance;.; life forms,;, */* _holdi
 
 Copyright(c) */* Star Wars Darth Vader */* Darth Vaders synagogue */* Darth Vader (Voice/Servitude/light saber_(ever; model(all; colors)) */* _holdings_ */* _futures */* _service */* */ */\.
 
+Copyright (c) */* XBOX */* XBOX Game Computer */* _holdings_ */* _service */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

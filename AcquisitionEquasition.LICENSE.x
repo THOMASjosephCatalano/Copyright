@@ -1133,7 +1133,9 @@ Copyright (c) */* Northrop Grumman */* */* Northrop/Grumman Ship/Boat/Ship build
 
 Copyright (c) */* The Simpsons */* Show/Franchise */* _holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* Star Wars Imperial Destroyer */* Star Wars Imperial Fleet */* _holdings_ */* _futures */* _service */* Alldom of Antarctica Navy/country of Antarctica_entireContinent of Antarctica */* _holdings_ */* _futures */* _service */* */ */\.
+Copyright (c) */* Star Wars Imperial Destroyer */* Star Wars Imperial Fleet */* _holdings_ */* _futures */* _service */* CLM,LLC. ,;, Class Destroyer Star Ship */* Alldom of Antarctica Navy/country of Antarctica_entireContinent of Antarctica */* _holdings_ */* _futures */* _service */* */ */\.
+
+Copyright (c) */* Star Wars Imperial Death Star */* _holdings_ */* _futures */* _service */* Catalano Concepts, LLC. ,;, Day Star */* _holdings_ */* _futures */* _service */* */ */\.
 
 All rights reserved.    
 

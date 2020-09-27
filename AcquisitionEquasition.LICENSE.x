@@ -511,6 +511,8 @@ Copyright (c) */* Corvette by General Motors (GM) */* Corvette Group at Chevrole
  
 Copyright (c) */* FORD Motors */* _holdings_ */* _service */* */ */\.
 
+Copyright (c) */* Tata Motors */* _holdings_ */* _service */* */ */\.
+
 Copyright (c) */* American Express (AMX) */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
 Copyright (c) */* MASTERCARD */* */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.

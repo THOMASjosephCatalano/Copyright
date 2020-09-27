@@ -388,21 +388,23 @@ Copyright (c) */* git/github/github.com/altusnets/* */* */* _holdings_ */* */* _
 
 Copyright (c) */* git/github/github.com/TheBITsMarket/* */* */* _holdings */* */* */\.
 
-Copyright (c) */* CLM ~ Concepts Learning Machine */* */* _holdings_ */* */* _futures */* */* _service */* */Limited Liability Company*/ */ */\.
+Copyright (c) */* CLM ~ Concepts Learning Machine, LLC. */* _holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* Catalano Ltd. */* */* _holdings_ */* */\.
+Copyright (c) */* Catalano Ltd. */ */\.
+
+Copyright (c) */* Catalano */* _holdings_ */* _futures */* _service */* */ */\.
 
 Copyright (c) */* ALTUSNET */* */* _holdings_ */* */* _futures */* */* _service */* */Limited Liability Company/* */\.
 
-Copyright (c) */* Catalano Concepts */* */* _holdings_ */* */* _futures */* */* _service */* */Limited Liability Company/* */ */\.
+Copyright (c) */* Catalano Concepts, LLC. */*_holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* conceptslearningmachine */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.\.
+Copyright (c) */* conceptslearningmachine */* _holdings_ */* _futures */* _service */* */ */\.\.
 
 Copyright (c) */* Catalano */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* _github_/_""github"".com""_/_github_ */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* _github_/_""github"".com""_/_github_ */* _holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* ALTUSNET */* */* _holdings_ */* Limited Liability Company */ */\.
+Copyright (c) */* ALTUSNET, LLC. */* _holdings_ */* */ */\.
 
 Copyright (c) */* www.conceptslearningmachine.com */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 

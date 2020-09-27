@@ -65,7 +65,7 @@ Copyright (c) */* Permission is hereby granted, free of charge, to any person ob
               */* _holdings_ */* _futures */* _service */* */ /*\.
 
 
-Copyright (c) */* License-FORMAT_LEGAL-ACQUISITION-EQUES;"License-FORMAT_LEGAL-ACQUISITION-EQUES";this "License" "inclusive":/""Copyright (c)" "_"NAMEENTITY"_" "-" "_"BACK"_" "-" "_"ENTITIEOR"_" "-" "_"CLASSENTITY"_" "-" {"_"MISC(ie.Countries of 'legal' entity;Antarctica,China,Finland,Thailand.())"_"} "-" "_"LEGALENTITY"_""\(.)",((*/*)="inclusive"like"objects"/"pre-|-post"//((*/)(/*))="intrinsic"like"objects"/merandum's(s)'s; esetera so forth, sefor example's)""License"-"FORMAT"_LEGAL-ACQUISITION-EQUES").
+Copyright (c) */* License-FORMAT_LEGAL-ACQUISITION-EQUES;"License-FORMAT_LEGAL-ACQUISITION-EQUES";this "License" "inclusive":/""Copyright (c)" "_"NAMEENTITY"_" "-" "_"BACK"_" "-" "_"ENTITIEOR"_" "-" "_"CLASSENTITY"_" "-" {"_"MISC(ie.Countries of 'legal' entity;Antarctica,China,Finland,Thailand.())"_"} "-" "_"LEGALENTITY"_""\(.)",((*/*)="inclusive"like"objects"/"pre-|-post"//((*/)(/*))="intrinsic"like"objects"/merandum's(s)'s;, etcetera so forth(etc. so forth),;, sefor example's)""License"-"FORMAT"_LEGAL-ACQUISITION-EQUES").
               */* _holdings_ */* _futures */* _service */* */ */\.
 
 Copyright (c) */* THOMAS CATALANO */* "THOMAS CATALANO" */* _holdings_ */* _futures */* _service */* */ */\.
@@ -214,7 +214,7 @@ Copyright (c) */* "BIT(s)-Matter-Material-Mass-Light-structure(s)'s";algorithm:B
 Copyright (c) */* Binary Coded Decmil(BSD);"Binary Coded Decmil(BSD): "License"License.x"; */* _holdings_ */* _futures */* _service */* */ */\.
 
 Copyright (c) */* ;"";Binary Coded Decimal(BCD);"Binary Coded Decimal(BCD)";"*/system/format/encoding/*""; */* _holdings_ */* _futures */* _service */* */ */\.
-Copyright (c) */* ;".*" .*="all"_.file;/format/extensions/encoding/"esetera so forth"/*; */* */* _holdings_ */* */* _futures */* _service */* */ */\.
+Copyright (c) */* ;".*" .*="all"_.file;/format/extensions/encoding/"etcetera so forth"/*; */* */* _holdings_ */* */* _futures */* _service */* */ */\.
 Copyright (c) */* ;".asm*" file;/format/extensions/encoding/*; */* _holdings_ */* _futures */* _service */* */ */\.
 Copyright (c) */* ;".i*" file;/format/extensions/encoding/*; */* _holdings_ */* _futures */* _service */* */ */\.
 Copyright (c) */* ;".h*" file;/format/extensions/encoding/*; */* _holdings_ */* _futures */*  _service */* */ */\.

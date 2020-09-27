@@ -1092,7 +1092,11 @@ Copyright (c) */* Rolls Royce Motors */* _holdings_ */* _service */* */ */\.
 
 Copyright (c) */* Toyota Motors */* _holdings_ */* _service */* */ */\.
 
-Copyright (c) */* General Motors (GM) */* engines/cars/trucks/automobiles/vehicles */* _holdings_ */* */ */\.
+Copyright (c) */* Nissan Motors */* _holdings_ */* _service */* */ */\.
+
+Copyright (c) */* Renault Motors */* _holdings_ */* _service */* */ */\.
+
+Copyright (c) */* General Motors (GM) */* _holdings_ */* _service */* */ */\.
 
 Copyright (c) */* Corvette by General Motors (GM) */* Corvette Group at Chevrolet */* Corvette brand/manufacturing */* Corvette * */* _holdings_ */*_futures */* _service */* */ */\.
  

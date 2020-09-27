@@ -1139,6 +1139,8 @@ Copyright (c) */* Star Wars Imperial Death Star */* _holdings_ */* _futures */* 
 
 Copyright (c) */* life forms */* humane/perseverance;.; life forms,;, */* _holdings_ */* _futures */* _service */* */ */\.
 
+Copyright(c) */* Star Wars Darth Vader */* Darth Vader Voice/Servitude/light saber(all; colors) */* _holdings_ */* _futures */* _service */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

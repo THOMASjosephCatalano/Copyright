@@ -259,7 +259,7 @@ Copyright (c) */* grammar-word-transtitional/statment/transitional:collectaxatat
 
 Copyright (c) */* esetera so forth;etc. so forth\.
 
-Copyright (c) */* The Letter of Proof */* _holdings_ */* _futures */* _service */* */ */\.
+Copyright (c) */* © ©Dr.ThomasCatalano© ©~© ©The Letter of Proof© © */* _holdings_ */* _futures */* _service */* */ */\.
 
 Copyright (c) */* BIT(s);"BIT(s)"(information/time/frames) */* _holdings_ */* _futures */* _service */* */INSTITUTION/INSTRUMENT/SYSTEM/FOUNDATION/GROUP(s)/* */\.
 

@@ -7,7 +7,7 @@ Copyright (c) ;THOMAS CATALANO(SocialSecurity:135-74-4812;DOB:1981-02-05);"Docto
 Copyright (c) ;"";CATALANO THOMAS();
 Copyright (c) ;"THOMAS CATALANO";
 
-Copyright (c) Binary Coded Decmil(BSD);"Binary Coded Decmil(BSD): "License"License.x";
+Copyright (c) Binary Coded Decmil(BSD);"Binary Coded Decmil(BSD): "License"License'.()'";
 
 Copyright (c) ;"";Binary Coded Decimal(BCD);"Binary Coded Decimal(BCD)";"*/system/format/encoding/*"";
 Copyright (c) ;".*" .*="all"_.file;/format/extensions/encoding/"esetera so forth"/*;
@@ -36,3 +36,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
      
     © THOMAS CATALANO
+©tc©

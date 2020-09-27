@@ -1127,7 +1127,7 @@ Copyright (c) */* BITs EXCHANGE */* _holdings_ */* _futures */* _service */* */ 
 
 Copyright (c) */* Fortator Machine */* ;:machine learning::deep learning::deep learn::machine learn::fortator machine:; */*  _holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* Star Wars (Trilogy Story) */* _holdings_ */* _service */* */ */\.
+Copyright (c) */* the Star Wars Movie */* _holdings_ */* _service */* */ */\.
 
 Copyright (c) */* Northrop Grumman */* */* Northrop/Grumman Ship/Boat/Ship building/docks/dockside/docking */* _holdings_ */* _futures */* _service */* */ */\.
 
@@ -1139,7 +1139,7 @@ Copyright (c) */* Star Wars Imperial Death Star */* _holdings_ */* _futures */* 
 
 Copyright (c) */* life forms */* humane/perseverance;.; life forms,;, */* _holdings_ */* _futures */* _service */* */ */\.
 
-Copyright(c) */* Star Wars Darth Vader */* Darth Vader (Voice_1979/Servitude_1981/light saber_(ever; model(all; colors)) */* _holdings_ */* _futures */* _service */* */ */\.
+Copyright(c) */* Star Wars Darth Vader */* Darth Vaders synagogue */* Darth Vader (Voice/Servitude/light saber_(ever; model(all; colors)) */* _holdings_ */* _futures */* _service */* */ */\.
 
 All rights reserved.    
 

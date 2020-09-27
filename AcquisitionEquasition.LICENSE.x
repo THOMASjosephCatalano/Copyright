@@ -899,7 +899,7 @@ Copyright (c) */* Sylvester Stallone Foundation */* */* _holdings_ */* */* _serv
 
 Copyright (c) */* D' Foundation */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* www.mylife.com */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* mylife.com */* _holdings_ */* _service */* */ */\.
 
 Copyright (c) */* Jerome Group */* */* _holdings_ */* */* _service */* */ */\.
 
@@ -927,7 +927,7 @@ Copyright (c) */* Daryl Christina Hanna Foundation */* */* _holdings_ */* */* _s
 
 Copyright (c) */* Dukakis Libertarian Group */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* JC Whitney Association of America */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* JC Whitney Association of America */* _holdings_ */* _service */* */ */\.
 
 Copyright (c) */* NORAD Group */* NORAD Constituency */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
@@ -935,23 +935,23 @@ Copyright (c) */* Mark Zucherburg Corporation */* */* _holdings_ */* */* _servic
 
 Copyright (c) */* DaVella Corporation */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* Esquire */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Esquire */* _holdings_ */* _service */* */ */\.
 
 Copyright (c) */* Capitol Hill */* The Metonymy */* Washington, D.C., */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* DreamWorks */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* DreamWorks */* _holdings_ */* _service */* */ */\.
 
-Copyright (c) */* The BIT(s) Market */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* The BITs Market */* _holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* Gmail */* Google Gmail */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* Gmail */* Google Gmail */* _holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* Outlook */* Microsoft Outlook */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* Outlook */* Microsoft Outlook */*  _holdings_ */* _futures */*  _service */* */ */\.
 
-Copyright (c) */* Windows */* Microsoft Windows */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* Windows */* Microsoft Windows */* _holdings_ */*  _futures */* _service */* */ */\.
 
-Copyright (c) */* Android Operating System (OS) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* Android Operating System (OS) */* _holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* LG */* */* _holdings_ */* _futures */* */* _service */* */ */\.
+Copyright (c) */* LG */* _holdings_ */* _futures */* _service */* */ */\.
 
 Copyright (c) */* Savoia Group */* */* _holdings_ */* */* _service */* */ */\.
 
@@ -963,31 +963,31 @@ Copyright (c) */* Trump Group */* The Real Donald Trump */* */* _holdings_ */* *
 
 Copyright (c) */* Gates Foundation */* Melinda & Gates Gates Foundation */* Bill Gates Group */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* Princeton University */* Princeton, NJ */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Princeton University */* Princeton, NJ */*  _holdings_ */*  _service */* */ */\.
 
-Copyright (c) */* Massachusetts Institute of Technology (MIT) */* Cambridge, MA */* */* _holdings_ */* */* _service */* */ *\.
+Copyright (c) */* Massachusetts Institute of Technology (MIT) */* Cambridge, MA */* _holdings_ */*  _service */* */ *\.
 
-Copyright (c) */* US Department of Education */* Department of Education */* Board of Education */* */* _holdings_ */* _futures */* _service */* */ */\.
+Copyright (c) */* US Department of Education */* Department of Education */* Board of Education */* _holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* U.S. Department of State */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* U.S. Department of State */* The U.S. State Department */* _holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* US Department of Labor */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* US Department of Labor */* _holdings_ */*  _futures */* _service */* */ */\.
 
-Copyright (c) */* United States Supreme Justice System */* United States Supreme Court */* Supreme Court */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* United States Supreme Justice System */* United States Supreme Court */* Supreme Court */* _holdings_ */*  _futures */*  _service */* */ */\.
 
-Copyright (c) */* United States Patent and Trademark Office */* */* _holdings_ */* */* _futures */* */* _service */ */\.
+Copyright (c) */* United States Patent and Trademark Office */* _holdings_ */* _futures */* _service */ * */ */\.
 
-Copyright (c) */* United States Copyright Office */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* United States Copyright Office */* _holdings_ */* _futures */*  _service */* */ */\.
 
-Copyright (c) */* Federal Communications Commission (FCC) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* Federal Communications Commission (FCC) */* _holdings_ */* _futures */* _service */* */ */\.
 
 Copyright (c) */* United States Navy Band */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* Attorney General of the United States */* OFFICE OF THE ATTORNEY GENERAL */* US Attorney General */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* Attorney General of the United States */* OFFICE OF THE ATTORNEY GENERAL */* US Attorney General */* _holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* Surgeon General of the United States */* Office of the Surgeon General (OSG) */* US Surgeon General */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* Surgeon General of the United States */* Office of the Surgeon General (OSG) */* US Surgeon General */*  _holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* American Psychological Association (APA) */* */*  Publication Manual of the American Psychological Association */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* American Psychological Association (APA) */* */*  Publication Manual of the American Psychological Association */* _holdings_ */* _futures */* _service */* */ */\.
 
 Copyright (c) */* United States Postal Office (USPO) */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 

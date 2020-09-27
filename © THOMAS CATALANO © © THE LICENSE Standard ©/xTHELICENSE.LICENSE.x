@@ -7,7 +7,7 @@ Copyright (c) ;"THOMAS CATALANO License";
 Copyright (c) ;"THE LICENSE License";
 Copyright (c) ;Copyright (c);
 Copyright (c) ;"";"Copyright (c)";
-Copyright (c) ;"";"All rights reserved.";
+Copyright (c) ;"";"'All rights reserved.'";
 Copyright (c) ;"";License;"License'.()'";
 Copyright (c) ;"";LICENSE;"LICENSE'.()'";
 Copyright (c) ;THOMAS CATALANO LICENSE();

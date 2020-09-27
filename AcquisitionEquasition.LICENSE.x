@@ -437,11 +437,11 @@ Copyright (c) */* IBM */* */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* MICROSOFT */* */* _holdings_ */* */* _service */* */* */\.
 
-Copyright (c) */* Lockheed Martin */* Lockheed Martin Skunk Works */* */* _holdings_ */* */* _service */* */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* Lockheed Martin */* Lockheed Martin Skunk Works */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* GE */* GE Power Units */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
+Copyright (c) */* GE */* _holdings_ */* _service */* */ */\.
 
-Copyright (c) */* Rolls Royce */* Rolls Royce Power Units */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Rolls Royce */* _holdings_ */* */* _service */* */ */\.
 
 Copyright (c) */* CHASE BANK */* */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
 
@@ -504,14 +504,6 @@ Copyright (c) */* Motion Picture Association of America */* */* _holdings_ */* *
 Copyright (c) */* */US/* */* */* ""_PATENTS_" _(&)_ "_TRADEMARK_"" */* */* _holdings_ */* */* _futures */* */* _service */* */INSTITUTION/INSTRUMENT/Account/Papers/Writings/Format/SYSTEM/GROUP/TENDER/* */ */non-profit\.
 
 Copyright (c) */* USAA */* */* _holdings_ */* */ */INC./LLC./non-profit\.
-
-Copyright (c) */* General Motors (GM) */* engines/cars/trucks/automobiles/vehicles */* _holdings_ */* */ */\.
-
-Copyright (c) */* Corvette by General Motors (GM) */* Corvette Group at Chevrolet */* Corvette brand/manufacturing */* Corvette * */* _holdings_ */*_futures */* _service */* */ */\.
- 
-Copyright (c) */* FORD Motors */* _holdings_ */* _service */* */ */\.
-
-Copyright (c) */* Tata Motors */* _holdings_ */* _service */* */ */\.
 
 Copyright (c) */* American Express (AMX) */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 
@@ -1093,11 +1085,19 @@ Copyright (c) */* Indian Motors */* _holdings_ */* _service */* */ */\.
 
 Copyright (c) */* Ducati Motors */* _holdings_ */* _service */* */ */\.
 
-Copyright (c) Dodge Motors */* _holdings_ */* _service */* */ */\.
+Copyright (c) */* Dodge Motors */* _holdings_ */* _service */* */ */\.
 
-Copyright (c) Rolls Royce Motors */* _holdings_ */* _service */* */ */\.
+Copyright (c) */* Rolls Royce Motors */* _holdings_ */* _service */* */ */\.
 
-Copyright (c) Toyota Motors */* _holdings_ */* _service */* */ */\.
+Copyright (c) */* Toyota Motors */* _holdings_ */* _service */* */ */\.
+
+Copyright (c) */* General Motors (GM) */* engines/cars/trucks/automobiles/vehicles */* _holdings_ */* */ */\.
+
+Copyright (c) */* Corvette by General Motors (GM) */* Corvette Group at Chevrolet */* Corvette brand/manufacturing */* Corvette * */* _holdings_ */*_futures */* _service */* */ */\.
+ 
+Copyright (c) */* FORD Motors */* _holdings_ */* _service */* */ */\.
+
+Copyright (c) */* Tata Motors */* _holdings_ */* _service */* */ */\.
 
 Copyright (c) */* Pratt & Whitney Motors */* _holdings_ */* */ */\.
 

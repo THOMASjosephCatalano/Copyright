@@ -99,6 +99,8 @@ Copyright (c) */* Internet protocol Suite (TCP/UDP) */* _(_TCP_UDP_)_ */* _holdi
 
 Copyright (c) */* Mobile IP Protocol (MIP) */* _(_MIP_)_ */* _holdings_ */* _futures */* _service */* */ */\.
 
+Copyright (c) */* Subscriber Interface Module (SIM) */* _(SIM_)_ */* _holdings_ */* _futures */* _service */* _service */* */ */\.
+
 Copyright (c) */* Internet protocol addresses (IP) */* _(_IP_)_ */* _holdings_ */* _futures */* _service */* */ */\.
 
 Copyright (c) */* Classless Inter-Domain Routing (CIDR) */* _(_CIDR_)_ */* _holdings_ */* _futures */* _service */* */ */\.

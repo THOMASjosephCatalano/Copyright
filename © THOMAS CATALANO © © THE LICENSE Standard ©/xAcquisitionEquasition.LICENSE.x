@@ -1181,6 +1181,8 @@ Copyright (c) */* 007 (Movie/Franchise) */* */ */\.
 
 Copyright (c) */* Duran Duran */* _holdings_ */* _service */* */ */\.
 
+Copyright (c) */* Mixcloud Ltd */* _holdings_ */* _futures */* _service */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

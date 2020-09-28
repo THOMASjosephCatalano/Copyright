@@ -218,7 +218,7 @@ Copyright (c) */* Binary Coded Decmil(BSD);"Binary Coded Decmil(BSD): "License"L
 
 Copyright (c) */* ;"";Binary Coded Decimal(BCD);"Binary Coded Decimal(BCD)";"*/system/format/encoding/*""; */* _holdings_ */* _futures */* _service */* */ */\.
 Copyright (c) */* ;".*" .*="all"_.file;/format/extensions/encoding/"etcetera so forth"/*; */* */* _holdings_ */* */* _futures */* _service */* */ */\.
-Copyright (c) */* ;".asm*" file;/format/extensions/encoding/*; */* _holdings_ */* _futures */* _service */* */ */\.
+Copyright (c) */* ;".asm* _&|_ _()_" file;/format/extensions/encoding/*; */* _holdings_ */* _futures */* _service */* */ */\.
 Copyright (c) */* ;".i*" file;/format/extensions/encoding/*; */* _holdings_ */* _futures */* _service */* */ */\.
 Copyright (c) */* ;".h*" file;/format/extensions/encoding/*; */* _holdings_ */* _futures */*  _service */* */ */\.
 Copyright (c) */* ;".c*" file;/format/extensions/encoding/*; */* _holdings_ */* _futures */* _service */* */ */\.
@@ -1172,6 +1172,8 @@ Copyright (c) */* pollution */* Pollution */* POLLUTION */* */ */\.
 Copyright (c) */* proliferation */* Proliferation */* PROLIFERATION */* */ */\.
 
 Copyright (c) */* 007 (Movie/Franchise) */* */ */\.
+
+Copyright (c) */* Duran Duran */* _holdings_ */* _service */* */ */\.
 
 All rights reserved.    
 

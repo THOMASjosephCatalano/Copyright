@@ -1,6 +1,6 @@
 #
 
-github.com/Copyright/blob/master/README.md\
+www.github.com/Copyright/blob/master/README.md
 
 #
 Dr.ThomasCatalano Ph.D.

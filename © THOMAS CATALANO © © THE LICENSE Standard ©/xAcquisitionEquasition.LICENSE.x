@@ -1,4 +1,4 @@
-© THOMAS CATALANO ©
+© THOMAS CATALANO 
 */* Copyright (c) THOMAS CATALANO */*
 
 THOMAS CATALANO License.x
@@ -394,17 +394,17 @@ Copyright (c) */* git/github/github.com/altusnets/* */* */* _holdings_ */* */* _
 
 Copyright (c) */* git/github/github.com/TheBITsMarket/* */* */* _holdings */* */* */\.
 
-Copyright (c) */* CLM ~ Concepts Learning Machine, LLC. */* _holdings_ */* _futures */* _service */* */ */\.
+Copyright (c) */* CLM ~ Concepts Learning Machine, LLC.,. */* _holdings_ */* _futures */* _service */* */ */\.
 
 Copyright (c) */* Catalano Ltd. */ */\.
 
-Copyright (c) */* Catalano */* _holdings_ */* _futures */* _service */* */ */\.
+Copyright (c) */* Catalano _legal-entity\ */* _holdings_ */* _futures */* _service */* */ */\.
 
 Copyright (c) */* ALTUSNET */* */* _holdings_ */* */* _futures */* */* _service */* */Limited Liability Company/* */\.
 
-Copyright (c) */* Catalano Concepts, LLC. */*_holdings_ */* _futures */* _service */* */ */\.
+Copyright (c) */* Catalano Concepts, LLC.,. */*_holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* conceptslearningmachine */* _holdings_ */* _futures */* _service */* */ */\.\.
+Copyright (c) */* conceptslearningmachine _legal-entity\  */* _holdings_ */* _futures */* _service */* */ */\.\.
 
 Copyright (c) */* Catalano */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
@@ -1147,7 +1147,7 @@ Copyright (c) */* Bevis & Buthead Show */* _holdings_ */* _futures */* _service 
 
 Copyright (c) */* Family Guy Show */* _holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* BITs EXCHANGE */* _holdings_ */* _futures */* _service */* */ */\.
+Copyright (c) */* BITs EXCHANGE _legal-entity\ */* _holdings_ */* _futures */* _service */* */ */\.
 
 Copyright (c) */* Fortator Machine */* ;:machine learning::deep learning::deep learn::machine learn::fortator machine:; */*  _holdings_ */* _futures */* _service */* */ */\.
 

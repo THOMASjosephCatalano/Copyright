@@ -1147,7 +1147,7 @@ Copyright (c) */* BITs EXCHANGE */* _holdings_ */* _futures */* _service */* */ 
 
 Copyright (c) */* Fortator Machine */* ;:machine learning::deep learning::deep learn::machine learn::fortator machine:; */*  _holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* the Star Wars Movie */* _holdings_ */* _service */* */ */\.
+Copyright (c) */* Star Wars (Movie/Franchise) */* _holdings_ */* _service */* */ */\.
 
 Copyright (c) */* Northrop Grumman */* */* Northrop/Grumman Ship/Boat/Ship building/docks/dockside/docking */* _holdings_ */* _futures */* _service */* */ */\.
 

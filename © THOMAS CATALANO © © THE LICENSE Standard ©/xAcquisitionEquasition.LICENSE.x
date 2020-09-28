@@ -214,7 +214,13 @@ Copyright (c) */* "transaction(s)/transactionary serfraction(s) require(s) barte
 
 Copyright (c) */* "BIT(s)-Matter-Material-Mass-Light-structure(s)'s";algorithm:BIT(s)-Matter-Material-Mass-Light-structure(s)'s; */* _holdings_ */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* Binary Coded Decmil(BSD);"Binary Coded Decmil(BSD): "License"License.x"; */* _holdings_ */* _futures */* _service */* */ */\.
+Copyright (c) */* Binary Coded Decmil(BSD);"Binary Coded Decmil(BSD): "License"License '.()'"; */* _holdings_ */* _futures */* _service */* */ */\.
+
+Copyright (c) */* ;";Binary Coded Decimal(BCD);'Binary Coded Decimal(BCD)';,/system/format/encoding/*"; */* _holdings_ */* _futures */* _service */* */ */\.
+
+
+Copyright (c) */* ;".asm'*'" :;,'*';,; _&|_ /\ _[]_ ;:, :;:code:;:" file;/format/extensions/encoding/*; */* _holdings_ */* _futures */* _service */* */ */\.
+
 
 Copyright (c) */* ;"";Binary Coded Decimal(BCD);"Binary Coded Decimal(BCD)";"*/system/format/encoding/*""; */* _holdings_ */* _futures */* _service */* */ */\.
 Copyright (c) */* ;".*" .*="all"_.file;/format/extensions/encoding/etcetera so forth/*"; */* */* _holdings_ */* */* _futures */* _service */* */ */\.

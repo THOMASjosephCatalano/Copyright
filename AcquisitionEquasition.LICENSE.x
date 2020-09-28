@@ -1171,7 +1171,7 @@ Copyright (c) */* pollution */* Pollution */* POLLUTION */* */ */\.
 
 Copyright (c) */* proliferation */* Proliferation */* PROLIFERATION */* */ */\.
 
-Copyright (c) */* 007 (Movie Franchise) */* */ */\.
+Copyright (c) */* 007 (Movie/Franchise) */* */ */\.
 
 All rights reserved.    
 

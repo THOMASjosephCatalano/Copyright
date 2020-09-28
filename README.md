@@ -1,8 +1,6 @@
 
 # 
-© THOMAS CATALANO ©
-#
-
+© THOMAS CATALANO
 */* Copyright (c) THOMAS CATALANO */*
 THE LICENSE License.x
 
@@ -39,7 +37,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-    © THOMAS CATALANO ©
+THOMAS CATALANO ©
+©tc©
+©this file inclusive©
 ©tc©
 
 # 
@@ -47,14 +47,14 @@ www.github.com/tomsnode/Copyright/blob/master/README.md
 
 
 #
-
+© THOMAS CATALANO
 ----------------------
 Dr.ThomasCatalano Ph.D.
 ------
 5120 N Broadway APT:302
 Denver Colorado(CO) 80216-2099 _USA
 
-    © THOMAS CATALANO 
+THOMAS CATALANO ©
 #
 ©tc©
 ©this DIRECTORY inclusive©

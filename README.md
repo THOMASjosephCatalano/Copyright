@@ -39,7 +39,7 @@ SOFTWARE.
 
 THOMAS CATALANO ©
 ©tc©
-©this file inclusive©
+©this *\* inclusive©
 ©tc©
 
 # 

@@ -56,5 +56,5 @@ Denver Colorado(CO) 80216-2099 _USA
 THOMAS CATALANO ©
 #
 ©tc©
-©this PAGE/DIRECTORY inclusive©
+©this */PAGE/README/DIRECTORIES/* inclusive©
 ©tc©

@@ -46,5 +46,5 @@ SOFTWARE.
 */* Copyright (c) THOMAS CATALANO */*     
 THOMAS CATALANO ©
 ©tc©
-/©this /*\ inclusive©
+'©this /*\ inclusive©'
 ©tc©

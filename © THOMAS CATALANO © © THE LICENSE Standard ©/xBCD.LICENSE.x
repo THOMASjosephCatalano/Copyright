@@ -10,11 +10,11 @@ Copyright (c) ;"THOMAS CATALANO";
 Copyright (c) Binary Coded Decmil(BSD);"Binary Coded Decmil(BSD): "License"License'.()'";
 
 
-Copyright (c) ;"";Binary Coded Decimal(BCD);"Binary Coded Decimal(BCD)";"*/system/format/encoding/*"";
+Copyright (c) ;"";Binary Coded Decimal(BCD);'Binary Coded Decimal(BCD)';/system/format/encoding/";
 Copyright (c) ;".*" .*="all"_.file;/format/extensions/encoding/etcetera so forth/*";
 Copyright (c) ;".asm* :; _&|_ /\ _[]_ ;: code" file;/format/extensions/encoding/*;
 
-Copyright (c) ;";Binary Coded Decimal(BCD);'Binary Coded Decimal(BCD)';*/system/format/encoding/*";
+Copyright (c) ;";Binary Coded Decimal(BCD);'Binary Coded Decimal(BCD)';,/system/format/encoding/*";
 
 Copyright (c) ;".asm'*'" :;,'*';,; _&|_ /\ _[]_ ;:, :;:code:;:" file;/format/extensions/encoding/*;
 

@@ -16,9 +16,9 @@ Copyright (c) ;".asm* :; _&|_ /\ _[]_ ;: code" file;/format/extensions/encoding/
 
 Copyright (c) ;";Binary Coded Decimal(BCD);'Binary Coded Decimal(BCD)';,/system/format/encoding//etcetera so forth/*";
 
-Copyright (c) ;".asm'*'" :;,'*';,; _&|_ /\ _[]_ ;:, :;:code:;:" file;/format/extensions/encoding/*;
-
 Copyright (c) ;".*" .*="all '.()'" file;/format/extensions/encoding//etcetera so forth/*";
+
+Copyright (c) ;".asm'*'" :;,'*';,; _&|_ /\ _[]_ ;:, :;:code:;:" file;/format/extensions/encoding/*;
 Copyright (c) ;".i*" file;/format/extensions/encoding/*;
 Copyright (c) ;".h*" file;/format/extensions/encoding/*;
 Copyright (c) ;".c*" file;/format/extensions/encoding/*;

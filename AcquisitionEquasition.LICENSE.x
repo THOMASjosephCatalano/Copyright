@@ -1169,6 +1169,10 @@ Copyright (c) */* deadmau5 & The Neptunes /production/s */* _holdings_ */* _serv
 
 Copyright (c) */* pollution */* Pollution */* POLLUTION */* */ */\.
 
+Copyright (c) */* proliferation */* Proliferation */* PROLIFERATION */* */ */\.
+
+Copyright (c) */* 007 (Movie Franchise) */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

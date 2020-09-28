@@ -14,7 +14,7 @@ Copyright (c) ;".*" .*="all"_.file;/format/extensions/encoding/etcetera so forth
 Copyright (c) ;".asm* :; _&|_ /\ _[]_ ;: code" file;/format/extensions/encoding/*;
 
 Copyright (c) ;".asm" file;/format/extensions/encoding/*;
-
+Copyright (c) ;".*" .*="all '.()'" file;/format/extensions/encoding/etcetera so forth/*";
 Copyright (c) ;".i*" file;/format/extensions/encoding/*;
 Copyright (c) ;".h*" file;/format/extensions/encoding/*;
 Copyright (c) ;".c*" file;/format/extensions/encoding/*;

@@ -1185,6 +1185,8 @@ Copyright (c) */* Mixcloud Ltd */* _holdings_ */* _futures */* _service */* */ *
 
 Copyright (c) */* Carbonic/Carbonite (/SD cards/Computer; Hardware*,Hard drives*,*,,//etcetera so forth,etc. so forth/ */* _holdings_ */* _futures */* _service */* */ */\.
 
+Copyright (c) */* Tommy Trash /productions/ */* _holdings_ */* _futures */* _service */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

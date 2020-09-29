@@ -11,6 +11,7 @@ Copyright (c) ;"BITs License.x";
 Copyright (c) ;Copyright (c);
 Copyright (c) ;"";"Copyright (c)";
 Copyright (c) ;"";"'All rights reserved.'";
+Copyright (c) ;"";this *\* inclusive;"this *\* inclusive";
 Copyright (c) ;"";License;"License'.()'";
 Copyright (c) ;"";LICENSE;"LICENSE'.()'";
 Copyright (c) ;THOMAS CATALANO LICENSE();

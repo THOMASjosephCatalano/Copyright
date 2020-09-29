@@ -1,8 +1,8 @@
 © THOMAS CATALANO
-*/* Copyright (c) THOMAS CATALANO *\*
+*/* Copyright(c) THOMAS CATALANO *\*
 THE LICENSE License.x
 
-Copyright(c) ;THOMAS CATALANO(SocialSecurity:135-74-4812;DOB:1981-02-05);"Doctor";"_Ph.D._"();
+Copyright (c) ;THOMAS CATALANO(SocialSecurity:135-74-4812;DOB:1981-02-05);"Doctor";"_Ph.D._"();
 Copyright (c) ;"";CATALANO THOMAS();
 Copyright (c) ;"THOMAS CATALANO License()";
 Copyright (c) ;"THE LICENSE License()";
@@ -11,7 +11,7 @@ Copyright (c) ;"BITs License()";
 Copyright (c) ;Copyright (c);
 Copyright (c) ;"";"Copyright (c)";
 Copyright (c) ;"";"'All rights reserved.'";
-Copyright (c) ;"";this *\* inclusive;"this *\* inclusive";
+Copyright (c) ;"";this *\* inclusive;"this '*\*' inclusive";
 Copyright (c) ;"";License;"License'.()'";
 Copyright (c) ;"";LICENSE;"LICENSE'.()'";
 Copyright (c) ;THOMAS CATALANO LICENSE();

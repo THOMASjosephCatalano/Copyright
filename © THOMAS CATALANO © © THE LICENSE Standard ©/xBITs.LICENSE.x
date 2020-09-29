@@ -23,7 +23,7 @@ Copyright (c) ;BIT(s)-Matter-Material-Mass-Light-structure(s)';algorithm:"BIT(s)
 Copyright (c) ;"BIT(s)-Matter-Material-Mass-Light-structure(s);'BIT(s)-Matter-Material-Mass-Light-structure(s)'";
 
 
-Copyright (c) ;License-FORMAT_LEGAL-ACQUISITION-EQUESITION;"License-FORMAT_LEGAL-ACQUISITION-EQUESITION";this 'License' inclusive";
+Copyright (c) ;License-FORMAT_LEGAL-ACQUISITION-EQUESITION;"License-FORMAT_LEGAL-ACQUISITION-EQUESITION"';this 'License' inclusive";
 All rights reserved.
             
 Permission is hereby granted, free of charge, to any person obtaining a copy

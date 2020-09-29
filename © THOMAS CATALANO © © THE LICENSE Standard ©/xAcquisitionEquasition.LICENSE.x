@@ -1185,6 +1185,8 @@ Copyright (c) */* Carbonic/Carbonite (/SanDisk/Computer; Hardware*,Hard drives*,
 
 Copyright (c) */* Tommy Trash /production/ */* _holdings_ */* _futures */* _service */* */ */\.
 
+Copyright (c) */* Turing_*\Complete\Incomplete\* ''computer','COMPUTER'' */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -1206,6 +1208,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 THOMAS CATALANO ©
+© THOMAS CATALANO ©
 ©tc©
 ©this *\* inclusive©
 ©tc©

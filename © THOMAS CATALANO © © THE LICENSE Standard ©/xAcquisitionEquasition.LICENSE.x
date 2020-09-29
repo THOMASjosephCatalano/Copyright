@@ -6,6 +6,9 @@ AcquisitionEquasition.LICENSE.x
 
 Copyright (c) THOMAS CATALANO
 
+Copyright (c) */* License-FORMAT_LEGAL-ACQUISITION-EQUES;"License-FORMAT_LEGAL-ACQUISITION-EQUES";this "License" "inclusive";/""Copyright (c)" "_"NAMEENTITY"_" "-" "_"BACK"_" "-" "_"ENTITIEOR"_" "-" "_"CLASSENTITY"_" "-" {"_"MISC(ie.Countries of 'legal' entity;Antarctica,China,Finland,Thailand.())"_"} "-" "_"LEGALENTITY"_""\(.)",((*/*)="inclusive"like"objects"/"pre-|-post"//((*/)(/*))="intrinsic"like"objects"/merandum's(s)'s;,//etcetera so forth,etc. so forth,;, sefor example's//;,,)""License"-"FORMAT"_LEGAL-ACQUISITION-EQUES").
+              */* _holdings_ */* _futures */* _service */* */ */\.
+
 Copyright (c) */* THOMAS CATALANO License '.()' */* _holdings_ */* _futures */* _service */* */ */\.
 Copyright (c) */* ;THOMASCATALANO.LICENSE() */* _holdings_ */* _futures */* _service */* */ */\.
 Copyright (c) */* ;THOMAS CATALANO(SocialSecurity:135-74-4812;DOB:1981-02-05);"Doctor";"_Ph.D._"(); */* _holdings_ */* _futures */* _service */* */ */\.

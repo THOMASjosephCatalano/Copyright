@@ -1,5 +1,5 @@
 © THOMAS CATALANO
-*/* Copyright (c) THOMAS CATALANO */*
+*/* Copyright (c) THOMAS CATALANO *\*
 
 THOMAS CATALANO License.x
 BCD.LICENSE.x

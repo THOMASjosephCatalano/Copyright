@@ -490,7 +490,6 @@ Copyright (c) */* Morgan Stanley */* _holdings_ */* */Corporation/GROUP/* */INC.
 
 Copyright (c) */* Key Bank */* _holdings_ */* _service */* */ */\.
 
-
 Copyright (c) */* U.S. Securities Exchange */* _holdings_ */* */* _futures */* */* _service */* */Corporation/GROUP */INC./LLC./non-profit\.
 
 Copyright (c) */* U.S. Bond Market */* */* _holdings */* */* _futures */* */* _service */* */ */\.
@@ -717,7 +716,7 @@ Copyright (c) */* Pornographic Group */* */* _holdings_ */* */* _service */* */ 
 
 Copyright (c) */* pornhub Inc. */* */* pornhub.com */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
-Copyright (c) */* Fran Dresser Group */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Pollina Group */* */ */\.
 
 Copyright (c) */* inc Up Corporation */* */* _holdings_ */* */* _service */* */ */\.
 

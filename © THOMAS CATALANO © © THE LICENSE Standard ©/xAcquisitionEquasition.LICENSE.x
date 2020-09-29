@@ -1169,7 +1169,7 @@ Copyright (c) */* XBOX */* XBOX Game Computer */* _holdings_ */* _service */* */
 
 Copyright (c) */* EMI Records */* _holdings_ */* _service */* */ */\.
 
-Copyright (c) */* deadmau5 & The Neptunes /production/s */* _holdings_ */* _service */* */ */\.
+Copyright (c) */* deadmau5 & The Neptunes /production's/ */* _holdings_ */* _service */* */ */\.
 
 Copyright (c) */* pollution */* Pollution */* POLLUTION */* */ */\.
 
@@ -1181,9 +1181,9 @@ Copyright (c) */* Duran Duran */* _holdings_ */* _service */* */ */\.
 
 Copyright (c) */* Mixcloud Ltd */* _holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* Carbonic/Carbonite (/SD cards/Computer; Hardware*,Hard drives*,*,,//etcetera so forth,etc. so forth/ */* _holdings_ */* _futures */* _service */* */ */\.
+Copyright (c) */* Carbonic/Carbonite (/SanDisk/Computer; Hardware*,Hard drives*,*,,//etcetera so forth,etc. so forth/ */* _holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* Tommy Trash /productions/ */* _holdings_ */* _futures */* _service */* */ */\.
+Copyright (c) */* Tommy Trash /production/ */* _holdings_ */* _futures */* _service */* */ */\.
 
 All rights reserved.    
 

@@ -6,6 +6,8 @@ Copyright (c) ;THOMAS CATALANO(SocialSecurity:135-74-4812;DOB:1981-02-05);"Docto
 Copyright (c) ;"";CATALANO THOMAS();
 Copyright (c) ;"THOMAS CATALANO License";
 Copyright (c) ;"THE LICENSE License";
+Copyright (c) ;"BCD License";
+Copyright (c) ;"BITs License";
 Copyright (c) ;Copyright (c);
 Copyright (c) ;"";"Copyright (c)";
 Copyright (c) ;"";"'All rights reserved.'";

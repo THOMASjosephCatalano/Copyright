@@ -906,11 +906,11 @@ Copyright (c) */* Twisted Sister Act */* */* _holdings_ */* */* _service */* */ 
 
 Copyright (c) */* Renee Herman Group */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* Barthshat(similar sounding name/name may be slim misspelling.) Group */* */* Cramer Limb */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Roy Barth */* Linda Cramer */* */* _holdings_ */* */* _service */* */ */\.
  
-Copyright (c) */* Eva Sinorina Group */* */* _holdings_ */* */* _service */* */ */\.
+Copyright (c) */* Eva Dikosta*/* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* La Agata Serventine */* */* _holdings */* */* _service */* */ */\.
+Copyright (c) */* Agata Daleo */* */* _holdings */* */* _service */* */ */\.
 
 Copyright (c) */* Sylvester Stallone Foundation */* */* _holdings_ */* */* _service */* */ */\.
 

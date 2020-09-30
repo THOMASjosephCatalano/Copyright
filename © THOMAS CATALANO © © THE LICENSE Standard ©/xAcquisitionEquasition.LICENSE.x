@@ -24,9 +24,11 @@ Copyright (c) */* ;"";LICENSE;"LICENSE'.()'"; */* _holdings_ */* _futures */* _s
 Copyright (c) */* ;THOMAS CATALANO LICENSE(); */* _holdings_ */* _futures */* _service */* */ */\.
 Copyright (c) */* ;"";THOMAS CATALANO License(): */* _holdings_ */* _futures */* _service */* */ */\.
 
+
 Copyright (c) */* THOMAS CATALANO License()
               */* License()[template]
               */* _holdings_ */* _futures */* _service */* */ */\.
+
 
 Copyright (c) */* THOMAS CATALANO License()
               */* AcquisitionEqusition.LICENSE()[template]
@@ -55,6 +57,7 @@ Copyright (c) */* THOMAS CATALANO License()
               */* ;"_FICO_":
               */* _holdings_ */*  _futures */* _service */* */ */\.
 
+
 Copyright (c) */* THOMAS CATALANO License()
               */* SocialSecurity.LICENSE()[template]
               */* ;_Here_ _Name_(SocialSecurity:000-00-0000;DOB:0000-00-00);"_design_"();
@@ -64,14 +67,17 @@ Copyright (c) */* THOMAS CATALANO License()
               */* ;"_SocialSecurity_":
               */* _holdings_ */* _futures */* _service */* */ */\.
 
+
 Copyright (c) */* Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
               */* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
               */* THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. 
               */* _holdings_ */* _futures */* _service */* */ /*\.
 
 
+
 Copyright (c) */* License-FORMAT_LEGAL-ACQUISITION-EQUES;"License-FORMAT_LEGAL-ACQUISITION-EQUES";this "License" "inclusive":/""Copyright (c)" "_"NAMEENTITY"_" "-" "_"BACK"_" "-" "_"ENTITIEOR"_" "-" "_"CLASSENTITY"_" "-" {"_"MISC(ie.Countries of 'legal' entity;Antarctica,China,Finland,Thailand.())"_"} "-" "_"LEGALENTITY"_""\(.)",((*/*)="inclusive"like"objects"/"pre-|-post"//((*/)(/*))="intrinsic"like"objects"/merandum's(s)'s;,//etcetera so forth,etc. so forth,;, sefor example's//;,,)""License"-"FORMAT"_LEGAL-ACQUISITION-EQUES").
               */* _holdings_ */* _futures */* _service */* */ */\.
+
 
 Copyright (c) */* THOMAS CATALANO */* "THOMAS CATALANO" */* _holdings_ */* _futures */* _service */* */ */\.
 
@@ -658,7 +664,7 @@ Copyright (c) */* The International Olympic Committee (IOC) (CIO) (NOC) */ */* _
 
 Copyright (c) */* TeamUSA (USOC) */* */*  _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
 
-Copyright (c) */* America Broadcasting Company (ABC) */* */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
+Copyright (c) */* American Broadcasting Company (ABC) */* */ */\.
 
 Copyright (c) */* Scudaria Ferrari */* Ferrari */* engines/cars/vehicles/automobiles */* */* _holdings_ */* */GROUP/CORPORATION/SYSTEM/* */\.
 

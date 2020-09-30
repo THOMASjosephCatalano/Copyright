@@ -1192,6 +1192,8 @@ Copyright (c) */* Turing_ *\Complete\Incomplete\* ''computer','COMPUTER'' */* */
 
 Copyright (c) */* Fruit of a Loom */* Fruit of a Loom 'Select' */* _holdings_ */* _futures */* _service */* */ */\.
 
+Copyright (c) */* Wrangler */* Wrangler 'slim select' */* _holdings_ */* _futures */* _service */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

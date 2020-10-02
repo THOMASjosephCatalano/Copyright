@@ -462,11 +462,13 @@ Copyright (c) */* GE */* _holdings_ */* _service */* */ */\.
 
 Copyright (c) */* Rolls Royce */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* CHASE BANK */* */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
+Copyright (c) */* JP MORGAN */* JP MORGAN CHASE & CO */* CHASE BANK */* _holdings_ */* */ */\.
 
 Copyright (c) */* ETRADE */* */ */\.
 
-Copyright (c) */* Wells Fargo Bank */* */* _holdings_ */* */GROUP/*  */INC./LLC.\.
+Copyright (c) */* Wells Fargo Bank */* */* _holdings_ */* _service */* */ */\.
+
+Copyright (c) */* Central Broadcasting Company (CBS) */* _holdings_ */* */ */\.
 
 Copyright (c) */* Boeing */* Boeing Group */* Boeing Aerospace */* Boeing Power Units */* */* _holdings_ */* */Corporation/GROUP/* */INC./LLC./non-profit\.
 

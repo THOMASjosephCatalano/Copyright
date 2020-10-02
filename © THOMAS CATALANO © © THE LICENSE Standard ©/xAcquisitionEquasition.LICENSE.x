@@ -1202,6 +1202,8 @@ Copyright (c) */* Fruit of a Loom */* Fruit of a Loom 'Select' */* _holdings_ */
 
 Copyright (c) */* Wrangler */* Wrangler 'slim select' */* _holdings_ */* _futures */* _service */* */ */\.
 
+Copyright (c) */* Federal Deposit Insurance Corporation (FDIC) */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

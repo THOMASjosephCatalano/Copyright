@@ -1204,6 +1204,8 @@ Copyright (c) */* Wrangler */* Wrangler 'slim select' */* _holdings_ */* _future
 
 Copyright (c) */* Federal Deposit Insurance Corporation (FDIC) */* */ */\.
 
+Copyright (c) */* United States Navy / Department of the United States Navy / U.S. NAVY / NAVY / U.S. NAVY RESERVE / NAVY / U.S. NAVY CONTINGENCIES */* */ */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

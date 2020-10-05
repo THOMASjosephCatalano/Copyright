@@ -1208,6 +1208,8 @@ Copyright (c) */* United States Navy / Department of the United States Navy / U.
 
 Copyright (c) */* Olivia Oblinger - Dr.ThomasCatalano's'_niece */* */ */\.
 
+Copyright (c) */* Billboards Music Awards */* */ */\.
+
 *\* etcetera so forth,etc., so forth */* */ */\..\,.;
 
 All rights reserved.    

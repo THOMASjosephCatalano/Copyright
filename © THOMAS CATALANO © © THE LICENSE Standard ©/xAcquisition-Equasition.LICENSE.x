@@ -2,7 +2,7 @@
 */* Copyright (c) THOMAS CATALANO *\*
 
 THOMAS CATALANO License.x
-AcquisitionEquasition.LICENSE.x
+,/Acquisition-Equasition.LICENSE.x
 
 Copyright (c) THOMAS CATALANO
 Copyright (c) ;License-FORMAT_LEGAL-ACQUISITION-EQUESITION;"License-FORMAT_LEGAL-ACQUISITION-EQUESITION;this '*\*' 'inclusive'";

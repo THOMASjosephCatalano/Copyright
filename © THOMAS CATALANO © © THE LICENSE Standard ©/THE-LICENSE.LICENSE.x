@@ -14,8 +14,8 @@
 ,/Copyright (c) ;"";this *\* inclusive;"this '*\*' inclusive";
 ,/Copyright (c) ;"";License;"License'.()'";
 ,/Copyright (c) ;"";LICENSE;"LICENSE'.()'";
-,/Copyright (c) ;THOMAS CATALANO LICENSE();
-,/Copyright (c) ;"";THOMAS CATALANO License():
+,/Copyright (c) ;THOMAS CATALANO,LICENSE();
+,/Copyright (c) ;"";THOMAS CATALANO,License():
 
 
 All rights reserved.             

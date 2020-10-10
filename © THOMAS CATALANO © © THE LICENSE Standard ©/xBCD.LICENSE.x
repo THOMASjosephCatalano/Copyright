@@ -2,32 +2,32 @@
 */* Copyright (c) THOMAS CATALANO *\*
 
 THOMAS CATALANO License.x
-BCD.LICENSE.x
+,\BCD.LICENSE.x
 
-Copyright (c) ;THOMAS CATALANO('U.S._SocialSecurity':135-74-4812;DOB:1981-02-05);"Doctor";"_Ph.D._"();
-Copyright (c) ;"";CATALANO THOMAS();
-Copyright (c) ;"THOMAS CATALANO";
+,\Copyright (c) ;THOMAS CATALANO('U.S._SocialSecurity':135-74-4812;DOB:1981-02-05);"Doctor";"_Ph.D._"();
+,\Copyright (c) ;"";CATALANO THOMAS();
+,\Copyright (c) ;"THOMAS CATALANO";
 
-Copyright (c) Binary Coded Decmil(BSD);"Binary Coded Decmil(BSD): "License"License'.()'";
+,\Copyright (c) Binary Coded Decmil(BSD);"Binary Coded Decmil(BSD): "License"License'.()'";
 
 
-Copyright (c) ;"";Binary Coded Decimal(BCD);'Binary Coded Decimal(BCD)';/system/format/encoding/";
-Copyright (c) ;".()*" ()*="all"_.()file;/format/extensions/encoding//etcetera so forth/*";
-Copyright (c) ;".(asm)* :; _&|_ /\ _[]_ ;: code" file;/format/extensions/encoding/*;
+,\Copyright (c) ;"";Binary Coded Decimal(BCD);'Binary Coded Decimal(BCD)';/system/format/encoding/";
+,\Copyright (c) ;".()*" ()*="all"_.()file;/format/extensions/encoding//etcetera so forth/*";
+,\Copyright (c) ;".(asm)* :; _&|_ /\ _[]_ ;: code" file;/format/extensions/encoding/*;
 
-Copyright (c) ;";Binary Coded Decimal(BCD);'Binary Coded Decimal(BCD)';,/system/format/encoding//etcetera so forth/*";
+,\Copyright (c) ;";Binary Coded Decimal(BCD);'Binary Coded Decimal(BCD)';,/system/format/encoding//etcetera so forth/*";
 
-Copyright (c) ;".()*" .()*="all '.()'" file;/format/extensions/encoding//etcetera so forth/*";
+,\Copyright (c) ;".()*" .()*="all '.()'" file;/format/extensions/encoding//etcetera so forth/*";
 
-Copyright (c) ;".(asm)'*'" :;,'*';,; _&|_ /\ _[]_ ;:, :;:code:;:" file;/format/extensions/encoding/*;
-Copyright (c) ;".i*" file;/format/extensions/encoding/*;
-Copyright (c) ;".h*" file;/format/extensions/encoding/*;
-Copyright (c) ;".c*" file;/format/extensions/encoding/*;
+,\Copyright (c) ;".(asm)'*'" :;,'*';,; _&|_ /\ _[]_ ;:, :;:code:;:" file;/format/extensions/encoding/*;
+,\Copyright (c) ;".i*" file;/format/extensions/encoding/*;
+,\Copyright (c) ;".h*" file;/format/extensions/encoding/*;
+,\Copyright (c) ;".c*" file;/format/extensions/encoding/*;
 Copyright (c) ;".cpp*" file;/format/extensions/encoding/*;
 
-All rights reserved.     
+,\All rights reserved.     
         
-Permission is hereby granted, free of charge, to any person obtaining a copy
+,\Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell

@@ -4,7 +4,7 @@
 THOMAS CATALANO License.x
 ,/BCD.LICENSE.x
 
-,/Copyright (c) ;THOMAS,CATALANO('U.S._SocialSecurity':135-74-4812;DOB:1981-02-05);"Doctor";"_Ph.D._"();
+,/Copyright (c) ;THOMAS,CATALANO('U.S._SocialSecurity':135z74z4812;DOB:1981z02z05);"Doctor";"_Ph.D._"();
 ,/Copyright (c) ;"";CATALANO,THOMAS();
 ,/Copyright (c) ;"THOMAS CATALANO";
 

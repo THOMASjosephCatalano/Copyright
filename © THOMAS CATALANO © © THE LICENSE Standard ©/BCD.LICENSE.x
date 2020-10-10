@@ -25,7 +25,6 @@ THOMAS CATALANO License.x
 ,/Copyright (c) ;".c*" file;/format/extensions/encoding/*;
 ,/Copyright (c) ;".cpp*" file;/format/extensions/encoding/*;
 
-All rights reserved.     
         
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

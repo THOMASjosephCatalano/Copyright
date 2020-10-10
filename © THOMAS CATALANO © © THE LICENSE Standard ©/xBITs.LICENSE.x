@@ -2,25 +2,25 @@
 */* Copyright (c) THOMAS CATALANO *\*
 
 THOMAS CATALANO License.x
-BITs.LICENSE.x
+,/BITs.LICENSE.x
 
-Copyright (c) ;THOMAS CATALANO('U.S._SocialSecurity':135-74-4812;DOB:1981-02-05);"Doctor";"_Ph.D._"();
-Copyright (c) ;"";CATALANO THOMAS();
-Copyright (c) ;"THOMAS CATALANO";
-Copyright (c) BIT(s);"BIT(s): "License"License'.()'";
-Copyright (c) ;BIT(s);"BIT(s)";
-Copyright (c) BIT(s);"BIT(s)";:"algorithm:"this License(); "inclusive""/etcetera so forth";
-Coptright (c) ;motion by &| of panticulation serfractions perpetuation';algorithm:
+,/Copyright (c) ;THOMAS CATALANO('U.S._SocialSecurity':135-74-4812;DOB:1981-02-05);"Doctor";"_Ph.D._"();
+,/Copyright (c) ;"";CATALANO THOMAS();
+,/Copyright (c) ;"THOMAS CATALANO";
+,/Copyright (c) BIT(s);"BIT(s): "License"License'.()'";
+,/Copyright (c) ;BIT(s);"BIT(s)";
+,/Copyright (c) BIT(s);"BIT(s)";:"algorithm:"this License(); "inclusive""/etcetera so forth";
+,/Coptright (c) ;motion by &| of panticulation serfractions perpetuation';algorithm:
              "motion by &| of panticulation serfractions perpetuation";
-Copyright (c) ;BIT(s)(information/time/frames) extrapolation by &| of percentile factorization';algorithm:               
+,/Copyright (c) ;BIT(s)(information/time/frames) extrapolation by &| of percentile factorization';algorithm:               
              "BIT(s)(information/time/frames) extrapolation by &| of percentile factorization";   
-Copyright (c) ;transaction(s)/transactionary serfraction(s) require(s) bartertutional servitudinal account
+,/Copyright (c) ;transaction(s)/transactionary serfraction(s) require(s) bartertutional servitudinal account
               proxing space-time/frame(past(s) present(s) &| future(s))';algorithm:
               "transaction(s)/transactionary serfraction(s) require(s) bartertutionl servitudinal account
               proxing space-time(past(s), present(s) &| future(s))";
 
-Copyright (c) ;BIT(s)-Matter-Material-Mass-Light-structure(s)';algorithm:"BIT(s)-Matter-Material-Mass-Light-structure(s)'";
-Copyright (c) ;"BIT(s)-Matter-Material-Mass-Light-structure(s);'BIT(s)-Matter-Material-Mass-Light-structure(s)'";
+,/Copyright (c) ;BIT(s)-Matter-Material-Mass-Light-structure(s)';algorithm:"BIT(s)-Matter-Material-Mass-Light-structure(s)'";
+,/Copyright (c) ;"BIT(s)-Matter-Material-Mass-Light-structure(s);'BIT(s)-Matter-Material-Mass-Light-structure(s)'";
 
 All rights reserved.
             

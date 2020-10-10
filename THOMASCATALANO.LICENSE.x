@@ -2,9 +2,9 @@
 */* Copyright (c) THOMAS CATALANO *\*
 
 THOMAS CATALANO License.x
-LICENSE.x
+,/LICENSE.x
 
-Copyright (c) THOMAS CATALANO
+,/Copyright (c) THOMAS CATALANO
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

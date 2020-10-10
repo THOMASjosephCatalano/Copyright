@@ -6,7 +6,6 @@ THOMAS CATALANO License.x
 
 ,/Copyright (c) THOMAS CATALANO
 
-All rights reserved.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of _this_ software _and_ associated documentation files (the "Software"), to deal

@@ -21,7 +21,6 @@ THOMAS CATALANO License.x
 
 ,/Copyright (c) ;BIT(s)-Matter-Material-Mass-Light-structure(s)';"BIT(s)-Matter-Material-Mass-Light-structure(s)'";
 
-All rights reserved.
             
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

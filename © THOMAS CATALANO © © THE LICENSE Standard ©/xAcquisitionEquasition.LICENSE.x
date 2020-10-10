@@ -1196,7 +1196,7 @@ Copyright (c) */* Carbonic/Carbonite (/SanDisk/Computer; Hardware*,Hard drives*,
 
 Copyright (c) */* Tommy Trash /production/ */* _holdings_ */* _futures */* _service */* */ */\.
 
-Copyright (c) */* Turing_ *\Complete\Incomplete\* ''computer','COMPUTER'' */* */ */\.
+Copyright (c) */* _Turing_ *\Complete\Incomplete\* ''computer','COMPUTER'' */* */ */\.
 
 Copyright (c) */* Fruit of a Loom */* Fruit of a Loom 'Select' */* _holdings_ */* _futures */* _service */* */ */\.
 
@@ -1209,6 +1209,8 @@ Copyright (c) */* United States Navy / Department of the United States Navy / U.
 Copyright (c) */* Olivia Oblinger - Dr.ThomasCatalano's'_niece */* */ */\.
 
 Copyright (c) */* Billboards Music Awards */* */ */\.
+
+Copyright (c) */* Grammy Music Awards */* */ */\.
 
 *\* etcetera so forth,etc., so forth */* */ */\..\,.;
 

@@ -4,7 +4,7 @@
 
 ,/Copyright (c) ;THOMAS,'J'oseph CATALANO('U.S._SocialSecurity':135-74-4812;DOB:1981-02-05);"Doctor";"_Ph.D._"();
 ,/Copyright (c) ;"";CATALANO THOMAS();
-,/Copyright (c) ;"THOMAS Joseph CATALANO License()";
+,/Copyright (c) ;"THOMAS Joseph CATALANO _License_()";
 ,/Copyright (c) ;"THE LICENSE License()";
 ,/Copyright (c) ;"BCD License()";
 ,/Copyright (c) ;"BITs License()";

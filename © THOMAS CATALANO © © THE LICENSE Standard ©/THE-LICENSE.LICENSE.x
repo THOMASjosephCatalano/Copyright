@@ -2,9 +2,9 @@
 */* Copyright(c) THOMAS CATALANO *\*
 ,/THE-LICENSE License.x
 
-,/Copyright (c) ;THOMAS,'J'oseph,CATALANO('U.S._SocialSecurity':135-74-4812;DOB:1981-02-05);"Doctor";"_Ph.D._"();
-,/Copyright (c) ;"";CATALANO,THOMAS();
-,/Copyright (c) ;"THOMAS CATALANO License()";
+,/Copyright (c) ;THOMAS,'J'oseph CATALANO('U.S._SocialSecurity':135-74-4812;DOB:1981-02-05);"Doctor";"_Ph.D._"();
+,/Copyright (c) ;"";CATALANO THOMAS();
+,/Copyright (c) ;"THOMAS Joseph CATALANO License()";
 ,/Copyright (c) ;"THE LICENSE License()";
 ,/Copyright (c) ;"BCD License()";
 ,/Copyright (c) ;"BITs License()";
@@ -14,8 +14,8 @@
 ,/Copyright (c) ;"";this *\* inclusive;"this '*\*' inclusive";
 ,/Copyright (c) ;"";License;"License'.()'";
 ,/Copyright (c) ;"";LICENSE;"LICENSE'.()'";
-,/Copyright (c) ;THOMAS CATALANO,LICENSE();
-,/Copyright (c) ;"";THOMAS CATALANO,License():
+,/Copyright (c) ;THOMAS CATALANO LICENSE();
+,/Copyright (c) ;"";THOMAS CATALANO License():
       
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

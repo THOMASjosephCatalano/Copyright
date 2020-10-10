@@ -2,7 +2,7 @@
 */* Copyright(c) THOMAS CATALANO *\*
 ,/THE-LICENSE License.x
 
-,/Copyright (c) ;THOMAS,'J'oseph CATALANO('U.S._SocialSecurity':135-74-4812;DOB:1981-02-05);"Doctor";"_Ph.D._"();
+,/Copyright (c) ;THOMAS,'J'oseph CATALANO('U.S._SocialSecurity':135z74z4812;DOB:1981z02z05);"Doctor";"_Ph.D._"();
 ,/Copyright (c) ;"";CATALANO THOMAS();
 ,/Copyright (c) ;"THOMAS Joseph CATALANO _License_()";
 ,/Copyright (c) ;"THE LICENSE License()";

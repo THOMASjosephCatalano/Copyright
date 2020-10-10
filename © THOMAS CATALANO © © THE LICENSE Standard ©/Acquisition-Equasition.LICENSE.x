@@ -2,6 +2,7 @@
 */* Copyright (c) THOMAS CATALANO *\*
 
 THOMAS CATALANO License.x
+,//
 ,/Acquisition-Equasition.LICENSE.x
 
 Copyright (c) THOMAS CATALANO
@@ -1213,6 +1214,7 @@ Copyright (c) */* Billboards Music Awards */* */ */\.
 Copyright (c) */* Grammy Music Awards */* */ */\.
 
 *\* etcetera so forth,etc., so forth */* */ */\..\,.;
+,//
 
 All rights reserved.    
 

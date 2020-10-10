@@ -13,7 +13,7 @@ THOMAS CATALANO License.x
 
 ,\Copyright (c) ;"";Binary Coded Decimal(BCD);'Binary Coded Decimal(BCD)';/system/format/encoding/";
 ,\Copyright (c) ;".()*" ()*="all"_.()file;/format/extensions/encoding//etcetera so forth/*";
-,\Copyright (c) ;".(asm)* :; _&|_ /\ _[]_ ;: code" file;/format/extensions/encoding/*;
+,\Copyright (c) ;".(asm)* :; _&|_ ,., _[]_ ;: code" file;/format/extensions/encoding/*;
 
 ,\Copyright (c) ;";Binary Coded Decimal(BCD);'Binary Coded Decimal(BCD)';,/system/format/encoding//etcetera so forth/*";
 

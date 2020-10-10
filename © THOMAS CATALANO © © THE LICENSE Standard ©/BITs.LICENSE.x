@@ -4,9 +4,9 @@
 THOMAS CATALANO License.x
 ,/BITs.LICENSE.x
 
-,/Copyright (c) ;THOMAS,CATALANO('U.S._SocialSecurity':135-74-4812;DOB:1981-02-05);"Doctor";"_Ph.D._"();
+,/Copyright (c) ;THOMAS 'J'oseph, CATALANO('U.S._SocialSecurity':135-74-4812;DOB:1981-02-05);"Doctor";"_Ph.D._"();
 ,/Copyright (c) ;"";CATALANO,THOMAS();
-,/Copyright (c) ;"THOMAS CATALANO";
+,/Copyright (c) ;"THOMAS 'J'oseph CATALANO";
 ,/Copyright (c) BIT(s);"BIT(s): "License"License'.()'";
 ,/Copyright (c) ;BIT(s);"BIT(s)";
 ,/Copyright (c) BIT(s);"BIT(s)";:"algorithm:"this License(); "inclusive""/etcetera so forth";

@@ -7,7 +7,7 @@ THOMAS CATALANO License.x
 
 ,\/Copyright (c) ;THOMAS CATALANO('U.S._SocialSecurity':135z74z4812;DOB:1981z02z05);"Doctor";"_Ph.D._"();
 ,\/Copyright (c) ;"";CATALANO THOMAS();
-,\/Copyright (c) ;"THOMAS CATALANO";
+,\/Copyright (c) ;"THOMAS Joseph CATALANO";
 
 ,\/Copyright (c) ;Binary Coded Decmil,(BSD);,\"Binary Coded Decmil,(BSD): "License"License'.()'";
 

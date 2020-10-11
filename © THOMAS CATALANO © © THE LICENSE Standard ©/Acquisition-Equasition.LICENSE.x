@@ -1213,12 +1213,10 @@ Copyright (c) */* Billboards Music Awards */* */ */\.
 
 Copyright (c) */* Grammy Music Awards */* */ */\.
 
-Copyright (c) */* USBA Bank-Treasure \ denver'd \ denver be US_BeA \ denver be USA / tada \/ */ */\.
+Copyright (c) */* USBA Bank-Treasure \ denver'd \ denver be US_BeA \ denver be USA / \ anecnote / tada \/ */ */\.
 
 *\* etcetera so forth,etc., so forth */* */ */\..\,.;
 ,//
-
-All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

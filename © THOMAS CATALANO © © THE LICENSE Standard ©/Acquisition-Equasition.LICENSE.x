@@ -32,7 +32,7 @@ Copyright (c) */* THOMAS CATALANO License()
 
 
 Copyright (c) */* THOMAS CATALANO License()
-              */* AcquisitionEqusition.LICENSE()[template]
+              */* Acquisition-Equsition.LICENSE()[template]
               */* ;_Here_ _Name_(SocialSecurity:000-00-0000;DOB:0000-00-00);"_design_"();
               */* ;"";Name _Here_();
               */* ;"Here Name";
@@ -1213,7 +1213,7 @@ Copyright (c) */* Billboards Music Awards */* */ */\.
 
 Copyright (c) */* Grammy Music Awards */* */ */\.
 
-Copyright (c) */* USBA Bank \ denver'd \/ */ */\.
+Copyright (c) */* USBA Bank-Treasure \ denver'd \/ */ */\.
 
 *\* etcetera so forth,etc., so forth */* */ */\..\,.;
 ,//

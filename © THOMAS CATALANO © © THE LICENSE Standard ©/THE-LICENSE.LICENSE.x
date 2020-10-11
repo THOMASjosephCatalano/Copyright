@@ -1,3 +1,4 @@
+*\*
 © THOMAS CATALANO
 */* Copyright(c) THOMAS CATALANO *\*
 

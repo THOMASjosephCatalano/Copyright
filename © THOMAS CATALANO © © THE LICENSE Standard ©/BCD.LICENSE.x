@@ -3,6 +3,7 @@
 */* Copyright (c) THOMAS CATALANO *\*
 
 THOMAS CATALANO License.x
+,\//
 ,\/BCD.LICENSE.x
 
 ,\/Copyright (c) ;THOMAS CATALANO('U.S._SocialSecurity':135z74z4812;DOB:1981z02z05);"Doctor";"_Ph.D._"();
@@ -25,6 +26,7 @@ THOMAS CATALANO License.x
 ,\/Copyright (c) ;".h*" file;/format/extensions/encoding/*;
 ,\/Copyright (c) ;".c*" file;/format/extensions/encoding/*;
 ,\/Copyright (c) ;".cpp*" file;/format/extensions/encoding/*;
+,\//
 
         
 Permission is hereby granted, free of charge, to any person obtaining a copy

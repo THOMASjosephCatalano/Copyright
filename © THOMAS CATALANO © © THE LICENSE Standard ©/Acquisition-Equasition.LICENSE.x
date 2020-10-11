@@ -1213,7 +1213,7 @@ Copyright (c) */* Billboards Music Awards */* */ */\.
 
 Copyright (c) */* Grammy Music Awards */* */ */\.
 
-Copyright (c) */* USBA Bank-Treasure \ denver'd \ denver be US_BeA \ denver is USA / \ anecnote / tada \/ */ */\.
+Copyright (c) */* USBA Bank-Treasure \ denver'd \ denver be US_BeA \ denver is USA / \ anecnote / tada \ denver looked like Washington D.C. \/ */ */\.
 
 *\* etcetera so forth,etc., so forth */* */ */\..\,.;
 ,//

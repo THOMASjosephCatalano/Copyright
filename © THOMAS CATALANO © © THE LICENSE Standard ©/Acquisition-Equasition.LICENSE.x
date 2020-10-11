@@ -1,15 +1,16 @@
+*\*
 © THOMAS CATALANO 
 */* Copyright (c) THOMAS CATALANO *\*
 
 THOMAS CATALANO License.x
-,//
-,/Acquisition-Equasition.LICENSE.x
+,\//
+,\/Acquisition-Equasition.LICENSE.x
 
-Copyright (c) THOMAS CATALANO
-Copyright (c) ;License-FORMAT_LEGAL-ACQUISITION-EQUESITION;"License-FORMAT_LEGAL-ACQUISITION-EQUESITION;this '*\*' 'inclusive'";
+,\/Copyright (c) THOMAS CATALANO
+,\/Copyright (c) ;License-FORMAT_LEGAL-ACQUISITION-EQUESITION;"License-FORMAT_LEGAL-ACQUISITION-EQUESITION;this '*\*' 'inclusive'";
 
-Copyright (c) */* ;License-FORMAT_LEGAL-ACQUISITION-EQUESITION;"License-FORMAT_LEGAL-ACQUISITION-EQUESITION;this '*\*' 'inclusive'";/"""Copyright (c)"'\'" "_"NAMEENTITY"_" "-" "_"BACK"_" "-" "_"ENTITIEOR"_" "-" "_"CLASSENTITY"_" "-" {"_"MISC(ie.Countries of 'legal' entity;Antarctica,China,Finland,Thailand.())"_"} "-" "_"LEGALENTITY"_""\."|((*/*)="inclusive"like"objects","pre-|-post"//((*/)(/*))="intrinsic"like"objects"/merandum's(s)'s;,//etcetera so forth,etc., so forth,;, sefor example's//;,,)""License"-"FORMAT"_LEGAL-ACQUISITION-EQUES")\.
-              */* _holdings_ */* _futures */* _service */* */ */\.
+,\/Copyright (c) */* ;License-FORMAT_LEGAL-ACQUISITION-EQUESITION;"License-FORMAT_LEGAL-ACQUISITION-EQUESITION;this '*\*' 'inclusive'";/"""Copyright (c)"'\'" "_"NAMEENTITY"_" "-" "_"BACK"_" "-" "_"ENTITIEOR"_" "-" "_"CLASSENTITY"_" "-" {"_"MISC(ie.Countries of 'legal' entity;Antarctica,China,Finland,Thailand.())"_"} "-" "_"LEGALENTITY"_""\."|((*/*)="inclusive"like"objects","pre-|-post"//((*/)(/*))="intrinsic"like"objects"/merandum's(s)'s;,//etcetera so forth,etc., so forth,;, sefor example's//;,,)""License"-"FORMAT"_LEGAL-ACQUISITION-EQUES")\.
+                 */* _holdings_ */* _futures */* _service */* */ */\.
 
 Copyright (c) */* THOMAS CATALANO License '.()' */* _holdings_ */* _futures */* _service */* */ */\.
 Copyright (c) */* ;THOMASCATALANO.LICENSE() */* _holdings_ */* _futures */* _service */* */ */\.
@@ -1216,7 +1217,7 @@ Copyright (c) */* Grammy Music Awards */* */ */\.
 Copyright (c) */* USBA Bank-Treasure \ denver'd \ denver be US_BeA \ denver is USA / \ anecnote / tada \ Denver-CO looked like Washington-D.C. \/ */ */\.
 
 *\* etcetera so forth,etc., so forth */* */ */\..\,.;
-,//
+,\//
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -1237,7 +1238,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 THOMAS CATALANO ©
-© THOMAS CATALANO ©
-©tc©
+©tjc©
 ©this *\* inclusive©
 ©tc©
+© THOMAS CATALANO ©

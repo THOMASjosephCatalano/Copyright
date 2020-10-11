@@ -3,6 +3,7 @@
 */* Copyright (c) THOMAS CATALANO *\*
 
 THOMAS CATALANO License.x
+,\//
 ,\/BITs.LICENSE.x
 
 ,\/Copyright (c) ;THOMAS 'J'oseph, CATALANO('U.S._SocialSecurity':135z74z4812;DOB:1981z02z05);"Doctor";"_Ph.D._"();
@@ -21,6 +22,7 @@ THOMAS CATALANO License.x
               proxing space-time(past(s), present(s) &| future(s))";
 
 ,\/Copyright (c) ;BIT(s)-Matter-Material-Mass-Light-structure(s)';"BIT(s)-Matter-Material-Mass-Light-structure(s)'";
+,\//
 
             
 Permission is hereby granted, free of charge, to any person obtaining a copy

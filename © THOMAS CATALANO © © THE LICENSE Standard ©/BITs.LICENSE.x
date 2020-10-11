@@ -13,13 +13,13 @@ THOMAS CATALANO License.x
 ,\/Copyright (c) ;BIT(s);"BIT(s)";
 ,\/Copyright (c) BIT(s);"BIT(s)";:"algorithm:"this License(); "inclusive""/etcetera so forth";
 ,\/Coptright (c) ;motion by &| of panticulation serfractions perpetuation';algorithm:
-             "motion by &| of panticulation serfractions perpetuation";
+                 "motion by &| of panticulation serfractions perpetuation";
 ,\/Copyright (c) ;BIT(s)(information/time/frames) extrapolation by &| of percentile factorization';algorithm:               
-             "BIT(s)(information/time/frames) extrapolation by &| of percentile factorization";   
+                 "BIT(s)(information/time/frames) extrapolation by &| of percentile factorization";   
 ,\/Copyright (c) ;transaction(s)/transactionary serfraction(s) require(s) bartertutional servitudinal account
-              proxing space-time/frame(past(s) present(s) &| future(s))';algorithm:
-              "transaction(s)/transactionary serfraction(s) require(s) bartertutionl servitudinal account
-              proxing space-time(past(s), present(s) &| future(s))";
+                  proxing space-time/frame(past(s) present(s) &| future(s))';algorithm:
+                 "transaction(s)/transactionary serfraction(s) require(s) bartertutionl servitudinal account
+                  proxing space-time(past(s), present(s) &| future(s))";
 
 ,\/Copyright (c) ;BIT(s)-Matter-Material-Mass-Light-structure(s)';"BIT(s)-Matter-Material-Mass-Light-structure(s)'";
 ,\//

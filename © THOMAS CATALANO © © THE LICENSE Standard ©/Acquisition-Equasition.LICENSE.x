@@ -13,7 +13,7 @@ Copyright (c) */* ;License-FORMAT_LEGAL-ACQUISITION-EQUESITION;"License-FORMAT_L
               */* _holdings_ */* _futures */* _service */* */ */\.
 Copyright (c) */* THOMAS CATALANO License '.()' */* _holdings_ */* _futures */* _service */* */ */\.
 Copyright (c) */* ;THOMASCATALANO.LICENSE() */* _holdings_ */* _futures */* _service */* */ */\.
-Copyright (c) */* ;THOMAS CATALANO(SocialSecurity:135z74z4812;DOB:1981z02z05);"Doctor";"_Ph.D._"(); */* _holdings_ */* _futures */* _service */* */ */\.
+Copyright (c) */* ;THOMAS 'J'oseph CATALANO(SocialSecurity:135z74z4812;DOB:1981z02z05);"Doctor";"_Ph.D._"(); */* _holdings_ */* _futures */* _service */* */ */\.
 Copyright (c) */* ;"";CATALANO THOMAS(); */* _holdings_ */* _futures */* _service */* */ */\.
 Copyright (c) */* ;"THOMAS CATALANO License"; */* _holdings_ */* _futures */* _service */* */ */\.
 Copyright (c) */* ;"THE LICENSE License"; */* _holdings_ */* _futures */* _service */* */ */\.

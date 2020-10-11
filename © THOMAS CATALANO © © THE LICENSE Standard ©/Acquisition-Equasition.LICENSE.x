@@ -1213,6 +1213,8 @@ Copyright (c) */* Billboards Music Awards */* */ */\.
 
 Copyright (c) */* Grammy Music Awards */* */ */\.
 
+Copyright (c) */* USBA Bank \ denver'd \/ */ */\.
+
 *\* etcetera so forth,etc., so forth */* */ */\..\,.;
 ,//
 

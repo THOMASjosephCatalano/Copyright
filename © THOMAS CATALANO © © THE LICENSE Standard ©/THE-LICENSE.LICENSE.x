@@ -40,7 +40,6 @@ SOFTWARE.
 
 THOMAS CATALANO ©
 © THOMAS CATALANO ©
-©tc©
+©tjc©
 ©this *\* inclusive©
 ©tc©
-©tjc©©_©©Un-incorprated.(j)\'J'oseph)©

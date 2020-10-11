@@ -2,28 +2,28 @@
 */* Copyright (c) THOMAS CATALANO *\*
 
 THOMAS CATALANO License.x
-,/BITs.LICENSE.x
+,\/BITs.LICENSE.x
 
-,/Copyright (c) ;THOMAS 'J'oseph, CATALANO('U.S._SocialSecurity':135z74z4812;DOB:1981z02z05);"Doctor";"_Ph.D._"();
-,/Copyright (c) ;"";CATALANO,THOMAS();
-,/Copyright (c) ;"THOMAS joseph CATALANO";
-,/Copyright (c) BIT(s);"BIT(s): "License"License'.()'";
-,/Copyright (c) ;BIT(s);"BIT(s)";
-,/Copyright (c) BIT(s);"BIT(s)";:"algorithm:"this License(); "inclusive""/etcetera so forth";
-,/Coptright (c) ;motion by &| of panticulation serfractions perpetuation';algorithm:
+,\/Copyright (c) ;THOMAS 'J'oseph, CATALANO('U.S._SocialSecurity':135z74z4812;DOB:1981z02z05);"Doctor";"_Ph.D._"();
+,\/Copyright (c) ;"";CATALANO,THOMAS();
+,\/Copyright (c) ;"THOMAS joseph CATALANO";
+,\/Copyright (c) BIT(s);"BIT(s): "License"License'.()'";
+,\/Copyright (c) ;BIT(s);"BIT(s)";
+,\/Copyright (c) BIT(s);"BIT(s)";:"algorithm:"this License(); "inclusive""/etcetera so forth";
+,\/Coptright (c) ;motion by &| of panticulation serfractions perpetuation';algorithm:
              "motion by &| of panticulation serfractions perpetuation";
-,/Copyright (c) ;BIT(s)(information/time/frames) extrapolation by &| of percentile factorization';algorithm:               
+,\/Copyright (c) ;BIT(s)(information/time/frames) extrapolation by &| of percentile factorization';algorithm:               
              "BIT(s)(information/time/frames) extrapolation by &| of percentile factorization";   
-,/Copyright (c) ;transaction(s)/transactionary serfraction(s) require(s) bartertutional servitudinal account
+,\/Copyright (c) ;transaction(s)/transactionary serfraction(s) require(s) bartertutional servitudinal account
               proxing space-time/frame(past(s) present(s) &| future(s))';algorithm:
               "transaction(s)/transactionary serfraction(s) require(s) bartertutionl servitudinal account
               proxing space-time(past(s), present(s) &| future(s))";
 
-,/Copyright (c) ;BIT(s)-Matter-Material-Mass-Light-structure(s)';"BIT(s)-Matter-Material-Mass-Light-structure(s)'";
+,\/Copyright (c) ;BIT(s)-Matter-Material-Mass-Light-structure(s)';"BIT(s)-Matter-Material-Mass-Light-structure(s)'";
 
             
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
+of _this_ software _and_ associated documentation _file_ (this 'Software'), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
@@ -39,7 +39,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 THOMAS CATALANO ©
-© THOMAS CATALANO ©
-©tc©
+©tjc©
 ©this *\* inclusive©
 ©tc©
+© THOMAS CATALANO ©

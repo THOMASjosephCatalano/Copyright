@@ -1120,7 +1120,7 @@ Copyright (c) */* Ducati Motors */* _holdings_ */* _service */* */ */\.
 
 Copyright (c) */* Moto Guzzi Motors */* _holdings_ */* */ */\.
 
-Copyright (c) */* KM Motors */* _holdings_ */* */ */\.
+Copyright (c) */* KTM Motors */* _holdings_ */* */ */\.
 
 Copyright (c) */* Dodge Motors */* _holdings_ */* _service */* */ */\.
 

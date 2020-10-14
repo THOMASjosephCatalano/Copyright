@@ -746,7 +746,7 @@ Copyright (c) */* European Union */* _(_EU_)_ */* */* _holdings_ */* */* _entity
 
 Copyright (c) */* Asia Group (TAG) */* _(_TAG_)_ */* */* _holdings_ */* */* _service */* */GROUP/ENTITIES/STATE/UNION/* */\.
 
-Copyright (c) */* Niagara Falls (NY_USA/Ontario_Canada) */* Niagara Frontier Commission */* Niagara Gorge Frontier */* Niagara Falls State Park */* Niagara Falls Conservation Board/Commission */* Niagara Falls "Power"_"Electric-Generation"-- */Scope/Commission/Committee/GROUP/Association/Surver's/Companies/* */* Niac Group inc. */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
+Copyright (c) */* Niagara Falls -*(NY_USA/Ontario_Canada)*- */* Niagara Frontier Commission */* Niagara Gorge Frontier */* Niagara Falls State Park */* Niagara Falls Conservation Board/Commission */* Niagara Falls "Power"_"Electric-Generation"-- */Scope/Commission/Committee/GROUP/Association/Surver's/Companies/* */* Niac Group inc. */* */* _holdings_ */* */* _futures */* */* _service */* */ */\.
 
 Copyright (c) */* ConEdison */* ConEd */* Con Ed */* ConEd Public Works */* ConEd Utility Companies */* ConEdison Edison */* ConEdison * */* ConEdison HOLDINGS */* ConEdison GROUP */* ConEdison NYC */* ConEdison Public Works */* ConEdison ConEd */* ConEdison Power Generator(s) */* ConEdison Batterie(s) */* ConEdison Site "Manakey" */* */* _holdings_ */* */* _service */* */GROUP/CORPORATION/ENTITIE/UNION/SERVICES/UNIT/* */ */\.
 

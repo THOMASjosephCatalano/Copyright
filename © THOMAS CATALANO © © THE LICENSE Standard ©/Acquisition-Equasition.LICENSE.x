@@ -974,9 +974,9 @@ Copyright (c) */* Gmail */* Google Gmail */* _holdings_ */* _futures */* _servic
 
 Copyright (c) */* Outlook */* Microsoft Outlook */*  _holdings_ */* _futures */*  _service */* */ */\.
 
-Copyright (c) */* Windows */* Microsoft Windows */* _holdings_ */*  _futures */* _service */* */ */\.
+Copyright (c) */* Windows - Operating-System-(OS) / Microsoft-Services -Windows- */* _holdings_ */*  _futures */* _service */* */ */\.
 
-Copyright (c) */* Android Operating System (OS) */* _holdings_ */* _futures */* _service */* */ */\.
+Copyright (c) */* Android - Operating-System-(OS) / Google-GROUP -Android- */* _holdings_ */* _futures */* _service */* */ */\.
 
 Copyright (c) */* LG */* _holdings_ */* _futures */* _service */* */ */\.
 

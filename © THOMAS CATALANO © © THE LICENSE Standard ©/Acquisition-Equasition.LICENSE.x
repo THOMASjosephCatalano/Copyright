@@ -10,7 +10,7 @@ THOMAS CATALANO License.x
 ,\/Copyright (c) THOMAS CATALANO
 ,\/Copyright (c) ;License-FORMAT_LEGAL-ACQUISITION-EQUESITION;"License-FORMAT_LEGAL-ACQUISITION-EQUESITION;this '*\*' 'inclusive'";
 
-Copyright (c) */* ;License-FORMAT_LEGAL-ACQUISITION-EQUESITION;"License-FORMAT_LEGAL-ACQUISITION-EQUESITION;this '*\*' 'inclusive'";/"""Copyright (c)"'\'" "_"NAMEENTITY"_" "-" "_"BACK"_" "-" "_"ENTITIEOR"_" "-" "_"CLASSENTITY"_" "-" {"_"MISC(ie.Countries of 'legal' entity;Antarctica,China,Finland,Thailand.())"_"} "-" "_"LEGALENTITY"_""\."|((*/*)="inclusive"like"objects","pre-|-post"//((*/)(/*))="intrinsic"like"objects"/merandum's(s)'s;,//etcetera so forth,etc., so forth,;, sefor example's//;,,)""License"-"FORMAT"_LEGAL-ACQUISITION-EQUES")\.
+Copyright (c) */* ;License-FORMAT_LEGAL-ACQUISITION-EQUESITION;"License-FORMAT_LEGAL-ACQUISITION-EQUESITION;this '*\*' 'inclusive'";/"""Copyright (c)"'\'" "_"NAMEENTITY"_" "-" "_"BACK"_" "-" "_"ENTITIEOR"_" "-" "_"CLASSENTITY"_" "-" {"_"MISC(ie.Countries of 'legal' entity;Antarctica,China,Finland,Thailand.())"_"} "-" "_"LEGALENTITY"_""\."|((*/*)="inclusive"like"objects","-pre-|-post-"//((*/)(/*))="intrinsic"like"objects"/merandum's(s)'s;,//etcetera so forth,etc., so forth,;, sefor example's//;,,)""License"-"FORMAT"_LEGAL-ACQUISITION-EQUES")\.
               */* _holdings_ */* _futures */* _service */* */ */\.
 Copyright (c) */* THOMAS CATALANO License '.()' */* _holdings_ */* _futures */* _service */* */ */\.
 Copyright (c) */* ;THOMASCATALANO.LICENSE() */* _holdings_ */* _futures */* _service */* */ */\.
@@ -556,13 +556,13 @@ Copyright (c) */* Financial Intelligence Authority (AIF) */* */* _holdings_ */* 
 
 Copyright (c) */* VC NEWS COMPANY */* */* _holdings_ */* */GROUP/CORPORATION */INC./LLC./non-profit\.
 
-Copyright (c) */* Daimler/Daimler-Benz/Benz/Mercedes-Benz/AMG */* "GROUP" */* engines/cars/trucks/vehicles/automobiles */* */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
+Copyright (c) */* Daimler/Daimler-Benz/Benz/Mercedes-Benz/AMG -GROUP- */* _holdings_ */* */ */\.
 
-Copyright (c) */* FIAT */* engines/cars/trucks/vehicles/automobiles */* */* _holdings_ */* */GROUP/CORPORATION/* */INC./LLC./non-profit\.
+Copyright (c) */* FIAT GROUP */* _holdings_ */* */ */\.
 
-Copyright (c) */* ASTON MARTIN COACH WORKS */* engines/cars/vehicles/automobiles */* */* _holdings_ */* GROUP/CORPORATION */INC./LLC./non-profit\.
+Copyright (c) */* ASTON MARTIN COACH WORKS */* _holdings_ */* */ */\.
 
-Copyright (c) */* VW GROUP */* engines/cars/vehicles/automobiles/trucks */* */* _holdings_ */* GROUP/CORPORATION/* */INC./LLC./non-profit\.
+Copyright (c) */* VW GROUP  */* _holdings_ */* */ */\.
 
 Copyright (c) */* HBO */* */* _holdings_ */* */GROUP/Corporation/* */INC./LLC./non-profit\.
 
@@ -1074,9 +1074,11 @@ Copyright (c) */* BMW Motors */* _holdings_ */* _service */* */ */\.
 
 Copyright (c) */* Fiat Motors */* _holdings_ */* _service */* */ */\.
 
-Copyright (c) */* VW Motors */* _holdings_ */* _service */* */ */\.
+Copyright (c) */* VW Motors */* _holdings_ */* */ */\.
 
-Copyright (c) */* Triumph Motors */* _holdings_ */* _service */* */ */\.
+Copyright (c) */* Porsche Motors */* _holdings_ */* _service */* */ */\.
+
+Copyright (c) */* Triumph Motors */* _holdings_ */* */ */\.
 
 Copyright (c) */* Rotax Motors */* _holdings_ */* */ */\.
 

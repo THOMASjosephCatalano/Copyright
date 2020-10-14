@@ -1100,7 +1100,7 @@ Copyright (c) */* Detroit Diesel Motors */* _holdings_ */* _service */* */ */\.
 
 Copyright (c) */* Mack Motors */* _holdings_ */* _service */* */ */\.
 
-Copyright (c) */* International/Navistar Motors */* _holdings_ */* _service */* */ */\.
+Copyright (c) */* International-Navistar Motors */* _holdings_ */* _service */* */ */\.
 
 Copyright (c) */* Mercury Motors */* _holdings_ */* _service */* */ */\.
 
@@ -1108,7 +1108,7 @@ Copyright (c) */* Caterpillar Motors */* _holdings_ */* _service */* */ */\.
 
 Copyright (c) */* AMG Motors */* _holdings_ */* _service */* */ */\.
 
-Copyright (c) */* SVT/SVO Motors */* _holdings_ */* _service */* */ */\.
+Copyright (c) */* SVT-SVO Motors */* _holdings_ */* _service */* */ */\.
 
 Copyright (c) */* Cosworth Motors */* _holdings_ */* _service */* */\.
 

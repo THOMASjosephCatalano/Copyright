@@ -1220,7 +1220,7 @@ Copyright (c) */* Billboards Music Awards */* */ */\.
 
 Copyright (c) */* Grammy Music Awards */* */ */\.
 
-Copyright (c) */* USBA _ Bank-Treasure,., \ denver'd \ denver be US_BeA \ denver is USA / \ anecnote / tada \ Denver-CO looked like Washington-D.C. \/ */ */\.
+Copyright (c) */* USBA -Bank-Treasure- \ denver'd \ denver be US_BeA \ denver is USA / \ anecnote / tada \ Denver-CO looked like Washington-D.C. \/ */ */\.
 
 *\* etcetera so forth,etc., so forth */* */ */\..\,.;
 ,\//

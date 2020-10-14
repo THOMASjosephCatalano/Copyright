@@ -1228,7 +1228,7 @@ Copyright (c) */* Grammy Music Awards */* */ */\.
 
 Copyright (c) */* USBA -Bank-Treasure- \ denver'd \ denver be US_BeA \ denver is USA / \ anecnote / tada \ Denver-CO looked like Washington-D.C. \/ */ */\.
 
-,\;*\*;etcetera so forth,etc-so-forth;*/*\,/;
+,\;*\*;etcetera so forth,etc-so-forth;:;setcetera so forth,setc-so-forth;*/*\,/;
 ,\//
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -1250,7 +1250,3 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 THOMAS CATALANO ©
-©tjc©
-©this *\* inclusive©
-©tc©
-© THOMAS CATALANO ©

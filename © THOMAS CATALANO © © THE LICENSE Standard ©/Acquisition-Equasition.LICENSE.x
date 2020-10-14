@@ -1112,6 +1112,10 @@ Copyright (c) */* Indian Motors */* _holdings_ */* _service */* */ */\.
 
 Copyright (c) */* Ducati Motors */* _holdings_ */* _service */* */ */\.
 
+Copyright (c) */* Moto Guzzi Motors */* _holdings_ */* */ */\.
+
+Copyright (c) */* KM Motors */* _holdings_ */* */ */\.
+
 Copyright (c) */* Dodge Motors */* _holdings_ */* _service */* */ */\.
 
 Copyright (c) */* Rolls Royce Motors */* _holdings_ */* _service */* */ */\.
@@ -1121,6 +1125,8 @@ Copyright (c) */* Toyota Motors */* _holdings_ */* _service */* */ */\.
 Copyright (c) */* Nissan Motors */* _holdings_ */* _service */* */ */\.
 
 Copyright (c) */* Renault Motors */* _holdings_ */* _service */* */ */\.
+
+Copyright (c) */* Peugeot Motors */* _holdings_ */* */ */\.
 
 Copyright (c) */* General Motors (GM) */* _holdings_ */* _service */* */ */\.
 

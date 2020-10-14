@@ -580,7 +580,7 @@ Copyright (c) */* Fujitsu */* Fujitsu Group */* Fujitsu Film */* */*_holdings_*/
 
 Copyright (c) */* Fuji Film */* Fuji Corporation */* */* _holdings_ */* */* _service */* */ */\.
 
-Copyright (c) */* Civil Engineer */* */* _holdings_ */* */GROUP/Corporation/* */INC.LLC./non-profit\.
+Copyright (c) */* Civil Air Patrol / (CAP) */* */* _holdings_ */* */GROUP/Corporation/* */INC.LLC./non-profit\.
 
 Copyright (c) */* US Air Force Research Laboratory (AFRL) */* */* _holdings_ */* */* _service */* */GROUP/Corporation/SYSTEM/* */INC./LLC./non-profit\.
 

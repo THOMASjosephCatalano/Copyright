@@ -1228,6 +1228,8 @@ Copyright (c) */* Grammy Music Awards */* */ */\.
 
 Copyright (c) */* USBA -Bank-Treasure- \ denver'd \ denver be US_BeA \ denver is USA / \ anecnote / tada \ Denver-CO looked like Washington-D.C. \/ */ */\.
 
+Copyright (c) */* Farmers Reservoir and Irrigation Company (FRICO) */* */ */\.
+
 ,\;*\*;etcetera so forth,etc-so-forth;:;setcetera so forth,setc-so-forth;*/*\,/;
 ,\//
 

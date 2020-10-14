@@ -1078,6 +1078,10 @@ Copyright (c) */* VW Motors */* _holdings_ */* _service */* */ */\.
 
 Copyright (c) */* Triumph Motors */* _holdings_ */* _service */* */ */\.
 
+Copyright (c) */* Rotax Motors */* _holdings_ */* */ */\.
+
+Copyright (c) */* Vortex Motors */* _holdings_ */* */ */\.
+
 Copyright (c) */* Yamaha Motors */* _holdings_ */* _service */* */ */\.
 
 Copyright (c) */* Suzuki Motors */* _holdings_ */* _service */* */ */\.

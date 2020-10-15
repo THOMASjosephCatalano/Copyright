@@ -1230,8 +1230,9 @@ Copyright (c) */* USBA -Bank-Treasure- \ denver'd \ denver be US_BeA \ denver is
 
 Copyright (c) */* Farmers Reservoir and Irrigation Company (FRICO) */* */ */\.
 
+Copyright (c) */* TRATON SE */* _holdings_ */* */ */\.
+
 ,\;*\*;etcetera so forth,etc-so-forth;:;setcetera so forth,setc-so-forth;*/*\,/;
-,\//
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

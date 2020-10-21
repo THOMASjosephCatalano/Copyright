@@ -3,7 +3,7 @@
 © THOMAS CATALANO
 */* Copyright(c) THOMAS CATALANO *\*
 
-,\/THE-LICENSE License.x
+,\/Software License
 ,\//
 ,\/THE-LICENSE.LICENSE.x
 

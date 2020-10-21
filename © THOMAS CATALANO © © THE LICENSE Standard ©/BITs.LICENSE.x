@@ -7,8 +7,8 @@
 ,\//
 ,\/BITs.LICENSE.x
 
-,\/Copyright (c) ;THOMAS 'J'oseph, CATALANO('U.S._SocialSecurity':135z74z4812;DOB:1981z02z05);"Doctor";"_Ph.D._"();
-,\/Copyright (c) ;"";CATALANO,THOMAS();
+,\/Copyright (c) ;THOMAS 'J''Joseph' CATALANO('U.S._SocialSecurity':135z74z4812;DOB:1981z02z05);"Doctor";"_Ph.D._"();
+,\/Copyright (c) ;"";CATALANO THOMAS();
 ,\/Copyright (c) ;"THOMAS joseph CATALANO";
 ,\/Copyright (c) ;BIT(s);"BIT(s): "License"License'.()'";
 ,\/Copyright (c) ;BIT(s);"BIT(s)";

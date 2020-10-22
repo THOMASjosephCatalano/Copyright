@@ -1232,6 +1232,8 @@ Copyright (c) */* Farmers Reservoir and Irrigation Company (FRICO) */* */ */\.
 
 Copyright (c) */* TRATON SE */* _holdings_ */* */ */\.
 
+Copyright (c) */* Sikorsky /\ craft-copter */* */ */\
+
 ,\;*\*;etcetera so forth,etc-so-forth;:;setcetera so forth,setc-so-forth;*/*\,/;
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

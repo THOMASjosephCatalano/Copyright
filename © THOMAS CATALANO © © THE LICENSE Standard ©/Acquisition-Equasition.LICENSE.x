@@ -1240,7 +1240,7 @@ Copyright (c) */* Sikorsky /\ craft-copter */* _holdings_ */* _service */* */ */
 
 Copyright (c) */* Boeing */* _holdings_ */* _service */* */ */\.
 
-##seth-so##
+##added-puc.operators##
 ,\:;:*\*:;:etcetera so forth,etc-so-forth;:;setcetera so forth,setc-so-forth:*/*\,/;
 ##now-go##
 

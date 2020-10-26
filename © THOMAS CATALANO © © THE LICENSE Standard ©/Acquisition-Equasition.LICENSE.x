@@ -1240,7 +1240,7 @@ Copyright (c) */* Sikorsky /\ craft-copter */* _holdings_ */* _service */* */ */
 
 Copyright (c) */* Boeing */* _holdings_ */* _service */* */ */\.
 
-,\:;:*\*;etcetera so forth,etc-so-forth;:;setcetera so forth,setc-so-forth;*/*\,/;
+,\:;:*\*:;:etcetera so forth,etc-so-forth;:;setcetera so forth,setc-so-forth:*/*\,/;
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of _this_ software _and_ associated documentation _files_ (the 'Software'), to deal

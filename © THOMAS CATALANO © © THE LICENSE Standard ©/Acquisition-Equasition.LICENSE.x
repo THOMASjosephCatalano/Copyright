@@ -1,5 +1,6 @@
 *\*
 ,\//\;
+##this-comments_[##../..##]##
 © THOMAS CATALANO 
 *\* Copyright (c) THOMAS CATALANO */*
 
@@ -9,7 +10,7 @@
 
 ,\/Copyright (c) THOMAS CATALANO
 ,\/Copyright (c) ;License-FORMAT_LEGAL-ACQUISITION-EQUESITION;"License-FORMAT_LEGAL-ACQUISITION-EQUESITION;this '*\*' 'inclusive'";
-
+,\/Copyright (c) ;##this-comments_[##../..##]##\.
 Copyright (c) */* ;License-FORMAT_LEGAL-ACQUISITION-EQUESITION;"License-FORMAT_LEGAL-ACQUISITION-EQUESITION;this '*\*' 'inclusive'";/"""Copyright (c)"'\'" "_"NAMEENTITY"_" "-" "_"BACK"_" "-" "_"ENTITIEOR"_" "-" "_"CLASSENTITY"_" "-" {"_"MISC(ie.Countries of 'legal' entity;Antarctica,China,Finland,Thailand.())"_"} "-" "_"LEGALENTITY"_""\."|((*/*)="inclusive"like"objects","-pre-|-post-"//((*/)(/*))="intrinsic"like"objects"/merandum's(s)'s;,//etcetera so forth,etc., so forth,;, sefor example's//;,,)""License"-"FORMAT"_LEGAL-ACQUISITION-EQUES")\.
               */* _holdings_ */* _futures */* _service */* */ */\.
 Copyright (c) */* THOMAS CATALANO License '.()' */* _holdings_ */* _futures */* _service */* */ */\.

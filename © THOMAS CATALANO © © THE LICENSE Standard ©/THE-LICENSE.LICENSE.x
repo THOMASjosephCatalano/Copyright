@@ -7,7 +7,7 @@ THE-LICENSE.LICENSE.x
 ,\Copyright (c) ;"";THOMAS CATALANO();
 ,\Copyright (c) ;"";tc Joseph();
 ,\Copyright (c) ;"";CATALANO THOMAS();
-,\Copyright (c) ;"THOMAS joseph CATALANO _License_()";
+,\Copyright (c) ;"THOMAS Joseph CATALANO _License_()";
 ,\Copyright (c) ;"THE LICENSE License()";
 ,\Copyright (c) ;"BCD License()";
 ,\Copyright (c) ;"BITs License()";

@@ -19,7 +19,7 @@
                  "transaction(s)/transactionary serfraction(s) require(s) bartertutionl servitudinal account
                   proxing space-time(past(s), present(s) &| future(s))";
                             
-,\Copyright (c) ;'BIT(s)-Matter-Material-Mass-Light-structure(s)'
+,\Copyright (c) ;BIT(s)-Matter-Material-Mass-Light-structure(s)'
                  ;"BIT(s)-Matter-Material-Mass-Light-structure(s)'"##at-speed##;
 
 

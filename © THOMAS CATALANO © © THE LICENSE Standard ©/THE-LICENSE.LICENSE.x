@@ -22,7 +22,6 @@
 ,\/Copyright (c) ;"";LICENSE;"LICENSE'.()'";
 ,\/Copyright (c) ;THOMAS CATALANO LICENSE();
 ,\/Copyright (c) ;"";THOMAS CATALANO License();
-,\//
       
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

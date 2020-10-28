@@ -25,7 +25,7 @@
                             
 ,\/Copyright (c) ;BIT(s)-Matter-Material-Mass-Light-structure(s)'
                  ;"BIT(s)-Matter-Material-Mass-Light-structure(s)'"##at-speed##;
-,\//
+
 
             
 Permission is hereby granted, free of charge, to any person obtaining a copy

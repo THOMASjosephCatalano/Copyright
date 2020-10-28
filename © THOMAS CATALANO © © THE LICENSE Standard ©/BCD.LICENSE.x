@@ -18,12 +18,6 @@ Copyright (c) ;".(asm)* ;:; _&|_;,;_[]_ ;,;,;,file;/format/extensions/encoding/*
 
 ,\Copyright (c) ;"'.'()*" '.'()*="all '.'()'" file;/format/extensions/encodingetcetera-so-forth/*";
 
-,\Copyright (c) ;".(asm)'*'" :;,'*';,; _&|_ /\ _[]_ ;:, :;:code:;:" file;/format/extensions/encoding/*;
-,\Copyright (c) ;".i*" file;/format/extensions/encoding/*;
-,\Copyright (c) ;".h*" file;/format/extensions/encoding/*;
-,\Copyright (c) ;".c*" file;/format/extensions/encoding/*;
-,\Copyright (c) ;".cpp*" file;/format/extensions/encoding/*;
-
         
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of '_this_ software _and_ associated documentation _files_ (this _Software_)', to deal

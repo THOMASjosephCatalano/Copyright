@@ -16,8 +16,8 @@
                  "BIT(s)-(information/time/frames) extrapolation [by &| of] percentile factorization";   
 ,\Copyright (c) ;'transaction(s)/transactionary serfraction(ing) require(s) bartertutional servicter continuum
                   proxing';algorithm:
-                 "transaction(s)/transactionary serfraction(ing) require(s) bartertutionl servicter account
-                  proxing continuum(past(s), present(s) &| future(s))";
+                 "transaction(s)/transactionary serfraction(ing) require(s) bartertutionl servicter continuum
+                  proxing";
                             
 ,\Copyright (c) ;BIT(s)-Matter-Material-Mass-Light-structure(s)'
                  ;"BIT(s)-Matter-Material-Mass-Light-structure(s)';

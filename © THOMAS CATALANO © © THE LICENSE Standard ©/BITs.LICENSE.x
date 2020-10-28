@@ -14,8 +14,8 @@
                  "motion [by &| of] panticulation serfractions perpetuation";
 ,\Copyright (c) ;'BIT(s)-(information/time/frames) extrapolation [by &| of] percentile factorization';algorithm:               
                  "BIT(s)-(information/time/frames) extrapolation [by &| of] percentile factorization";   
-,\Copyright (c) ;'transaction(s)/transactionary serfraction(ing) require(s) bartertutional servicter account
-                  proxing continuum(past(s) present(s) &| future(s))';algorithm:
+,\Copyright (c) ;'transaction(s)/transactionary serfraction(ing) require(s) bartertutional servicter continuum
+                  proxing';algorithm:
                  "transaction(s)/transactionary serfraction(ing) require(s) bartertutionl servicter account
                   proxing continuum(past(s), present(s) &| future(s))";
                             

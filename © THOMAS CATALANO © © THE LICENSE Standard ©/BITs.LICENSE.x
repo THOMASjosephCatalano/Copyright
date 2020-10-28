@@ -12,7 +12,7 @@
 ,\Copyright (c) ;BIT(s);"BIT(s)";:"algorithm:"this License(); "inclusive""//etcetera so forth";
 ,\Copyright (c) ;motion [by &| of] panticulation serfractions perpetuation';algorithm:
                  "motion [by &| of] panticulation serfractions perpetuation";
-,\Copyright (c) ;BIT(s)-(information/time/frames) extrapolation [by &| of] percentile factorization';algorithm:               
+,\Copyright (c) ;'BIT(s)-(information/time/frames)' extrapolation [by &| of] percentile factorization';algorithm:               
                  "BIT(s)-(information/time/frames) extrapolation [by &| of] percentile factorization";   
 ,\Copyright (c) ;transaction(s)/transactionary serfraction(s) require(s) bartertutional servitudinal account
                   proxing space-time/frame(past(s) present(s) &| future(s))';algorithm:

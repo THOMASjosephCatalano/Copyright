@@ -8,9 +8,6 @@ THE-LICENSE.LICENSE.x
 ,\Copyright (c) ;"";tc Joseph();
 ,\Copyright (c) ;"";CATALANO THOMAS();
 ,\Copyright (c) ;"THOMAS Joseph CATALANO _License_()";
-,\Copyright (c) ;"THE LICENSE License()";
-,\Copyright (c) ;"BCD License()";
-,\Copyright (c) ;"BITs License()";
 ,\Copyright (c) ;Copyright (c);
 ,\Copyright (c) ;"";"Copyright (c)";
 ,\Copyright (c) ;"";"'All rights reserved.'";

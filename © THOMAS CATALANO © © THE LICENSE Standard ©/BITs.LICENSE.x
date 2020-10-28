@@ -14,10 +14,10 @@
 ,\/Copyright (c) ;BIT(s);"BIT(s): "License"License'.()'";
 ,\/Copyright (c) ;BIT(s);"BIT(s)";
 ,\/Copyright (c) ;BIT(s);"BIT(s)";:"algorithm:"this License(); "inclusive""/etcetera so forth";
-,\/Coptright (c) ;motion by &| of panticulation serfractions perpetuation';algorithm:
-                 "motion by &| of panticulation serfractions perpetuation";
-,\/Copyright (c) ;BIT(s)(information/time/frames) extrapolation by &| of percentile factorization';algorithm:               
-                 "BIT(s)(information/time/frames) extrapolation by &| of percentile factorization";   
+,\/Coptright (c) ;motion [by &| of] panticulation serfractions perpetuation';algorithm:
+                 "motion [by &| of] panticulation serfractions perpetuation";
+,\/Copyright (c) ;BIT(s)(information/time/frames) extrapolation [by &| of] percentile factorization';algorithm:               
+                 "BIT(s)(information/time/frames) extrapolation [by &| of] percentile factorization";   
 ,\/Copyright (c) ;transaction(s)/transactionary serfraction(s) require(s) bartertutional servitudinal account
                   proxing space-time/frame(past(s) present(s) &| future(s))';algorithm:
                  "transaction(s)/transactionary serfraction(s) require(s) bartertutionl servitudinal account

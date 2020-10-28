@@ -1,12 +1,9 @@
-*\*
-,\//\;
-© THOMAS CATALANO
-*\* Copyright (c) THOMAS CATALANO */*
+*\* Copyright (c) THOMAS CATALANO
 
-,\/Software License
-,\/THOMASCATALANO.LICENSE.x
+Software License
+THOMASCATALANO.LICENSE.x
 
-,\/Copyright (c) THOMAS CATALANO
+,\Copyright (c) THOMAS CATALANO
 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

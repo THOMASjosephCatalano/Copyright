@@ -1,6 +1,5 @@
 *\*
 ,\//\;
-##this-comments_[##../..##]##
 © THOMAS CATALANO 
 *\* Copyright (c) THOMAS CATALANO */*
 

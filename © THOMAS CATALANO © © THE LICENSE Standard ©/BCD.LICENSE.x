@@ -11,7 +11,7 @@ BCD.LICENSE.x
 
 
 ,\Copyright (c) ;"";Binary Coded Decimal,(BCD);'Binary Coded Decimal,(BCD)';,/system/format/encoding,\etcetera so forth,.,etc-so-forth\*";";
-,\Copyright (c) ;"'.'()*" ()*=evory;,:erory,"'.'()file;/format/extensions/encoding/,/etcetera so forth,.,etc-so-forth\,/*";
+,\Copyright (c) ;"'.'()*" ()*=evory;:evory,"'.'()file;/format/extensions/encoding/,/etcetera so forth,.,etc-so-forth\,/*";
 Copyright (c) ;".(asm)* ;:; _&|_;,;_[]_ ;,;,;,file;/format/extensions/encoding/*;
 
 ,\Copyright (c) ;";Binary Coded Decimal,(BCD);'Binary Coded Decimal,(BCD)';,/system/format/encoding,\etcetera so forth,.,etc-so-forth\*";

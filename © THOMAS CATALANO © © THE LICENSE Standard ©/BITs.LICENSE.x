@@ -20,7 +20,7 @@
                   proxing continuum(past(s), present(s) &| future(s))";
                             
 ,\Copyright (c) ;BIT(s)-Matter-Material-Mass-Light-structure(s)'
-                 ;"BIT(s)-Matter-Material-Mass-Light-structure(s)'"##at-speed##;
+                 ;"BIT(s)-Matter-Material-Mass-Light-structure(s)';
 
 
             

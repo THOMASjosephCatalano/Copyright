@@ -11,7 +11,7 @@
 ,\Copyright (c) ;"THOMAS Joseph CATALANO";
 ,\Copyright (c) ;BIT(s);"BIT(s): "License"License'.()'";
 ,\Copyright (c) ;BIT(s);"BIT(s)";
-,\Copyright (c) ;BIT(s);"BIT(s)";:"algorithm:"this License(); "inclusive""/etcetera so forth";
+,\Copyright (c) ;BIT(s);"BIT(s)";:"algorithm:"this License(); "inclusive""//etcetera so forth";
 ,\Copyright (c) ;motion [by &| of] panticulation serfractions perpetuation';algorithm:
                  "motion [by &| of] panticulation serfractions perpetuation";
 ,\Copyright (c) ;BIT(s)(information/time/frames) extrapolation [by &| of] percentile factorization';algorithm:               

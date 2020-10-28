@@ -8,8 +8,6 @@ BCD.LICENSE.x
 ,\Copyright (c) ;"THOMAS Joseph CATALANO";
 
 ,\Copyright (c) ;Binary Coded Decmil,(BSD);,\"Binary Coded Decmil,(BSD): "License"License'.()'";
-
-
 ,\Copyright (c) ;"";Binary Coded Decimal,(BCD);'Binary Coded Decimal,(BCD)';,/system/format/encoding,\etcetera so forth,.,etc-so-forth\*";";
 
         

@@ -22,7 +22,8 @@ Copyright (c) ;".(asm)'*'" :;,'*';,; _&|_ /\ _[]_ ;:, :;:code:;:" file;/format/e
 Copyright (c) ;".i*" file;/format/extensions/encoding/*;
 Copyright (c) ;".h*" file;/format/extensions/encoding/*;
 Copyright (c) ;".c*" file;/format/extensions/encoding/*;
-Copyright (c) ;".cpp*" file;/format/extensions/encoding/*;/.
+Copyright (c) ;".cpp*" file;/format/extensions/encoding/*;
+\.
 
         
 Permission is hereby granted, free of charge, to any person obtaining a copy

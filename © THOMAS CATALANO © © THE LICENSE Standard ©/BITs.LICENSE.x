@@ -1,7 +1,7 @@
 *\*
 *\* Copyright (c) THOMAS CATALANO
 
-,\/Software License
+,\Software License
 ,\//;
 ,\/BITs.LICENSE.x
 

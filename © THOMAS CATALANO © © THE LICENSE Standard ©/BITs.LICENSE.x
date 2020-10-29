@@ -15,9 +15,9 @@ BITs.LICENSE.x
                  "motion [by &| of] panticulation serfractions perpetuation";
 ,\Copyright (c) ;BIT(s)-(information/time/frames) extrapolation [by &| of] percentile factorization';algorithm:               
                  "BIT(s)-(information/time/frames) extrapolation [by &| of] percentile factorization";   
-,\Copyright (c) ;transaction(s)-transactionary serfraction(ing) [by &| of] bartertutional servister continuum
+,\Copyright (c) ;transaction(s)-transactionary serfraction [by &| of] bartertutional servister continuum
                   proxing;algorithm:
-                 "transaction(s)-transactionary serfraction(ing) [by &| of] bartertutionl servister continuum
+                 "transaction(s)-transactionary serfraction [by &| of] bartertutionl servister continuum
                   proxing";
                             
 ,\Copyright (c) ;BIT(s)-Matter-Material-Mass-LIGHT-structure(s)'

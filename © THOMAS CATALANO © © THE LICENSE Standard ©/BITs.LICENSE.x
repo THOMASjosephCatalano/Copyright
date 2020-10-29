@@ -20,8 +20,8 @@ BITs.LICENSE.x
                  "transaction(s)-transactionary serfraction(ing) [by &| of] bartertutionl servister continuum
                   proxing";
                             
-,\Copyright (c) ;BIT(s)-Matter-Material-Mass-Light-structure(s)'
-                ;"BIT(s)-Matter-Material-Mass-Light-structure(s)"';
+,\Copyright (c) ;BIT(s)-Matter-Material-Mass-LIGHT-structure(s)'
+                ;"BIT(s)-Matter-Material-Mass-LIGHT-structure(s)"';
 
 
             

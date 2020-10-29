@@ -14,11 +14,11 @@ BITs.LICENSE.x
 ,\Copyright (c) ;motion [by &| of] panticulation serfractions perpetuation';algorithm:
                  "motion [by &| of] panticulation serfractions perpetuation";
 ,\Copyright (c) ;BIT(s)-(information/time/frames) extrapolation [by &| of] percentile factorization';algorithm:               
-                 "BIT(s)-(information/time/frames) extrapolation [by &| of] percentile factorization';   
+                 "BIT(s)-(information/time/frames) extrapolation [by &| of] percentile factorization";   
 ,\Copyright (c) ;transaction(s)-transactionary serfraction(ing) [by &| of] bartertutional servister continuum
-                  proxing';algorithm:
+                  proxing;algorithm:
                  "transaction(s)-transactionary serfraction(ing) [by &| of] bartertutionl servister continuum
-                  proxing"';
+                  proxing";
                             
 ,\Copyright (c) ;BIT(s)-Matter-Material-Mass-Light-structure(s)'
                 ;"BIT(s)-Matter-Material-Mass-Light-structure(s)"';

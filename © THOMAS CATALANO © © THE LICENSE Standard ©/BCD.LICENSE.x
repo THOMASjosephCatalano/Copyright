@@ -11,7 +11,7 @@ BCD.LICENSE.x
 ,\Copyright (c) ;"software:"this License(); "inclusive""//etcetera-so-forth,:,secetera-so-forth";
 
 ,\Copyright (c) ;Binary Coded Decmimal,(BSD);,\"Binary Coded Decmil,(BSD): "License"License'.()'";
-,\Copyright (c) ;"";Binary Coded Decimal,(BCD);'Binary Coded Decimal,(BCD)';,/system/format/encoding,\etcetera so forth,.,etc-so-forth\*";";
+,\Copyright (c) ;"";Binary Coded Decimal,(BCD);'Binary Coded Decimal,(BCD)';,/system/format/encoding,\etcetera-so-forth,:,secetera-so-forth";
 
         
 Permission is hereby granted, free of charge, to any person obtaining a copy

@@ -13,9 +13,9 @@ BITs.LICENSE.x
 ,\Copyright (c) ;BIT(s);"BIT(s)";:"algorithm:"this License(); "inclusive""//etcetera-so-forth";
 ,\Copyright (c) ;motion [by &| of] panticulation serfractions perpetuation';algorithm:
                  "motion [by &| of] panticulation serfractions perpetuation";
-,\Copyright-Copyright (c) ;'BIT(s)-(information/time/frames) extrapolation [by &| of] percentile factorization';algorithm:               
+,\Copyright Copyright (c) ;'BIT(s)-(information/time/frames) extrapolation [by &| of] percentile factorization';algorithm:               
                  "BIT(s)-(information/time/frames) extrapolation [by &| of] percentile factorization";   
-,\Copyright-Copyright (c) ;'transaction(s)-transactionary serfraction(ing) [by &| of] bartertutional servister continuum
+,\Copyright Copyright (c) ;'transaction(s)-transactionary serfraction(ing) [by &| of] bartertutional servister continuum
                   proxing';algorithm:
                  "transaction(s)-transactionary serfraction(ing) [by &| of] bartertutionl servister continuum
                   proxing";

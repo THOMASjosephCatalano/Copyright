@@ -18,7 +18,7 @@ BITs.LICENSE.x
 ,\Copyright (c) ;transaction(s)-transactionary serfraction(ing) [by &| of] bartertutional servister continuum
                   proxing';algorithm:
                  "transaction(s)-transactionary serfraction(ing) [by &| of] bartertutionl servister continuum
-                  proxing";
+                  proxing"';
                             
 ,\Copyright (c) ;BIT(s)-Matter-Material-Mass-Light-structure(s)'
                 ;"BIT(s)-Matter-Material-Mass-Light-structure(s)"';

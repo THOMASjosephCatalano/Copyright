@@ -4,6 +4,7 @@ Software License
 Acquisition-Equasition.LICENSE.x
 
 ,\Copyright (c) THOMAS CATALANO
+,\Copyright (c) ;"software:"this License(); "inclusive""//etcetera-so-forth,:,secetera-so-forth";
 ,\Copyright (c) ;License-FORMAT_LEGAL-ACQUISITION-EQUESITION;"License-FORMAT_LEGAL-ACQUISITION-EQUESITION;this '*\*' 'inclusive'";
 ,\Copyright (c) ;##this-comments_[##../..##]##\.
 Copyright (c) */* ;License-FORMAT_LEGAL-ACQUISITION-EQUESITION;"License-FORMAT_LEGAL-ACQUISITION-EQUESITION;this '*\*' 'inclusive'";/"""Copyright (c)"'\'" "_"NAMEENTITY"_" "-" "_"BACK"_" "-" "_"ENTITIEOR"_" "-" "_"CLASSENTITY"_" "-" {"_"MISC(ie.Countries of 'legal' entity;Antarctica,China,Finland,Thailand.())"_"} "-" "_"LEGALENTITY"_""\."|((*/*)="inclusive"like"objects","-pre-|-post-"//((*/)(/*))="intrinsic"like"objects"/merandum's(s)'s;,//etcetera so forth,etc., so forth,;, sefor example's//;,,)""License"-"FORMAT"_LEGAL-ACQUISITION-EQUES")\.
@@ -1237,7 +1238,7 @@ Copyright (c) */* Sikorsky /\ craft-copter */* _holdings_ */* _service */* */ */
 Copyright (c) */* Boeing */* _holdings_ */* _service */* */ */\.
 
 ##added-puc.operators##
-,\:;:*\*:;:etcetera so forth,etc-so-forth;:;setcetera so forth,setc-so-forth:*/*\,/;
+,\etcetera-so-forth;:;secetera-so-forth so forth\/;
 ##now-go##
 
 

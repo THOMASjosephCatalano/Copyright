@@ -21,7 +21,7 @@ BITs.LICENSE.x
                   proxing";
                             
 ,\Copyright (c) ;BIT(s)-Matter-Material-Mass-Light-structure(s)'
-                ;"BIT(s)-Matter-Material-Mass-Light-structure(s)';
+                ;"BIT(s)-Matter-Material-Mass-Light-structure(s)"';
 
 
             

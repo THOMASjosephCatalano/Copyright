@@ -1,7 +1,6 @@
-*\* Copyright(c) THOMAS CATALANO
-
 Software License
-THE-LICENSE.LICENSE
+
+\THE-LICENSE.LICENSE
 
 ,\Copyright (c) ;THOMAS ''J'Joseph' CATALANO('U.S._SocialSecurity':135z74z4812;DOB:1981z02z05);"Doctor";"_Ph.D._"();
 ,\Copyright (c) ;"";THOMAS CATALANO();
@@ -11,12 +10,12 @@ THE-LICENSE.LICENSE
 ,\Copyright (c) ;Copyright (c);
 ,\Copyright (c) ;"";"Copyright (c)";
 ,\Copyright (c) ;"";"'All rights reserved.'";
-,\Copyright (c) ;"software:"this License(); "inclusive""//etcetera-so-forth,:,secetera-so-forth";
+,\Copyright (c) ;"Software:"this License(); "inclusive""//etcetera-so-forth,:,secetera-so-forth";
 ,\Copyright (c) ;"";this -,*\*,i\o,- inclusive;""this "'*\*' &| 'i\o'" inclusive"";
 ,\Copyright (c) ;"";License;"License'.()'";
 ,\Copyright (c) ;"";LICENSE;"LICENSE'.()'";
 ,\Copyright (c) ;THOMAS CATALANO LICENSE();
-,\Copyright (c) ;"";THOMAS CATALANO License();
+,\Copyright (c) ;"";Software License();
 
       
 Permission is hereby granted, free of charge, to any person obtaining a copy

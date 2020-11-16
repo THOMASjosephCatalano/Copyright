@@ -41,7 +41,7 @@ SOFTWARE.
 
 ######################################################################################################################
 
-www.github.com/tomsnode/Copyright/blob/master/README\
+www.github.com/tomsnode/Copyright/blob/master/README.md\
 
 ---
 Dr.ThomasCatalano Ph.D.\

@@ -36,6 +36,9 @@ LIABILITY, WHETHER IN-AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+
+   THOMAS CATALANO © >>
+
 ######################################################################################################################
 
 www.github.com/tomsnode/Copyright/blob/master/README\

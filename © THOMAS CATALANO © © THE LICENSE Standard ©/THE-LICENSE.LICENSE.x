@@ -10,7 +10,7 @@ Software License
 ,\Copyright (c) ;Copyright (c);
 ,\Copyright (c) ;"";"Copyright (c)";
 ,\Copyright (c) ;"";"'All rights reserved.'";
-,\Copyright (c) ;"software:"this License(); "inclusive""//etcetera-so-forth,:,secetera-so-forth";
+,\Copyright (c) ;"oftware:"this License(); "inclusive""//etcetera-so-forth,:,secetera-so-forth";
 ,\Copyright (c) ;"";this -,*\*,i\o,- inclusive;""this "'*\*' &| 'i\o'" inclusive"";
 ,\Copyright (c) ;"";License;"License'.()'";
 ,\Copyright (c) ;"";LICENSE;"LICENSE'.()'";

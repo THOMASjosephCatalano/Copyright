@@ -55,4 +55,4 @@ www.twitter.com/tomsnode
 www.twitter.com/theBITsEXCHANGE
 www.twitter.com/spaceforcestaf
 
-THOMAS CATALANO & _the_ United States of America _&_ _the_ WORLD _ ©
+THOMAS CATALANO & _the_ United States of America _&_ _the_ WORLD _ © >>

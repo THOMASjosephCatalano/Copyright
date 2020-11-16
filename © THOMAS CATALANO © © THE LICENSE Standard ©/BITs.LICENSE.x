@@ -12,8 +12,8 @@ Software License
 ,\Copyright (c) ;"Software:"this License(); "inclusive""//etcetera-so-forth,:,secetera-so-forth";
 ,\Copyright (c) ;motion [by &| of] panticulation serfractions perpetuation';algorithm:
                  "motion [by &| of] panticulation serfractions perpetuation";
-,\Copyright (c) ;BIT(s)-(information/time/frames) extrapolation [by &| of] factorization';algorithm:               
-                 "BIT(s)-(information/time/frames) extrapolation [by &| of] factorization";   
+,\Copyright (c) ;(BIT(s)(information/time/frames)), extrapolation [by &| of] factorization';algorithm:               
+                 "(BIT(s)(information/time/frames)), extrapolation [by &| of] factorization";   
 ,\Copyright (c) ;transaction(s)-transactionary serfraction() [by &| of] bartertutional servister continuum
                   proxing;algorithm:
                  "transaction(s)-transactionary serfraction() [by &| of] bartertutionl servister continuum

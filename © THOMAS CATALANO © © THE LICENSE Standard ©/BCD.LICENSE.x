@@ -1,14 +1,13 @@
-*\* Copyright (c) THOMAS CATALANO
-
 Software License
-BCD.LICENSE.x
+
+\BCD.LICENSE.x
 
 ,\Copyright (c) ;THOMAS ''J'Joseph' CATALANO('U.S._SocialSecurity':135z74z4812;DOB:1981z02z05);"Doctor";"_Ph.D._"();
 ,\Copyright (c) ;"";THOMAS CATALANO();
 ,\Copyright (c) ;"";tc Joseph();
 ,\Copyright (c) ;"";CATALANO THOMAS();
 ,\Copyright (c) ;"THOMAS Joseph CATALANO";
-,\Copyright (c) ;"software:"this License(); "inclusive""//etcetera-so-forth,:,secetera-so-forth";
+,\Copyright (c) ;"Software:"this License(); "inclusive""//etcetera-so-forth,:,secetera-so-forth";
 
 ,\Copyright (c) ;"";Binary Coded Decimal();
 ,\Copyright (c) ;Binary Coded Decimal,(BSD);,\"Binary Coded Decmil,(BSD): "License"License'.()'";

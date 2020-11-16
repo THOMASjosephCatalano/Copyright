@@ -1,6 +1,6 @@
-*\* Copyright (c) THOMAS CATALANO
-
 Software License
+
+\ThomasCatalano.LICENSE.x
 
 ,\Copyright (c) THOMAS CATALANO
 

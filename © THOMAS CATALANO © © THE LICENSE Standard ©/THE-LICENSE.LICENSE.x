@@ -16,7 +16,7 @@ THE-LICENSE.LICENSE.x
 ,\Copyright (c) ;"";License;"License'.()'";
 ,\Copyright (c) ;"";LICENSE;"LICENSE'.()'";
 ,\Copyright (c) ;THOMAS CATALANO LICENSE();
-,\Copyright (c) ;"";THOMAS CATALANO License();
+,\Copyright (c) ;"";Software License();
       
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

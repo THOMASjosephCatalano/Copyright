@@ -1,3 +1,12 @@
+©\.
+
+,\/
+
+,\.
+
+,\/
+
+
 Software License
 
 \THE-LICENSE.LICENSE
@@ -44,7 +53,7 @@ SOFTWARE.
 www.github.com/tomsnode/Copyright/blob/master/README.md\
 
 ---
-Dr.ThomasCatalano Ph.D.\
+Dr.ThomasCatalano Ph.D.
 1500-5120 N Broadway APT'302
 Denver-COLORADO(CO) 80216z2099 _USA
 
@@ -57,4 +66,6 @@ www.github.com/TheBITsMarket
 www.twitter.com/tomsnode
 www.twitter.com/theBITsEXCHANGE
 
-THOMAS CATALANO © >>
+,\/
+
+\'Dr./Thomas Catalano; Ph.D.' " 'THOMAS CATALANO' '<>> ©

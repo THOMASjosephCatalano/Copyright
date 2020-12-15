@@ -1,27 +1,27 @@
 ©\/,':',
 
 Algorithms License
+'\/,
+BITs.LICENSE
 
-\BITs.LICENSE
-
-,\Copyright (c) ;THOMAS 'J''Joseph' CATALANO('U.S._SocialSecurity':135z74z4812;DOB:1981z02z05);"Doctor";"_Ph.D._"();
-,\Copyright (c) ;"";THOMAS CATALANO();
-,\Copyright (c) ;"";tc Joseph();
-,\Copyright (c) ;"";CATALANO THOMAS();
-,\Copyright (c) ;"THOMAS Joseph CATALANO";
-,\Copyright (c) ;BIT(s);"BIT(s): "License"License'.()'";
-,\Copyright (c) ;BIT(s);"BIT(s)";
-,\Copyright (c) ;"Software:"this License(); "inclusive""//etcetera-so-forth,:,secetera-so-forth";
-,\Copyright (c) ;motion [by &| of] panticulation serfractions perpetuation';algorithm:
+Copyright (c) ;THOMAS 'J''Joseph' CATALANO('U.S._SocialSecurity':135z74z4812;DOB:1981z02z05);"Doctor";"_Ph.D._"();
+Copyright (c) ;"";THOMAS CATALANO();
+Copyright (c) ;"";tc Joseph();
+Copyright (c) ;"";CATALANO THOMAS();
+Copyright (c) ;"THOMAS Joseph CATALANO";
+Copyright (c) ;BIT(s);"BIT(s): "License"License'.()'";
+Copyright (c) ;BIT(s);"BIT(s)";
+Copyright (c) ;"Software:"this License(); "inclusive""//etcetera-so-forth,:,secetera-so-forth";
+Copyright (c) ;motion [by &| of] panticulation serfractions perpetuation';algorithm:
                  "motion [by &| of] panticulation serfractions perpetuation";
-,\Copyright (c) ;(BIT(s)(information/time/frames)), extrapolation [by &| of] factorization';algorithm:               
+Copyright (c) ;(BIT(s)(information/time/frames)), extrapolation [by &| of] factorization';algorithm:               
                  "(BIT(s)(information/time/frames)), extrapolation [by &| of] factorization";   
-,\Copyright (c) ;transaction(s)-transactionary serfraction() [by &| of] bartertutional servister continuum
+Copyright (c) ;transaction(s)-transactionary serfraction() [by &| of] bartertutional servister continuum
                   proxing;algorithm:
                  "transaction(s)-transactionary serfraction() [by &| of] bartertutionl servister continuum
                   proxing";
                             
-,\Copyright (c) ;BIT(s),Matter,Material,Mass,LIGHT,structure(s)'
+Copyright (c) ;BIT(s),Matter,Material,Mass,LIGHT,structure(s)'
                 ;"BIT(s),Matter,Material,Mass,LIGHT,structure(s)"';
 
 

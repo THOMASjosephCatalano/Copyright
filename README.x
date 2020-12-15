@@ -39,7 +39,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-  ,'.\/©\/'THOMAS CATALANO'\/©\/ <<>> \/©
+  ,'.\/©\/,'THOMAS CATALANO',\/©\/ <<>> \/©
 
 ############################################'\/,##########################################################################
 
@@ -47,7 +47,7 @@ SOFTWARE.
 
 ':\/,:':.
 ---
-'Thomas Catalano, Ph.D'\/,;
+'Thomas Catalano, Ph.D'\/:
 5120 N Broadway APT'302
 Denver-COLORADO(CO) 80216z2099 _USA
 
@@ -62,4 +62,4 @@ www.twitter.com/theBITsEXCHANGE
 
 ,':\/,:':
 
-,'.\/©\/'THOMAS CATALANO'\/©\/ <<>> \/©
+,'.\/©\/,'THOMAS CATALANO',\/©\/ <<>> \/©

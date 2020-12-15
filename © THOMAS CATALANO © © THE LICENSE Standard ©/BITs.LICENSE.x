@@ -1,6 +1,6 @@
 ©\/,':',
 
-Software License
+Algorithms License
 
 \BITs.LICENSE.x
 

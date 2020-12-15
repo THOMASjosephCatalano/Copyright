@@ -61,4 +61,4 @@ www.twitter.com/tomsnode
 www.twitter.com/theBITsEXCHANGE
 
 
-,::.\/©\/,:'THOMAS CATALANO',\/©\/ <<>> \/©
+,::.\/©\/,:'THOMAS CATALANO,Ph.Doctor',\/©\/ <<>> \/©

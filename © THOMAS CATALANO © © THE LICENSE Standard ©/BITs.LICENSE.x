@@ -1,5 +1,7 @@
 ©\/,-:-,
 
+,'.\/:
+
 Algorithms License
 '\/,
 BITs.LICENSE

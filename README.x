@@ -1,5 +1,7 @@
 ©\/,-:-,
 
+,'.\/:
+
 Algorithms License
 '\/,
 THE-ALGORITHMS-NET.LICENSE

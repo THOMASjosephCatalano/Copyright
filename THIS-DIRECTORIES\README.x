@@ -47,8 +47,7 @@ SOFTWARE.
 
 \www.github.com/tomsnode/Copyright/blob/master/README\.,'
 
-':\/,:':.
----
+
 'Thomas Catalano, Ph.D'\/:
 5120 N Broadway APT'302
 Denver-COLORADO(CO) 80216z2099 _USA
@@ -62,6 +61,5 @@ www.github.com/TheBITsMarket
 www.twitter.com/tomsnode
 www.twitter.com/theBITsEXCHANGE
 
-,':\/,:':
 
 ,'.\/©\/,'THOMAS CATALANO',\/©\/ <<>> \/©

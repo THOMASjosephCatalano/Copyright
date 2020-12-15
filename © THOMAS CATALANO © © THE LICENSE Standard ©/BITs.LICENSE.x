@@ -1,3 +1,5 @@
+©\/,':',
+
 Software License
 
 \BITs.LICENSE.x

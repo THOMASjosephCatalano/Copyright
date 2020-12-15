@@ -1,4 +1,6 @@
-Software License
+©\/,':',
+
+Algorithms License
 
 \THE-ALGORITHMS-LICENSE.LICENSE.x
 
@@ -10,12 +12,12 @@ Software License
 ,\Copyright (c) ;Copyright (c);
 ,\Copyright (c) ;"";"Copyright (c)";
 ,\Copyright (c) ;"";"'All rights reserved.'";
-,\Copyright (c) ;"Software:"this License(); "inclusive""//etcetera-so-forth,:,secetera-so-forth";
+,\Copyright (c) ;"Algorithms:"this License(); "inclusive""//etcetera-so-forth,:,secetera-so-forth";
 ,\Copyright (c) ;"";this -,*\*,i\o,- inclusive;""this "'*\*' &| 'i\o'" inclusive"";
 ,\Copyright (c) ;"";License;"License'.()'";
 ,\Copyright (c) ;"";LICENSE;"LICENSE'.()'";
 ,\Copyright (c) ;THOMAS CATALANO LICENSE();
-,\Copyright (c) ;"";Software License();
+,\Copyright (c) ;"";Algorithms License();
       
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

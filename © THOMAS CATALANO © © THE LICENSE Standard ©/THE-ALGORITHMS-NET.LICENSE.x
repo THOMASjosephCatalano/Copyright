@@ -1,23 +1,23 @@
 ©\/,':',
 
 Algorithms License
-
+'\/,
 THE-ALGORITHMS-NET.LICENSE
 
-,\Copyright (c) ;THOMAS ''J'Joseph' CATALANO('U.S._SocialSecurity':135z74z4812;DOB:1981z02z05);"Doctor";"_Ph.D._"();
-,\Copyright (c) ;"";THOMAS CATALANO();
-,\Copyright (c) ;"";tc Joseph();
-,\Copyright (c) ;"";CATALANO THOMAS();
-,\Copyright (c) ;"THOMAS Joseph CATALANO _License_()";
-,\Copyright (c) ;Copyright (c);
-,\Copyright (c) ;"";"Copyright (c)";
-,\Copyright (c) ;"";"'All rights reserved.'";
-,\Copyright (c) ;"Algorithms:"this License(); "inclusive""//etcetera-so-forth,:,secetera-so-forth";
-,\Copyright (c) ;"";this -,*\*,i\o,- inclusive;""this "'*\*' &| 'i\o'" inclusive"";
-,\Copyright (c) ;"";License;"License'.()'";
-,\Copyright (c) ;"";LICENSE;"LICENSE'.()'";
-,\Copyright (c) ;THOMAS CATALANO LICENSE();
-,\Copyright (c) ;"";Algorithms License();
+Copyright (c) ;THOMAS ''J'Joseph' CATALANO('U.S._SocialSecurity':135z74z4812;DOB:1981z02z05);"Doctor";"_Ph.D._"();
+Copyright (c) ;"";THOMAS CATALANO();
+Copyright (c) ;"";tc Joseph();
+Copyright (c) ;"";CATALANO THOMAS();
+Copyright (c) ;"THOMAS Joseph CATALANO _License_()";
+Copyright (c) ;Copyright (c);
+Copyright (c) ;"";"Copyright (c)";
+Copyright (c) ;"";"'All rights reserved.'";
+Copyright (c) ;"Algorithms:"this License(); "inclusive""//etcetera-so-forth,:,secetera-so-forth";
+Copyright (c) ;"";this -,*\*,i\o,- inclusive;""this "'*\*' &| 'i\o'" inclusive"";
+Copyright (c) ;"";License;"License'.()'";
+Copyright (c) ;"";LICENSE;"LICENSE'.()'";
+Copyright (c) ;THOMAS CATALANO LICENSE();
+Copyright (c) ;"";Algorithms License();
       
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

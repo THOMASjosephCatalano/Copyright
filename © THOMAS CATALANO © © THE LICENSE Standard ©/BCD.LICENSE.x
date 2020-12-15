@@ -1,19 +1,19 @@
 ©\/,':',
 
 Algorithms License
+'\/,
+BCD.LICENSE
 
-\BCD.LICENSE
+Copyright (c) ;THOMAS ''J'Joseph' CATALANO('U.S._SocialSecurity':135z74z4812;DOB:1981z02z05);"Doctor";"_Ph.D._"();
+Copyright (c) ;"";THOMAS CATALANO();
+Copyright (c) ;"";tc Joseph();
+Copyright (c) ;"";CATALANO THOMAS();
+Copyright (c) ;"THOMAS Joseph CATALANO";
+Copyright (c) ;"Algorithms:"this License(); "inclusive""//etcetera-so-forth,:,secetera-so-forth";
 
-,\Copyright (c) ;THOMAS ''J'Joseph' CATALANO('U.S._SocialSecurity':135z74z4812;DOB:1981z02z05);"Doctor";"_Ph.D._"();
-,\Copyright (c) ;"";THOMAS CATALANO();
-,\Copyright (c) ;"";tc Joseph();
-,\Copyright (c) ;"";CATALANO THOMAS();
-,\Copyright (c) ;"THOMAS Joseph CATALANO";
-,\Copyright (c) ;"Algorithms:"this License(); "inclusive""//etcetera-so-forth,:,secetera-so-forth";
-
-,\Copyright (c) ;"";Binary Coded Decimal();
-,\Copyright (c) ;Binary Coded Decimal,(BSD);,\"Binary Coded Decmil,(BSD): "License"License'.()'";
-,\Copyright (c) ;"";Binary Coded Decimal,(BCD);'Binary Coded Decimal,(BCD)';,/system/format/encoding/\etcetera-so-forth,:,secetera-so-forth"";
+Copyright (c) ;"";Binary Coded Decimal();
+Copyright (c) ;Binary Coded Decimal,(BSD);,\"Binary Coded Decmil,(BSD): "License"License'.()'";
+Copyright (c) ;"";Binary Coded Decimal,(BCD);'Binary Coded Decimal,(BCD)';,/system/format/encoding/\etcetera-so-forth,:,secetera-so-forth"";
 
         
 Permission is hereby granted, free of charge, to any person obtaining a copy

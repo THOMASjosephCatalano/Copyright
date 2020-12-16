@@ -40,7 +40,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-  ;;::.\z/;:z:;'*'THOMAS CATALANO,Ph.Doctor'*';:z:;<<z>>;:z:;;©
+  ;;::.\z/;::;*'THOMAS CATALANO,Ph.Doctor'*;::;<<z>>;::;;©
 
 ############################################::.\z/;::;;##########################################################################
 
@@ -61,4 +61,4 @@ www.twitter.com/tomsnode
 www.twitter.com/theBITsEXCHANGE
 
 
-;;::.\z/;::;'*'THOMAS CATALANO,Ph.Doctor'*';::;<<z>>;::;;©
+;;::.\z/;::;*'THOMAS CATALANO,Ph.Doctor'*;::;<<z>>;::;;©

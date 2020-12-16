@@ -1,8 +1,8 @@
-©;;::.\z/;::;'*'THOMAS CATALANO'*';::;\z/;::;;
+©;;::.\/;::;*'THOMAS CATALANO'*;::;\/;::;;
 
 
 Algorithms License
-;;::.\z/;::;;
+;;::.\/;::;;
 THE-ALGORITHMS-STD.LICENSE
 
 Copyright (c) ;THOMAS ''J'Joseph' CATALANO('U.S._SocialSecurity':135z74z4812;DOB:1981z02z05);"Doctor";"_Ph.D._"();
@@ -40,14 +40,14 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-  ;;::.\z/;::;*'THOMAS CATALANO,Ph.Doctor'*;::;<<z>>;::;;©
+  ;;::.\/;::;*'THOMAS CATALANO,Ph.Doctor'*;::;<<z>>;::;;©
 
-############################################::.\z/;::;;##########################################################################
+############################################;::.\z/;::;;##########################################################################
 
 www.github.com/tomsnode
 
 
-'Thomas Catalano, Ph.D'\z/:
+'Thomas Catalano, Ph.D'\/:
 5120 N Broadway APT'302
 Denver-COLORADO(CO) 80216z2099 _USA
 
@@ -61,4 +61,4 @@ www.twitter.com/tomsnode
 www.twitter.com/theBITsEXCHANGE
 
 
-;;::.\z/;::;*'THOMAS CATALANO,Ph.Doctor'*;::;<<z>>;::;;©
+;;::.\/;::;*'THOMAS CATALANO,Ph.Doctor'*;::;<<z>>;::;;©

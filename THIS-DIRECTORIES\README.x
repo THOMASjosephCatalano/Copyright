@@ -1,4 +1,4 @@
-©\z/:z:'THOMAS CATALANO':z:,
+©\z/:z:'THOMAS CATALANO':z:
 
 
 Algorithms License

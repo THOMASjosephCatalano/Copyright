@@ -2,7 +2,7 @@
 
 
 Algorithms License
-'\z/,
+:z:.\z/;:z:;
 THE-ALGORITHMS-STD.LICENSE
 
 Copyright (c) ;THOMAS ''J'Joseph' CATALANO('U.S._SocialSecurity':135z74z4812;DOB:1981z02z05);"Doctor";"_Ph.D._"();

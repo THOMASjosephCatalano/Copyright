@@ -1,4 +1,4 @@
-©\z/:z:'THOMAS CATALANO',:z:
+©\z/:z:'THOMAS CATALANO';:z:
 
 
 Algorithms License
@@ -46,4 +46,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-  :z:.\z/©\z/:z:'THOMAS CATALANO,Ph.Doctor',:z:\z/©\z/ <<z>> \z/© 
+  :z:.\z/©\z/:z:'THOMAS CATALANO,Ph.Doctor';:z:\z/©\z/ <<z>> \z/© 

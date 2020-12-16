@@ -1,4 +1,4 @@
-©\-/,:z:,
+©\z/,:z:,
 
 
 Algorithms License
@@ -40,14 +40,14 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-  ,:z:.\-/©\-/,:'THOMAS CATALANO,Ph.Doctor',\-/©\-/ <<z>> \-/©
+  ,:z:.\z/©\z/,:'THOMAS CATALANO,Ph.Doctor',\z/©\z/ <<z>> \z/©
 
-############################################'\/,##########################################################################
+############################################'\z/,##########################################################################
 
 www.github.com/tomsnode
 
 
-'Thomas Catalano, Ph.D'\/:
+'Thomas Catalano, Ph.D'\z/:
 5120 N Broadway APT'302
 Denver-COLORADO(CO) 80216z2099 _USA
 
@@ -61,4 +61,4 @@ www.twitter.com/tomsnode
 www.twitter.com/theBITsEXCHANGE
 
 
-,:z:.\-/©\-/,:'THOMAS CATALANO,Ph.Doctor',\z/©\z/ <<z>> \z/©
+,:z:.\z/©\z/,:'THOMAS CATALANO,Ph.Doctor',\z/©\z/ <<z>> \z/©

@@ -1,8 +1,8 @@
-©\z/;:z:;'THOMAS CATALANO';:z:;
+©;;:z:.\z/;:z:;'THOMAS CATALANO';:z:;\z/;:z:;;
 
 
 Algorithms License
-:z:.\z/;:z:;
+;;:z:.\z/;:z:;;
 BITs.LICENSE
 
 Copyright (c) ;THOMAS 'J''Joseph' CATALANO('U.S._SocialSecurity':135z74z4812;DOB:1981z02z05);"Doctor";"_Ph.D._"();
@@ -46,4 +46,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-  :z:.\z/©\z/;:z:;'THOMAS CATALANO,Ph.Doctor';:z:;\z/©\z/ <<z>> \z/© 
+  ;;:z:.\z/©\z/;:z:;\z/;:z:;'THOMAS CATALANO,Ph.Doctor';:z:;\z/;:z:;\z/©\z/ <<z>> \z/;:z:;;© 

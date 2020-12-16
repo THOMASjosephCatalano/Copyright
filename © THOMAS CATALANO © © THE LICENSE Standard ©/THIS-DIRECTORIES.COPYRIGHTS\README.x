@@ -1,4 +1,4 @@
-©;;::.\/;::;*'THOMAS CATALANO'*;::;\/;::;;
+©>;;::;*'THOMAS CATALANO'*;::;;
 
 
-;;::.\/;::;*'THOMAS CATALANO,Ph.Doctor'*;::;<<z>>;::;;©
+;;::;*'THOMAS CATALANO,Ph.Doctor'*;::;;<©

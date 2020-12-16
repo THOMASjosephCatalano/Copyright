@@ -1,4 +1,4 @@
-©\z/,::,
+©\-/,:z:,
 
 
 Algorithms License
@@ -40,11 +40,11 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-  ,::.\/©\/,:'THOMAS CATALANO,Ph.Doctor',\/©\/ <<z>> \/©
+  ,:z:.\-/©\-/,:'THOMAS CATALANO,Ph.Doctor',\-/©\-/ <<z>> \-/©
 
 ############################################'\/,##########################################################################
 
-\www.github.com/tomsnode/Copyright/blob/master/README\.,'
+www.github.com/tomsnode
 
 
 'Thomas Catalano, Ph.D'\/:
@@ -61,4 +61,4 @@ www.twitter.com/tomsnode
 www.twitter.com/theBITsEXCHANGE
 
 
-,::.\/©\/,:'THOMAS CATALANO,Ph.Doctor',\/©\/ <<z>> \/©
+,:z:.\-/©\-/,:'THOMAS CATALANO,Ph.Doctor',\z/©\z/ <<z>> \z/©

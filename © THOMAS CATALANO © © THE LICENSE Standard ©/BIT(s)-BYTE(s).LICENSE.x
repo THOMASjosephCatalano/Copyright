@@ -1,6 +1,5 @@
 ©>;;;::;;*'THOMAS CATALANO'*;;::;;;
 
-
 Algorithms License
 BIT(s)-BYTE(s).LICENSE
 
@@ -26,7 +25,6 @@ Copyright (c) ;BIT(s).BYTE(s),Matter,Material,Mass,LIGHT,structure(s)'
                 ;"BIT(s).BYTE(s),Matter,Material,Mass,LIGHT,structure(s)"';
 
 
-            
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of '_this_ software _and_ associated documentation _files_ (this _Software_)', to deal
 in the Software without restriction, including without limitation the rights

@@ -1,6 +1,6 @@
-,:©::$$*'$$THOMAS$$CATALANO$$'*::,,;;,:
+,::©::$$*'$$THOMAS$$CATALANO$$'*::,,;;,:
 
-:,:*-esquire-so-for-*,::,
+:,:*-esquire-so-for-*,:,
 Algorithm License
 ALGORITHM(s)_LICENSE
 
@@ -40,11 +40,11 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-  ,,::$$*'$$THOMAS$$CATALANO$$'*$$,,::,,©,,::,,..,
+  ,:,:$$*'$$THOMAS$$CATALANO$$'*$$,:,©,:,
 
-############################################,::,,;;,##########################################################################
+############################################:,,;##########################################################################
 
-,,::*-esquire-so-for-*,,:
+,,:*-esquire-so-for-*,,:
 https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CREADME.x;::;;;
 $$
 '$$Thomas$$Catalano$$Ph.Doctor$$'
@@ -61,4 +61,4 @@ www.twitter.com/tomsnode
 www.twitter.com/TheBITsMARKET
 $$
 
-,::$$*'$$THOMAS$$CATALANO$$Ph.Doctor$$'*$$,::,©,::,
+,:$$*'$$THOMAS$$CATALANO$$Ph.Doctor$$'*$$,:©,::,

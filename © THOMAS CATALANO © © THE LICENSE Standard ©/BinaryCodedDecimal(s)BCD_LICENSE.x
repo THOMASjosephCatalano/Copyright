@@ -1,6 +1,6 @@
 ':::$©$::*'"$-THOMAS-$-CATALANO-$"'*::
 
-::*-esquire-so-for-*::
+:::*-esquire-so-for-*::
 Algorithms License
 BinaryCodedDecimal(s)BCD_LICENSE
 

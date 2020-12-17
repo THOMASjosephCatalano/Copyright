@@ -1,4 +1,4 @@
-':::$$$©$$$::*'"::$$$-THOMAS-$-CATALANO-$$$::"'*::$$$::
+':::$$$©$$$::$$$-THOMAS-$-CATALANO-$$$::
 
 :::*-esquire-so-for-*::
 THIS-DIRECTORIE.COPYRIGHTS_README.x
@@ -41,7 +41,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OSOFTWvER DEALINGS IN THE
 SOFTWARE.
 
 
-  '":::$$$*'"::$$$-THOMAS-$-CATALANO-$$$::"'*":$$$©$$$:"::
+  ':::$$$-THOMAS-$-CATALANO-$$$::$$$©$$$::'
 
 :::$$$::
 

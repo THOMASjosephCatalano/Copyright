@@ -46,7 +46,7 @@ SOFTWARE.
 
 ,,::*-esquire-so-for-*::
 https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CREADME.x;::;;;
-
+$$
 '$$Thomas$$Catalano$$Ph.Doctor$$'
 5120 N Broadway APT'302
 Denver-COLORADO(CO) 80216z2099 _USA
@@ -59,6 +59,6 @@ www.github.con/altusnets
 www.github.com/TheBITsMarket
 www.twitter.com/tomsnode
 www.twitter.com/TheBITsMARKET
-
+$$
 
 ,,::$$*'$$THOMAS$$CATALANO$$Ph.Doctor$$'*::,,$$,,::©,,::,,..,

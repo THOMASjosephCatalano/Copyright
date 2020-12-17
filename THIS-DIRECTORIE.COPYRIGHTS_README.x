@@ -61,4 +61,4 @@ www.twitter.com/tomsnode<>
 www.twitter.com/TheBITsMARKET<>
 
 
-'"::$$$::"*':":$$$-THOMAS-$-CATALANO-$$$::'*:":$$$:":'©$$$::*$*"'
+'":::$$$::"::$$$-THOMAS-$-CATALANO-$$$::"$$$"'©$$$::*$*"'

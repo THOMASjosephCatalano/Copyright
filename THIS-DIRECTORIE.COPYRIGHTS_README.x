@@ -1,6 +1,6 @@
 ':::*$*::,::$$$©$$$::*':":$$$-THOMAS-$-CATALANO-$$$:":'*:$$$,,,::
 
-,,,:::*-esquire-so-for-*,,,:'::
+:::*-esquire-so-for-*:'::
 THIS-DIRECTORIE.COPYRIGHTS_README.x
 ALGORITHM(s)_LICENSE
 Algorithm License

@@ -1,6 +1,6 @@
-,,::©::$$*'$$THOMAS$$CATALANO$$'*::,,;;,,
+,,:©::$$*'$$THOMAS$$CATALANO$$'*::,,;;,,
 
-,,*-esquire-so-for-*,,::,,
+,,:*-esquire-so-for-*,,::,,
 Algorithm License
 ALGORITHM(s)_LICENSE
 
@@ -61,4 +61,4 @@ www.twitter.com/tomsnode
 www.twitter.com/TheBITsMARKET
 $$
 
-,,::$$*'$$THOMAS$$CATALANO$$Ph.Doctor$$'*,,$$,,::,©,::..,,
+,;::$$*'$$THOMAS$$CATALANO$$Ph.Doctor$$'*$$,::,©,::..,

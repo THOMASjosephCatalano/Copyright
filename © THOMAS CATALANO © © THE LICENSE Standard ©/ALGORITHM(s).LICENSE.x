@@ -1,6 +1,7 @@
 ©>;;;::;;*'THOMAS CATALANO'*;;::;;;
 
-Algorithms License
+Algorithms
+ License
 ALGORITHM(s).LICENSE
 
 Copyright (c) ;THOMAS ''J'Joseph' CATALANO('U.S._SocialSecurity':135z74z4812;DOB:1981z02z05);"Doctor";"_Ph.D._"();
@@ -11,13 +12,13 @@ Copyright (c) ;"THOMAS Joseph CATALANO _License_()";
 Copyright (c) ;Copyright (c);
 Copyright (c) ;"";"Copyright (c)";
 Copyright (c) ;"";"'All rights reserved.'";
-Copyright (c) ;"Algorithms:"this License(); "inclusive""//etcetera-so-for,:,secetera-so-for";
+Copyright (c) ;"Algorithm:"this License(); "inclusive""//etcetera-so-for,:,secetera-so-for";
 Copyright (c) ;BIT(s).BYTE(s);"BIT(s).BYTE(s)";
 Copyright (c) ;"";this -Input/Output- inclusive;""this -I/O- inclusive"";
 Copyright (c) ;"";License;"License'.()'";
 Copyright (c) ;"";LICENSE;"LICENSE'.()'";
 Copyright (c) ;THOMAS CATALANO LICENSE();
-Copyright (c) ;"";Algorithms License();
+Copyright (c) ;"";Algorithm License();
       
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

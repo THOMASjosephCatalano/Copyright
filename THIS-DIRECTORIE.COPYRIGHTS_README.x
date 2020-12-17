@@ -1,4 +1,4 @@
-':::$$$©$$$::*':":$$$-THOMAS-$-CATALANO-$$$:":'*:$$$,,,::
+':::$$$©$$$::*':"::$$$-THOMAS-$-CATALANO-$$$::"'*::$$$::
 
 :::*-esquire-so-for-*:'::
 THIS-DIRECTORIE.COPYRIGHTS_README.x

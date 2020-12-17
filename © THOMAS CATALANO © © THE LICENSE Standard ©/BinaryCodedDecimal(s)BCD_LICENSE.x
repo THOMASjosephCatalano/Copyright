@@ -14,8 +14,8 @@ Copyright (c) ;BIT(s)-BYTE(s);"BIT(s)-BYTE(s)";
 Copyright (c) ;"";this -Input-Output- inclusive;""this -I-O- inclusive"";
 
 Copyright (c) ;"";Binary Coded Decimal();
-Copyright (c) ;Binary Coded Decimal(s),(BSD);,\"Binary Coded Decimal(s),(BSD): "License"License'.()'";
-Copyright (c) ;"";Binary Coded Decimal(s),(BCD);'Binary Coded Decimal(s),(BCD)';,/system/format/encoding/\etcetera-so-for::secetera-so-for"";
+Copyright (c) ;Binary Coded Decimal(s),(BSD);,\"Binary Coded Decimal(s),(BSD):"License"License'.()'";
+Copyright (c) ;"";Binary Coded Decimal(s),(BCD);'Binary Coded Decimal(s),(BCD)';//system,format,encoding//etcetera-so-for::secetera-so-for"";
 
         
 Permission is hereby granted, free of charge, to any person obtaining a copy

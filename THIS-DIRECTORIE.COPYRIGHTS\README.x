@@ -59,7 +59,7 @@ www.github.com/theBITsEXCHANGE
 www.github.con/altusnets
 www.github.com/TheBITsMarket
 www.twitter.com/tomsnode
-www.twitter.com/theBITsEXCHANGE
+www.twitter.com/TheBITsMARKET
 
 
 ;;::;*'THOMAS CATALANO,Ph.Doctor'*;;::;;;<$©

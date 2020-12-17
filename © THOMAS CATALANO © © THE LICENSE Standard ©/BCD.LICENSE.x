@@ -10,7 +10,7 @@ Copyright (c) ;"";THOMAS CATALANO();
 Copyright (c) ;"";tc Joseph();
 Copyright (c) ;"";CATALANO THOMAS();
 Copyright (c) ;"THOMAS Joseph CATALANO";
-Copyright (c) ;"Algorithms:"this License(); "inclusive""//etcetera-so-forth,:,secetera-so-forth";
+Copyright (c) ;"Algorithms:"this License(); "inclusive""//etcetera-so-for,:,secetera-so-for";
 Copyright (c) ;"";this -Input/Output- inclusive;""this -I/O- inclusive"";
 
 Copyright (c) ;"";Binary Coded Decimal();

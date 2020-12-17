@@ -14,7 +14,7 @@ Copyright (c) ;"Algorithms:"this License(); "inclusive""//etcetera-so-forth,:,se
 
 Copyright (c) ;"";Binary Coded Decimal();
 Copyright (c) ;Binary Coded Decimal,(BSD);,\"Binary Coded Decmil,(BSD): "License"License'.()'";
-Copyright (c) ;"";Binary Coded Decimal,(BCD);'Binary Coded Decimal,(BCD)';,/system/format/encoding/\etcetera-so-forth,:,secetera-so-forth"";
+Copyright (c) ;"";Binary Coded Decimal,(BCD);'Binary Coded Decimal,(BCD)';,/system/format/encoding/\etcetera-so-fort,:,secetera-so-fort"";
 
         
 Permission is hereby granted, free of charge, to any person obtaining a copy

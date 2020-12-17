@@ -45,7 +45,7 @@ SOFTWARE.
 ############################################,$$$:##########################################################################
 
 ,:::'::*-esquire-so-for-*,,,;;;,,,:::
-https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CREADME.x;::;;;
+https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CREADME.x,,,
 ::$$$::
 ,:::'$$$Thomas$$Catalano$$$Ph.Doctor$$$',,,:::
 5120 N Broadway APT'302
@@ -61,4 +61,4 @@ www.twitter.com/tomsnode
 www.twitter.com/TheBITsMARKET
 :$$$,$$$,$$$:
 
-,:::$$$:::*':$$$THOMAS$$$CATALANO$$$Ph.Doctor$$$:'*:::,,,:::$$$©$$$::*$*
+,:::$$$:::*':$$$THOMAS$$$CATALANO$$$Ph.Doctor$$$:'*:::,,,:::$$$©$$$::*$*'

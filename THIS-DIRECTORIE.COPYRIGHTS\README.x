@@ -1,6 +1,6 @@
 ©,*'$THOMAS CATALANO'*:
 
-::*-esquire-so-for-*::
+:*-esquire-so-for-*:
 Algorithm License
 ALGORITHM(s)_LICENSE
 
@@ -44,7 +44,7 @@ SOFTWARE.
 
 ############################################;::;\/;::;;################################################.##########################
 
-::*-esquire-so-for-*::
+:*-esquire-so-for-*:
 https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CREADME.x;::;;;
 
 'Thomas Catalano,Ph.Doctor'

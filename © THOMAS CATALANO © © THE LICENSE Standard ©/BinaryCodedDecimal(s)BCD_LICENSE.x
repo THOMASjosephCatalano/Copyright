@@ -1,4 +1,4 @@
-'::$©$::*'$-THOMAS -$- CATALANO-$'*::
+'::$©$::*'"$-THOMAS -$- CATALANO-$"'*::
 
 ::*-esquire-so-for-*::
 Algorithms License

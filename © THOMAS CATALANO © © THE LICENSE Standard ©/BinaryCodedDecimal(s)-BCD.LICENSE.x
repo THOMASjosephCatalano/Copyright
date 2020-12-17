@@ -1,5 +1,6 @@
 ©>;;;::;;*'THOMAS CATALANO'*;;::;;;
 
+;::;*-esquire-so-for-*;::;
 Algorithms License
 BinaryCodedDecimal(s)-BCD.LICENSE
 

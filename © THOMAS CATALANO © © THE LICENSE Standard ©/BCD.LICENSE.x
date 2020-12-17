@@ -15,7 +15,7 @@ Copyright (c) ;"";this -Input/Output- inclusive;""this -I/O- inclusive"";
 
 Copyright (c) ;"";Binary Coded Decimal();
 Copyright (c) ;Binary Coded Decimal,(BSD);,\"Binary Coded Decmil,(BSD): "License"License'.()'";
-Copyright (c) ;"";Binary Coded Decimal,(BCD);'Binary Coded Decimal,(BCD)';,/system/format/encoding/\etcetera-so-for,:,secetera-so-fort"";
+Copyright (c) ;"";Binary Coded Decimal,(BCD);'Binary Coded Decimal,(BCD)';,/system/format/encoding/\etcetera-so-for,:,secetera-so-for"";
 
         
 Permission is hereby granted, free of charge, to any person obtaining a copy

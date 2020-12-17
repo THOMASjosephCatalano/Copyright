@@ -41,14 +41,14 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-  '",,,::$$$::*':":$$$THOMAS$$$CATALANO$$$:":'*:":$$$©$$$::
+  '",,,::$$$::*':":$$$-THOMAS -$- CATALANO-$$$:":'*:":$$$©$$$::
 
 :::$$$::
 
 ,,,:::'::*-esquire-so-for-*,,,:::'::
 https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CREADME.x,,,::
 
-,:::'$$$Thomas$$Catalano$$$Ph.Doctor$$$',,,::
+,:::'$$$-ThomasCatalano,Ph.Doctor-$$$',,,::
 "'5120 N Broadway APT302 Denver-COLORADO(CO) 80216z2099 _USA'"::
 
 www.github.com/tomsnode
@@ -61,4 +61,4 @@ www.twitter.com/tomsnode
 www.twitter.com/TheBITsMARKET
 
 
-'"::$$$::"*':":$$$THOMAS$$$CATALANO$$$Ph.Doctor$$$::'*:":$$$:":'©$$$::*$*"'
+'"::$$$::"*':":$$$-THOMAS-$-CATALANO-$$$Ph.Doctor$$$::'*:":$$$:":'©$$$::*$*"'

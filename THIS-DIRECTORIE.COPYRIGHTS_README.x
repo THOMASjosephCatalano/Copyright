@@ -1,6 +1,6 @@
 ',::*$*::,:::$$$©$$$$,::*'::$$$THOMAS$$$CATALANO$$$::'*:$$$,,,;;;,,,:::'::
 
-,:::'::*-esquire-so-for-*,,,:::'::
+,,,:::'::*-esquire-so-for-*,,,:::'::
 THIS-DIRECTORIE.COPYRIGHTS_README.x
 ALGORITHM(s)_LICENSE
 Algorithm License
@@ -45,10 +45,10 @@ SOFTWARE.
 
 ############################################,$$$:##########################################################################
 
-,:::'::*-esquire-so-for-*,,,;;;,,,:::
+,,,:::'::*-esquire-so-for-*,,,:::'::
 https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CREADME.x,,,::
 
-,:::'$$$Thomas$$Catalano$$$Ph.Doctor$$$',,,::
+,,,:::'$$$Thomas$$Catalano$$$Ph.Doctor$$$',,,::
 "'5120 N Broadway APT302 Denver-COLORADO(CO) 80216z2099 _USA'"::
 
 www.github.com/tomsnode

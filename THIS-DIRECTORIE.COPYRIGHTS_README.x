@@ -1,8 +1,8 @@
 ':::$$$©$$$::$$$-THOMAS-$-CATALANO-$$$::'
 
 :::*-esquire-so-for-*::
+:::'Algorithm License'::
 :::'THIS-DIRECTORIE.COPYRIGHTS_README.x'::
-:::Algorithm License::
 :::'Algorithm_LICENSE.x'::
 
 

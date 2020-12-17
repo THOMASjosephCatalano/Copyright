@@ -14,7 +14,7 @@ Copyright (c) ;Copyright (c);
 Copyright (c) ;"";"Copyright (c)";
 Copyright (c) ;"";"'All rights reserved.'";
 Copyright (c) ;"Algorithms:"this License(); "inclusive""//etcetera-so-fort,:,secetera-so-fort";
-Copyright (c) ;"";this -,*\*,i\o,- inclusive;""this "'*\*' &| 'i\o'" inclusive"";
+Copyright (c) ;"";this -,*\*,i\o,- inclusive;""this inclusive"";
 Copyright (c) ;"";License;"License'.()'";
 Copyright (c) ;"";LICENSE;"LICENSE'.()'";
 Copyright (c) ;THOMAS CATALANO LICENSE();

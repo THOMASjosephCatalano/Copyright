@@ -1,5 +1,6 @@
 ©>;;;::;;*'THOMAS CATALANO'*;;::;;;
 
+;::;*-esquire-so-for-*;::;
 Algorithm License
 BIT(s)-BYTE(s).LICENSE
 

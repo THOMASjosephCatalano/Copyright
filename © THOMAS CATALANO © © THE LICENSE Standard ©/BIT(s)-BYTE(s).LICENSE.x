@@ -3,7 +3,7 @@
 Algorithms License
 BIT(s)-BYTE(s).LICENSE
 
-Copyright (c) ;THOMAS 'J''Joseph' CATALANO('U.S._SocialSecurity':135z74z4812;DOB:1981z02z05);"Doctor";"_Ph.D._"();
+Copyright (c) ;THOMAS 'J''Joseph' CATALANO('U.S._SocialSecurity':z135z74z4812z;DOB:z1981z02z05z);"Doctor";"_Ph.D._"();
 Copyright (c) ;"";THOMAS CATALANO();
 Copyright (c) ;"";tc Joseph();
 Copyright (c) ;"";CATALANO THOMAS();
@@ -11,7 +11,7 @@ Copyright (c) ;"THOMAS Joseph CATALANO";
 Copyright (c) ;BIT(s).BYTES(s);"BIT(s).BYTE(s): "License"License'.()'";
 Copyright (c) ;"";this -Input/Output- inclusive;""this -I/O- inclusive"";
 Copyright (c) ;BIT(s).BYTE(s);"BIT(s).BYTE(s)";
-Copyright (c) ;"Algorithms:"this License(); "inclusive""//etcetera-so-for,:,secetera-so-for";
+Copyright (c) ;"Algorithm:"this License(); "inclusive""//etcetera-so-for,:,secetera-so-for";
 Copyright (c) ;motion [by &| of] panticulation serfractions perpetuation';algorithm:
                  "motion [by &| of] panticulation serfractions perpetuation";
 Copyright (c) ;(BIT(s)(information/time/frames)), extrapolation [by &| of] factorization';algorithm:               

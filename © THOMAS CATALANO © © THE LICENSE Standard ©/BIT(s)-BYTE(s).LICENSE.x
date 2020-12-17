@@ -22,8 +22,8 @@ Copyright (c) ;transaction(s)-transactionary serfraction() [by &| of] bartertuti
                  "transaction(s)-transactionary serfraction() [by &| of] bartertutionl servister continuum
                   proxing";
                             
-Copyright (c) ;BIT(s),Matter,Material,Mass,LIGHT,structure(s)'
-                ;"BIT(s),Matter,Material,Mass,LIGHT,structure(s)"';
+Copyright (c) ;BIT(s).BYTE(s),Matter,Material,Mass,LIGHT,structure(s)'
+                ;"BIT(s).BYTE(s),Matter,Material,Mass,LIGHT,structure(s)"';
 
 
             

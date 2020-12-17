@@ -2,7 +2,7 @@
 
 ;::;*-esquire-so-for-*;::;
 Algorithm License
-BIT(s)-BYTE(s).LICENSE
+BIT(s)-BYTE(s)_LICENSE
 
 Copyright (c) ;THOMAS 'J''Joseph' CATALANO('U.S._SocialSecurity':z135z74z4812z;DOB:z1981z02z05z);"Doctor";"_Ph.D._"();
 Copyright (c) ;"";THOMAS CATALANO();
@@ -15,15 +15,15 @@ Copyright (c) ;BIT(s).BYTE(s);"BIT(s).BYTE(s)";
 Copyright (c) ;"Algorithm:"this License(); "inclusive""//etcetera-so-for,:,secetera-so-for";
 Copyright (c) ;motion [by &| of] panticulation serfractions perpetuation';algorithm:
                  "motion [by &| of] panticulation serfractions perpetuation";
-Copyright (c) ;(BIT(s)(information/time/frames)), extrapolation [by &| of] factorization';algorithm:               
-                 "(BIT(s)(information/time/frames)), extrapolation [by &| of] factorization";   
+Copyright (c) ;((BIT(s)BYTE(s))(information/time/frames)), extrapolation [by &| of] factorization';algorithm:               
+                 "((BIT(s)(BYTE(s))(information/time/frames)), extrapolation [by &| of] factorization";   
 Copyright (c) ;transaction(s)-transactionary serfraction() [by &| of] bartertutional servister continuum
                   proxing;algorithm:
                  "transaction(s)-transactionary serfraction() [by &| of] bartertutionl servister continuum
                   proxing";
                             
-Copyright (c) ;BIT(s).BYTE(s),Matter,Material,Mass,LIGHT,structure(s)'
-                ;"BIT(s).BYTE(s),Matter,Material,Mass,LIGHT,structure(s)"';
+Copyright (c) ;(BIT(s)BYTE(s)),Matter,Material,Mass,LIGHT,structure(s)'
+                ;"(BIT(s)BYTE(s)),Matter,Material,Mass,LIGHT,structure(s)"';
 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

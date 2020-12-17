@@ -13,7 +13,7 @@ Copyright (c) ;"THOMAS Joseph CATALANO _License_()";
 Copyright (c) ;Copyright (c);
 Copyright (c) ;"";"Copyright (c)";
 Copyright (c) ;"";"'All rights reserved.'";
-Copyright (c) ;"Algorithms:"this License(); "inclusive""//etcetera-so-forth,:,secetera-so-forth";
+Copyright (c) ;"Algorithms:"this License(); "inclusive""//etcetera-so-fort,:,secetera-so-fort";
 Copyright (c) ;"";this -,*\*,i\o,- inclusive;""this "'*\*' &| 'i\o'" inclusive"";
 Copyright (c) ;"";License;"License'.()'";
 Copyright (c) ;"";LICENSE;"LICENSE'.()'";

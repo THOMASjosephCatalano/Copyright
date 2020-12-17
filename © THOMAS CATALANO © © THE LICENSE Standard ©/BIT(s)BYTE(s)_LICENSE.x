@@ -10,7 +10,7 @@ Copyright (c) ;"";tc Joseph();
 Copyright (c) ;"";CATALANO THOMAS();
 Copyright (c) ;"THOMAS Joseph CATALANO";
 Copyright (c) ;BIT(s)BYTES(s);"BIT(s)BYTE(s): "License"License'.()'";
-Copyright (c) ;"";this -Input/Output- inclusive;""this -I/O- inclusive"";
+Copyright (c) ;"";this -Input-Output- inclusive;""this -I-O- inclusive"";
 Copyright (c) ;BIT(s)BYTE(s);"BIT(s)BYTE(s)";
 Copyright (c) ;"Algorithm:"this License(); "inclusive""/::\etcetera-so-for::secetera-so-for::";
 Copyright (c) ;motion [by &| of] panticulation serfractions perpetuation';algorithm:

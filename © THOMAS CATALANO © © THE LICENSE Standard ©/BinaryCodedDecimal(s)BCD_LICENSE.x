@@ -11,7 +11,7 @@ Copyright (c) ;"";CATALANO THOMAS();
 Copyright (c) ;"THOMAS Joseph CATALANO";
 Copyright (c) ;"Algorithm:"this License(); "inclusive""//etcetera-so-for,:,secetera-so-for";
 Copyright (c) ;BIT(s)-BYTE(s);"BIT(s)-BYTE(s)";
-Copyright (c) ;"";this -Input/Output- inclusive;""this -I/O- inclusive"";
+Copyright (c) ;"";this -Input-Output- inclusive;""this -I-O- inclusive"";
 
 Copyright (c) ;"";Binary Coded Decimal();
 Copyright (c) ;Binary Coded Decimal(s),(BSD);,\"Binary Coded Decimal(s),(BSD): "License"License'.()'";
@@ -37,4 +37,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-  '""::$$$::""*'::":$$$-THOMAS-$-CATALANO-$$$:'*::$$$©$$$::*$*"'
+  ':::$$$-THOMAS-$-CATALANO-$$$::$$$©$$$::'

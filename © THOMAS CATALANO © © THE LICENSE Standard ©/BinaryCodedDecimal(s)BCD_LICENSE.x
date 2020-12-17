@@ -1,6 +1,6 @@
-©$>;;;::;;*'THOMAS CATALANO'*;;::;;;
+©$>;;::;*'THOMAS CATALANO'*;;::;;;
 
-;::;*-esquire-so-for-*;::;
+;;::;*-esquire-so-for-*;;::;;;
 Algorithms License
 BinaryCodedDecimal(s)BCD_LICENSE
 
@@ -37,4 +37,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-   ;;;::;;*'THOMAS CATALANO,Ph.Doctor'*;;::;;;<$© 
+   ;;::;*'THOMAS CATALANO,Ph.Doctor'*;;::;;;<$© 

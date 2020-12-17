@@ -1,6 +1,5 @@
 ©>;;;::;;*'THOMAS CATALANO'*;;::;;;
 
-
 Algorithms License
 ALGORITHM(s).LICENSE
 

@@ -1,5 +1,5 @@
-©>;;;::;;*'THOMAS CATALANO'*;;::;;;
+©::$::,;;::;*'THOMAS CATALANO'*;;::;;;
 
-;::;*-esquire-so-for-*;::;
+;;::;*-esquire-so-for-*;;::;;;
 
-;;;::;;*'THOMAS CATALANO,Ph.Doctor'*;;::;;;<©
+;;::;*'THOMAS CATALANO,Ph.Doctor'*;;::;;;,::$::©

@@ -2,7 +2,7 @@
 
 ;;::;*-esquire-so-for-*;::;;;
 Algorithm License
-ALGORITHM(s).LICENSE
+ALGORITHM(s)_LICENSE
 
 Copyright (c) ;THOMAS ''J'Joseph' CATALANO('U.S._SocialSecurity':z135z74z4812z;DOB:z1981z02z05z);"Doctor";"_Ph.D._"();
 Copyright (c) ;"";THOMAS CATALANO();
@@ -13,7 +13,7 @@ Copyright (c) ;Copyright (c);
 Copyright (c) ;"";"Copyright (c)";
 Copyright (c) ;"";"'All rights reserved.'";
 Copyright (c) ;"Algorithm:"this License(); "inclusive""//etcetera-so-for,:,secetera-so-for";
-Copyright (c) ;BIT(s).BYTE(s);"BIT(s).BYTE(s)";
+Copyright (c) ;BIT(s)-BYTE(s);"BIT(s)-BYTE(s)";
 Copyright (c) ;"";this -Input\Output- inclusive;""this -I\O- inclusive"";
 Copyright (c) ;"";License;"License'.()'";
 Copyright (c) ;"";LICENSE;"LICENSE'.()'";
@@ -40,14 +40,14 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-  ;;;::;;*'THOMAS CATALANO,Ph.Doctor'*;;::;;;<©
+  ;;::;;*'THOMAS CATALANO,Ph.Doctor'*;;::;;;<©
 
 ############################################;::;\/;::;;################################################.##########################
 
 www.github.com/tomsnode
 
 
-'Thomas Catalano,Ph.Doctor'\/:
+;;::;'Thomas Catalano,Ph.Doctor';::;;;
 5120 N Broadway APT'302
 Denver-COLORADO(CO) 80216z2099 _USA
 
@@ -61,4 +61,4 @@ www.twitter.com/tomsnode
 www.twitter.com/theBITsEXCHANGE
 
 
-;;;::;;*'THOMAS CATALANO,Ph.Doctor'*;;::;;;<©
+;;::;;*'THOMAS CATALANO,Ph.Doctor'*;;::;;;<©

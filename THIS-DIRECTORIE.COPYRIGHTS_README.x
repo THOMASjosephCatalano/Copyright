@@ -1,6 +1,6 @@
 ':::*$*::,::$$$©$$$::*':":$$$-THOMAS-$-CATALANO-$$$:":'*:$$$,,,::
 
-,,,::*-esquire-so-for-*,,,:::'::
+,,,:::*-esquire-so-for-*,,,:'::
 THIS-DIRECTORIE.COPYRIGHTS_README.x
 ALGORITHM(s)_LICENSE
 Algorithm License
@@ -46,19 +46,19 @@ SOFTWARE.
 :::$$$::
 
 ,,,:::'::*-esquire-so-for-*,,,:::'::
-https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CREADME.x,,,;;;,,,::
+:::https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CREADME.x,,,;;;,,,::
 
 ,,,::'$$$-ThomasCatalano,Ph.Doctor-$$$',,,::
 "'5120 N Broadway APT302 Denver-COLORADO(CO) 80216z2099 _USA'"::
 
-www.github.com/tomsnode
+www.github.com/tomsnode<>
 www.conceptslearningmachine.com
-www.github.com/conceptslearningmachine
-www.github.com/theBITsEXCHANGE
-www.github.con/altusnets
-www.github.com/TheBITsMarket
-www.twitter.com/tomsnode
-www.twitter.com/TheBITsMARKET
+www.github.com/conceptslearningmachine<>
+www.github.com/theBITsEXCHANGE<>
+www.github.con/altusnets<>
+www.github.com/TheBITsMarket<>
+www.twitter.com/tomsnode<>
+www.twitter.com/TheBITsMARKET<>
 
 
 '"::$$$::"*':":$$$-THOMAS-$-CATALANO-$$$::'*:":$$$:":'©$$$::*$*"'

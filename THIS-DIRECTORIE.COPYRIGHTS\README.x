@@ -1,6 +1,6 @@
-©$>;;;::;;*'THOMAS CATALANO'*;;::;;;
+©$>;;::;*'THOMAS CATALANO'*;;::;;;
 
-;;::;*-esquire-so-for-*;::;;;
+;;::;*-esquire-so-for-*;;::;;;
 Algorithm License
 ALGORITHM(s)_LICENSE
 
@@ -40,7 +40,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-  ;;::;;*'THOMAS CATALANO,Ph.Doctor'*;;::;;;<$©
+  ;;::;*'THOMAS CATALANO,Ph.Doctor'*;;::;;;<$©
 
 ############################################;::;\/;::;;################################################.##########################
 
@@ -62,4 +62,4 @@ www.twitter.com/tomsnode
 www.twitter.com/theBITsEXCHANGE
 
 
-;;::;;*'THOMAS CATALANO,Ph.Doctor'*;;::;;;<$©
+;;::;*'THOMAS CATALANO,Ph.Doctor'*;;::;;;<$©

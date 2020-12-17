@@ -1,6 +1,6 @@
 ©>;;;::;;*'THOMAS CATALANO'*;;::;;;
 
-Algorithms License
+Algorithm License
 BIT(s)-BYTE(s).LICENSE
 
 Copyright (c) ;THOMAS 'J''Joseph' CATALANO('U.S._SocialSecurity':z135z74z4812z;DOB:z1981z02z05z);"Doctor";"_Ph.D._"();

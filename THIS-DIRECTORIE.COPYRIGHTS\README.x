@@ -46,7 +46,7 @@ SOFTWARE.
 www.github.com/tomsnode
 
 
-'Thomas Catalano, Ph.D'\/:
+'Thomas Catalano,Ph.Doctor'\/:
 5120 N Broadway APT'302
 Denver-COLORADO(CO) 80216z2099 _USA
 

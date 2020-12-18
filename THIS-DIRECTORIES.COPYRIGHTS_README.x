@@ -1,9 +1,9 @@
 '::$©$::$-THOMAS-$-CATALANO-$:
 
 ::-esquire-so-for-::
-::':Algorithm License:'::
-::':THIS-DIRECTORIES.COPYRIGHTS_README.x:'::
-::':Algorithm_LICENSE.x:'::
+::Algorithm License::
+::THIS-DIRECTORIES.COPYRIGHTS_README.x::
+::Algorithm_LICENSE.x::
 
 
 Copyright (c) ;THOMAS ''J'Joseph' CATALANO('U.S._SocialSecurity':z135z74z4812z;DOB:z1981z02z05z);"Doctor";"_Ph.D._"();
@@ -41,7 +41,7 @@ LIABILITY, WHETHER IN-AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OSOFTWvER DEALINGS IN THE
 SOFTWARE.
 
-::$-THOMAS-$-CATALANO-$::$©$::'
+::$-THOMAS-$-CATALANO-$::$©$:'
 
 
 '::

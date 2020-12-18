@@ -11,9 +11,9 @@ Copyright (c) ;"THOMAS Joseph CATALANO _License_()";
 Copyright (c) ;Copyright (c);
 Copyright (c) ;"";"Copyright (c)";
 Copyright (c) ;"";"All rights reserved.";
-Copyright (c) ;"Algorithm:"this License(); "inclusive"":::etcetera-so-for::secetera-so-for::";
-Copyright (c) ;BIT(s)-BYTE(s)-;"BIT(s)-BYTE(s)-";
-Copyright (c) ;"";this -Input-Output- inclusive;""this -I-O- inclusive"";
+Copyright (c) ;"Algorithm:"this License(); "inclusive""::etcetera-so-for::secetera-so-for::";
+Copyright (c) ;BIT()-BYTE()-::"BIT()-BYTE()-";
+Copyright (c) ;"";this --Input-Output-- inclusive;""this --I-O-- inclusive"";
 Copyright (c) ;"";License;"License'.()'";
 Copyright (c) ;"";LICENSE;"LICENSE'.()'";
 Copyright (c) ;THOMAS CATALANO LICENSE();
@@ -32,9 +32,9 @@ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER,(IN AN,AN IN), ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE ALGORITHM OR THE ALGORITHM DIRECTING THE
+OUT OF OR IN CONNECTION WITH THE ALGORITHM OR IN THE ALGORITHM DIRECTING THE
 SOFTWARE.
-::$-THOMAS-$-CATALANO-$::$©$:'$THOMAS CATALANO
+::$-THOMAS-$-CATALANO-$::$©$:'$THOMAS CATALANO.
 :::
 ::-esquire-so-for-::
 ::Algorithm License::

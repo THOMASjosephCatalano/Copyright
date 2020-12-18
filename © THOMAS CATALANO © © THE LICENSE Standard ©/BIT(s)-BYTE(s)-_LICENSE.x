@@ -12,13 +12,12 @@ Copyright (c) ;"";this -Input-Output- inclusive;""this -I-O- inclusive"";
 Copyright (c) ;BIT(s)-BYTE(s)-;"BIT(s)-BYTE(s)-";
 Copyright (c) ;"Algorithm:"this License(); "inclusive""::etcetera-so-for::secetera-so-for::";
 Copyright (c) ;motion [by &| of] panticulation serfractions perpetuation';algorithm:
-                 "motion [by &| of] panticulation serfractions perpetuation";
+              "motion [by &| of] panticulation serfractions perpetuation";
 Copyright (c) ;((BIT(s)-BYTE(s)-)(information/time/frames)), extrapolation [by &| of] factorization';algorithm:               
-                 "((BIT(s)-(BYTE(s)-)(information/time/frames)), extrapolation [by &| of] factorization";   
-Copyright (c) ;transction(s)-transactionary serfraction() [by &| of] bartertutional servister continuum
-                  proxing;algorithm:
-                 "transaction(s)-transactionary serfraction() [by &| of] bartertutionl servister continuum
-                  proxing";
+              "((BIT(s)-(BYTE(s)-)(information/time/frames)), extrapolation [by &| of] factorization";   
+Copyright (c) ;transction(s)-transactionary serfraction() [by &| of] bartertutional continuum servitude
+                proxing;algorithm:
+               "transaction(s)-transactionary serfraction() [by &| of] bartertutionl continuum servitude proxing";
 
 Copyright (c) ;((BIT(s)-BYTE(s)-),Matter,Material,Mass,LIGHT,structure(s)';algorithm:
                 ;"((BIT(s)-BYTE(s)-),Matter,Material,Mass,LIGHT,structure(s)"';

@@ -37,7 +37,7 @@ SOFTWARE.
 ::$-THOMAS-$-CATALANO-$::$©$:'$
 ::
 ::-esquire-so-for-::
-::':https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CREADME.x:'::
+::"https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CREADME.x"::
 ::"'$-Thomas-$-Catalano,Ph.Doctor-$'"::
 ::"'-5120- N Broadway -APT:302- Denver-COLORADO(CO) 80216z2099 _USA'"::
 ::

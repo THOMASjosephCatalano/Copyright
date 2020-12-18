@@ -8,7 +8,7 @@ Copyright (c) ;"";tc Joseph();
 Copyright (c) ;"";CATALANO THOMAS();
 Copyright (c) ;"THOMAS Joseph CATALANO";
 Copyright (c) ;"Algorithm:"this License(); "inclusive""::etcetera-so-for::secetera-so-for";
-Copyright (c) ;BIT(s)-BYTE(s)-;"BIT(s)-BYTE(s)-";
+Copyright (c) ;BIT(s)-BYTE(s)-::"BIT(s)-BYTE(s)-";
 Copyright (c) ;"";this --Input-Output-- inclusive;""this --I-O-- inclusive"";
 Copyright (c) ;"";Binary Coded Decimal();
 Copyright (c) ;Binary Coded Decimal()-(BSD)::"Binary Coded Decimal()-(BSD)::"License"License'.()'";

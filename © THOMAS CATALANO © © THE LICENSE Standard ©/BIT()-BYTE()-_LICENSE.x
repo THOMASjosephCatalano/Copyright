@@ -13,8 +13,8 @@ Copyright (c) ;BIT()-BYTE()-;"BIT()-BYTE()-";
 Copyright (c) ;"Algorithm:"this License(); "inclusive""::etcetera-so-for::secetera-so-for::";
 Copyright (c) ;motion [by &| of] panticulation perpetuation serfraction()'";algorithm:
               "motion [by &| of] panticulation perpetuation serfraction()";
-Copyright (c) ;((BIT(s)-BYTE(s)-)-information-time-frame())),extrapolation [by &| of] factorization';algorithm:               
-              "((BIT(s)-(BYTE(s)-)-information-time-frame())),extrapolation [by &| of] factorization";   
+Copyright (c) ;((BIT()-BYTE()-)-information-time-frame())),extrapolation [by &| of] factorization';algorithm:               
+              "((BIT()-(BYTE()-)-information-time-frame())),extrapolation [by &| of] factorization";   
 Copyright (c) ;transction(s)-transactionary serfraction() [by &| of] bartertutional continuum 
                proxing;algorithm:"transaction(s)-transactionary serfraction() [by &| of] bartertutionl continuum proxing";
 Copyright (c) ;((BIT()-BYTE()-)-infomatic-time-frame())),TIME-CLOCK-CALANDER,ATOMICS,MATERIAL,LIGHT,STRUCTURE();algorithm:

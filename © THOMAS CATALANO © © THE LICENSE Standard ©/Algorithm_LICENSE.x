@@ -2,7 +2,7 @@
 
 :::*-esquire-so-for-*::
 ::':Algorithm License:'::
-::':Algorithm_LICENSE.x:'::
+Algorithm_LICENSE.x:'::
 
 Copyright (c) ;THOMAS ''J'Joseph' CATALANO('U.S._SocialSecurity':z135z74z4812z;DOB:z1981z02z05z);"Doctor";"_Ph.D._"();
 Copyright (c) ;"";THOMAS CATALANO();

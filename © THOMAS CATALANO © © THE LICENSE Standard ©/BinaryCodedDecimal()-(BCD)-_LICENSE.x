@@ -1,15 +1,17 @@
 THOMAS CATALANO':$©$::$-THOMAS-$-CATALANO-$:
+::Algorithm License::
 ::-esquire-so-for-::
-::https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE-COPYRIGHTS_README.x::
+::https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9::
 ::Algorithm License::
 ::BinaryCodedDecimal()-(BCD)-_LICENSE.x::
+::Algorithm License::
 Copyright (c) ;THOMAS ''J'Joseph' CATALANO(-U.S._SocialSecurity:135-74-4812;DOB:1981-02-05);"Doctor";"_Ph.D_"();
 Copyright (c) ;"";THOMAS CATALANO();
 Copyright (c) ;"";tc Joseph();
 Copyright (c) ;"";CATALANO THOMAS();
 Copyright (c) ;"THOMAS Joseph CATALANO";
 Copyright (c) ;"Algorithm:"this License(); "inclusive""::etcetera-so-for::secetera-so-for";
-Copyright (c) ;BIT(s)-BYTE(s)-::"BIT(s)-BYTE(s)-";
+Copyright (c) ;BIT()-BYTE()-::"BIT()-BYTE()-";
 Copyright (c) ;"";this --Input-Output-- inclusive;""this --I-O-- inclusive"";
 Copyright (c) ;"";Binary Coded Decimal();
 Copyright (c) ;Binary Coded Decimal()-(BSD)::"Binary Coded Decimal()-(BSD)::"License"License'.()'";

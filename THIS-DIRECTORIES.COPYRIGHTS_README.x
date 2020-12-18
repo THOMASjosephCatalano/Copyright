@@ -1,4 +1,4 @@
-'::$©$::$-THOMAS-$-CATALANO-$::
+'::$©$::$-THOMAS-$-CATALANO-$:
 
 ::-esquire-so-for-::
 ::':Algorithm License:'::
@@ -66,4 +66,4 @@ www.twitter.com/TheBITsMARKET<>
 "Catalano Concepts, Limited Liability Company (LLC)"<>
 ::'
 
-::$-THOMAS-$-CATALANO-$::$©$::'
+::$-THOMAS-$-CATALANO-$::$©$:'

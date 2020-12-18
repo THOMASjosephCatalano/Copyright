@@ -19,7 +19,7 @@ Copyright (c) ;"";LICENSE;"LICENSE'.()'";
 Copyright (c) ;THOMAS CATALANO LICENSE();
 Copyright (c) ;"";Algorithm License();
 ::
-Permission is hereby granted, free of charge, to any person obtaining a copy
+Permission is here granted, free of charge, to any person obtaining a copy
 of _this_ _algorithm_ _and_ associated documentation _files_ (this-algorithm),to direct
 in the "Algorithm" without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
@@ -32,7 +32,7 @@ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN-AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OSOFTWvER DEALINGS IN THE
+OUT OF OR IN CONNECTION WITH THE ALGORITHM OR THE USE OF THIS ALGORITHM DIRECTING IN THE
 SOFTWARE.
 ::$-THOMAS-$-CATALANO-$::$©$:'$
 :::

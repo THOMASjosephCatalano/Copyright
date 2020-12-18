@@ -1,8 +1,8 @@
 '::$©$::$-THOMAS-$-CATALANO-$:
 
 ::-esquire-so-for-::
-::':Algorithms License:'::
-::':BinaryCodedDecimal(s).BCD_LICENSE.x:'::
+::Algorithms License::
+::BinaryCodedDecimal(s).BCD_LICENSE.x::
 
 Copyright (c) ;THOMAS ''J'Joseph' CATALANO('U.S._SocialSecurity':z135z74z4812z;DOB:z1981z02z05z);"Doctor";"_Ph.D._"();
 Copyright (c) ;"";THOMAS CATALANO();
@@ -37,4 +37,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-  ::$-THOMAS-$-CATALANO-$::$©$:'
+::$-THOMAS-$-CATALANO-$::$©$:'

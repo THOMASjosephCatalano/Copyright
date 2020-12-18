@@ -1,4 +1,4 @@
-'::$©$::$-THOMAS-$-CATALANO-$:
+THOMAS CATALANO':$©$::$-THOMAS-$-CATALANO-$:
 ::-esquire-so-for-::
 ::Algorithm License::
 ::BIT(s)-BYTE(s)-_LICENSE.x::

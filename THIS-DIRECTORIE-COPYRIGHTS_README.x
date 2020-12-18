@@ -1,7 +1,6 @@
 THOMAS CATALANO':$©$::$-THOMAS-$-CATALANO-$:
 ::Algorithm License::
 ::-esquire-so-for-::
-::Algorithm License::
 ::https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9::
 ::Algorithm License::
 ::THIS-DIRECTORIE-COPYRIGHTS_README.x::
@@ -39,6 +38,7 @@ OUT OF OR IN CONNECTION WITH THE ALGORITHM OR IN THE ALGORITHM DIRECTING THE
 SOFTWARE.
 ::$-THOMAS-$-CATALANO-$::$©$:'$THOMAS CATALANO,
 ::
+::https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9::
 ::-esquire-so-for-::
 ::Algorithm License::
 ::$-Thomas-$-Catalano-$::

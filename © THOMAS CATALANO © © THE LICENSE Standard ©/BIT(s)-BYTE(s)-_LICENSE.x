@@ -15,8 +15,8 @@ Copyright (c) ;motion [by &| of] panticulation perpetuation serfraction()'";algo
               "motion [by &| of] panticulation perpetuation serfraction()";
 Copyright (c) ;((BIT(s)-BYTE(s)-)-information-time-frame())),extrapolation [by &| of] factorization';algorithm:               
               "((BIT(s)-(BYTE(s)-)-information-time-frame())),extrapolation [by &| of] factorization";   
-Copyright (c) ;transction(s)-transactionary serfraction() [by &| of] bartertutional continuum servitude
-               proxing;algorithm:"transaction(s)-transactionary serfraction() [by &| of] bartertutionl continuum servitude proxing";
+Copyright (c) ;transction(s)-transactionary serfraction() [by &| of] bartertutional continuum 
+               proxing;algorithm:"transaction(s)-transactionary serfraction() [by &| of] bartertutionl continuum proxing";
 Copyright (c) ;((BIT(s)-BYTE(s)-)-infomatic-time-frame())),TIME-CLOCK-CALANDER,ATOMICS,MATERIAL,LIGHT,STRUCTURE();algorithm:
               ;"((BIT(s)-BYTE(s)-)-informatic-time-frame())),TIME-CLOCK-CALANDER,ATOMICS,MATERIAL,LIGHT,STRUCTURE()"';
 ::

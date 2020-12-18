@@ -14,9 +14,9 @@ Copyright (c) ;"";Binary Coded Decimal();
 Copyright (c) ;Binary Coded Decimal(s),(BSD);,"Binary Coded Decimal(s),(BSD)::"License"License'.()'";
 Copyright (c) ;"";Binary Coded Decimal(s),(BCD);,Binary Coded Decimal(s),(BCD)::system::format::encoding::code::etcetera-so-for::secetera-so-for::";
 ::
-Permission is hereby granted, free of charge, to any person obtaining it's copy
-of _this_ _algorithm_ _and_ associated documentation _file's_ (this-algorithm),to direct
-in the "Algorithm" without restriction, including without limitation the rights
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of _this_ _algorithm_ _and_ associated documentation "files" (this-algorithm),to direct
+in the Algorithm without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:

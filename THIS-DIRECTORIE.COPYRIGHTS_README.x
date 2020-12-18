@@ -1,4 +1,4 @@
-'::$©$::$-THOMAS-$-CATALANO-$::'
+'::$©$::$-THOMAS-$-CATALANO-$::
 
 ::-esquire-so-for-::
 ::':Algorithm License:'::
@@ -42,9 +42,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OSOFTWvER DEALINGS IN THE
 SOFTWARE.
 
 
-  '::$-THOMAS-$-CATALANO-$::$©$::'
+   ::$-THOMAS-$-CATALANO-$::$©$::'
 
-:\/::
+'::
 
 ::-esquire-so-for-::
 ::https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CREADME.x::
@@ -66,4 +66,4 @@ www.twitter.com/TheBITsMARKET<>
 "Catalano Concepts, Limited Liability Company (LLC)"<>
 ::'
 
-'::$-THOMAS-$-CATALANO-$::$©$::'
+::$-THOMAS-$-CATALANO-$::$©$::'

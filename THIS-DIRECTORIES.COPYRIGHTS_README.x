@@ -39,7 +39,7 @@ SOFTWARE.
 ::-esquire-so-for-::
 ::https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CREADME.x::
 ::$-Thomas-$-Catalano-$::,
-::"-5120- N. Broadway APT:302,Denver-COLORADO(CO) 80216z2099 _USA"::
+::"-5120- N. Broadway,APT:302,Denver-COLORADO(CO) 80216z2099 _USA"::
 ::"-9- Woodhull Avenue,West Orange-New Jersey(NJ) 07052z3535 _USA"::
 ::
 www.github.com/tomsnode<>

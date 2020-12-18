@@ -50,6 +50,6 @@ www.github.com/TheBITsMarket<>
 www.twitter.com/tomsnode<>
 www.twitter.com/TheBITsMARKET<>
 BITs EXCHANGE,non-profit;Corporation<>
-CLM:Concepts Learning Machine,Limited Liability Company (LLC),<>
+CLM ~ Concepts Learning Machine,Limited Liability Company (LLC),<>
 Catalano Concepts,Limited Liability Company (LLC),<>
 ::$-THOMAS-$-CATALANO-$::$©$:'$

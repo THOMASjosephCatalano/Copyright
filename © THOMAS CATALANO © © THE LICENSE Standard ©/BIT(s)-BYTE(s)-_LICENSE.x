@@ -1,15 +1,15 @@
 '::$©$::$-THOMAS-$-CATALANO-$:
 ::-esquire-so-for-::
 ::Algorithm License::
-::BIT(s)-BYTE(s)_LICENSE.x::
+::BIT(s)-BYTE(s)-_LICENSE.x::
 Copyright (c) ;THOMAS 'J''Joseph' CATALANO('U.S._SocialSecurity':135-74-4812;DOB:1981-02-05);"Doctor";"_Ph.D._"();
 Copyright (c) ;"";THOMAS CATALANO();
 Copyright (c) ;"";tc Joseph();
 Copyright (c) ;"";CATALANO THOMAS();
 Copyright (c) ;"THOMAS Joseph CATALANO";
-Copyright (c) ;BIT(s)-BYTES(s);"BIT(s)-BYTE(s): "License"License'.()'";
+Copyright (c) ;BIT(s)-BYTES(s)-;"BIT(s)-BYTE(s)-: "License"License'.()'";
 Copyright (c) ;"";this -Input-Output- inclusive;""this -I-O- inclusive"";
-Copyright (c) ;BIT(s)BYTE(s);"BIT(s)BYTE(s)";
+Copyright (c) ;BIT(s)-BYTE(s)-;"BIT(s)-BYTE(s)-";
 Copyright (c) ;"Algorithm:"this License(); "inclusive""::etcetera-so-for::secetera-so-for::";
 Copyright (c) ;motion [by &| of] panticulation serfractions perpetuation';algorithm:
                  "motion [by &| of] panticulation serfractions perpetuation";
@@ -20,11 +20,11 @@ Copyright (c) ;transction(s)-transactionary serfraction() [by &| of] bartertutio
                  "transaction(s)-transactionary serfraction() [by &| of] bartertutionl servister continuum
                   proxing";
 
-Copyright (c) ;((BIT(s)-BYTE(s)),Matter,Material,Mass,LIGHT,structure(s)'
-                ;"((BIT(s)-BYTE(s)),Matter,Material,Mass,LIGHT,structure(s)"';
+Copyright (c) ;((BIT(s)-BYTE(s)-),Matter,Material,Mass,LIGHT,structure(s)'
+                ;"((BIT(s)-BYTE(s)-),Matter,Material,Mass,LIGHT,structure(s)"';
 ::
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of; "this algorithm and associated documentation":"file";(this-algorithm),to direct
+of;"this algorithm and associated documentation":"file";(this-algorithm),to direct
 in the Algorithm without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is

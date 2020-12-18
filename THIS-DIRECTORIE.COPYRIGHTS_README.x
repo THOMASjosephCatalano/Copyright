@@ -1,6 +1,6 @@
 '::$$$©$$$::$$$-THOMAS-$-CATALANO-$$$::'
 
-:::*-esquire-so-for-*::
+::*-esquire-so-for-*::
 ::':Algorithm License:'::
 ::':THIS-DIRECTORIE.COPYRIGHTS_README.x:'::
 ::':Algorithm_LICENSE.x:'::
@@ -46,7 +46,7 @@ SOFTWARE.
 
 :\/::$$$::
 
-:::*-esquire-so-for-*::
+::*-esquire-so-for-*::
 ::https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CREADME.x::
 
 ::"'$$$-ThomasCatalano,Ph.Doctor-$$$'::

@@ -23,19 +23,19 @@ Copyright (c) ;transction(s)-transactionary serfraction() [by &| of] bartertutio
 Copyright (c) ;((BIT(s)-BYTE(s)),Matter,Material,Mass,LIGHT,structure(s)'
                 ;"((BIT(s)-BYTE(s)),Matter,Material,Mass,LIGHT,structure(s)"';
 ::
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of _this_ _algorithm_ _and_ associated documentation _files_ (this-algorithm),to direct
-in the "Algorithm" without restriction, including without limitation the rights
+Permission is hereby granted, free of charge, to any person obtaining it's copy
+of _this_ _algorithm_ _and_ associated documentation _file's_ (this-algorithm),to direct
+in the Algorithm without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
-THE ALGORITHM SOFTWARE IS PROVIDED AS IS, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+THE "ALGORITHM" "SOFTWARE" IS PROVIDED AS IS, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN-AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE ALGORITHM OR THE ALGORITHM DIRECTING THE
-"SOFTWARE".
+SOFTWARE.
 ::$-THOMAS-$-CATALANO-$::$©$:'$

@@ -2,7 +2,7 @@
 ::-esquire-so-for-::
 ::Algorithm License::
 ::BIT(s)-BYTE(s)_LICENSE.x::
-Copyright (c) ;THOMAS 'J''Joseph' CATALANO('U.S._SocialSecurity':z135z74z4812z;DOB:z1981z02z05z);"Doctor";"_Ph.D._"();
+Copyright (c) ;THOMAS 'J''Joseph' CATALANO('U.S._SocialSecurity':135-74-4812;DOB:1981-02-05);"Doctor";"_Ph.D._"();
 Copyright (c) ;"";THOMAS CATALANO();
 Copyright (c) ;"";tc Joseph();
 Copyright (c) ;"";CATALANO THOMAS();
@@ -21,7 +21,7 @@ Copyright (c) ;transction(s)-transactionary serfraction() [by &| of] bartertutio
                   proxing";
 
 Copyright (c) ;(BIT(s)-BYTE(s)),Matter,Material,Mass,LIGHT,structure(s)'
-                ;"(BIT(s)-BYTE(s)),Matter,Material,Mass,LIGHT,structure(s)"';
+                ;"(BIT(s)-BYTE(s)),Matter,Material,Mass,LIGHT,structure(s)"'";
 ::
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of '_this_ _algorithm_ _and_ associated documentation _files_ (this-algorithm )',to direct

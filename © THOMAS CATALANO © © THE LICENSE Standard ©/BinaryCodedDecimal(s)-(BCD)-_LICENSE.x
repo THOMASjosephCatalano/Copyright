@@ -1,4 +1,4 @@
-'::$©$::$-THOMAS-$-CATALANO-$:
+THOMAS CATALANO':$©$::$-THOMAS-$-CATALANO-$:
 ::-esquire-so-for-::
 ::Algorithm License::
 ::BinaryCodedDecimal(s)-(BCD)-_LICENSE.x::

@@ -23,8 +23,8 @@ Copyright (c) ;transction(s)-transactionary serfraction() [by &| of] bartertutio
 Copyright (c) ;((BIT(s)-BYTE(s)),Matter,Material,Mass,LIGHT,structure(s)'
                 ;"((BIT(s)-BYTE(s)),Matter,Material,Mass,LIGHT,structure(s)"';
 ::
-Permission is hereby granted, free of charge, to any person obtaining its copy
-of _this_ _algorithm_ _and_ associated documentation _file's_ (this-algorithm),to direct
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of _this_ _algorithm_ _and_ associated documentation "file" (this-algorithm),to direct
 in the Algorithm without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is

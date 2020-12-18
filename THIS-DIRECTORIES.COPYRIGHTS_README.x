@@ -40,7 +40,7 @@ SOFTWARE.
 ::https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CREADME.x::
 ::"'$-Thomas-$-Catalano,Ph.Doctor-$'"::
 ::"'-5120- N Broadway -APT:302- Denver-COLORADO(CO) 80216z2099 _USA'"::
-'::
+::
 www.github.com/tomsnode<>
 www.conceptslearningmachine.com<>
 www.github.com/conceptslearningmachine<>
@@ -52,5 +52,5 @@ www.twitter.com/TheBITsMARKET<>
 "BITs EXCHANGE, non-profit Corporation"<>
 "CLM ~ Concepts Learning Machine, Limited Liability Company(LLC)"<>
 "Catalano Concepts, Limited Liability Company (LLC)"<>
-::'
+::
 ::$-THOMAS-$-CATALANO-$::$©$:'$

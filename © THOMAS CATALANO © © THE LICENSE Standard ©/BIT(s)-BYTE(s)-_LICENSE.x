@@ -20,7 +20,7 @@ Copyright (c) ;transction(s)-transactionary serfraction() [by &| of] bartertutio
                  "transaction(s)-transactionary serfraction() [by &| of] bartertutionl servister continuum
                   proxing";
 
-Copyright (c) ;((BIT(s)-BYTE(s)-),Matter,Material,Mass,LIGHT,structure(s)'
+Copyright (c) ;((BIT(s)-BYTE(s)-),Matter,Material,Mass,LIGHT,structure(s)';algorithm:
                 ;"((BIT(s)-BYTE(s)-),Matter,Material,Mass,LIGHT,structure(s)"';
 ::
 Permission is hereby granted, free of charge, to any person obtaining a copy

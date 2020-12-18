@@ -1,7 +1,7 @@
 THOMAS CATALANO':$©$::$-THOMAS-$-CATALANO-$:
 ::-esquire-so-for-::
 ::Algorithm License::
-https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE-COPYRIGHTS_README.x::
+::https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE-COPYRIGHTS_README.x::
 ::THIS-DIRECTORIE-COPYRIGHTS_README.x::
 ::Algorithm_LICENSE.x::
 Copyright (c) ;THOMAS ''J'Joseph' CATALANO(-U.S._SocialSecurity:135-74-4812;DOB:1981-02-05);"Doctor";"_Ph.D_"();

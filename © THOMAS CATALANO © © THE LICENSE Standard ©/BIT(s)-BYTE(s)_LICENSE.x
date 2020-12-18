@@ -20,8 +20,8 @@ Copyright (c) ;transction(s)-transactionary serfraction() [by &| of] bartertutio
                  "transaction(s)-transactionary serfraction() [by &| of] bartertutionl servister continuum
                   proxing";
 
-Copyright (c) ;(BIT(s)-BYTE(s)),Matter,Material,Mass,LIGHT,structure(s)'
-                ;"(BIT(s)-BYTE(s)),Matter,Material,Mass,LIGHT,structure(s)"'";
+Copyright (c) ;((BIT(s)-BYTE(s)),Matter,Material,Mass,LIGHT,structure(s)'
+                ;"((BIT(s)-BYTE(s)),Matter,Material,Mass,LIGHT,structure(s)";
 ::
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of '_this_ _algorithm_ _and_ associated documentation _files_ (this-algorithm )',to direct

@@ -2,7 +2,7 @@ THOMAS CATALANO':$©$::$-THOMAS-$-CATALANO-$:
 ::-esquire-so-for-::
 ::Algorithm License::
 ::Algorithm_LICENSE.x::
-Copyright (c) ;THOMAS ''J'Joseph' CATALANO(-U.S._SocialSecurity:135zl-74-4812;DOB:1981-02-05);"Doctor";"_Ph.D._"();
+Copyright (c) ;THOMAS ''J'Joseph' CATALANO(-U.S._SocialSecurity:135zl-74-4812;DOB:1981-02-05);"Doctor";"_Ph.D_"();
 Copyright (c) ;"";THOMAS CATALANO();
 Copyright (c) ;"";tc Joseph();
 Copyright (c) ;"";CATALANO THOMAS();

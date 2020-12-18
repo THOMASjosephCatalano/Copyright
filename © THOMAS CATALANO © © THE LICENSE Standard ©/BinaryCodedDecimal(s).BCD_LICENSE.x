@@ -1,6 +1,6 @@
 '::$©$::$-THOMAS-$-CATALANO-$:
 ::-esquire-so-for-::
-::Algorithms License::
+::Algorithm License::
 ::BinaryCodedDecimal(s).BCD_LICENSE.x::
 Copyright (c) ;THOMAS ''J'Joseph' CATALANO('U.S._SocialSecurity':z135z74z4812z;DOB:z1981z02z05z);"Doctor";"_Ph.D._"();
 Copyright (c) ;"";THOMAS CATALANO();
@@ -16,7 +16,7 @@ Copyright (c) ;"";Binary Coded Decimal(s),(BCD);'Binary Coded Decimal(s),(BCD)':
 ::
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of '_this_ _software_ _and_ associated documentation _files_ (this :: _algorithm_ )',to direct
-in the Software without restriction, including without limitation the rights
+in the Algorithm without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:

@@ -11,8 +11,8 @@ Copyright (c) ;BIT(s)-BYTES(s)-;"BIT(s)-BYTE(s)-: "License"License'.()'";
 Copyright (c) ;"";this -Input-Output- inclusive;""this -I-O- inclusive"";
 Copyright (c) ;BIT(s)-BYTE(s)-;"BIT(s)-BYTE(s)-";
 Copyright (c) ;"Algorithm:"this License(); "inclusive""::etcetera-so-for::secetera-so-for::";
-Copyright (c) ;motion [by &| of] panticulation serfractions perpetuation';algorithm:
-              "motion [by &| of] panticulation serfractions perpetuation";
+Copyright (c) ;motion [by &| of] panticulation perpetuation serfraction()';algorithm:
+              "motion [by &| of] panticulation perpetuation serfraction()";
 Copyright (c) ;((BIT(s)-BYTE(s)-)(information-time-frame(s))),extrapolation [by &| of] factorization';algorithm:               
               "((BIT(s)-(BYTE(s)-)(information-time-frame(s))),extrapolation [by &| of] factorization";   
 Copyright (c) ;transction(s)-transactionary serfraction() [by &| of] bartertutional continuum servitude

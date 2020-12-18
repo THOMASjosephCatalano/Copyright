@@ -52,7 +52,7 @@ SOFTWARE.
 ,,,:::;;;'$$$-ThomasCatalano,Ph.Doctor-$$$'::
 :::"'-5120- N Broadway -APT:302- Denver-COLORADO(CO) 80216z2099 _USA'"::
 
-':::
+'::
 www.github.com/tomsnode<>
 www.conceptslearningmachine.com<>
 www.github.com/conceptslearningmachine<>

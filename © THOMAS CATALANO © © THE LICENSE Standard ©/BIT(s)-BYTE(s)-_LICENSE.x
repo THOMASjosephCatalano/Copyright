@@ -17,8 +17,8 @@ Copyright (c) ;((BIT(s)-BYTE(s)-)(information-time-frame(s))),extrapolation [by 
               "((BIT(s)-(BYTE(s)-)(information-time-frame(s))),extrapolation [by &| of] factorization";   
 Copyright (c) ;transction(s)-transactionary serfraction() [by &| of] bartertutional continuum servitude
                proxing;algorithm:"transaction(s)-transactionary serfraction() [by &| of] bartertutionl continuum servitude proxing";
-Copyright (c) ;((BIT(s)-BYTE(s)-),ATOMICS,MATERIAL,LIGHT,STRUCTURE();algorithm:
-              ;"((BIT(s)-BYTE(s)-),ATOMICS,MATERIAL,LIGHT,STRUCTURE()"';
+Copyright (c) ;((BIT(s)-BYTE(s)-),TIME-CLOCK-CALANDER,ATOMICS,MATERIAL,LIGHT,STRUCTURE();algorithm:
+              ;"((BIT(s)-BYTE(s)-),TIME-CLOCK-CALANDER,ATOMICS,MATERIAL,LIGHT,STRUCTURE()"';
 ::
 Permission is hereby granted, free of charge, to any person obtaining a copy
 "of this algorithm and associated documentation files",(this algorithm,algorithm this),to direct

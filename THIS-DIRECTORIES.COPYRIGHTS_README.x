@@ -3,7 +3,7 @@
 ::Algorithm License::
 ::THIS-DIRECTORIES.COPYRIGHTS_README.x::
 ::Algorithm_LICENSE.x::
-Copyright (c) ;THOMAS ''J'Joseph' CATALANO('U.S._SocialSecurity':z135z74z4812z;DOB:z1981z02z05z);"Doctor";"_Ph.D._"();
+Copyright (c) ;THOMAS ''J'Joseph' CATALANO('U.S._SocialSecurity':135-74-4812;DOB:1981-02-05);"Doctor";"_Ph.D._"();
 Copyright (c) ;"";THOMAS CATALANO();
 Copyright (c) ;"";tc Joseph();
 Copyright (c) ;"";CATALANO THOMAS();
@@ -39,8 +39,8 @@ SOFTWARE.
 ::-esquire-so-for-::
 ::https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CREADME.x::
 ::$-Thomas-$-Catalano-$::,
-::"-5120- N. Broadway,APT:302,Denver-COLORADO(CO) 80216z2099 _USA"::
-::"-9- Woodhull Avenue,West Orange-New Jersey(NJ) 07052z3535 _USA"::
+::"-5120- N. Broadway,APT:302,Denver-COLORADO(CO) 80216-2099 _USA"::
+::"-9- Woodhull Avenue,West Orange-New Jersey(NJ) 07052-3535 _USA"::
 ::
 www.github.com/tomsnode<>
 www.conceptslearningmachine.com<>

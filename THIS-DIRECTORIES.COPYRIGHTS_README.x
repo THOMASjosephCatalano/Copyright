@@ -22,6 +22,7 @@ Copyright (c) ;"";LICENSE;"LICENSE'.()'";
 Copyright (c) ;THOMAS CATALANO LICENSE();
 Copyright (c) ;"";Algorithm License();
 
+::
       
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of '_this_ _software_ _and_ associated documentation _files_ ( this :: _algorithm_ )',to direct

@@ -2,7 +2,7 @@
 
 ::-esquire-so-for-::
 ::':Algorithm License:'::
-::':THIS-DIRECTORIE.COPYRIGHTS_README.x:'::
+::':THIS-DIRECTORIES.COPYRIGHTS_README.x:'::
 ::':Algorithm_LICENSE.x:'::
 
 

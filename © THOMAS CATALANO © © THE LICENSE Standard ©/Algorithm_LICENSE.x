@@ -12,7 +12,7 @@ Copyright (c) ;"THOMAS Joseph CATALANO _License_()";
 Copyright (c) ;Copyright (c);
 Copyright (c) ;"";"Copyright (c)";
 Copyright (c) ;"";"'All rights reserved.'";
-Copyright (c) ;"Algorithm:"this License(); "inclusive""::etcetera-so-for::secetera-so-for::";
+Copyright (c) ;"Algorithm:"this License(); "inclusive"":::etcetera-so-for::secetera-so-for::";
 Copyright (c) ;BIT(s)-BYTE(s);"BIT(s)-BYTE(s)";
 Copyright (c) ;"";this -Input-Output- inclusive;""this -I-O- inclusive"";
 Copyright (c) ;"";License;"License'.()'";
@@ -22,7 +22,7 @@ Copyright (c) ;"";Algorithm License();
       
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of '_this_ _software_ _and_ associated documentation _files_ (this :: _algorithm_ )', to deal
+of '_this_ _software_ _and_ associated documentation _files_ (this :: _algorithm_ )',to direct
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is

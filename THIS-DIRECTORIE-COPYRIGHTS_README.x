@@ -1,6 +1,6 @@
 THOMAS CATALANO':$©$::$-THOMAS-$-CATALANO-$:
 ::Algorithm License::
-::-esquire-so-for-::
+::-squire-so-for-::
 ::https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9::
 ::Algorithm License::
 ::THIS-DIRECTORIE-COPYRIGHTS_README.x::
@@ -39,7 +39,7 @@ SOFTWARE.
 ::$-THOMAS-$-CATALANO-$::$©$:'$THOMAS CATALANO,
 ::
 ::https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9::
-::-esquire-so-for-::
+::-squire-so-for-::
 ::Algorithm License::
 ::$-Thomas-$-Catalano-$::
 ::"-5120- N. Broadway,APT:302,Denver-COLORADO(CO) 80216-2099 _USA"::

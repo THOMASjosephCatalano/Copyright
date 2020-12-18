@@ -15,7 +15,7 @@ Copyright (c) ;motion [by &| of] panticulation serfractions perpetuation';algori
                  "motion [by &| of] panticulation serfractions perpetuation";
 Copyright (c) ;((BIT(s)-BYTE(s))(information/time/frames)), extrapolation [by &| of] factorization';algorithm:               
                  "((BIT(s)-(BYTE(s))(information/time/frames)), extrapolation [by &| of] factorization";   
-Copyright (c) ;transaction(s)-transactionary serfraction() [by &| of] bartertutional servister continuum
+Copyright (c) ;transction(s)-transactionary serfraction() [by &| of] bartertutional servister continuum
                   proxing;algorithm:
                  "transaction(s)-transactionary serfraction() [by &| of] bartertutionl servister continuum
                   proxing";
@@ -25,7 +25,7 @@ Copyright (c) ;(BIT(s)-BYTE(s)),Matter,Material,Mass,LIGHT,structure(s)'
 ::
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of '_this_ _software_ _and_ associated documentation _files_ (this :: _algorithm_ )',to direct
-in the Software without restriction, including without limitation the rights
+in the Algorithm without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:

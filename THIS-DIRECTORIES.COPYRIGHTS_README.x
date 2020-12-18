@@ -37,6 +37,7 @@ SOFTWARE.
 ::$-THOMAS-$-CATALANO-$::$©$:'$
 :::
 ::-esquire-so-for-::
+::Algorithm License::
 ::https://github.com/tomsnode/Copyright/blob/master/THIS-DIRECTORIE.COPYRIGHTS%5CREADME.x::
 ::$-Thomas-$-Catalano-$::,
 ::"-5120- N. Broadway,APT:302,Denver-COLORADO(CO) 80216-2099 _USA"::

@@ -51,6 +51,9 @@ SOFTWARE.
 <>www.github.com/theBITsEXCHANGE<>
 <>www.github.con/altusnets<>
 <>www.github.com/TheBITsMarket<>
+<>tomcatalano.0@gmail.com<>
+<>tomcatalano@outlook.com<>
+<>CLMLimitedLiabilityCompany@gmail.com
 <>www.twitter.com/tomsnode<>
 <>www.twitter.com/TheBITsMARKET<>
 <>"BITs EXCHANGE,non-profit;Corporation,"<>

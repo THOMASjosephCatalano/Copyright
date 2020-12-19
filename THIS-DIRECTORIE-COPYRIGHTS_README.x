@@ -56,6 +56,7 @@ SOFTWARE.
 <>CLMLimitedLiabilityCompany@gmail.com
 <>www.twitter.com/tomsnode<>
 <>www.twitter.com/TheBITsMARKET<>
+<>www.twitter.com/Antarctica_of<>
 <>"BITs EXCHANGE,non-profit;Corporation,"<>
 <>"CLM ~ Concepts Learning Machine,Limited Liability Company (LLC),"<>
 <>"Catalano Concepts,Limited Liability Company (LLC),"<>

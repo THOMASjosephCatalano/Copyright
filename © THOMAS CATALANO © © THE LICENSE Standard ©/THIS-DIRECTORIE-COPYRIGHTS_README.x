@@ -62,4 +62,4 @@ SOFTWARE.
 <>"CLM ~ Concepts Learning Machine,Limited Liability Company (LLC),"<>
 <>"Catalano Concepts,Limited Liability Company (LLC),"<>
 :
-::$-THOMAS-$-CATALANO-$::$©$:$-THOMAS-$-CATALANO-$:'.':.
+::$-THOMAS-$-CATALANO-$::$©$:$-THOMAS-$-CATALANO-$:',':.

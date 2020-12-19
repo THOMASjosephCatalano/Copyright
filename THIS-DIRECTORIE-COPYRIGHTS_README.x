@@ -59,7 +59,7 @@ SOFTWARE.
 <>www.twitter.com/bits_exchange<>
 <>www.twitter.com/spaceforcestaf<>
 <>www.twitter.com/Antarctica_of<>
-<>:,:-'the':"-whole-entire-":"-GEO-ASTRO-_LOCATION:Continent:GROUND,AIR,OCEAN,SPACE":,;-of,by _-and-_ for-::Antarctica::"Alldom of Antarctica",:<>
+<>:',':-'the':"-whole-entire-":"-GEO-ASTRO-_LOCATION:Continent:GROUND,AIR,OCEAN,SPACE":,;-of,by _-and-_ for-::Antarctica::"Alldom of Antarctica",:<>
 <>"BITs EXCHANGE,non-profit;Corporation,"<>
 <>"CLM ~ Concepts Learning Machine,Limited Liability Company (LLC),"<>
 <>"Catalano Concepts,Limited Liability Company (LLC),"<>

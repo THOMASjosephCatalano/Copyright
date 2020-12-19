@@ -55,7 +55,8 @@ SOFTWARE.
 <>tomcatalano@outlook.com<>
 <>CLMLimitedLiabilityCompany@gmail.com
 <>www.twitter.com/tomsnode<>
-<>www.twitter.com/TheBITsMARKET<>
+<>www.twitter.com/bits_exchange<>
+<>www.twitter.com/spaceforcestaf<>
 <>www.twitter.com/Antarctica_of<>
 <>"BITs EXCHANGE,non-profit;Corporation,"<>
 <>"CLM ~ Concepts Learning Machine,Limited Liability Company (LLC),"<>

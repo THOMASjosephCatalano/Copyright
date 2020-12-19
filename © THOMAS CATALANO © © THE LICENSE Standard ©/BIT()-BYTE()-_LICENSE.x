@@ -22,7 +22,7 @@ Copyright (c) ;transction(s)-transactionary serfraction() [by &| of] bartertutio
                proxing;algorithm:"transaction(s)-transactionary serfraction() [by &| of] bartertutionl continuum proxing";
 Copyright (c) ;((BIT()-BYTE()-)-infomatic-time-frame())),TIME-CLOCK-CALANDER,ATOMICS,MATERIAL,LIGHT,STRUCTURE();algorithm:
               ;"((BIT()-BYTE()-)-informatic-time-frame())),TIME-CLOCK-CALANDER,ATOMICS,MATERIAL,LIGHT,STRUCTURE()"';
-:-$-:
+::
 Permission is hereby granted, free of charge, to any person obtaining a copy
 "of this algorithm and associated documentation files",(this algorithm,algorithm this),to direct
 in the Algorithm without restriction, including without limitation the rights

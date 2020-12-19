@@ -52,7 +52,8 @@ SOFTWARE.
 <>tomcatalano.0@gmail.com<>
 <>tomcatalano@outlook.com<>
 <>altusnets@gmail.com<>
-<>CLMLimitedLiabilityCompany@gmail.com
+<>CLMLimitedLiabilityCompany@gmail.com<>
+<>achats@icj-cij.org<>
 <>www.twitter.com/tomsnode<>
 <>www.twitter.com/bits_exchange<>
 <>www.twitter.com/spaceforcestaf<>

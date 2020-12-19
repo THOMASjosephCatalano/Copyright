@@ -53,6 +53,7 @@ SOFTWARE.
 <>www.github.com/TheBITsMarket<>
 <>tomcatalano.0@gmail.com<>
 <>tomcatalano@outlook.com<>
+<>altusnets@gmail.com<>
 <>CLMLimitedLiabilityCompany@gmail.com
 <>www.twitter.com/tomsnode<>
 <>www.twitter.com/bits_exchange<>

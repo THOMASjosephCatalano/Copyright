@@ -44,7 +44,7 @@ Copyright (c) ;:-etcetera-so-for:secetera-so-for-:;
 Copyright (c) ;":-squire-so-for-:";
 Copyright (c) ;:-squire-so-for-:;
 :
-::"Algorithm License,"
+::"Algorithm License:,:"
 ::-squire-so-for-,"
 ::Algorithm License."
 ::.$©$:$-Thomas-$-Catalano-$:$©$:,:"

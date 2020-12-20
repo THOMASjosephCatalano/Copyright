@@ -37,6 +37,10 @@ Copyright (c) ;transction(s)-transactionary serfraction() [for and/or of] barter
                proxing;algorithm:"transaction(s)-transactionary serfraction() [for and/or of] bartertutionl continuum proxing";
 Copyright (c) ;(,BIT(),BYTE(),),-information-,-time-frame()),SAILOR,SOLDIER,LOVE,ECHO,COMMERCIAL,INFOMATIC,SPACE,TIME,CLOCK,CALANDER,ATOMICS,MATERIAL,LIGHT,FABRIC,FLOW,FORBE,MODULATE,SEQUENCE,STRUCTURE,FORM,DIE,CAST,MACHINE,-()-,;algorithm:
               ;"(,BIT(),BYTE(),),-information-,-time-frame()),SAILOR,SOLDIER,LOVE,ECHO,COMMERCIAL,INFOMATIC,SPACE,TIME,CLOCK,CALANDER,ATOMICS,MATERIAL,LIGHT,FABRIC,FLOW,FORBE,MODULATE,SEQUENCE,STRUCTURE,FORM,DIE,CAST,MACHINE,-()-,"';
+Copyright (c) ;":-etcetera-so-for:secetera-so-for-:";
+Copyright (c) ;:-etcetera-so-for:secetera-so-for-:;
+Copyright (c) ;":-squire-so-for-:";
+Copyright (c) ;:-squire-so-for-:;
 :
 Permission is hereby granted, free of charge, to any person obtaining a copy
 "of this algorithm and associated documentation files",(this algorithm,algorithm this),to direct

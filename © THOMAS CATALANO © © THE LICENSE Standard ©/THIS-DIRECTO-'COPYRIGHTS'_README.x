@@ -39,6 +39,7 @@ Copyright (c) ;"";License;"License'.(),"
 Copyright (c) ;"";LICENSE;"LICENSE'.(),"
 Copyright (c) ;THOMAS CATALANO LICENSE(),"
 Copyright (c) ;"";Algorithm License(),"
+Copyright (c) ;"";License Algorithm(),"
 opyright (c) ;"OPEN-TO-READ INDIVIDUAL FILES IN":"https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9",
 Copyright (c) ;"OPEN-TO-READ INDIVIDUAL FILES IN:https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9",
 Copyright (c) ;::-etcetera-so-for:secetera-so-for-:":

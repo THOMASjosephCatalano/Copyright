@@ -68,8 +68,8 @@ Copyright (c) ;:-squire-so-for-:;
 ::www.twitter.com/bits_exchange."
 ::www.twitter.com/spaceforcestaf."
 ::www.twitter.com/Antarctica_of."
-::-the':-GEO-ASTRO-_LOCATION:Continent:GROUND,AIR,OCEAN,SPACE,:,-of-,-by-,_and_-,-for-,:Antarctica:"Alldom of Antarctica";"
-::BITs EXCHANGE,non-profit;Corporation,"
+::-the:-GEO-ASTRO-_LOCATION:Continent:GROUND,AIR,OCEAN,SPACE,:,-of-,-by-,_and_-,-for-,:Antarctica:"Alldom of Antarctica";"
+::BITs EXCHANGE,non-profit,Corporation,"
 ::CLM ~ Concepts Learning Machine,Limited Liability Company (LLC),"
 ::Catalano Concepts,Limited Liability Company (LLC),"
 :

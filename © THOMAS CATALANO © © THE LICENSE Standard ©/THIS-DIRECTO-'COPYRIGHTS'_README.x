@@ -20,6 +20,7 @@ SOFTWARE.,
 ::-squire-so-for-:":
 ::-squire-so-for-::
 ::Algorithm License::
+:
 ::[THIS-DIRECTO-"'COPYRIGHTS'"_README],"
 ::[The-Algorithm_LICENSE]"
 ::Algorithm License::

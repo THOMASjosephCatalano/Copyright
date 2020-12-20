@@ -47,7 +47,7 @@ Copyright (c) ;:-squire-so-for-:;
 ::"Algorithm License,"
 ::-squire-so-for-,"
 ::Algorithm License."
-::$©$:$-Thomas-$-Catalano-$:$©$:."
+::.$©$:$-Thomas-$-Catalano-$:$©$:,:"
 ::5120 N Broadway,APT302,Denver-COLORADO(CO) 80216-2099 _USA,"
 ::9 Woodhull Avenue,West Orange-NewJersey(NJ) 07052-3535 _USA,"
 ::www.github.com/tomsnode,"

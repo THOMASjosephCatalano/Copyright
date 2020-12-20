@@ -18,27 +18,31 @@ SOFTWARE.,
 ::-squire-so-for-,"
 ::Algorithm License,"
 ::[THIS-DIRECTO-'COPYRIGHTS'_README],"
-::[The-Algorithm_LICENSE]::
-::Algorithm License::
-Copyright (c) ;THOMAS ''J'Joseph' CATALANO(-U.S._SocialSecurity:135-74-4812;DOB:1981-02-05);"Doctor";"_Ph.D_"-()-::
-Copyright (c) ;"";THOMAS CATALANO()::
-Copyright (c) ;"";tc Joseph()::
-Copyright (c) ;"";CATALANO THOMAS()::
-Copyright (c) ;"THOMAS Joseph CATALANO _License_()"::
-Copyright (c) ;Copyright (c)::
-Copyright (c) ;"";"Copyright (c)"::
-Copyright (c) ;"";"All rights reserved."::
-Copyright (c) ;"Algorithm:"this License(); "inclusive""::-etcetera-so-for:secetera-so-for-:"::
-Copyright (c) ;,BIT(),BYTE(),:",BIT(),BYTE(),"::
+::[The-Algorithm_LICENSE],"
+::Algorithm License,"
+Copyright (c) ;THOMAS ''J'Joseph' CATALANO(-U.S._SocialSecurity:135-74-4812;DOB:1981-02-05);"Doctor";"_Ph.D_"-()-,"
+Copyright (c) ;"";THOMAS CATALANO(),"
+Copyright (c) ;"";tc Joseph(),"
+Copyright (c) ;"";CATALANO THOMAS(),"
+Copyright (c) ;"THOMAS Joseph CATALANO _License_()","
+Copyright (c) ;Copyright (c),"
+Copyright (c) ;"";"Copyright (c)","
+Copyright (c) ;"";"All rights reserved.","
+Copyright (c) ;"Algorithm:"License() this;"inclusive""::-etcetera-so-for:secetera-so-for-:"::
+Copyright (c) ;,BIT(),BYTE(),:",BIT(),BYTE(),"
 Copyright (c) ;"";this --Input-Output-- inclusive;""this --I-O-- inclusive""::
-Copyright (c) ;"";License;"License'.()'"::
-Copyright (c) ;"";LICENSE;"LICENSE'.()'"::
-Copyright (c) ;THOMAS CATALANO LICENSE()::
-Copyright (c) ;"";Algorithm License()::
-Copyright (c) ;"-etcetera-so-for-:-secetera-so-for-"::
-Copyright (c) ;-etcetera-so-for-:-secetera-so-for-::
+Copyright (c) ;"";License;"License'.(),"
+Copyright (c) ;"";LICENSE;"LICENSE'.(),"
+Copyright (c) ;THOMAS CATALANO LICENSE(),"
+Copyright (c) ;"";Algorithm License(),"
+Copyright (c) ;"-etcetera-so-for-:-secetera-so-for-,"
+Copyright (c) ;-etcetera-so-for-:-secetera-so-for-,"
 Copyright (c) ;"OPEN-TO-READ INDIVIDUAL FILES IN":"https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9"::
 Copyright (c) ;OPEN-TO-READ INDIVIDUAL FILES IN":"https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9::
+Copyright (c) ;":-etcetera-so-for:secetera-so-for-:";
+Copyright (c) ;:-etcetera-so-for:secetera-so-for-:;
+Copyright (c) ;":-squire-so-for-:";
+Copyright (c) ;:-squire-so-for-:;
 :
 ::Algorithm License."
 ::-squire-so-for."

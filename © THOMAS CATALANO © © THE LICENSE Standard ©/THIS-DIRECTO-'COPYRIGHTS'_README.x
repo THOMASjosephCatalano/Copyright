@@ -111,4 +111,4 @@ SOFTWARE.,
 ::-squire-so-for-::
 ::Algorithm License::
 :
-::$©$:$-THOMAS-'$'-CATALANO-$:$©$::
+.$©$:$-THOMAS-'$'-CATALANO-$:$©$"

@@ -35,7 +35,7 @@ Copyright (c) ;"THOMAS Joseph CATALANO _License_ -()-":":"
 Copyright (c) ;Copyright (c):"
 Copyright (c) ;"";"Copyright (c)":"
 Copyright (c) ;"";"All rights reserved.":"
-Copyright (c) ;"Algorithm:"this License(); "inclusive"":-etcetera-so-for:secetera-so-for-:":"
+Copyright (c) ;"Algorithm:"License() this;"inclusive"":-etcetera-so-for:secetera-so-for-:":"
 Copyright (c) ;,BIT(),BYTE(),:",BIT(),BYTE().":"
 Copyright (c) ;"";this --Input-Output-- inclusive;""this --I-O-- inclusive"":"
 Copyright (c) ;"";License;"License'.()'":"
@@ -84,5 +84,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER,(IN AN:AN IN), ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE ALGORITHM OR IN THE ALGORITHM DIRECTING THE
-SOFTWARE.,
-:$©$:$-THOMAS-'$'-CATALANO-$:$©$"
+SOFTWARE.:.$©$:$-THOMAS-'$'-CATALANO-$:$©$"

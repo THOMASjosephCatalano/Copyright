@@ -72,6 +72,10 @@ Copyright (c) ;:-squire-so-for-:;
 ::BITs EXCHANGE,non-profit,Corporation,"
 ::CLM ~ Concepts Learning Machine,Limited Liability Company (LLC),"
 ::Catalano Concepts,Limited Liability Company (LLC),"
+Copyright (c) ;":-etcetera-so-for:secetera-so-for-:";
+Copyright (c) ;:-etcetera-so-for:secetera-so-for-:;
+Copyright (c) ;":-squire-so-for-:";
+Copyright (c) ;:-squire-so-for-:;
 :
 Permission is hereby granted, free of charge, to any person obtaining a copy
 "of this algorithm and associated documentation files",(this algorithm:algorithm this),to direct

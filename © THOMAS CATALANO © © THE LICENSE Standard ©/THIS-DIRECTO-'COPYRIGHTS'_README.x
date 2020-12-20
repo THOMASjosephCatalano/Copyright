@@ -58,7 +58,7 @@ Copyright (c) ;OPEN-TO-READ INDIVIDUAL FILES IN":"https://github.com/tomsnode/Co
 ::CLMLimitedLiabilityCompany@gmail.com:"
 ::achats@icj-cij.org:"
 ::library@icj-cij.org:"
-::webmaster@icj-cij.org""
+::webmaster@icj-cij.org:"
 ::www.github.com:"
 ::www.twitter.com/tomsnode:"
 ::www.twitter.com/bits_exchange:"

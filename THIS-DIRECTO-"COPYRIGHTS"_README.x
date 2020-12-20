@@ -58,14 +58,14 @@ Copyright (c) ;"";Algorithm License():"
 ::library@icj-cij.org<>
 ::webmaster@icj-cij.org<>
 ::www.github.com<>
-<>www.twitter.com/tomsnode<>
-<>www.twitter.com/bits_exchange<>
-<>www.twitter.com/spaceforcestaf<>
-<>www.twitter.com/Antarctica_of<>
-<>:,'the',:"-whole-entire-":"-GEO-ASTRO-_LOCATION:Continent:GROUND,AIR,OCEAN,SPACE":,;-of,by _-and-_ for-:Antarctica:"Alldom of Antarctica":,:"
-<>"BITs EXCHANGE,non-profit;Corporation,":
-<>"CLM ~ Concepts Learning Machine,Limited Liability Company (LLC)",:"
-<>"Catalano Concepts,Limited Liability Company (LLC)",:"
+::www.twitter.com/tomsnode<>
+::www.twitter.com/bits_exchange<>
+::www.twitter.com/spaceforcestaf<>
+::www.twitter.com/Antarctica_of<>
+::,'the',:"-whole-entire-":"-GEO-ASTRO-_LOCATION:Continent:GROUND,AIR,OCEAN,SPACE":,;-of,by _-and-_ for-:Antarctica:"Alldom of Antarctica":,:"
+::""BITs EXCHANGE,non-profit;Corporation,":
+::"CLM ~ Concepts Learning Machine,Limited Liability Company (LLC)",:"
+::"Catalano Concepts,Limited Liability Company (LLC)",:"
 :
 Permission is here granted, free of charge, to any person obtaining a copy
 "of this algorithm and associated documentation files",(this algorithm,algorithm this),to direct

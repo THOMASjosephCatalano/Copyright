@@ -14,10 +14,10 @@ LIABILITY, WHETHER,(IN AN:AN IN), ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 OUT OF OR IN CONNECTION WITH THE ALGORITHM OR IN THE ALGORITHM DIRECTING THE
 SOFTWARE.,
 :
-::Algorithm License::
-::-squire-so-for-::
-::Algorithm License::
-::[THIS-DIRECTO-'COPYRIGHTS'_README]::
+::Algorithm License,"
+::-squire-so-for-,"
+::Algorithm License,"
+::[THIS-DIRECTO-'COPYRIGHTS'_README],"
 ::[The-Algorithm_LICENSE]::
 ::Algorithm License::
 Copyright (c) ;THOMAS ''J'Joseph' CATALANO(-U.S._SocialSecurity:135-74-4812;DOB:1981-02-05);"Doctor";"_Ph.D_"-()-::

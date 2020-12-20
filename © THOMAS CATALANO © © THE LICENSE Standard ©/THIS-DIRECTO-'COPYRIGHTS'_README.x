@@ -40,26 +40,26 @@ Copyright (c) ;-etcetera-so-for-:-secetera-so-for-::
 Copyright (c) ;"OPEN-TO-READ INDIVIDUAL FILES IN":"https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9"::
 Copyright (c) ;OPEN-TO-READ INDIVIDUAL FILES IN":"https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9::
 :
-::Algorithm License:
-::-squire-so-for-:
-::Algorithm License:,
-::$©$:$-Thomas-$-Catalano-$:$©$:"
-::"-5120- N. Broadway,APT:302,Denver-COLORADO(CO) 80216-2099 _USA":
-::"-9- Woodhull Avenue,West Orange-New Jersey(NJ) 07052-3535 _USA":
-::www.github.com/tomsnode:"
-::www.conceptslearningmachine.com:"
-::www.github.com/conceptslearningmachine:"
-::www.github.com/theBITsEXCHANGE:"
-::www.github.con/altusnets:"
-::www.github.com/TheBITsMarket:"
-::tomcatalano.0@gmail.com:"
-::tomcatalano@outlook.com:"
-::altusnets@gmail.com,.,"
-::CLMLimitedLiabilityCompany@gmail.com:"
-::achats@icj-cij.org:"
-::library@icj-cij.org:"
-::webmaster@icj-cij.org:"
-::www.github.com:"
+::Algorithm License."
+::-squire-so-for."
+::Algorithm License."
+::$©$:$-Thomas-$-Catalano-$:$©$:."
+::"-5120- N Broadway,APT:302,Denver-COLORADO(CO) 80216-2099 _USA."
+::"-9- Woodhull Avenue,West Orange-New Jersey(NJ) 07052-3535 _USA."
+::www.github.com/tomsnode."
+::www.conceptslearningmachine.com."
+::www.github.com/conceptslearningmachine."
+::www.github.com/theBITsEXCHANGE."
+::www.github.con/altusnets."
+::www.github.com/TheBITsMarket."
+::tomcatalano.0@gmail.com."
+::tomcatalano@outlook.com."
+::altusnets@gmail.com."
+::CLMLimitedLiabilityCompany@gmail.com."
+::achats@icj-cij.org."
+::library@icj-cij.org."
+::webmaster@icj-cij.org."
+::www.github.com."
 ::www.twitter.com/tomsnode:"
 ::www.twitter.com/bits_exchange:"
 ::www.twitter.com/spaceforcestaf:"

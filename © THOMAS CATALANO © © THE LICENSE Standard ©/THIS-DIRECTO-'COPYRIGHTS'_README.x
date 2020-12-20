@@ -26,11 +26,11 @@ Copyright (c) ;"";tc Joseph(),"
 Copyright (c) ;"";CATALANO THOMAS(),"
 Copyright (c) ;"THOMAS Joseph CATALANO _License_()","
 Copyright (c) ;Copyright (c),"
-Copyright (c) ;"";"Copyright (c)","
+Copyright (c) ;"";"Copyright (c),"
 Copyright (c) ;"";"All rights reserved.","
-Copyright (c) ;"Algorithm:"License() this;"inclusive""::-etcetera-so-for:secetera-so-for-:"::
+Copyright (c) ;"Algorithm:"License() this;"inclusive""::-etcetera-so-for:secetera-so-for-:";
 Copyright (c) ;,BIT(),BYTE(),:",BIT(),BYTE(),"
-Copyright (c) ;"";this --Input-Output-- inclusive;""this --I-O-- inclusive""::
+Copyright (c) ;"";this --Input-Output-- inclusive;""this --I-O-- inclusive"";
 Copyright (c) ;"";License;"License'.(),"
 Copyright (c) ;"";LICENSE;"LICENSE'.(),"
 Copyright (c) ;THOMAS CATALANO LICENSE(),"

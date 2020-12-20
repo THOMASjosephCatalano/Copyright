@@ -44,8 +44,8 @@ Copyright (c) ;:-etcetera-so-for:secetera-so-for-:;
 Copyright (c) ;":-squire-so-for-:";
 Copyright (c) ;:-squire-so-for-:;
 :
-::Algorithm License."
-::-squire-so-for."
+::"Algorithm License,"
+::-squire-so-for-,"
 ::Algorithm License."
 ::$©$:$-Thomas-$-Catalano-$:$©$:."
 ::"-5120- N Broadway,APT:302,Denver-COLORADO(CO) 80216-2099 _USA."

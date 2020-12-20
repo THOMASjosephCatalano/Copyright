@@ -13,7 +13,7 @@ Copyright (c) ;"THOMAS Joseph CATALANO";
 Copyright (c) ;,BIT(),BYTES(),:",BIT(),BYTE(),: "License"License'.()'";
 Copyright (c) ;"";this --Input-Output-- inclusive;""this --I-O-- inclusive"";
 Copyright (c) ;,BIT(),BYTE(),:",BIT(),BYTE(),";
-Copyright (c) ;"Algorithm:"this License(); "inclusive""::etcetera-so-for::secetera-so-for::";
+Copyright (c) ;"Algorithm:"this License(); "inclusive""::-etcetera-so-for::secetera-so-for-::";
 Copyright (c) ;motion [for and/or of] panticulation perpetuation serfraction()'";algorithm:
               "motion [for and/or of] panticulation perpetuation serfraction()";
 Copyright (c) ;((,BIT(),BYTE(),)-information-time-frame())),extrapolation [for and/or of] factorization';algorithm:               

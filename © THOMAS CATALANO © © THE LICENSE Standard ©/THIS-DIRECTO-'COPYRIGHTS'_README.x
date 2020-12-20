@@ -60,14 +60,14 @@ Copyright (c) ;OPEN-TO-READ INDIVIDUAL FILES IN":"https://github.com/tomsnode/Co
 ::library@icj-cij.org."
 ::webmaster@icj-cij.org."
 ::www.github.com."
-::www.twitter.com/tomsnode:"
-::www.twitter.com/bits_exchange:"
-::www.twitter.com/spaceforcestaf:"
-::www.twitter.com/Antarctica_of:"
-::".'the':-GEO-ASTRO-_LOCATION:Continent:GROUND,AIR,OCEAN,SPACE,:,-of-,-by-,_and_-,-for-,:Antarctica:"Alldom of Antarctica":"
-::"BITs EXCHANGE,non-profit;Corporation:"
-::"CLM ~ Concepts Learning Machine,Limited Liability Company (LLC):"
-::"Catalano Concepts,Limited Liability Company (LLC):"
+::www.twitter.com/tomsnode."
+::www.twitter.com/bits_exchange."
+::www.twitter.com/spaceforcestaf."
+::www.twitter.com/Antarctica_of."
+::".'the':-GEO-ASTRO-_LOCATION:Continent:GROUND,AIR,OCEAN,SPACE,:,-of-,-by-,_and_-,-for-,:Antarctica:"Alldom of Antarctica."
+::"BITs EXCHANGE,non-profit;Corporation."
+::"CLM ~ Concepts Learning Machine,Limited Liability Company (LLC)."
+::"Catalano Concepts,Limited Liability Company (LLC)."
 :
 Permission is hereby granted, free of charge, to any person obtaining a copy
 "of this algorithm and associated documentation files",(this algorithm:algorithm this),to direct
@@ -83,6 +83,6 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER,(IN AN:AN IN), ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE ALGORITHM OR IN THE ALGORITHM DIRECTING THE
-SOFTWARE.:
+SOFTWARE.,
 :::
 ".$©$:$-THOMAS-'$'-CATALANO-$:$©$:,:"

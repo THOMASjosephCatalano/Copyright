@@ -40,7 +40,7 @@ Copyright (c) ;"";Algorithm License(),"
 Copyright (c) ;"-etcetera-so-for-:-secetera-so-for-,"
 Copyright (c) ;-etcetera-so-for-:-secetera-so-for-,"
 Copyright (c) ;"OPEN-TO-READ INDIVIDUAL FILES IN":https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9","
-Copyright (c) ;OPEN-TO-READ INDIVIDUAL FILES IN:https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9,"
+Copyright (c) ;OPEN-TO-READ INDIVIDUAL FILES IN:https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9:"
 Copyright (c) ;":-etcetera-so-for:secetera-so-for-:";
 Copyright (c) ;:-etcetera-so-for:secetera-so-for-:;
 Copyright (c) ;":-squire-so-for-:,"
@@ -49,7 +49,7 @@ Copyright (c) ;:-squire-so-for-:,"
 ::"Algorithm License:"?:;:
 ::-squire-so-for-:":
 ::"OPEN-TO-READ INDIVIDUAL FILES IN":"https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9,"
-::OPEN-TO-READ INDIVIDUAL FILES IN:https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9,"
+::OPEN-TO-READ INDIVIDUAL FILES IN:https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9;"
 ::Algorithm License."
 ::.$©$:$-Thomas-$-Catalano-$:$©$:,:"
 ::5120 N Broadway,APT302,Denver-COLORADO(CO) 80216-2099 _USA,"

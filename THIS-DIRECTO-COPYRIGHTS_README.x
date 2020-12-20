@@ -1,4 +1,4 @@
-:Permission is hereby granted, free of charge, to any person obtaining a copy
+$©$:$-THOMAS-'$'-CATALANO-$:$©$:Algorithm License:Permission is hereby granted, free of charge, to any person obtaining a copy
 "of this algorithm and associated documentation files",(this algorithm,algorithm this),to direct
 in the Algorithm without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
@@ -13,7 +13,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER,(IN AN,AN IN), ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE ALGORITHM OR IN THE ALGORITHM DIRECTING THE
 SOFTWARE.,
-:$©$:$-THOMAS-'$'-CATALANO-$:$©$:":
+::$©$:$-THOMAS-'$'-CATALANO-$:$©$:":
 ::Algorithm License::
 ::-squire-so-for-::
 ::-squire-so-for-:":

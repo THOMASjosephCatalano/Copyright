@@ -63,24 +63,24 @@ SOFTWARE.,
 ::"-5120- N. Broadway,APT:302,Denver-COLORADO(CO) 80216-2099 _USA"::
 ::"-9- Woodhull Avenue,West Orange-New Jersey(NJ) 07052-3535 _USA"::
 :
-<>www.github.com/tomsnode<>
-<>www.conceptslearningmachine.com<>
-<>www.github.com/conceptslearningmachine<>
-<>www.github.com/theBITsEXCHANGE<>
-<>www.github.con/altusnets<>
-<>www.github.com/TheBITsMarket<>
-<>tomcatalano.0@gmail.com<>
-<>tomcatalano@outlook.com<>
-<>altusnets@gmail.com<>
-<>CLMLimitedLiabilityCompany@gmail.com<>
-<>achats@icj-cij.org<>
-<>library@icj-cij.org<>
-<>webmaster@icj-cij.org<>
-<>www.github.com<>
-<>www.twitter.com/tomsnode<>
-<>www.twitter.com/bits_exchange<>
-<>www.twitter.com/spaceforcestaf<>
-<>www.twitter.com/Antarctica_of<>
+<>www.github.com/tomsnode,
+<>www.conceptslearningmachine.com,
+<>www.github.com/conceptslearningmachine,
+<>www.github.com/theBITsEXCHANGE,
+<>www.github.con/altusnets,
+<>www.github.com/TheBITsMarket,
+<>tomcatalano.0@gmail.com,
+<>tomcatalano@outlook.com,
+<>altusnets@gmail.com,
+<>CLMLimitedLiabilityCompany@gmail.com,
+<>achats@icj-cij.org,
+<>library@icj-cij.org,
+<>webmaster@icj-cij.org,
+<>www.github.com,
+<>www.twitter.com/tomsnode,
+<>www.twitter.com/bits_exchange,
+<>www.twitter.com/spaceforcestaf,
+<>www.twitter.com/Antarctica_of,
 <>:',':,'the',:"-whole-entire-":"-GEO-ASTRO-_LOCATION:Continent:GROUND,AIR,OCEAN,SPACE":,;-of,by _-and-_ for-::Antarctica::"Alldom of Antarctica".,
 <>"BITs EXCHANGE,non-profit;Corporation,".,
 <>"CLM ~ Concepts Learning Machine,Limited Liability Company (LLC),".,

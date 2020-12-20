@@ -14,8 +14,8 @@ Copyright (c) ;"Algorithm:"this License(); "inclusive""::etcetera-so-for::secete
 Copyright (c) ;,BIT(),BYTE(),:",BIT(),BYTE(),";
 Copyright (c) ;"";this --Input-Output-- inclusive;""this --I-O-- inclusive"";
 Copyright (c) ;"";Binary Coded Decimal();
-Copyright (c) ;Binary Coded Decimal()(BSD):"Binary Coded Decimal()(BSD)::"License"License'.()'";
-Copyright (c) ;"";Binary Coded Decimal()(BCD):Binary Coded Decimal()(BCD)::system::format::encoding::code::etcetera-so-for::secetera-so-for::";
+Copyright (c) ;Binary Coded Decimal()(BSD)::"Binary Coded Decimal()(BSD)::"License"License'.()'";
+Copyright (c) ;"";Binary Coded Decimal()(BCD)::Binary Coded Decimal()(BCD)::system::format::encoding::code::etcetera-so-for::secetera-so-for::";
 Permission is hereby granted, free of charge, to any person obtaining a copy
 "of this algorithm and associated documentation files",(this algorithm,algorithm this),to direct
 in the Algorithm without restriction, including without limitation the rights

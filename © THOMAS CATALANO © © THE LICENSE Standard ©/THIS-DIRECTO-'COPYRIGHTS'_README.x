@@ -1,9 +1,9 @@
 ".$©$:$-THOMAS-'$'-CATALANO-$:$©$".,"
-::Algorithm License::
-::-squire-so-for-::
-::Algorithm License::
-::[THIS-DIRECTO-'COPYRIGHTS'_README]::
-::[The-Algorithm_LICENSE]:;
+::Algorithm License:,
+::-squire-so-for-:,
+::Algorithm License:,
+::[THIS-DIRECTO-'COPYRIGHTS'_README]:,
+::[The-Algorithm_LICENSE]:,
 ::Algorithm License.,
 Permission is hereby granted, free of charge, to any person obtaining a copy
 "of this algorithm and associated documentation files",(this algorithm:algorithm this),to direct

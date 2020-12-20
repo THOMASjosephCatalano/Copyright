@@ -22,21 +22,6 @@ SOFTWARE.,"
 ::[THIS-DIRECTO-"COPYRIGHTS"_README],:"
 ::[The-Algorithm_LICENSE],:"
 ::Algorithm License,:"
-Permission is here granted, free of charge, to any person obtaining a copy
-"of this algorithm and associated documentation files",(this algorithm,algorithm this),to direct
-in the Algorithm without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit whom the Software is
-furnished to do so, subject to the following conditions:
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-THE "ALGORITHM" "SOFTWARE" IS PROVIDED AS IS, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY.
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER,(IN AN,AN IN), ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE ALGORITHM OR IN THE ALGORITHM DIRECTING THE
-SOFTWARE.,:"
 Copyright (c) ;THOMAS ''J'Joseph' CATALANO(-U.S._SocialSecurity:135-74-4812;DOB:1981-02-05);"Doctor";"_Ph.D_"();
 Copyright (c) ;"";THOMAS CATALANO();
 Copyright (c) ;"";tc Joseph();

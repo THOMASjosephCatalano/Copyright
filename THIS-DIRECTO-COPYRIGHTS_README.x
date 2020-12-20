@@ -21,7 +21,7 @@ SOFTWARE.,
 ::https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9":
 ::Algorithm License::
 ::[THIS-DIRECTO-COPYRIGHTS_README]:"
-::[The-Algorithm_LICENSE]::
+::[Algorithm_LICENSE]::
 ::Algorithm License::
 Copyright (c) ;THOMAS ''J'Joseph' CATALANO(-U.S._SocialSecurity:135-74-4812;DOB:1981-02-05);"Doctor";"_Ph.D_"():":"
 Copyright (c) ;"";THOMAS CATALANO():"

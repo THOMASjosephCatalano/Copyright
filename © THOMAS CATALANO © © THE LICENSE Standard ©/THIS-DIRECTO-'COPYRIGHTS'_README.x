@@ -15,7 +15,6 @@ OUT OF OR IN CONNECTION WITH THE ALGORITHM OR IN THE ALGORITHM DIRECTING THE
 SOFTWARE.,
 ::-squire-so-for-:":
 ::-squire-so-for-::
-:
 ::Algorithm License::
 ::-squire-so-for-:":
 ::-squire-so-for-::

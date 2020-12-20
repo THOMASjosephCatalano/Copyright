@@ -56,12 +56,12 @@ OUT OF OR IN CONNECTION WITH THE ALGORITHM OR IN THE ALGORITHM DIRECTING THE
 SOFTWARE.,
 ".$©$:$-THOMAS-'$'-CATALANO-$:$©$.,"
 :
-::Algorithm License::
-::-squire-so-for-::
-::Algorithm License::
-::$-Thomas-'$'-Catalano-$::
-::"-5120- N. Broadway,APT:302,Denver-COLORADO(CO) 80216-2099 _USA"::
-::"-9- Woodhull Avenue,West Orange-New Jersey(NJ) 07052-3535 _USA"::
+::Algorithm License:,
+::-squire-so-for-:,
+::Algorithm License:,
+::$-Thomas-'$'-Catalano-$:,
+::"-5120- N. Broadway,APT:302,Denver-COLORADO(CO) 80216-2099 _USA":,
+::"-9- Woodhull Avenue,West Orange-New Jersey(NJ) 07052-3535 _USA":,
 :
 <>www.github.com/tomsnode,
 <>www.conceptslearningmachine.com,
@@ -81,7 +81,7 @@ SOFTWARE.,
 <>www.twitter.com/bits_exchange,
 <>www.twitter.com/spaceforcestaf,
 <>www.twitter.com/Antarctica_of,
-<>:',':,'the',:"-whole-entire-":"-GEO-ASTRO-_LOCATION:Continent:GROUND,AIR,OCEAN,SPACE":,;-of,by _-and-_ for-::Antarctica::"Alldom of Antarctica".,
+<>".:'the',:"-whole-entire-":"-GEO-ASTRO-_LOCATION:Continent:GROUND,AIR,OCEAN,SPACE":,;-of,by _-and-_ for-:Antarctica:"Alldom of Antarctica".,
 <>"BITs EXCHANGE,non-profit;Corporation,".,
 <>"CLM ~ Concepts Learning Machine,Limited Liability Company (LLC),".,
 <>"Catalano Concepts,Limited Liability Company (LLC),".,

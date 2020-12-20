@@ -1,4 +1,4 @@
-Permission is hereby granted, free of charge, to any person obtaining a copy
+".:Permission is hereby granted, free of charge, to any person obtaining a copy
 "of this algorithm and associated documentation files",(this algorithm:algorithm this),to direct
 in the Algorithm without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
@@ -12,7 +12,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER,(IN AN:AN IN), ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE ALGORITHM OR IN THE ALGORITHM DIRECTING THE
-SOFTWARE.,"
+SOFTWARE.,
 ".$©$:$-THOMAS-'$'-CATALANO-$:$©$:,:"
 ::Algorithm License:,"
 ::-squire-so-for-:,"
@@ -33,6 +33,7 @@ Copyright (c) ;Binary Coded Decimal()(BSD);"Binary Coded Decimal()(BSD)::"Licens
 Copyright (c) ;"";Binary Coded Decimal()(BCD);"Binary Coded Decimal()(BCD)::-sinagage-:-head-:-tell-:-record-:-quote-:-song-:-admimistrate-:-medicate-:-scroll-:-aculate-:-motion-:-law-:-court-:-rule-:-police-:-policy-:-key-:-concept-:-learn-:-machine-:-signal-:-form-:-standardization-:-docket-:-order-:-judge-:-register-:-log-:-measure-:-algorithm-:-recall-:-call-:-sign-:-cosign-:-recurre-:-absence-:-sence-:-presence-:-memorie-:-cumulative-:-accumulate-:-numbering-:-sequencing-:-formating-:-formulating-:-speed-:-encoding-:-coding-:-survey-:-expressions-:-equations-:-whole-:-entire-:-retirement-:-refine-:-define-:-entitie-:-acquisition-:-equasition-:-assimilate-:-area-:-factor-:-serfraction-:-()-:";
 Copyright (c) ;":-etcetera-so-for:secetera-so-for-:";
 Copyright (c) ;":-squire-so-for-:";
+:
 Permission is hereby granted, free of charge, to any person obtaining a copy
 "of this algorithm and associated documentation files",(this algorithm,algorithm this),to direct
 in the Algorithm without restriction, including without limitation the rights
@@ -47,6 +48,6 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER,(IN AN,AN IN), ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE ALGORITHM OR IN THE ALGORITHM DIRECTING THE
-SOFTWARE.,"
+SOFTWARE.,
 :::
 ".$©$:$-THOMAS-'$'-CATALANO-$:$©$:,:"

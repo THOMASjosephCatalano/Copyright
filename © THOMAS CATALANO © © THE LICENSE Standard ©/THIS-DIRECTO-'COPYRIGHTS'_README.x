@@ -43,7 +43,7 @@ Copyright (c) ;OPEN-TO-READ INDIVIDUAL FILES IN":"https://github.com/tomsnode/Co
 ::Algorithm License:
 ::-squire-so-for-:
 ::Algorithm License:,
-::$-Thomas-'$'-Catalano-$:
+::$©$:$-Thomas-$-Catalano-$:$©$:"
 ::"-5120- N. Broadway,APT:302,Denver-COLORADO(CO) 80216-2099 _USA":
 ::"-9- Woodhull Avenue,West Orange-New Jersey(NJ) 07052-3535 _USA":
 ::www.github.com/tomsnode:"

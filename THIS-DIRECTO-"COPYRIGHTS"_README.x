@@ -69,6 +69,7 @@ Copyright (c) ;"";Algorithm License():"
 <>"BITs EXCHANGE,non-profit;Corporation,":
 <>"CLM ~ Concepts Learning Machine,Limited Liability Company (LLC)",:"
 <>"Catalano Concepts,Limited Liability Company (LLC)",:"
+:
 Permission is here granted, free of charge, to any person obtaining a copy
 "of this algorithm and associated documentation files",(this algorithm,algorithm this),to direct
 in the Algorithm without restriction, including without limitation the rights
@@ -83,6 +84,6 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER,(IN AN,AN IN), ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE ALGORITHM OR IN THE ALGORITHM DIRECTING THE
-SOFTWARE.,"
+SOFTWARE.,
 :::
 ".$©$:$-THOMAS-'$'-CATALANO-$:$©$:,:"

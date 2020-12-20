@@ -14,12 +14,12 @@ LIABILITY, WHETHER,(IN AN:AN IN), ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 OUT OF OR IN CONNECTION WITH THE ALGORITHM OR IN THE ALGORITHM DIRECTING THE
 SOFTWARE.,
 :
-::Algorithm License:,"
-::-squire-so-for-:,"
+::Algorithm License,"
+::-squire-so-for-,"
 ::"OPEN-TO-READ INDIVIDUAL FILES IN":"https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9.:"
-::Algorithm License:,"
-::[The-Algorithm_LICENSE]:,"
-::Algorithm License:,"
+::Algorithm License,"
+::[The-Algorithm_LICENSE],"
+::Algorithm License,"
 Copyright (c) ;THOMAS ''J'Joseph' CATALANO(-U.S._SocialSecurity:135zl-74-4812;DOB:1981-02-05);"Doctor";"_Ph.D_"();
 Copyright (c) ;"";THOMAS CATALANO();
 Copyright (c) ;"";tc Joseph();
@@ -35,6 +35,10 @@ Copyright (c) ;"";License;"License'.()'";
 Copyright (c) ;"";LICENSE;"LICENSE'.()'";
 Copyright (c) ;THOMAS CATALANO LICENSE();
 Copyright (c) ;"";Algorithm License();
+Copyright (c) ;":-etcetera-so-for:secetera-so-for-:";
+Copyright (c) ;:-etcetera-so-for:secetera-so-for-:;
+Copyright (c) ;":-squire-so-for-:";
+Copyright (c) ;:-squire-so-for-:;
 :
 Permission is hereby granted, free of charge, to any person obtaining a copy
 "of this algorithm and associated documentation files",(this algorithm:algorithm this),to direct

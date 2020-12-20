@@ -16,6 +16,8 @@ SOFTWARE.,
 :
 ::Algorithm License,"
 ::-squire-so-for-,"
+::"OPEN-TO-READ INDIVIDUAL FILES IN":"https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9",:"
+::https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9,:"
 ::Algorithm License,"
 ::[THIS-DIRECTO-'COPYRIGHTS'_README],"
 ::[The-Algorithm_LICENSE],"
@@ -76,6 +78,8 @@ Copyright (c) ;":-etcetera-so-for:secetera-so-for-:";
 Copyright (c) ;:-etcetera-so-for:secetera-so-for-:;
 Copyright (c) ;":-squire-so-for-:";
 Copyright (c) ;:-squire-so-for-:;
+::"OPEN-TO-READ INDIVIDUAL FILES IN":"https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9",:"
+::https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9,:"
 :
 Permission is hereby granted, free of charge, to any person obtaining a copy
 "of this algorithm and associated documentation files",(this algorithm,algorithm this),to direct

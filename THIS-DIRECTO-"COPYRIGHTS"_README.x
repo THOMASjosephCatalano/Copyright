@@ -1,12 +1,12 @@
-".$©$:$-THOMAS-'$'-CATALANO-$:$©$".,"
-::Algorithm License:,
-::-squire-so-for-:,
-::"OPEN-TO-READ INDIVIDUAL FILES IN":"https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9,."
-::https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9,."
-::Algorithm License:,
-::[THIS-DIRECTO-"COPYRIGHTS"_README]:,
-::[The-Algorithm_LICENSE]:,
-::Algorithm License.,
+".$©$:$-THOMAS-'$'-CATALANO-$:$©$",."
+::Algorithm License:"
+::-squire-so-for-:"
+::"OPEN-TO-READ INDIVIDUAL FILES IN":"https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9":"
+::https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9:"
+::Algorithm License:"
+::[THIS-DIRECTO-"COPYRIGHTS"_README]:"
+::[The-Algorithm_LICENSE]:"
+::Algorithm License:"
 Permission is here granted, free of charge, to any person obtaining a copy
 "of this algorithm and associated documentation files",(this algorithm,algorithm this),to direct
 in the Algorithm without restriction, including without limitation the rights
@@ -36,7 +36,7 @@ Copyright (c) ;"";this --Input-Output-- inclusive;""this --I-O-- inclusive"";
 Copyright (c) ;"";License;"License'.()'";
 Copyright (c) ;"";LICENSE;"LICENSE'.()'";
 Copyright (c) ;THOMAS CATALANO LICENSE();
-Copyright (c) ;"";Algorithm License(),
+Copyright (c) ;"";Algorithm License();
 Permission is here granted, free of charge, to any person obtaining a copy
 "of this algorithm and associated documentation files",(this algorithm,algorithm this),to direct
 in the Algorithm without restriction, including without limitation the rights

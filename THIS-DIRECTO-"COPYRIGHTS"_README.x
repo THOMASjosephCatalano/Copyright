@@ -64,8 +64,8 @@ Copyright (c) ;"";Algorithm License():"
 ::www.twitter.com/Antarctica_of<>
 ::,'the',:"-whole-entire-":"-GEO-ASTRO-_LOCATION:Continent:GROUND,AIR,OCEAN,SPACE":,;-of,by _-and-_ for-:Antarctica:"Alldom of Antarctica":,:"
 ::""BITs EXCHANGE,non-profit;Corporation,":
-::"CLM ~ Concepts Learning Machine,Limited Liability Company (LLC)",:"
-::"Catalano Concepts,Limited Liability Company (LLC)",:"
+::"CLM ~ Concepts Learning Machine,Limited Liability Company (LLC),":"
+::"Catalano Concepts,Limited Liability Company (LLC),":"
 :
 Permission is here granted, free of charge, to any person obtaining a copy
 "of this algorithm and associated documentation files",(this algorithm,algorithm this),to direct

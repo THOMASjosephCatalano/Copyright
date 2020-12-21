@@ -15,7 +15,7 @@ OUT OF OR IN CONNECTION WITH THE ALGORITHM OR IN THE ALGORITHM DIRECTING THE
 SOFTWARE.,
 :Algorithm License"
 ::-squire-so-for-::
-::""OPEN-TO-READ INDIVIDUAL FILES IN":"https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9";"
+::""OPEN-TO-READ INDIVIDUAL FILES IN":"https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9";
 ::-squire-so-for-::
 ::[BIT()BYTE()_LICENSE]::
 ::Algorithm License":
@@ -33,7 +33,7 @@ Copyright (c) ;motion [for and/or of] panticulation perpetuation serfraction()'"
 Copyright (c) ;,BIT(),BYTE(),-information--time-frame(),extrapolate [for and/or of] factorize';algorithm:               
               ",BIT(),BYTE(),-information--time-frame(),extrapolate [for and/or of] factorize";
 Copyright (c) ;serfraction [for and/or of] barter economic proxy()'";algorithm:
-              "serfraction [for and/or of] barter economic proxy()";
+              "serfraction [for and/or of] barter economic proxy()";"
 Copyright (c) ;,BIT(),BYTE(),-information--time-frame(), [for and/or of] ,SAILOR,SOLDIER,LOVE,ECHO,COMMERCIAL,INFOMATIC,SPACE,TIME,CLOCK,CALANDER,ATOMICS,MATERIAL,LIGHT,FABRIC,FLOW,FORBE,MODULATE,SEQUENCE,STRUCTURE,FORM,DIE,CAST,MACHINE,MOTOR,MOTO,()';algorithm:
               ;",BIT(),BYTE(),-information--time-frame(), [for and/or of] ,SAILOR,SOLDIER,LOVE,ECHO,COMMERCIAL,INFOMATIC,SPACE,TIME,CLOCK,CALANDER,ATOMICS,MATERIAL,LIGHT,FABRIC,FLOW,FORBE,MODULATE,SEQUENCE,STRUCTURE,FORM,DIE,CAST,MACHINE,MOTOR,MOTO,()";"
 Copyright (c) ;":-etcetera-so-for:secetera-so-for-:";

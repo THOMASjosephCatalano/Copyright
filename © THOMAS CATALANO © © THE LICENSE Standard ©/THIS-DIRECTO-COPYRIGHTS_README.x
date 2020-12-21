@@ -78,8 +78,8 @@ Copyright (c) ;::-squire-so-for-::
 ::,BITs EXCHANGE,non-profit;Corporation,"
 ::,CLM ~ Concepts Learning Machine,Limited Liability Company,(LLC),"
 ::,Catalano Concepts,Limited Liability Company,(LLC),"
-::-etcetera-so-for:secetera-so-for-::
 ::-etcetera-so-for:secetera-so-for-:":
+::-etcetera-so-for:secetera-so-for-::
 ::Algorithm License::
 ::-squire-so-for-::
 ::"OPEN-TO-READ INDIVIDUAL FILES IN":"https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9:"

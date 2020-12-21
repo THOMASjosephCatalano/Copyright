@@ -18,12 +18,12 @@ SOFTWARE.,
 ::""OPEN-TO-READ INDIVIDUAL FILES IN":"https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9";"
 ::[BinaryCodedDecimal()_LICENSE]::
 :Algorithm License:
-Copyright (c) ;THOMAS ''J'Joseph' CATALANO(-U.S._SocialSecurity:135-74-4812;DOB:1981-02-05);"
+Copyright (c) ;"THOMAS ''J'Joseph' CATALANO(-U.S._SocialSecurity:135-74-4812;DOB:1981-02-05);"
 Copyright (c) ;"";THOMAS CATALANO();
 Copyright (c) ;"";tc Joseph();
 Copyright (c) ;"";CATALANO THOMAS();
 Copyright (c) ;"THOMAS CATALANO _License_()";
-Copyright (c) ;""Algorithm License"() this;"inclusive,Algorithm License":"
+Copyright (c) ;""Algorithm License""() this;"inclusive,Algorithm License,":"
 Copyright (c) ;,BIT(),BYTE(),:",BIT(),BYTE(),";
 Copyright (c) ;"";this; --Input-Output-- inclusive;""this; --I-O-- inclusive"":"
 Copyright (c) ;"";Binary Coded Decimal();

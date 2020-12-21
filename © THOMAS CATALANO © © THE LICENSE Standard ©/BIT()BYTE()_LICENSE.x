@@ -24,9 +24,9 @@ Copyright (c) ;"THOMAS 'J''Joseph' CATALANO(-U.S._SocialSecurity:135-74-4812;DOB
 Copyright (c) ;"";THOMAS CATALANO():
 Copyright (c) ;"";tc Joseph():
 Copyright (c) ;"";CATALANO THOMAS():
-Copyright (c) ;"THOMAS CATALANO _License_":
+Copyright (c) ;"THOMAS CATALANO _License_,()":
 Copyright (c) ;""Algorithm License""() this;"inclusive,Algorithm License"";
-Copyright (c) ;,BIT(),BYTE(),:",BIT(),BYTE(),:"License"License()"";"
+Copyright (c) ;,BIT,(),BYTE,(),:",BIT,(),BYTE,(),:"License"License()"";"
 Copyright (c) ;""this; --Input-Output-- ,inclusive.""this; --I-O-- ,inclusive."";
 Copyright (c) ;,BIT;(),BYTE;(),:",BIT;(),BYTE;(),":"
 Copyright (c) ;motion [for and/or of] panticulation perpetuation serfraction();"algorithm":

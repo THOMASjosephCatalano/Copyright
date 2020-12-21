@@ -31,7 +31,7 @@ Copyright (c) ;""Algorithm License""() this;"inclusive,Algorithm License,"":"
 Copyright (c) ;Copyright (c);
 Copyright (c) ;"";"Copyright (c)";
 Copyright (c) ;"";"All rights reserved.";
-Copyright (c) ;,BIT(),BYTE(),:",BIT(),BYTE(),";
+Copyright (c) ;,BIT,(),BYTE,(),:",BIT,(),BYTE,(),";
 Copyright (c) ;"";this; --Input-Output-- ,inclusive.":"this; --I-O-- ,inclusive."";
 Copyright (c) ;"";License;"License'.()'";
 Copyright (c) ;"";LICENSE;"LICENSE'.()'";

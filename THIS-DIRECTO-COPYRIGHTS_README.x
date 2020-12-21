@@ -34,7 +34,7 @@ Copyright (c) ;"THOMAS CATALANO _License_":":"
 Copyright (c) ;Copyright (c):"
 Copyright (c) ;"";"Copyright (c)":"
 Copyright (c) ;"";"All rights reserved.":"
-Copyright (c) ;""Algorithm License""() this;"inclusive,Algorithm Licensen"";
+Copyright (c) ;""Algorithm License""() this;"inclusive,Algorithm Licensen,"";
 Copyright (c) ;"";this --Input-Output-- inclusive;""this --I-O-- inclusive"":"
 Copyright (c) ;"";License;"License'.()'":"
 Copyright (c) ;"";LICENSE;"LICENSE'.()'":"

@@ -33,7 +33,7 @@ Copyright (c) ;":-etcetera-so-for:secetera-so-for-:";
 Copyright (c) ;:-etcetera-so-for:secetera-so-for-:;
 Copyright (c) ;":-squire-so-for-:";
 Copyright (c) ;:-squire-so-for-:;
-:"Algorithm License:
+:Algorithm License:
 .:Permission is hereby granted, free of charge, to any person obtaining a copy
 "of this algorithm and associated documentation files",(this algorithm,algorithm this),to direct
 in the Algorithm without restriction, including without limitation the rights

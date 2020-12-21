@@ -74,10 +74,10 @@ Copyright (c) ;::-squire-so-for-::
 ::webmaster@icj-cij.org,"
 ::www.github.com,"
 ::www.twitter.com/tomsnode,"
-::www.twitter.com/bits_exchange,"
-::,BITs EXCHANGE,non-profit;Corporation,"
-::,CLM ~ Concepts Learning Machine,Limited Liability Company,(LLC),"
-::,Catalano Concepts,Limited Liability Company,(LLC),"
+::www.twitter.com/bits_exchange,";
+::",BITs EXCHANGE,non-profit;Corporation,":
+::",CLM ~ Concepts Learning Machine,Limited Liability Company,(LLC),":
+::",Catalano Concepts,Limited Liability Company,(LLC),":
 ::":-etcetera-so-for:secetera-so-for-:":
 ::-etcetera-so-for:secetera-so-for-::
 :Algorithm License":

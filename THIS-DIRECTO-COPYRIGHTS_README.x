@@ -75,7 +75,7 @@ Copyright () ;"";License Algorithm():"
 ::"OPEN-TO-READ INDIVIDUAL FILES IN":"https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9";
 ::-squire-so-for-::
 ::Algorithm License::
-:.Permission is here granted, free of charge, to any person obtaining a copy
+:.:Permission is here granted, free of charge, to any person obtaining a copy
 "of this algorithm and associated documentation files",(this algorithm,algorithm this),to direct
 in the Algorithm without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell

@@ -25,7 +25,7 @@ Copyright (c) ;"";THOMAS CATALANO();
 Copyright (c) ;"";tc Joseph();
 Copyright (c) ;"";CATALANO THOMAS();
 Copyright (c) ;"THOMAS Joseph CATALANO";
-Copyright (c) ;""Algorithm License"() this;"inclusive,License"":"
+Copyright (c) ;""Algorithm License"() this;"inclusive,License":"
 Copyright (c) ;,BIT(),BYTE(),:",BIT(),BYTE(),";
 Copyright (c) ;"";this --Input-Output-- inclusive;""this --I-O-- inclusive"":"
 Copyright (c) ;"";Binary Coded Decimal();

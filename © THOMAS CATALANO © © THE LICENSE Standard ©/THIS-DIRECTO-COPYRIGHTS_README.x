@@ -18,13 +18,11 @@ SOFTWARE.,
 ::""OPEN-TO-READ INDIVIDUAL FILES IN":"https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9":
 ::https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9":
 ::"OPEN-TO-READ INDIVIDUAL FILES IN":"https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9";
-::-squire-so-for-::
-::Algorithm License::
+::-squire-so-for-:: 
 ::[Algorithm_LICENSE.x]::
 ::[BinaryCodedDecimal()_LICENSE.x]::
 ::[BIT()BYTE()_LICENSE.x]::
 ::THIS-DIRECTO-COPYRIGHTS_README.x::
-::Algorithm_LICENSE.x::
 :Algorithm License:
 Copyright (c) ;THOMAS ''J'Joseph' CATALANO(-U.S._SocialSecurity:135-74-4812;DOB:1981-02-05);"Doctor";"_Ph.D_"-()-,"
 Copyright (c) ;"";THOMAS CATALANO(),"

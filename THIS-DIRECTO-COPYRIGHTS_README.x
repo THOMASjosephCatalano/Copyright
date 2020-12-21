@@ -67,7 +67,7 @@ Copyright () ;"";License Algorithm():"
 ::www.twitter.com/bits_exchange<>
 ::BITs EXCHANGE,non-profit;Corporation,::
 ::CLM ~ Concepts Learning Machine,Limited Liability Company (LLC),::
-::"Catalano Concepts,Limited Liability Company (LLC),::
+::Catalano Concepts,Limited Liability Company (LLC),::
 :.Permission is here granted, free of charge, to any person obtaining a copy
 "of this algorithm and associated documentation files",(this algorithm:algorithm this),to direct
 in the Algorithm without restriction, including without limitation the rights

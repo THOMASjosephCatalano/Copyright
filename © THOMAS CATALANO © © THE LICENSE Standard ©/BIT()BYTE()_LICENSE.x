@@ -31,7 +31,7 @@ Copyright (c) ;""this; --Input-Output-- ,inclusive.""this; --I-O-- ,inclusive.""
 Copyright (c) ;,BIT(),BYTE(),:",BIT(),BYTE(),":"
 Copyright (c) ;motion [for and/or of] panticulation perpetuation serfraction();"algorithm":
               "motion [for and/or of] panticulation perpetuation serfraction()";
-Copyright (c) ;,BIT(),BYTE(),-information--time-frame(),extrapolate [for and/or of] factorize()"";"algorithm":               
+Copyright (c) ;,BIT(),BYTE(),-information--time-frame(),extrapolate [for and/or of] factorize();"algorithm":               
               ",BIT(),BYTE(),-information--time-frame(),extrapolate [for and/or of] factorize()";
 Copyright (c) ;serfraction [for and/or of] proxy economic barter()";"algorithm":
               "serfraction [for and/or of] proxy economic barter()";

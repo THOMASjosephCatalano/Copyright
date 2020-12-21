@@ -19,11 +19,11 @@ SOFTWARE.,
 ::-squire-so-for-::
 ::[BIT()BYTE()_LICENSE.x]::
 :Algorithm License:
-Copyright (c) ;THOMAS 'J''Joseph' CATALANO(-U.S._SocialSecurity:135-74-4812;DOB:1981-02-05);"Doctor";"_Ph.D_"();
+Copyright (c) ;"THOMAS 'J''Joseph' CATALANO(-U.S._SocialSecurity:135-74-4812;DOB:1981-02-05);"
 Copyright (c) ;"";THOMAS CATALANO():
 Copyright (c) ;"";tc Joseph():
 Copyright (c) ;"";CATALANO THOMAS():
-Copyright (c) ;"THOMAS Joseph CATALANO":
+Copyright (c) ;"THOMAS CATALANO _License_":
 Copyright (c) ;,BIT(),BYTES(),:",BIT(),BYTE(),:"License"License()"";"
 Copyright (c) ;""this --Input-Output-- inclusive;""this; --I-O-- inclusive"";
 Copyright (c) ;,BIT(),BYTE(),:",BIT(),BYTE(),:"

@@ -33,9 +33,9 @@ Copyright (c) ;motion [for and/or of] panticulation perpetuation serfraction();"
 Copyright (c) ;,BIT(),BYTE(),-information--time-frame(),extrapolate [for and/or of] factorize;"algorithm":               
               ",BIT(),BYTE(),-information--time-frame(),extrapolate [for and/or of] factorize";
 Copyright (c) ;serfraction [for and/or of] proxy economic barter()";"algorithm":
-              "serfraction [for and/or of] proxy economic barter,
-Copyright (c) ;,BIT(),BYTE(),-information--time-frame(), [for and/or of] ,THINK,THINKER,THINKING,UTILITY,MAKE,MAKER,MAKING,TAYLOR,BAKE,SOLDER,SOLDIER,SAILOR,LOVE,ECHO,COMMERCIAL,INFOMATIC,SPACE,TIME,CLOCK,CALANDER,ATOMICS,MATERIAL,LIGHT,FABRIC,FLOW,FORBE,MODULATE,SEQUENCE,STRUCTURE,FORM,DIE,CAST,MACHINE,MOTOR,MOTO,ORDAIN,SEVERANCE,ISATOPE,PAYPAL,PACK,PORN,();"algorithm":
-              ",BIT(),BYTE(),-information--time-frame(), [for and/or of] ,THINK,THINKER,THINKING,UTILITY,MAKE,MAKER,MAKING,TAYLOR,BAKE,SOLDER,SOLDIER,SAILOR,LOVE,ECHO,COMMERCIAL,INFOMATIC,SPACE,TIME,CLOCK,CALANDER,ATOMICS,MATERIAL,LIGHT,FABRIC,FLOW,FORBE,MODULATE,SEQUENCE,STRUCTURE,FORM,DIE,CAST,MACHINE,MOTOR,MOTO,ORDAIN,SEVERANCE,ISATOPE,PAYPAL,PACK,PORN,()";":
+              "serfraction [for and/or of] proxy economic barter()";
+Copyright (c) ;,BIT(),BYTE(),-information--time-frame(), [for and/or of] ,THINK,THINKER,THINKING,UTILITY,MAKE,MAKER,MAKING,TAYLOR,BAKE,SOLDER,SOLDIER,SAILOR,LOVE,ECHO,COMMERCIAL,INFOMATIC,SPACE,TIME,CLOCK,CALANDER,ATOMICS,MATERIAL,LIGHT,FABRIC,FLOW,FORBE,MODULATE,SEQUENCE,STRUCTURE,FORM,DIE,CAST,MACHINE,MOTOR,MOTO,ORDAIN,SEVERANCE,ISATOPE,PAYPAL,PACK,PORN,STATUS();"algorithm":
+              ",BIT(),BYTE(),-information--time-frame(), [for and/or of] ,THINK,THINKER,THINKING,UTILITY,MAKE,MAKER,MAKING,TAYLOR,BAKE,SOLDER,SOLDIER,SAILOR,LOVE,ECHO,COMMERCIAL,INFOMATIC,SPACE,TIME,CLOCK,CALANDER,ATOMICS,MATERIAL,LIGHT,FABRIC,FLOW,FORBE,MODULATE,SEQUENCE,STRUCTURE,FORM,DIE,CAST,MACHINE,MOTOR,MOTO,ORDAIN,SEVERANCE,ISATOPE,PAYPAL,PACK,PORN,STATUS()";":
 Copyright (c) ;:-etcetera-so-for:secetera-so-for-:";
 Copyright (c) ;:-etcetera-so-for:secetera-so-for-:;
 Copyright (c) ;:-squire-so-for-:";

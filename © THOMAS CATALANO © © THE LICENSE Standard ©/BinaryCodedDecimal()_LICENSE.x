@@ -19,7 +19,7 @@ SOFTWARE.,
 ::Algorithm License::
 ::[BinaryCodedDecimal()_LICENSE]::
 :Algorithm License:
-Copyright (c) ;"THOMAS ''J'Joseph' CATALANO(-U.S._SocialSecurity:135-74-4812;DOB:1981-02-05);,_'Doctor'_,_'Ph.D'_,";
+Copyright (c) ;"THOMAS ''J'Joseph' CATALANO(.U.S._SocialSecurity:135-74-4812;DOB:1981-02-05);,_'Doctor'_,_'Ph.D'_,";
 Copyright (c) ;"";THOMAS CATALANO();
 Copyright (c) ;"";tc Joseph();
 Copyright (c) ;"";CATALANO THOMAS();

@@ -46,9 +46,10 @@ Copyright () ;"";License Algorithm():"
 ::"OPEN-TO-READ INDIVIDUAL FILES IN":https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9::
 ::-squire-so-for-::
 ::Algorithm License::
-::$-Thomas-$-Catalano-$::
-::"-5120- N. Broadway,APT:302,Denver-COLORADO(CO) 80216-2099 _USA"::
-::"-9- Woodhull Avenue,West Orange-New Jersey(NJ) 07052-3535 _USA"::
+:.:$©$:$-Thomas-$-Catalano-$:$©$"
+:
+::"5120 N Broadway,APT302,Denver-COLORADO(CO) 80216-2099 _USA";
+::"9 Woodhull Avenue,West Orange-New Jersey(NJ) 07052-3535 _USA";
 ::www.github.com/tomsnode<>
 ::www.conceptslearningmachine.com<>
 ::www.github.com/conceptslearningmachine<>

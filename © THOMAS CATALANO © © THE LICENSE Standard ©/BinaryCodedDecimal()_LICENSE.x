@@ -14,18 +14,18 @@ LIABILITY, WHETHER,(IN AN,AN IN), ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 OUT OF OR IN CONNECTION WITH THE ALGORITHM OR IN THE ALGORITHM DIRECTING THE
 SOFTWARE.,
 :
-::Algorithm License:,"
-::-squire-so-for-:,"
+::Algorithm License::
+::-squire-so-for-::
 ::""OPEN-TO-READ INDIVIDUAL FILES IN":"https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9";"
-::Algorithm License:,"
+::Algorithm License::
 ::[BinaryCodedDecimal()_LICENSE]:,"
-::Algorithm License:,"
+::Algorithm License::
 Copyright (c) ;THOMAS ''J'Joseph' CATALANO(-U.S._SocialSecurity:135-74-4812;DOB:1981-02-05);"Doctor";"_Ph.D_"();"
 Copyright (c) ;"";THOMAS CATALANO();
 Copyright (c) ;"";tc Joseph();
 Copyright (c) ;"";CATALANO THOMAS();
 Copyright (c) ;"THOMAS Joseph CATALANO";
-Copyright (c) ;""Algorithm License"() this;"inclusive,License"":-etcetera-so-for:secetera-so-for-";
+Copyright (c) ;""Algorithm License"() this;"inclusive,License"":"
 Copyright (c) ;,BIT(),BYTE(),:",BIT(),BYTE(),";
 Copyright (c) ;"";this --Input-Output-- inclusive;""this --I-O-- inclusive"";
 Copyright (c) ;"";Binary Coded Decimal();

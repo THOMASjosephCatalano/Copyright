@@ -35,7 +35,7 @@ Copyright (c) ;"";CATALANO THOMAS():"
 Copyright (c) ;"THOMAS CATALANO _License_,()":":"
 Copyright (c) ;Copyright (c):"
 Copyright (c) ;"";"Copyright (c)":"
-Copyright (c) ;"";"All rights reserved.":"
+Copyright (c) ;"";"All rights reserved.";
 Copyright (c) ;""Algorithm License""() this;"inclusive,Algorithm License:"LICENSE"License()";
 Copyright (c) ;Binary Coded Decimal()(BSD);"this;inclusive, Binary Coded Decimal()(BSD) License:"LICENSE"License()";
 Copyright (c) ;,BIT(),BYTE(),;"this;inclusive, BIT()BYTE() License:"LICENSE"License()";"

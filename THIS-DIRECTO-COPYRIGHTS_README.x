@@ -34,14 +34,15 @@ Copyright (c) ;"THOMAS Joseph CATALANO _License_ -()-":":"
 Copyright (c) ;Copyright (c):"
 Copyright (c) ;"";"Copyright (c)":"
 Copyright (c) ;"";"All rights reserved.":"
-Copyright (c) ;""Algorithm License() this;"inclusive,Algorithm License"":-etcetera-so-for:secetera-so-for-:":"
-Copyright (c) ;,BIT(),BYTE(),:",BIT(),BYTE().":"
+Copyright (c) ;""Algorithm License() this;"inclusive,Algorithm License"";
 Copyright (c) ;"";this --Input-Output-- inclusive;""this --I-O-- inclusive"":"
 Copyright (c) ;"";License;"License'.()'":"
 Copyright (c) ;"";LICENSE;"LICENSE'.()'":"
 Copyright (c) ;THOMAS CATALANO LICENSE():"
 Copyright (c) ;"";Algorithm License():"
 Copyright () ;"";License Algorithm():"
+Copyright (c) ;,BIT(),BYTE(),:",BIT(),BYTE().":"
+::-etcetera-so-for:secetera-so-for-:":"
 ::"OPEN-TO-READ INDIVIDUAL FILES IN":https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9::
 ::-squire-so-for-::
 :Algorithm License:

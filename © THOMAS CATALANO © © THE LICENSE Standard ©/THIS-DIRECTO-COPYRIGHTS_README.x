@@ -21,7 +21,7 @@ SOFTWARE.,
 :-squire-so-for-:
 :[LICENSE]:
 :[LICENSE.X]:
-:[Algorithm_LICENSE.x]:
+:[Algorithm()_LICENSE.x]:
 :[BinaryCodedDecimal()_LICENSE.x]:
 :[BIT()BYTE()_LICENSE.x]:
 :[THIS-DIRECTO-COPYRIGHTS_README.x]:

@@ -14,13 +14,13 @@ LIABILITY, WHETHER,(IN AN,AN IN), ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 OUT OF OR IN CONNECTION WITH THE ALGORITHM OR IN THE ALGORITHM DIRECTING THE
 SOFTWARE.,
 :Algorithm License":
-::-squire-so-for-:":
-::-squire-so-for-::
-::Algorithm License::
-::-squire-so-for-:":
-::-squire-so-for-::
-::""OPEN-TO-READ INDIVIDUAL FILES IN":"https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9";"
-::[Algorithm_LICENSE]
+:-squire-so-for-:":
+:-squire-so-for-::
+:Algorithm License:
+:-squire-so-for-:":
+:-squire-so-for-::
+:""OPEN-TO-READ INDIVIDUAL FILES IN":"https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9";"
+::[Algorithm_LICENSE]::
 :Algorithm License:
 Copyright (c) ;"THOMAS ''J'Joseph' CATALANO(-U.S._SocialSecurity:135zl-74-4812;DOB:1981-02-05);"
 Copyright (c) ;"";THOMAS CATALANO();

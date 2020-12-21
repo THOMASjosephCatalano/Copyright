@@ -25,7 +25,7 @@ Copyright (c) ;"";tc Joseph();
 Copyright (c) ;"";CATALANO THOMAS();
 Copyright (c) ;"THOMAS CATALANO _License_()";
 Copyright (c) ;""Algorithm License""() this;"inclusive,Algorithm License,":"
-Copyright (c) ;,BIT(),BYTE(),:",BIT(),BYTE(),";
+Copyright (c) ;,BIT,(),BYTE,(),:",BIT,(),BYTE,(),";
 Copyright (c) ;"";this; --Input-Output-- inclusive;""this; --I-O-- inclusive"":"
 Copyright (c) ;"";Binary Coded Decimal();
 Copyright (c) ;Binary Coded Decimal()(BSD);"this;inclusive Binary Coded Decimal()(BSD):"License"License()";"
@@ -34,7 +34,7 @@ Copyright (c) ;:-etcetera-so-for:secetera-so-for-:";
 Copyright (c) ;:-etcetera-so-for:secetera-so-for-:;
 Copyright (c) ;:-squire-so-for-:";
 Copyright (c) ;:-squire-so-for-:;
-:Algorithm License:
+:Algorithm License":
 :-squire-so-for-:
 ,:Permission is hereby granted, free of charge, to any person obtaining a copy
 "of this algorithm and associated documentation files",(this algorithm,algorithm this),to direct

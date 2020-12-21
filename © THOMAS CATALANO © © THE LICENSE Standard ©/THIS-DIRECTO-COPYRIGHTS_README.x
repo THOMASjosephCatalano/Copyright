@@ -32,7 +32,7 @@ Copyright (c) ;"THOMAS Joseph CATALANO _License_()","
 Copyright (c) ;Copyright (c),"
 Copyright (c) ;"";"Copyright (c),"
 Copyright (c) ;"";"All rights reserved.","
-Copyright (c) ;""Algorithm License"() this;"inclusive,License"":"
+Copyright (c) ;""Algorithm License"() this;"inclusive,Algorithm License,"":"
 Copyright (c) ;,BIT(),BYTE(),:",BIT(),BYTE(),"
 Copyright (c) ;"";this --Input-Output-- inclusive;""this --I-O-- inclusive"";
 Copyright (c) ;"";License;"License'.(),"

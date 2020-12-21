@@ -27,7 +27,7 @@ Copyright (c) ;"";CATALANO THOMAS():
 Copyright (c) ;"THOMAS Joseph CATALANO":
 Copyright (c) ;,BIT(),BYTES(),:",BIT(),BYTE(),:"License"License()"";"
 Copyright (c) ;""this --Input-Output-- inclusive;""this; --I-O-- inclusive"";"
-Copyright (c) ;,BIT(),BYTE(),:",BIT(),BYTE(),:";"
+Copyright (c) ;,BIT(),BYTE(),:",BIT(),BYTE(),:"
 Copyright (c) ;""Algorithm License"() this;"inclusive,Algorithm License"";"
 Copyright (c) ;motion [for and/or of] panticulation perpetuation serfraction()'";algorithm:
               "motion [for and/or of] panticulation perpetuation serfraction()":"

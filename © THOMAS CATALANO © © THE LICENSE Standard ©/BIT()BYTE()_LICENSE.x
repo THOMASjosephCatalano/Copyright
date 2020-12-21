@@ -31,8 +31,8 @@ Copyright (c) ;""this; --Input-Output-- ,inclusive.""this; --I-O-- ,inclusive.""
 Copyright (c) ;,BIT(),BYTE(),:",BIT(),BYTE(),":"
 Copyright (c) ;motion [for and/or of] panticulation perpetuation serfraction();"algorithm":
               "motion [for and/or of] panticulation perpetuation serfraction()";
-Copyright (c) ;,BIT(),BYTE(),-information--time-frames,extrapolate [for and/or of] factorize();"algorithm":               
-              ",BIT(),BYTE(),-information--time-frames,extrapolate [for and/or of] factorize()";
+Copyright (c) ;,BIT,BYTE,-information--time-frames,extrapolate [for and/or of] factorize();"algorithm":               
+              ",BIT,BYTE,-information--time-frames,extrapolate [for and/or of] factorize()";
 Copyright (c) ;serfraction [for and/or of] proxy economic barter()";"algorithm":
               "serfraction [for and/or of] proxy economic barter()";
 Copyright (c) ;,BIT(),BYTE(),-information--time-frame(), [for and/or of] :;,FRAY-NOT,PROVISE,MINE,FREE,THINK,THINKER,THINKING,ANIMATE,UTILITY,MAKE,MAKER,MAKING,TAYLOR,BAKE,SOLDER,INTELLECT,SOLDIER,SAILOR,EXECUTIVE NBODILY,PRODUCTION,LOVE,ECHO,COMMERCE,INFOMATIC,SPACE,TIME,CLOCK,CALANDER,ATOMICS,MATERIAL,LIGHT,FABRIC,FLOW,FORBE,MODULATE,SEQUENCE,STRUCTURE,FORM,MODULES,MOLDINGS,CAST,MACHINE,MOTOR,MOTO,GUN,SHIP,ORDAIN,SEVERANCE,MONETIZE,ISATOPE,PAYPAL,PACK,PORN,STATUS,DEFENSE,PLANT,POLICE,VANGUARD,POLICY,PROPERTY,PROPRIETY,HORT,HORD,SORT,COMMERCIAL,MILITARY,SHOW-OF-FORCE,ECONOMICALLY,IMPLACABLE,FURRY and/or FUN, ();"algorithm":

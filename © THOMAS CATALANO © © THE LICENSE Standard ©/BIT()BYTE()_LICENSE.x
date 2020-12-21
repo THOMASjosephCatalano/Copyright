@@ -32,7 +32,7 @@ Copyright (c) ;,BIT(),BYTE(),:",BIT(),BYTE(),";
 Copyright (c) ;""Algorithm License"() this;"inclusive,Algorithm License"":"
 Copyright (c) ;motion [for and/or of] panticulation perpetuation serfraction()'";algorithm:
               "motion [for and/or of] panticulation perpetuation serfraction()";
-Copyright (c) ;,BIT(),BYTE(),-information-,-time-frame()),extrapolation [for and/or of] factorize;algorithm:               
+Copyright (c) ;,BIT(),BYTE(),-information-,-time-frame()),extrapolation [for and/or of] factorize';algorithm:               
               ",BIT(),BYTE(),-information-,-time-frame()),extrapolation [for and/or of] factorize;   
 Copyright (c) ;serfraction [for and/or of] barter economic proxy()';algorithm:
               "serfraction [for and/or of] barter economic proxy()"';

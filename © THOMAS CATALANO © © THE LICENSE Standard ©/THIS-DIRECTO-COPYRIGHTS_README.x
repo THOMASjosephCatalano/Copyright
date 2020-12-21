@@ -20,6 +20,9 @@ SOFTWARE.,
 ::"OPEN-TO-READ INDIVIDUAL FILES IN":"https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9";
 ::-squire-so-for-::
 ::Algorithm License::
+::[Algorithm_LICENSE.x]::
+::[BinaryCodedDecimal()_LICENSE.x]::
+::[BIT()BYTE()_LICENSE.x]::
 ::THIS-DIRECTO-COPYRIGHTS_README.x::
 ::Algorithm_LICENSE.x::
 ::Algorithm License::

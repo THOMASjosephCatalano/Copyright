@@ -39,7 +39,7 @@ Copyright (c) ;""Algorithm License"() this;"inclusive,Algorithm License:"LICENSE
 Copyright (c) ;Binary Coded Decimal()(BSD);"this;inclusive, Binary Coded Decimal()(BSD) License:"LICENSE"License()";
 Copyright (c) ;,BIT(),BYTE(),;"this;inclusive, BIT()BYTE() License:"LICENSE"License()";
 Copyright (c) ;,BIT,(),BYTE,(),:",BIT,(),BYTE,(),"
-Copyright (c) ;"";""this; --Input-Output-- ,inclusive.""this; --I-O-- ,inclusive.""";
+Copyright (c) ;""this; --Input-Output-- ,inclusive.""this; --I-O-- ,inclusive.""";
 Copyright (c) ;"";License;"License'.(),"
 Copyright (c) ;"";LICENSE;"LICENSE'.(),"
 Copyright (c) ;THOMAS CATALANO LICENSE(),"

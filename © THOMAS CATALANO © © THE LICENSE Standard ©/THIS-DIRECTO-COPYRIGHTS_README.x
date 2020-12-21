@@ -59,7 +59,7 @@ Copyright (c) ;::-squire-so-for-::
 :;:
 ::"5120 N Broadway,APT302,Denver-COLORADO(CO) 80216-2099 _USA";
 ::"9 Woodhull Avenue,West Orange-NewJersey(NJ) 07052-3535 _USA";
-::"",www.github.com/tomsnode,";
+::",www.github.com/tomsnode,";
 ::www.conceptslearningmachine.com,";
 ::www.github.com/conceptslearningmachine,";
 ::",www.github.com/theBITsEXCHANGE,";

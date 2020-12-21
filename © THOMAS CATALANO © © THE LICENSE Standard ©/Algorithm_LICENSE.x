@@ -27,7 +27,7 @@ Copyright (c) ;"";THOMAS CATALANO();
 Copyright (c) ;"";tc Joseph();
 Copyright (c) ;"";CATALANO THOMAS();
 Copyright (c) ;"THOMAS CATALANO _License_()";
-Copyright (c) ;""Algorithm License""() this;"inclusive,Algorithm License,"":
+Copyright (c) ;""Algorithm License""() this;"inclusive,Algorithm License,"":"
 Copyright (c) ;Copyright (c);
 Copyright (c) ;"";"Copyright (c)";
 Copyright (c) ;"";"All rights reserved.";

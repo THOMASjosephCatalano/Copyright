@@ -56,7 +56,7 @@ Copyright (c) ;::-squire-so-for-::
 ::-squire-so-for-::
 :Algorithm License:
 .:$©$:$-Thomas-$-Catalano-$:$©$"
-:
+:;:
 ::"5120 N Broadway,APT302,Denver-COLORADO(CO) 80216-2099 _USA";
 ::"9 Woodhull Avenue,West Orange-NewJersey(NJ) 07052-3535 _USA";
 ::",www.github.com/tomsnode,";
@@ -67,7 +67,7 @@ Copyright (c) ;::-squire-so-for-::
 ::www.github.com/TheBITsMarket,"
 ::",tomcatalano.0@gmail.com,";
 ::",tomcatalano@outlook.com,";
-::altusnets@gmail.com,"
+::altusnets@gmail.com,";
 ::CLMLimitedLiabilityCompany@gmail.com,"
 ::",achats@icj-cij.org,";
 ::",library@icj-cij.org,";
@@ -75,7 +75,7 @@ Copyright (c) ;::-squire-so-for-::
 ::",www.github.com,";
 ::",www.twitter.com/tomsnode,";
 ::",www.twitter.com/bits_exchange,";
-::",BITs EXCHANGE,non-profit;Corporation,":
+::",BITs EXCHANGE,non-profit;Corporation,";
 ::",CLM ~ Concepts Learning Machine,Limited Liability Company,(LLC),":
 ::",Catalano Concepts,Limited Liability Company,(LLC),":
 ::":-etcetera-so-for:secetera-so-for-:":

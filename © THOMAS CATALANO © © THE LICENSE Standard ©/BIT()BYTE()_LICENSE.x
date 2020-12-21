@@ -20,7 +20,7 @@ SOFTWARE.,
 ::-squire-so-for-::
 ::Algorithm License::
 ::[BIT()BYTE()_LICENSE]::
-::Algorithm License"
+::Algorithm License":
 Copyright (c) ;THOMAS 'J''Joseph' CATALANO(-U.S._SocialSecurity:135-74-4812;DOB:1981-02-05);"Doctor";"_Ph.D_"();
 Copyright (c) ;"";THOMAS CATALANO():
 Copyright (c) ;"";tc Joseph():

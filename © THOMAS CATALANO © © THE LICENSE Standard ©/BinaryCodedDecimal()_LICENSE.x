@@ -25,9 +25,9 @@ Copyright (c) ;"";CATALANO THOMAS();
 Copyright (c) ;"THOMAS Joseph CATALANO";
 Copyright (c) ;""Algorithm License"() this;"inclusive,Algorithm License":"
 Copyright (c) ;,BIT(),BYTE(),:",BIT(),BYTE(),";
-Copyright (c) ;"";this --Input-Output-- inclusive;""this --I-O-- inclusive"":"
+Copyright (c) ;"";this; --Input-Output-- inclusive;""this; --I-O-- inclusive"":"
 Copyright (c) ;"";Binary Coded Decimal();
-Copyright (c) ;Binary Coded Decimal()(BSD);"this,inclusive Binary Coded Decimal()(BSD):"License"License()";"
+Copyright (c) ;Binary Coded Decimal()(BSD);"this;inclusive Binary Coded Decimal()(BSD):"License"License()";"
 Copyright (c) ;"";Binary Coded Decimal()(BCD);Binary Coded Decimal()(BCD):-sinagage-:-head-:-tell-:-record-:-quote-:-song-:-admimistrate-:-medicate-:-scroll-:-aculate-:-motion-:-law-:-court-:-rule-:-police-:-policy-:-key-:-concept-:-learn-:-machine-:-signal-:-form-:-standardization-:-docket-:-order-:-judge-:-register-:-log-:-measure-:-algorithm-:-recall-:-call-:-sign-:-cosign-:-recurre-:-absence-:-sence-:-presence-:-memorie-:-cumulative-:-accumulate-:-numbering-:-sequencing-:-formating-:-formulating-:-speed-:-encoding-:-coding-:-survey-:-expressions-:-equations-:-whole-:-entire-:-retirement-:-refine-:-define-:-entitie-:-acquisition-:-equasition-:-assimilate-:-area-:-factor-:-serfraction-:-()";"
 Copyright (c) ;":-etcetera-so-for:secetera-so-for-:";
 Copyright (c) ;:-etcetera-so-for:secetera-so-for-:;

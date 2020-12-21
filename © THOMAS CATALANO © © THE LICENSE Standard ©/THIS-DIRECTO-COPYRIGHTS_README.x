@@ -72,8 +72,8 @@ Copyright (c) ;::-squire-so-for-::
 ::achats@icj-cij.org,"
 ::library@icj-cij.org,"
 ::webmaster@icj-cij.org,"
-::www.github.com,"
-::www.twitter.com/tomsnode,"
+::www.github.com,";
+::www.twitter.com/tomsnode,";
 ::www.twitter.com/bits_exchange,";
 ::",BITs EXCHANGE,non-profit;Corporation,":
 ::",CLM ~ Concepts Learning Machine,Limited Liability Company,(LLC),":

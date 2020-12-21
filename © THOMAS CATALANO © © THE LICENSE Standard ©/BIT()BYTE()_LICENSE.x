@@ -34,8 +34,8 @@ Copyright (c) ;motion [for and/or of] panticulation perpetuation serfraction()';
               "motion [for and/or of] panticulation perpetuation serfraction()";
 Copyright (c) ;,BIT(),BYTE(),-information-,-time-frame()),extrapolation [for and/or of] factorize;algorithm:               
               ",BIT(),BYTE(),-information-,-time-frame()),extrapolation [for and/or of] factorize;   
-Copyright (c) ;serfraction [for and/or of] barter economic proxyproxing,'";algorithm:
-              "serfraction [for and/or of] barter economic proxy";
+Copyright (c) ;serfraction [for and/or of] barter economic proxy,';algorithm:
+              "serfraction [for and/or of] barter economic proxy"';
 Copyright (c) ;(,BIT(),BYTE(),),-information-,-time-frame()), [for and/or of] ,SAILOR,SOLDIER,LOVE,ECHO,COMMERCIAL,INFOMATIC,SPACE,TIME,CLOCK,CALANDER,ATOMICS,MATERIAL,LIGHT,FABRIC,FLOW,FORBE,MODULATE,SEQUENCE,STRUCTURE,FORM,DIE,CAST,MACHINE,MOTOR,MOTO,-()-,';algorithm:
               ;"(,BIT(),BYTE(),),-information-,-time-frame()), [for and/or of] ,SAILOR,SOLDIER,LOVE,ECHO,COMMERCIAL,INFOMATIC,SPACE,TIME,CLOCK,CALANDER,ATOMICS,MATERIAL,LIGHT,FABRIC,FLOW,FORBE,MODULATE,SEQUENCE,STRUCTURE,FORM,DIE,CAST,MACHINE,MOTOR,MOTO,-()-,"';
 Copyright (c) ;":-etcetera-so-for:secetera-so-for-:";

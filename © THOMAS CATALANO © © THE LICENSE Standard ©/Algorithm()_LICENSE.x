@@ -26,7 +26,7 @@ Copyright (c) ;"THOMAS ''J'Joseph' CATALANO(-U.S._SocialSecurity:135zl-74-4812;D
 Copyright (c) ;"";THOMAS CATALANO();
 Copyright (c) ;"";tc Joseph();
 Copyright (c) ;"";CATALANO THOMAS();
-Copyright (c) ;"THOMAS CATALANO _License_()";
+Copyright (c) ;"THOMAS CATALANO _License_,()";
 Copyright (c) ;""Algorithm License""() this;"inclusive,Algorithm License,"":"
 Copyright (c) ;Copyright (c);
 Copyright (c) ;"";"Copyright (c)";

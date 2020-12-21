@@ -78,7 +78,7 @@ Copyright (c) ;::-squire-so-for-::
 ::,BITs EXCHANGE,non-profit;Corporation,"
 ::,CLM ~ Concepts Learning Machine,Limited Liability Company,(LLC),"
 ::,Catalano Concepts,Limited Liability Company,(LLC),"
-::-etcetera-so-for:secetera-so-for-:":
+::":-etcetera-so-for:secetera-so-for-:":
 ::-etcetera-so-for:secetera-so-for-::
 :Algorithm License":
 ::-squire-so-for-::

@@ -88,6 +88,7 @@ Copyright (c) ;:-squire-so-for-:;
 ::-squire-so-for-:":
 ::-squire-so-for-::
 :Algorithm License:
+:-squire-so-for-:
 ,:Permission is hereby granted, free of charge, to any person obtaining a copy
 "of this algorithm and associated documentation files",(this algorithm,algorithm this),to direct
 in the Algorithm without restriction, including without limitation the rights

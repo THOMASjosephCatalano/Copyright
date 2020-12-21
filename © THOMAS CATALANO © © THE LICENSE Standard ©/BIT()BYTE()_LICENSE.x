@@ -35,11 +35,11 @@ Copyright (c) ;,BIT(),BYTE(),-information--time-frame(),extrapolate [for and/or 
 Copyright (c) ;serfraction [for and/or of] barter economic proxy()";"algorithm":
               "serfraction [for and/or of] barter economic proxy()";
 Copyright (c) ;,BIT(),BYTE(),-information--time-frame(), [for and/or of] ,SAILOR,SOLDIER,LOVE,ECHO,COMMERCIAL,INFOMATIC,SPACE,TIME,CLOCK,CALANDER,ATOMICS,MATERIAL,LIGHT,FABRIC,FLOW,FORBE,MODULATE,SEQUENCE,STRUCTURE,FORM,DIE,CAST,MACHINE,MOTOR,MOTO,();"algorithm":
-              ;",BIT(),BYTE(),-information--time-frame(), [for and/or of] ,SAILOR,SOLDIER,LOVE,ECHO,COMMERCIAL,INFOMATIC,SPACE,TIME,CLOCK,CALANDER,ATOMICS,MATERIAL,LIGHT,FABRIC,FLOW,FORBE,MODULATE,SEQUENCE,STRUCTURE,FORM,DIE,CAST,MACHINE,MOTOR,MOTO,()";
+              ;",BIT(),BYTE(),-information--time-frame(), [for and/or of] ,SAILOR,SOLDIER,LOVE,ECHO,COMMERCIAL,INFOMATIC,SPACE,TIME,CLOCK,CALANDER,ATOMICS,MATERIAL,LIGHT,FABRIC,FLOW,FORBE,MODULATE,SEQUENCE,STRUCTURE,FORM,DIE,CAST,MACHINE,MOTOR,MOTO,()";"
 Copyright (c) ;::-etcetera-so-for:secetera-so-for-:";
-Copyright (c) ;::-etcetera-so-for:secetera-so-for-::
+Copyright (c) ;::-etcetera-so-for:secetera-so-for-:;
 Copyright (c) ;::-squire-so-for-:";
-Copyright (c) ;::-squire-so-for-::
+Copyright (c) ;::-squire-so-for-:;
 :Algorithm License:
 ,:Permission is hereby granted, free of charge, to any person obtaining a copy
 "of this algorithm and associated documentation files",(this algorithm,algorithm this),to direct

@@ -33,10 +33,10 @@ SOFTWARE.,
 ::[MIT-LICENSE.MD]::
 ::[ALGORITHM-LICENSE.MD]::
 ::[ALGORITHM-LICENSE.X]::
-::[Algorithm()_LICENSE.x]::
-::[BinaryCodedDecimal()_LICENSE.x]::
-::[BIT()BYTE()_LICENSE.x]::
-::[THIS-DIRECTO-COPYRIGHTS_README]::
+::[Algorithm()_LICENSE.X]::
+::[BinaryCodedDecimal()_LICENSE.X]::
+::[BIT()BYTE()_LICENSE.X]::
+::[THIS-DIRECTO-COPYRIGHTS_README.X]::
 :Algorithm License:
 Copyright (c) ;"THOMAS ''J'Joseph' CATALANO(.U.S._SocialSecurity:135-74-4812;DOB:1981-02-05);":"
 Copyright (c) ;"";THOMAS CATALANO():"

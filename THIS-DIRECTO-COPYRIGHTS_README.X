@@ -26,6 +26,7 @@ SOFTWARE.,
 ::[READ.MD]::
 ::[README()]::
 ::[READ()]::
+::[LICENSE()]::
 ::[MIT()-LICENSE.null]::
 ::[MIT-LICENSE.MD]::
 ::[ALGORITHM-LICENSE.MD]::

@@ -31,8 +31,8 @@ Copyright (c) ;,BIT(),BYTE(),;"this;inclusive, BIT()BYTE() License:"LICENSE"Lice
 Copyright (c) ;,BIT,(),BYTE,(),:",BIT,(),BYTE,(),:"License"License()"";"
 Copyright (c) ;""this; --Input-Output-- ,inclusive.""this; --I-O-- ,inclusive."";
 Copyright (c) ;,BIT;(),BYTE;(),:",BIT;(),BYTE;(),":"
-Copyright (c) ;moto,:, [for and/or of] ,:,panticulation perpetuation serfraction();"algorithm":
-              "moto,:, [for and/or of] ,:,panticulation perpetuation serfraction()";
+Copyright (c) ;[moto and/or auto],:, [for and/or of] ,:,panticulation perpetuation serfraction();"algorithm":
+              "[moto and/or auto],:, [for and/or of] ,:,panticulation perpetuation serfraction()";
 Copyright (c) ;,BIT,BYTE,-information--time-frames-,extrapolane,:, [for and/or of] ,:,poly factorize();"algorithm":               
               ",BIT,BYTE,-information--time-frames-,extrapolane,:, [for and/or of] ,:,poly factorize()";
 Copyright (c) ;[vise],:, [for and/or of] ,:,proxy fiscal barter();"algorithm":

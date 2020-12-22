@@ -30,7 +30,7 @@ Copyright (c) ;,BIT(),BYTE(),;"this;inclusive,BIT()BYTE() License:"LICENSE"Licen
 Copyright (c) ;,BIT,(),BYTE,(),:",BIT,(),BYTE,(),";
 Copyright (c) ;"";this; --Input-Output-- inclusive;""this; --I-O-- inclusive"":"
 Copyright (c) ;"";Binary Coded Decimal();
-Copyright (c) ;"";Binary Coded Decimal()(BCD);Binary Coded Decimal()(BCD);":-()TENTION()-:-()SINAGAGE()-:-()HEAD()-:-()TILL()-:-()RECORD()-:-()QUOTE()-:-()SONG()-:-()ADMINIST()-:-()MEDIC()-:-()SCROLL-:-()TONE()-:-()MOTION()-:-()LAW()-:-()IXEL()-:-()COURT()-:-()RULE()-:-()POLICE-:-()POLIY()-:-()KEY()-:-()CEPT()-:-()LEARN()-:-()MACHINE()-:-()MECHANIZE()-:-()SIGN()-:-()FORM-:-()STANDERDIZE()-:-()DOCK()-:-()ET()-:-()ORD()-:-()ER()-:-JUDGE-:-REGISTER-:-LOG-:-MEASURE-:-()ALGORITHM()-:-()CALL()-:-()SIGNAL()-:-()CURR()-:-()SENCE()-:-()MEMOR()-:-()CUMULATIVE-:-NUMBER-:-SEQUENCE-:-FORMULA-:-SPEED-:-()CODE()-:-SURVEY-:-()EXPRESSION()-:-()EQUATION()-:-()HOLE()-:-()TIRE()-:-()FINE()-:-()TITIE()-:-()QUASIT()-:-()ASSIMILAY()-:-area-:-factor-:-serfraction-:-()";"
+Copyright (c) ;"";Binary Coded Decimal()(BCD);Binary Coded Decimal()(BCD);":-()TENTION()-:-()SINAGAGE()-:-()HEAD()-:-()TILL()-:-()RECORD()-:-()QUOTE()-:-()SONG()-:-()ADMINIST()-:-()MEDIC()-:-()SCROLL-:-()TONE()-:-()MOTION()-:-()LAW()-:-()IXEL()-:-()COURT()-:-()RULE()-:-()POLICE-:-()POLIY()-:-()KEY()-:-()CEPT()-:-()LEARN()-:-()MACHINE()-:-()MECHANIZE()-:-()SIGN()-:-()FORM-:-()STANDERDIZE()-:-()DOCK()-:-()ET()-:-()ORD()-:-()ER()-:-()JUDGE()-:-()REGIS()-:-()TER()-:-()LOG()-:-()MEASURE()-:-()ALGORITHM()-:-()CALL()-:-()SIGNAL()-:-()CURR()-:-()SENCE()-:-()MEMOR()-:-()CUMULATIVE-:-NUMBER-:-SEQUENCE-:-FORMULA-:-SPEED-:-()CODE()-:-SURVEY-:-()EXPRESSION()-:-()EQUATION()-:-()HOLE()-:-()TIRE()-:-()FINE()-:-()TITIE()-:-()QUASIT()-:-()ASSIMILAY()-:-area-:-factor-:-serfraction-:-()";"
 Copyright (c) ;:-etcetera-so-for:secetera-so-for-:";
 Copyright (c) ;:-etcetera-so-for:secetera-so-for-:;
 Copyright (c) ;:-squire-so-for-:";
@@ -43,7 +43,7 @@ in the Algorithm without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
-The above copyright notice and this permission notice shall be included in all
+The above copyright notice and this permission notice shall be included in allI
 copies or substantial portions of the Software.
 THE "ALGORITHM" "SOFTWARE" IS PROVIDED AS IS, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,

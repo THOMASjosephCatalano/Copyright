@@ -90,6 +90,7 @@ Copyright (c) ;:-squire-so-for-:;
 ::",achats@icj-cij.org,";
 ::",library@icj-cij.org,";
 ::",webmaster@icj-cij.org,";
+::",dialogue@ec.ncsc.mil,";
 ::",www.github.com,";
 ::",www.twitter.com/tomsnode,";
 ::",www.twitter.com/bits_exchange,";

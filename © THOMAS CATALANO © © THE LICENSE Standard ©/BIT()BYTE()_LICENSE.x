@@ -33,8 +33,8 @@ Copyright (c) ;""this; --Input-Output-- ,inclusive.""this; --I-O-- ,inclusive.""
 Copyright (c) ;,BIT;(),BYTE;(),:",BIT;(),BYTE;(),":"
 Copyright (c) ;[moto and/or auto],:,: [for and/or of] :,:,panticulation perpetuation serfraction();"algorithm":
                "moto and/or auto,:,: [for and/or of] :,:,panticulation perpetuation serfraction()";
-Copyright (c) ;[polane and/or plane] ,:,: [for and/or of] :,:,poly factorize();"algorithm":               
-               "polane and/or plane,:,: [for and/or of] :,:,poly factorize()";
+Copyright (c) ;[planet and/or plane],:,: [for and/or of] :,:,poly factorize();"algorithm":               
+               "planet and/or plane,:,: [for and/or of] :,:,poly factorize()";
 Copyright (c) ;[vise and/or size],:,: [for and/or of] :,:,proxy fiscal barter();"algorithm":
                "vise and/or size,:,: [for and/or of] :,:,proxy fiscal barter()";
 Copyright (c) ;[wheel and/or abor],:,: infomake real pilot algorithm,:,: [for and/or of] :,:,FREE,LIVE,TAINE,REIGN,FRAY,FAZE,PHASE,MIND,PROVISE,MINE,THINK,CORD,CORE,CODE,AXEL,ANIMATE,TECHNOLOGY,UTILITY,MAKER,MAKING,AGORITHM,MAKE,TAYLOR,BAKE,SOLDER,INTELLECT,SOLDIER,SAILOR,EXECUTIVE,BODY,BODILY,WAVE,BUILD,PRODUCTION,LOVE,ECHO,COMMERCE,INFOMATE,SPACE,TIME,CLOCK,CALANDER,ATOMIC,MATERIAL,LIGHT,FABRIC,FLOW,FORBE,MODULATE,SEQUENCE,STRUCTURE,FORM,MODULES,MOLDINGS,CAST,MACHINE,MOTOR,MOTO,GUN,SHIP,ORDAIN,SEVERANCE,MONETIZE,ISATOPE,PAYPAL,PACK,PORN,STATUS,DEFENSE,PLANT,POLICE,VANGUARD,POLICY,PROPERTY,PROPRIETY,HORT,HORD,SORT,COMMERCIAL,MILITARY,SHOW-OF-FORCE,ECONOMICALLY,IMPLACABLE,FURRY and/or FUN,FORTATOR,MECHANIZE,Algorithm License,AVE-FOREVER,., :,:, go go gadget go();"algorithm":

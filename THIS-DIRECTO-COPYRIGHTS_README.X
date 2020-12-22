@@ -31,6 +31,7 @@ SOFTWARE.,
 ::[ALGORITHM()]::
 ::[MIT()-LICENSE.null]::
 ::[MIT-LICENSE.MD]::
+::[MIT-LICENSE.X]::
 ::[ALGORITHM-LICENSE.MD]::
 ::[ALGORITHM-LICENSE.X]::
 ::[Algorithm()_LICENSE.X]::

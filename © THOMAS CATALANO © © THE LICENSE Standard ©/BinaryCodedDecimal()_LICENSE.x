@@ -30,7 +30,7 @@ Copyright (c) ;,BIT(),BYTE(),;"this;inclusive,BIT()BYTE() License:"LICENSE"Licen
 Copyright (c) ;,BIT,(),BYTE,(),:",BIT,(),BYTE,(),";
 Copyright (c) ;"";this; --Input-Output-- inclusive;""this; --I-O-- inclusive"":"
 Copyright (c) ;"";Binary Coded Decimal();
-Copyright (c) ;"";Binary Coded Decimal()(BCD);Binary Coded Decimal()(BCD);":-()TENTION-:-SINAGAGE-:-HEAD-:-TELL-:-RECORD-:-QUOTE-:-SONG-:-ADMINISTRATE-:-MEDICATE-:-SCROLL-:-ATONE-:-MOTION-:-LAW-:-COURT-:-RULE-:-POLICE-:-POLICY-:-KEY-:-CONCEPT-:-LEARN-:-MACHINE-:-MECHANIZE-:-()SIGN-:-FORM-:-STANDERDIZE-:-DOCKET-:-ORDER-:-JUDGE-:-REGISTER-:-LOG-:-MEASURE-:-ALGORITHM-:-()CALL-:-SIGNAL-:-()CURR-:-()SENCE-:-()MEMOR()-:-()CUMULATIVE-:-NUMBER-:-SEQUENCE-:-FORMULA-:-SPEED-:-()CODE()-:-SURVEY-:-()EXPRESSION()-:-()EQUATION()-:-WHOLE-:-ENTIRE-:-RETIRE-:-()FINE()-:-()TITIE()-:-acquisition-:-equasition-:-assimilate-:-area-:-factor-:-serfraction-:-()";"
+Copyright (c) ;"";Binary Coded Decimal()(BCD);Binary Coded Decimal()(BCD);":-()TENTION-:-SINAGAGE-:-HEAD-:-TELL-:-RECORD-:-QUOTE-:-SONG-:-ADMINISTRATE-:-MEDICATE-:-SCROLL-:-ATONE-:-MOTION-:-LAW-:-COURT-:-RULE-:-POLICE-:-POLICY-:-KEY-:-CONCEPT-:-LEARN-:-MACHINE-:-MECHANIZE-:-()SIGN-:-FORM-:-STANDERDIZE-:-DOCKET-:-ORDER-:-JUDGE-:-REGISTER-:-LOG-:-MEASURE-:-ALGORITHM-:-()CALL-:-SIGNAL-:-()CURR-:-()SENCE-:-()MEMOR()-:-()CUMULATIVE-:-NUMBER-:-SEQUENCE-:-FORMULA-:-SPEED-:-()CODE()-:-SURVEY-:-()EXPRESSION()-:-()EQUATION()-:-WHOLE-:-ENTIRE-:-RETIRE-:-()FINE()-:-()TITIE()-:-()QUASIT()-:-equasition-:-assimilate-:-area-:-factor-:-serfraction-:-()";"
 Copyright (c) ;:-etcetera-so-for:secetera-so-for-:";
 Copyright (c) ;:-etcetera-so-for:secetera-so-for-:;
 Copyright (c) ;:-squire-so-for-:";
@@ -38,7 +38,7 @@ Copyright (c) ;:-squire-so-for-:;
 :Algorithm License:;
 :-squire-so-for-:
 ,:Permission is hereby granted, free of charge, to any person obtaining a copy
-"of this algorithm and associated documentation files",(this algorithm,algorithm this),to direct
+"of this algorithm and associated documentation files",(this algorithm,algorithm this),to direct 
 in the Algorithm without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is

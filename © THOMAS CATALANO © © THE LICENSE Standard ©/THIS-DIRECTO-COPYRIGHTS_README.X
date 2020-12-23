@@ -53,6 +53,7 @@ Copyright (c) :":-DRIVE-TO-READ-WRITE-:":
 Copyright (c) :":-CLOVE-TO-READ-WRITE-:":
 Copyright (c) :":-SLAVE-TO-READ-WRITE-:":
 Copyright (c) :":-'_'-TO-READ-WRITE-:":
+Copyright (c) :":-'_'-TO-READ-WRITE- INDIVIDUAL DIRECTORIES AT IN ACCOMPANY FILES AT IN and/or ACCOMPANY EMBEDDED FILES AT IN ENUMERATION IN AT":":
 Copyright (c) ;""Algorithm License"() this;"inclusive,Algorithm License:"LICENSE"License()";
 Copyright (c) ;Binary Coded Decimal()(BSD);"this;inclusive, Binary Coded Decimal()(BSD) License:"LICENSE"License()";
 Copyright (c) ;,BIT(),BYTE(),;"this;inclusive, BIT()BYTE() License:"LICENSE"License()";
@@ -65,7 +66,7 @@ Copyright (c) ;"";Algorithm License(),"
 Copyright (c) ;"";License Algorithm(),"
 Copyright (c) ;"OPEN-TO-READ INDIVIDUAL FILES IN":"https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9
 Copyright (c) ;::":"-'_'-TO-READ-WRITE- INDIVIDUAL DIRECTORIES AT IN ACCOMPANY FILES AT IN and/or ACCOMPANY EMBEDDED FILES AT IN ENUMERATION IN AT":"https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9
-               Copyright (c) ;::https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9
+Copyright (c) ;::https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9
               :"-DRIVE-TO-READ-WRITE- INDIVIDUAL FILES AT IN ACCOMPANY DIRECTORIES AT IN ACCOMPANY EMBEDDED ENUMERATION IN AT""":"https://github.com/tomsnode/Copyright/blob/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9/THIS-DIRECTO-COPYRIGHTS_README.X
 Copyright (c) ;::https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9
 Copyright (c) ;:-etcetera-so-for:secetera-so-for-:";

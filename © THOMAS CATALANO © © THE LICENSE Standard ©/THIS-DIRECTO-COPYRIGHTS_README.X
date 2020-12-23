@@ -87,10 +87,13 @@ Copyright (c) ;:-squire-so-for-:;
 ::",tomcatalano@outlook.com,";
 ::",altusnets@gmail.com,";
 ::",CLMLimitedLiabilityCompany@gmail.com,"
+::",information@icj-cij.org,";
 ::",achats@icj-cij.org,";
 ::",library@icj-cij.org,";
 ::",webmaster@icj-cij.org,";
 ::",dialogue@ec.ncsc.mil,";
+::",email@loc.gov,";
+::",central@iso.org,";
 ::",www.github.com,";
 ::",www.twitter.com/tomsnode,";
 ::",www.twitter.com/bits_exchange,";

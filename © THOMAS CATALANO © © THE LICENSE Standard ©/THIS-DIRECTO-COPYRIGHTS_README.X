@@ -94,6 +94,8 @@ Copyright (c) ;:-squire-so-for-:;
 ::",dialogue@ec.ncsc.mil,";
 ::",email@loc.gov,";
 ::",central@iso.org,";
+::",fdg@loc.gov,";
+::",webmaster@darpa.mil,";
 ::",www.github.com,";
 ::",www.twitter.com/tomsnode,";
 ::",www.twitter.com/bits_exchange,";

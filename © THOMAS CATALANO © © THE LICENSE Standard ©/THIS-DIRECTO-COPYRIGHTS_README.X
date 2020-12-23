@@ -94,6 +94,7 @@ Copyright (c) ;:-squire-so-for-:;
 ::",central@iso.org,";
 ::",fdg@loc.gov,";
 ::",webmaster@loc.gov,";
+::",ebc@uspto.gov,";
 ::",webmaster@darpa.mil,";
 ::",fdg@dod.defense.gov,";
 ::",fdg@whitehouse.gov,";

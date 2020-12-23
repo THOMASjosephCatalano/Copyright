@@ -38,6 +38,7 @@ SOFTWARE.,
 :[Algorithm()_LICENSE.X]:
 :[BinaryCodedDecimal()_LICENSE.X]:
 :[BIT()BYTE()_LICENSE.X]:
+:[THIS-DIRECTO-COPYRIGHTS_README]:
 :[THIS-DIRECTO-COPYRIGHTS_README.X]:
 :"Algorithm License":
 :Algorithm License:

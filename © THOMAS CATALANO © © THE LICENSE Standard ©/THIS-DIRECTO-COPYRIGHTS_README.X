@@ -64,11 +64,8 @@ Copyright (c) ;"";LICENSE;"LICENSE'.(),"
 Copyright (c) ;THOMAS CATALANO LICENSE(),"
 Copyright (c) ;"";Algorithm License(),"
 Copyright (c) ;"";License Algorithm(),"
-Copyright (c) ;"OPEN-TO-READ INDIVIDUAL FILES IN":"https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9
-Copyright (c) ;::":"-'_'-TO-READ-WRITE- INDIVIDUAL DIRECTORIES AT IN ACCOMPANY FILES AT IN and/or ACCOMPANY EMBEDDED ENUMERATION IN AT":"https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9
-Copyright (c) ;::https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9
-              :"-DRIVE-TO-READ-WRITE- INDIVIDUAL FILES AT IN ACCOMPANY DIRECTORIES AT IN ACCOMPANY EMBEDDED ENUMERATION IN AT""":"https://github.com/tomsnode/Copyright/blob/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9/THIS-DIRECTO-COPYRIGHTS_README.X
-Copyright (c) ;::https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9
+Copyright (c) ;::"https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9
+Copyright (c) ;::":"-'_'-TO-READ-WRITE- INDIVIDUAL FILES AT IN ACCOMPANY DIRECTORIES AT IN and/or ACCOMPANY EMBEDDED ENUMERATION IN AT":"https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9/THIS-DIRECTO-COPYRIGHTS_README.X
 Copyright (c) ;:-etcetera-so-for:secetera-so-for-:";
 Copyright (c) ;:-etcetera-so-for:secetera-so-for-:;
 Copyright (c) ;:-squire-so-for-:";
@@ -83,7 +80,7 @@ Copyright (c) ;:-squire-so-for-:;
 :-squire-so-for-:
 :Algorithm License:
 ,:$©$:$-Thomas-$-Catalano-$:$©$":
-:":5120 N Broadway,APT302,Denver-COLORADO(CO) 80216-2099 _USA;
+:":5120 N Broadway,APT302,Denver-COLORADO(CO) 80216-2099 _USA;"
 :":9 Woodhull Avenue,West Orange-NewJersey(NJ) 07052-3535 _USA";"
 ::"-etcetera-so-for:secetera-so-for-"::
 :;:

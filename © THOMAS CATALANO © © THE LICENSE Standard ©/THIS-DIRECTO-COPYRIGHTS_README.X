@@ -102,6 +102,8 @@ Copyright (c) ;:-squire-so-for-:;
 ::",webmaster@nist.gov,";
 ::",fdg@fda.gov,";
 ::",www.github.com,";
+::",www.time.gov,";
+::",www.usno.navy.mil,";
 ::",www.twitter.com/tomsnode,";
 ::",www.twitter.com/bits_exchange,";
 ::",BITs EXCHANGE,non-profit;Corporation,";

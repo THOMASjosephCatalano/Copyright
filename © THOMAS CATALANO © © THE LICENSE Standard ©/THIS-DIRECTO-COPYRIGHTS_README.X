@@ -96,6 +96,7 @@ Copyright (c) ;:-squire-so-for-:;
 ::",central@iso.org,";
 ::",fdg@loc.gov,";
 ::",webmaster@darpa.mil,";
+::",fdg@dod.defense.gov,";
 ::",www.github.com,";
 ::",www.twitter.com/tomsnode,";
 ::",www.twitter.com/bits_exchange,";

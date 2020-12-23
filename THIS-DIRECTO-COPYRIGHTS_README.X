@@ -89,6 +89,7 @@ Copyright (c) ;,BIT(),BYTE(),:",BIT(),BYTE().":"
 ::www.github.com<>
 ::webmaster@darpa.mil<>
 ::fdg@dod.defense.gov<>
+::fdg@whitehouse.gov<>
 ::www.twitter.com/tomsnode<>
 ::www.twitter.com/bits_exchange<>
 ::BITs EXCHANGE,non-profit;Corporation,::

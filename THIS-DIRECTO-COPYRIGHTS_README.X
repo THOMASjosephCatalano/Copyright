@@ -106,7 +106,8 @@ Copyright (c) ;,BIT(),BYTE(),:",BIT(),BYTE().":"
 ::-squire-so-for-::
 :Algorithm License:
 :-squire-so-for-:
-,:Permission is here granted, free of charge to any person obtaining this algorithm and associated documentation files",(this algorithm,algorithm this),to direct
+,:Permission is here granted, free of charge, to any person obtaining a copy
+"of this algorithm and associated documentation files",(this algorithm,algorithm this),to direct
 in the Algorithm without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit whom the Software is

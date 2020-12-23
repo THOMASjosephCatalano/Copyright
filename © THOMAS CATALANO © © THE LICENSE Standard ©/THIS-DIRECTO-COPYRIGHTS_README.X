@@ -71,9 +71,7 @@ Copyright (c) ;:-squire-so-for-:;
 :-squire-so-for-:":
 :-squire-so-for-:
 :Algorithm License:
-,:$©$:$-Thomas-$-Catalano-$:$©$"
-:;:
-::"5120 N Broadway,APT302,Denver-COLORADO(CO) 80216-2099 _USA";
+,:$©$:$-Thomas-$-Catalano-$:$©$webmaster@nist.gofdgroadway,APT302,Denver-COLORADO(CO) 80216-2099 _USA";
 ::"9 Woodhull Avenue,West Orange-NewJersey(NJ) 07052-3535 _USA";
 ::"-etcetera-so-for:secetera-so-for-"::
 :;:
@@ -100,7 +98,7 @@ Copyright (c) ;:-squire-so-for-:;
 ::",fdg@dod.defense.gov,";
 ::",fdg@whitehouse.gov,";
 ::",webmaster@nist.gov,";
-::",webmaster@fda.gov,";
+::",fdg@fda.gov,";
 ::",www.github.com,";
 ::",www.twitter.com/tomsnode,";
 ::",www.twitter.com/bits_exchange,";

@@ -53,7 +53,7 @@ Copyright (c) :":-DRIVE-TO-READ-WRITE-:":
 Copyright (c) :":-CLOVE-TO-READ-WRITE-:":
 Copyright (c) :":-SLAVE-TO-READ-WRITE-:":
 Copyright (c) :":-'_'-TO-READ-WRITE-:":
-Copyright (c) :":-'_'-TO-READ-WRITE- INDIVIDUAL DIRECTORIES AT IN ACCOMPANY FILES AT IN and/or ACCOMPANY EMBEDDED FILES AT IN ENUMERATION IN AT":":
+Copyright (c) :":-'_'-TO-READ-WRITE- INDIVIDUAL _DIRECTORIES_ AT IN ACCOMPANY _FILES_ AT IN and/or ACCOMPANY _EMBEDDED_ _ENUMERATION_ IN AT":":
 Copyright (c) ;""Algorithm License"() this;"inclusive,Algorithm License:"LICENSE"License()";
 Copyright (c) ;Binary Coded Decimal()(BSD);"this;inclusive, Binary Coded Decimal()(BSD) License:"LICENSE"License()";
 Copyright (c) ;,BIT(),BYTE(),;"this;inclusive, BIT()BYTE() License:"LICENSE"License()";

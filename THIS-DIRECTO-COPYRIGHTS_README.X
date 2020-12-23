@@ -91,7 +91,7 @@ Copyright (c) ;,BIT(),BYTE(),:",BIT(),BYTE().":"
 ::fdg@dod.defense.gov<>
 ::fdg@whitehouse.gov<>
 ::webmaster@nist.gov<>
-::webmaster@fda.gov<>
+::fdg@fda.gov<>
 ::www.twitter.com/tomsnode<>
 ::www.twitter.com/bits_exchange<>
 ::BITs EXCHANGE,non-profit;Corporation,::

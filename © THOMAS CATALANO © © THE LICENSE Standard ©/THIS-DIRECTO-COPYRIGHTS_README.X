@@ -93,7 +93,7 @@ Copyright (c) ;:-squire-so-for-:;
 ::",www.github.com/theBITsEXCHANGE,";
 ::",www.github.con/altusnets,";
 ::",www.github.com/TheBITsMarket,"
-::",tomcatalano.0@gmail.com,";
+::",tomcatalano._0_@gmail.com,";
 ::",tomcatalano@outlook.com,";
 ::",altusnets@gmail.com,";
 ::",CLMLimitedLiabilityCompany@gmail.com,"

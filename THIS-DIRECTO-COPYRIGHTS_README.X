@@ -85,6 +85,7 @@ Copyright (c) ;,BIT(),BYTE(),:",BIT(),BYTE().":"
 ::email@loc.gov<>
 ::central@iso.org<>
 ::fdg@loc.gov<>
+::ebc@uspto.gov<>
 ::www.github.com<>
 ::www.twitter.com/tomsnode<>
 ::www.twitter.com/bits_exchange<>

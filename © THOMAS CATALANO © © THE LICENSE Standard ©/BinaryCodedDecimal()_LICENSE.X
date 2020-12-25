@@ -15,10 +15,18 @@ OUT OF OR IN CONNECTION WITH THE ALGORITHM OR IN THE ALGORITHM DIRECTING THE
 SOFTWARE.,
 :Algorithm License":
 :-squire-so-for-:
+::[Algorithm(),_LICENSE.X]::
+::[BIT(),BYTE(),_LICENSE.X]::
+::[BinaryCodedDecimal(),_LICENSE.X]::
+::[THE-DIRECTO-COPYRIGHTS_README.X]::
+::[MIT-LICENSE]::
+::[ALGORITHM-LICENSE]::
+::[LOGS_README.MD]::
 ::[MIT-LICENSE]::
 ::[BinaryCodedDecimal()_LICENSE.X]::
 ::[LOGS_README.MD]::
 :""OPEN-TO-READ INDIVIDUAL FILES IN":"https://github.com/tomsnode/Copyright/tree/master/%C2%A9%20THOMAS%20CATALANO%20%C2%A9%20%C2%A9%20THE%20LICENSE%20Standard%20%C2%A9";"
+:-squire-so-for-:
 ::Algorithm License::
 ::[BinaryCodedDecimal()_LICENSE.X]::
 :Algorithm License:

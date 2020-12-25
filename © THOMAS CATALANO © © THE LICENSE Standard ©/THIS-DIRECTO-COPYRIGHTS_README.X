@@ -128,6 +128,7 @@ Copyright (c) ;:-squire-so-for-:;
 ::",fdg@fda.gov,";
 ::",www.github.com,";
 ::",www.time.gov,";
+::",www.fcc.gov
 ::",www.usno.navy.mil,";
 ::",www.twitter.com/tomsnode,";
 ::",www.twitter.com/bits_exchange,";

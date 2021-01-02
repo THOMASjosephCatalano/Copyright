@@ -12,7 +12,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER,(IN AN,AN IN), ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE ALGORITHM OR IN THE ALGORITHM DIRECTING THE
-SOFTWARE.,
+SOFTWARE.'-'->-<-"-'Algorithm'-'License'-"->-<-(C)->-<-(C)-(R)-(TM)-(R)-(C)-(TM)->-<-"-'THOMAS_CATALANO'-"->-<-(C)->-'-'
 :Algorithm License":
 :-squire-so-for-:
 ::[Algorithm(),_LICENSE.X]::
@@ -94,7 +94,7 @@ Copyright (c) ;:-squire-so-for-:;
 :-squire-so-for-:":
 :-squire-so-for-:
 :Algorithm License:
-,:$©$:$-Thomas-$-Catalano-$:$©$",:
+'-'->-<-"-'Thomas_Catalano'-"->-<-'-'
 :":5120 N Broadway,APT302,Denver-COLORADO(CO) 80216-2099 _USA;"
 :":9 Woodhull Avenue,West Orange-NewJersey(NJ) 07052-3535 _USA";"
 ::"-etcetera-so-for:secetera-so-for-"::
@@ -148,8 +148,7 @@ Copyright (c) ;:-squire-so-for-:;
 :-squire-so-for-:":
 :-squire-so-for-:
 :Algorithm License:
-:-squire-so-for-:
-,:Permission is hereby granted, free of charge, to any person obtaining a copy
+:-squire-so-for-:'-'->-<-(C)->-'-'Permission is hereby granted, free of charge, to any person obtaining a copy
 "of this algorithm and associated documentation files",(this algorithm,algorithm this),to direct
 in the Algorithm without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
@@ -163,4 +162,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER,(IN AN,AN IN), ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE ALGORITHM OR IN THE ALGORITHM DIRECTING THE
-SOFTWARE.:.:Algorithm License:.:$©$:$-THOMAS-$-CATALANO-$:$©
+SOFTWARE.'-'->-<-"-'Algorithm'-'License'-"->-<-(C)->-<-(C)-(R)-(TM)-(R)-(C)-(TM)->-<-"-'THOMAS_CATALANO'-"->-<-"https://github.com/tomsnode/Copyright/blob/master/THE-COPYRIGHTS_README"->-<-"tc"->-<-(C)->.

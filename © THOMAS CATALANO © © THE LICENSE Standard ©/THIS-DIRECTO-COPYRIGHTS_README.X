@@ -132,6 +132,7 @@ Copyright (c) ;:-squire-so-for-:;
 ::",www.usno.navy.mil,";
 ::",www.twitter.com/tomsnode,";
 ::",www.twitter.com/bits_exchange,";
+::",www.github.github.io,";
 ::",BITs EXCHANGE,non-profit;Corporation,";
 ::",CLM ~ Concepts Learning Machine,Limited Liability Company,(LLC),";
 ::",Catalano Concepts,Limited Liability Company,(LLC),";

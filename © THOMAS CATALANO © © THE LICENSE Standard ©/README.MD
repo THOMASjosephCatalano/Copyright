@@ -1,1 +1,1 @@
-.<-"->-<-©->-<-"THOMAS_CATALANO"-"www.github.com/tomsnode"->-<-©->-<-"->.
+.<-"->-<-©->-<-"THOMAS_CATALANO"-"https://github.com/tomsnode/Copyright"-"www.github.com/tomsnode"->-<-©->-<-"->.

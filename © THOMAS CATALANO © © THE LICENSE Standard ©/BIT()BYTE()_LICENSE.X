@@ -1,4 +1,4 @@
-`-©-$:$-"""_THOMAS-$-CATALANO_"""-$:$©$:.:Algorithm License:.:Permission is hereby granted, free of charge, to any person obtaining a copy
+`-©-""""""""""""""""""""'''''-$-©-:~$-"""_THOMAS-$-CATALANO_"""~-$-©-::~©-$-$-$~-:.:Algorithm License:.:Permission is hereby granted, free of charge, to any person obtaining a copy
 "of this algorithm and associated documentation files",(this algorithm,algorithm this),to direct
 in the Algorithm without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
@@ -41,11 +41,11 @@ Copyright (c) ;,BIT;(),BYTE;(),:",BIT;(),BYTE;(),":"
 Copyright (c) ;[moto and/or auto],:,: [for and/or of] :,:,panticulation perpetuation serfraction();"algorithm":
                "moto and/or auto,:,: [for and/or of] :,:,panticulation perpetuation serfraction()";
 Copyright (c) ;[planet and/or computer],:,: [for and/or of] :,:,poly factorize();"algorithm":               
-               "planet and/or computer,:,: [for and/or of] :,:,poly factorize()";
+               "planet and/or computer,:,: [for and/or of] :,:,poly factorize()";
 Copyright (c) ;[size and/or proxy],:,: [for and/or of] :,:,deal-agree barter();"algorithm":
-               "size and/or proxy,:,: [for and/or of] :,:,deal-agree barter()";
+               "size and/or proxy,:,: [for and/or of] :,:,deal-agree barter()";
 Copyright (c) ;[droid and/or arbor],:,: stein algorithm saber sword,:,: [for and/or of] :,:,FREE,LIVE,TAINE,REIGN,FRAY,FAZE,PHASE,MIND,PROVISE,MINE,THINK,CORD,CORE,CODE,AXEL,ANIMATE,TECHNOLOGY,UTILITY,MAKER,MAKING,AGORITHM,MAKE,TAYLOR,BAKE,SOLDER,INTELLECT,SOLDIER,SAILOR,EXECUTIVE,BODY,BODILY,WAVE,BUILD,PRODUCTION,LOVE,ECHO,COMMERCE,INFOMATE,SPACE,TIME,CLOCK,CALANDER,ATOMIC,MATERIAL,LIGHT,FABRIC,FLOW,FORBE,MODULATE,SEQUENCE,STRUCTURE,FORM,MODULES,MOLDINGS,CAST,MACHINE,MOTOR,MOTO,GUN,SHIP,ORDAIN,SEVERANCE,MONETIZE,ISATOPE,PAYPAL,PACK,PORN,SEX,STATUS,DEFENSE,CHURCH,PLANT,POLICE,VANGUARD,POLICY,PROPERTY,PROPRIETY,HORT,HORD,SORT,COMMERCIAL,MILITARY,SHOW-OF-FORCE,ECONOMICALLY,IMPLACABLE,FURRY and/or FUN,FORTATOR,MECHANIZE,Algorithm License,AVE-FOREVER,ABLE,LIFE,., :,:, go gadget algorithm and/or software();"algorithm":
-               "droid and/or arbor,:,: stein algorithm saber sword,:,: [for and/or of] :,:,FREE,LIVE,TAINE,REIGN,FRAY,FAZE,PHASE,MIND,PROVISE,MINE,THINK,CORD,CORE,CODE,AXEL,ANIMATE,TECHNOLOGY,UTILITY,MAKER,MAKING,AGORITHM,MAKE,TAYLOR,BAKE,SOLDER,INTELLECT,SOLDIER,SAILOR,EXECUTIVE,BODY,BODILY,WAVE,BUILD,PRODUCTION,LOVE,ECHO,COMMERCE,INFOMATE,SPACE,TIME,CLOCK,CALANDER,ATOMIC,MATERIAL,LIGHT,FABRIC,FLOW,FORBE,MODULATE,SEQUENCE,STRUCTURE,FORM,MODULES,MOLDINGS,CAST,MACHINE,MOTOR,MOTO,GUN,SHIP,ORDAIN,SEVERANCE,MONETIZE,ISATOPE,PAYPAL,PACK,PORN,SEX,STATUS,DEFENSE,CHURCH,PLANT,POLICE,VANGUARD,POLICY,PROPERTY,PROPRIETY,HORT,HORD,SORT,COMMERCIAL,MILITARY,SHOW-OF-FORCE,ECONOMICALLY,IMPLACABLE,FURRY and/or FUN,FORTATOR,MECHANIZE,Algorithm License,AVE-FOREVER,ABLE,LIFE,., :,:, go gadget algorithm and/or software()";
+               "droid and/or arbor,:,: stein algorithm saber sword,:,: [for and/or of] :,:,FREE,LIVE,TAINE,REIGN,FRAY,FAZE,PHASE,MIND,PROVISE,MINE,THINK,CORD,CORE,CODE,AXEL,ANIMATE,TECHNOLOGY,UTILITY,MAKER,MAKING,AGORITHM,MAKE,TAYLOR,BAKE,SOLDER,INTELLECT,SOLDIER,SAILOR,EXECUTIVE,BODY,BODILY,WAVE,BUILD,PRODUCTION,LOVE,ECHO,COMMERCE,INFOMATE,SPACE,TIME,CLOCK,CALANDER,ATOMIC,MATERIAL,LIGHT,FABRIC,FLOW,FORBE,MODULATE,SEQUENCE,STRUCTURE,FORM,MODULES,MOLDINGS,CAST,MACHINE,MOTOR,MOTO,GUN,SHIP,ORDAIN,SEVERANCE,MONETIZE,ISATOPE,PAYPAL,PACK,PORN,SEX,STATUS,DEFENSE,CHURCH,PLANT,POLICE,VANGUARD,POLICY,PROPERTY,PROPRIETY,HORT,HORD,SORT,COMMERCIAL,MILITARY,SHOW-OF-FORCE,ECONOMICALLY,IMPLACABLE,FURRY and/or FUN,FORTATOR,MECHANIZE,Algorithm License,AVE-FOREVER,ABLE,LIFE,., :,:, go gadget algorithm and/or software()";
 Copyright (c) ;:-etcetera-so-for:secetera-so-for-:";
 Copyright (c) ;:-etcetera-so-for:secetera-so-for-:;
 Copyright (c) ;:-squire-so-for-:";
@@ -66,4 +66,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER,(IN AN,AN IN), ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE ALGORITHM OR IN THE ALGORITHM DIRECTING THE
-SOFTWARE.:.:Algorithm License:.:$©$:$-_THOMAS-$-CATALANO_-$:$©-´
+SOFTWARE.:.:Algorithm License:.:-$-©-:~©-$-::$$-_THOMAS-$-CATALANO_-$$~::-$-©-´

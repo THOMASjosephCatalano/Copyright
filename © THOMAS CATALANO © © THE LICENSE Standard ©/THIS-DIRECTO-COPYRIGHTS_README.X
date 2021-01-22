@@ -1,4 +1,4 @@
-´~·©·~`-$-"_-((C))-((R))-((TM))-((C))-((TM))-(R)_-""THOMAS_CATALANO""-"_135-74-4812_"-"_02-05-1981_"->-<-"https://github.com/tomsnode/Copyright/blob/master/THE-COPYRIGHTS_README"->-<-"THOMAS_CATALANO"-"www.github.com/tomsnode"-"THOMAS_CATALANO"-'-"_(C)-(R)-(TM)-(TM)-(C)-(R)_"->-<-(C)->-<-"->-<-(C)->-<-(C)-(R)-(TM)-(R)-(C)-(TM)->-<-"-'THOMAS_CATALANO'-"->-<-"https://github.com/tomsnode/Copyright/blob/master/THE-COPYRIGHTS_README"->-<-"tc"->-<-(C)->-<-"-'Algorithm'-'License'-"->-<-"Permission is hereby granted, free of charge, to any person obtaining a copy
+´~·©·~`-$-"_-((C))-((R))-((TM))-((C))-((TM))-((R))_-""THOMAS_CATALANO-"""""-"_135-74-4812_"-"_02-05-1981_"-"https://github.com/tomsnode/Copyright/blob/master/THE-COPYRIGHTS_README"-""THOMAS CATALANO""-"www.github.com/tomsnode/"-""""""Thomas Catalano""""""""-'-"-((C))-((TM))-((R))-((R))-((C))-((TM))-"""thomas catalano"""-"https://github.com/tomsnode/Copyright/blob/master/THE-COPYRIGHTS_README"-""""©tc©""""-"""-_'Algorithm'_'License'_"""-Permission is hereby granted, free of charge, to any person obtaining a copy
 "of this algorithm and associated documentation files",(this algorithm,algorithm this),to direct
 in the Algorithm without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
@@ -12,7 +12,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER,(IN AN,AN IN), ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE ALGORITHM OR IN THE ALGORITHM DIRECTING THE
-SOFTWARE."->-<-"-'Algorithm'-'License'-"->-<-(C)->-<-(C)-(R)-(TM)-(R)-(C)-(TM)->-<-"-'THOMAS_CATALANO'-"->-<-(C)->-'-'
+SOFTWARE.-""-_'Algorithm'_'License'_-"""-((C))-((R))-((TM))-((R))-((C))-((TM))-"-_'Thomas-j._CATALANO-'-"""""""'-::-
 :Algorithm License""":
 :-squire-so-for-:
 ::[Algorithm(),_LICENSE.X]::

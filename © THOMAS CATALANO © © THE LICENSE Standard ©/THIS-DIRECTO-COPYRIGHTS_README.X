@@ -1,4 +1,4 @@
-.$<-"->-<-(C)->-<-"_(R)-(C)-(TM)-(TM)-(C)-(R)_"->-<-"THOMAS_CATALANO"-"_135-74-4812_"-"_02-05-1981_"->-<-"https://github.com/tomsnode/Copyright/blob/master/THE-COPYRIGHTS_README"->-<-"THOMAS_CATALANO"-"www.github.com/tomsnode"-"THOMAS_CATALANO"-'-"_(C)-(R)-(TM)-(TM)-(C)-(R)_"->-<-(C)->-<-"->-<-(C)->-<-(C)-(R)-(TM)-(R)-(C)-(TM)->-<-"-'THOMAS_CATALANO'-"->-<-"https://github.com/tomsnode/Copyright/blob/master/THE-COPYRIGHTS_README"->-<-"tc"->-<-(C)->-<-"-'Algorithm'-'License'-"->-<-"Permission is hereby granted, free of charge, to any person obtaining a copy
+´~·©·~`-$-"_-((C))-((R))-((TM))-((C))-((TM))-(R)_-""THOMAS_CATALANO""-"_135-74-4812_"-"_02-05-1981_"->-<-"https://github.com/tomsnode/Copyright/blob/master/THE-COPYRIGHTS_README"->-<-"THOMAS_CATALANO"-"www.github.com/tomsnode"-"THOMAS_CATALANO"-'-"_(C)-(R)-(TM)-(TM)-(C)-(R)_"->-<-(C)->-<-"->-<-(C)->-<-(C)-(R)-(TM)-(R)-(C)-(TM)->-<-"-'THOMAS_CATALANO'-"->-<-"https://github.com/tomsnode/Copyright/blob/master/THE-COPYRIGHTS_README"->-<-"tc"->-<-(C)->-<-"-'Algorithm'-'License'-"->-<-"Permission is hereby granted, free of charge, to any person obtaining a copy
 "of this algorithm and associated documentation files",(this algorithm,algorithm this),to direct
 in the Algorithm without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
@@ -13,11 +13,12 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER,(IN AN,AN IN), ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE ALGORITHM OR IN THE ALGORITHM DIRECTING THE
 SOFTWARE."->-<-"-'Algorithm'-'License'-"->-<-(C)->-<-(C)-(R)-(TM)-(R)-(C)-(TM)->-<-"-'THOMAS_CATALANO'-"->-<-(C)->-'-'
-:Algorithm License":
+:Algorithm License""":
 :-squire-so-for-:
 ::[Algorithm(),_LICENSE.X]::
 ::[BIT(),BYTE(),_LICENSE.X]::
 ::[BinaryCodedDecimal(),_LICENSE.X]::
+::[Acquisition-Equasition_LICENSE]::
 ::[THE-DIRECTO-COPYRIGHTS_README.X]::
 ::[MIT-LICENSE]::
 ::[ALGORITHM-LICENSE]::
@@ -201,6 +202,7 @@ SOFTWARE."->-<-"-'Algorithm'-'License'-"->-<-(C)->-<-(C)-(R)-(TM)-(R)-(C)-(TM)->
 :[BIT()BYTE()_LICENSE.X]:
 :[THIS-DIRECTO-COPYRIGHTS_README]:
 :[THIS-DIRECTO-COPYRIGHTS_README.X]:
+:[Acquisition()Equasition()_LICENSE.X]:
 :"Algorithm License":
 :Algorithm License:
 Copyright (c) ;"THOMAS ''J'Joseph' CATALANO(.U.S._SocialSecurity:135-74-4812;DOB:1981-02-05);"
@@ -256,6 +258,7 @@ Copyright (c) ;:-squire-so-for-:;
 ::",tomcatalano@outlook.com,";
 ::",altusnets@gmail.com,";
 ::",CLMLimitedLiabilityCompany@gmail.com,"
+::",www.ats.aq,";
 ::",information@icj-cij.org,";
 ::",achats@icj-cij.org,";
 ::",library@icj-cij.org,";
@@ -277,6 +280,10 @@ Copyright (c) ;:-squire-so-for-:;
 ::",www.time.gov,";
 ::",www.fcc.gov
 ::",www.usno.navy.mil,";
+::",www.allhands.navy.mil,";
+::",www.nvr.navy.mil,";
+::",www.nrl.navy.mil,";
+::",www.navy.mil,";
 ::",www.twitter.com/tomsnode,";
 ::",www.twitter.com/bits_exchange,";
 ::",www.github.github.io,";
@@ -337,4 +344,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER,(IN AN,AN IN), ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE ALGORITHM OR IN THE ALGORITHM DIRECTING THE
-SOFTWARE."->-<-"-"Algorithm'-'License"-"->-<-(C)->-<-(C)-(R)-(TM)-(R)-(C)-(TM)->-<-"-'THOMAS_CATALANO'-"->-<-"https://github.com/tomsnode/Copyright/blob/master/THE-COPYRIGHTS_README"->-<-"THOMAS_CATALANO"-"www.github.com"-"github.com/tomsnode"-"THOMAS_CATALANO"->-<-"->-<-(C)->-<-"_(R)-(C)-(TM)-(TM)-(C)-(R)_"->-<-"THOMAS_CATALANO"-"_135-74-4812_"-"_02-05-1981_"->-<-"https://github.com/tomsnode/Copyright/blob/master/THE-COPYRIGHTS_README"->-<-"THOMAS_CATALANO"-"www.github.com/tomsnode"-"THOMAS_CATALANO"-'-"_(C)-(R)-(TM)-(TM)-(C)-(R)_"->-<-(C)->-<-"->. 
+SOFTWARE.-"-""_Algorithm'_'License_""-""_-((C)-((R))-((TM))-((C))-((TM))-((R))-_""-_thomas_catalano_-""-"https://github.com/tomsnode/Copyright/blob/master/THE-COPYRIGHTS_README"-"github.com"-"Thomas Catalano"-"www.github.com"-"github.com/tomsnode"-"""THOMAS CATALANO"""-""_((R))-((C))-((TM))-((C))-((TM))-((R))_""-""_THOMAS_CATALANO-""-"_135-74-4812_"-"_02-05-1981_"-"https://github.com/tomsnode/"-"""""""""'-$©$-$$$-©$©-#$#-###-$#$-!$!-!!!-$!$-°©°-´~·©·~`

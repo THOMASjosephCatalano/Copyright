@@ -287,7 +287,8 @@ Copyright (c) ;:-squire-so-for-:;
 ::",www.twitter.com/tomsnode,";
 ::",www.twitter.com/bits_exchange,";
 ::",www.github.github.io,";
-::",BITs EXCHANGE,non-profit;Corporation,";
+::```-""""---"-the,'my',,"patented","""swastika""",,,""een at"";,"www.github.com/tomsnode/Autobiography///"*/""""""","PATENTED '_&_' PROPRIETY",,"UTILITY",""componction verification "design/onsum" reserved "for/by","-the,"shinler""","-electro-electronic-","documantation","signing/signature","-brief-case-envelope-hash-apparatus-",""","-the,"swastika's""","quadriplegic design","-is,,"core-quire","circumcalafizing-... _-entropy.."""""""","-specifically"""","-the,""","lateral quim,design""","sugties'$""""","-the""","""-bequired-required-""","-dimensional-::-enthrogy-"""","-to"""","-secure-::-true-","_-binary-_","permutation"""""","digitization"""""","permulaying""""""""",","_-light-_",,,-"ie.(forbinary example-)""""-photonic-"""""""""""-arbatrary-"""""""""""-syncronization-syncro-sync-"""""""""""""""""""""""""""""""""""""""""""",[",turnstile"""",compression"""""""",compounding"""""""""""",-the""","page,DOCKET,image,documant-document,file,cortazone,,,""-and-or-"";,-any"",-all"",,,"LEGALLY-PROOFS","LEGAL-RAFTERS","LEGAL-SETHFONE":::_-ETCETERA-SO-FOR---_-SECTERA-SO-FOR-----::::""""""""""""""""""""",.,(..."I,-THOMAS_CATALANO-,,WILL CORRESPOND THIS AT THE FUTURE SCHEDULED FRAME WHEN -SQUIRE-PROCTAVATION-SQUIRE- IS ADAQUATED PROMAGNAFICATION!...",,,"-)-©$©-$©$-´
+::",BITs EXCHANGE,non-profit;Corporation,";"
 ::",CLM ~ Concepts Learning Machine,Limited Liability Company,(LLC),";
 ::",Catalano Concepts,Limited Liability Company,(LLC),";
 ::":-etcetera-so-for:secetera-so-for-:":
